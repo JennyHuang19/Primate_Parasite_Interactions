@@ -1,0 +1,47 @@
+---
+title: "primate_cov_matrix"
+author: "Jenny Yijian Huang"
+date: '2022-06-02'
+output: html_document
+---
+
+# --------------------
+# Creating the primate correlation matrix based on a phylogenetic tree.
+# --------------------
+
+```{r}
+# Loading libraries.
+library(ape)
+# Loading Tree.
+filename <- "consensus_chronogram.nex"
+x <- read.nexus(paste0(filename)) 
+
+# Primate tree
+x_names <- x$tip.label 
+# 1 tree
+length(unique(as.character(x_names)))
+
+# Getting the correlation matrix:
+this_cov <- ape::vcv(x, model = "Brownian", corr = TRUE) # This function computes the expected variances and covariances of a continuous trait assuming it evolves under a given model.
+# https://pubmed.ncbi.nlm.nih.gov/10718731/
+
+# Re-ordering to get species on the same order:
+this_cov <- this_cov[order(rownames(this_cov)), order(rownames(this_cov))]
+
+# Dim correlation matrix
+dim(this_cov)
+```
+
+
+### Reference on ape::vcv:
+
+Expected covariance under a Brownian model (Felsenstein 1985, Martins and Hansen 1997)
+$$V_{ij} = \gamma \times t_a$$
+where \(t_a\) is the distance on the phylogeny between the root and the most recent common ancestor of taxa \(i\) and \(j\) and \(\gamma\) is a constant.
+```{r}
+# Plot heatmap
+gplots::heatmap.2(this_cov, dendrogram = 'none', trace = 'none', Rowv = FALSE, Colv = FALSE,
+                  labRow = FALSE, labCol = FALSE)
+```
+
+
