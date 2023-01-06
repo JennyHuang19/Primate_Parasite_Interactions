@@ -1,0 +1,381 @@
+---
+title: "1a_primates"
+author: "Jenny Yijian Huang"
+date: '2022-08-01'
+output: html_document
+---
+
+# -------- TO DO --------- #
+
+# Set the directories below to correspond to paths on your machine:
+```{r}
+# The directory where the analysis is performed:
+wd_path <- '/Users/JennyH/Desktop/PSR_Model/'
+# The directory where the original data are:
+data_path <- 'Data/'
+# The directory where the processed data should be saved:
+save_path <- 'Data/'
+# Whether the processed data should be saved or not:
+save_files <- TRUE
+```
+
+```{r}
+library(tidyverse)
+library(devtools)
+
+devtools::install_github("gpapadog/BiasedNetwork")
+```
+
+# --------- BEGINNING -------- #
+
+```{r}
+# Setting the working directory.
+setwd(wd_path)
+
+# Loading libraries.
+library(data.table)
+library(gplots)
+```
+
+# ---------- PART A: Loading in the data -------------- #
+
+```{r}
+# Loading in the data set.
+
+###
+library (readr)
+urlfile="https://raw.githubusercontent.com/gpapadog/Bird_Plant_Interactions/master/Data/ATLANTIC_frugivory.csv"
+###
+
+#dta <- fread(paste0(data_path, 'ATLANTIC_frugivory.csv'))
+dta <-read_csv(url(urlfile)) # JH: 8319 rows.
+
+# Studies with the same reference but different method are treated separately:
+dta$Study_combined <- sapply(1 : nrow(dta), function(r) paste(dta$`Study reference`[r], '-', dta$Study_Method[r]))
+
+# Correcting recorded coordinates. Some entries have recorded coordinates that
+# are not correct as they are not in Brazil. These coordinates are set to NA.
+wh <- which(dta$Longitude > 0)
+dta$Longitude[wh] <- dta$Longitude[wh] * (- 1)
+wh <- which(dta$Longitude > - 30)
+dta$Longitude[wh] <- NA
+dta$Latitude[wh] <- NA
+
+
+# Correcting a wrong recorded interaction.
+#
+# After communications with the data manager, we realized that the species that
+# was originally recorded as "Amaioua hybridus" does not exist, and it should
+# have been recorded as "Amaranthus hubridus".
+#
+# We excluding the Amaioua hybridus interaction since an interactions between
+# Amaranthus hybridus (the correct species) and the frugivore species already
+# exists in the data.
+#
+# However, we are keeping the plant color (plant covariate).
+#
+subset(dta, Plant_Species %in% c('Amaioua hybridus', 'Amaranthus hybridus'))
+dta <- subset(dta, Plant_Species != 'Amaioua hybridus')
+dta$Fruit_color[dta$Plant_Species == 'Amaranthus hybridus'] <- 'red'
+```
+
+# ---------- PART A and B: Loading in the data -------------- #
+
+```{r}
+parasite_traits_original <- read.csv("parasite_list.csv")
+head(parasite_traits_original)
+primate_traits_original <- read.csv("trait_parasite_species_cleaned.csv") # trophic category, group size, homerange.
+head(primate_traits_original)
+host_parasite_interactions <- read.csv("GMPD_unique_parasite_sp.csv")
+head(host_parasite_interactions)
+
+# clean original df to select variables of interest
+primate_traits <- primate_traits_original %>% 
+  select(HostCorrectedName, diel_activity, bodymass_kg, habitat_category, SSD, locomotion) # (LATER: add trophic, iucn, mating system, and more.)
+
+parasite_traits <- parasite_traits_original %>% 
+  rename(ParasiteCorrectedName = parasite) %>% 
+  select(-X)
+
+HP_interactions <- host_parasite_interactions %>% 
+  rename(HostCorrectedName = HostCorrectedName_Corbet) %>% 
+  select(ParasiteCorrectedName, HostCorrectedName, Citation, LocationName)
+
+# perform a 3 way join of tables to create traits_and_studies, a df of 
+# all observed interactions and the desired traits of the host and the parasite.
+a1 <- merge(HP_interactions, primate_traits, by = "HostCorrectedName")
+traits_and_studies <- merge(a1, parasite_traits, by="ParasiteCorrectedName")
+
+
+# Keeping track of the unique primates and parasite species in the study and their
+# number. Also keeping track of the unique studies.
+uni_primates <- unique(traits_and_studies$HostCorrectedName)
+uni_parasites <- unique(traits_and_studies$ParasiteCorrectedName)
+uni_studies_lst <- unique(traits_and_studies$Citation)
+nM <- length(uni_primates)
+nP <- length(uni_parasites)
+nS <- length(uni_studies_lst)
+cat(nM, nP, nS) # 93 157 217
+```
+
+# ------ PART B: Subsetting the data to only bird-plant interactions -------- #
+
+NOT NEEDED FOR THE PRIMATE STUDY.
+
+# ------ PART C: Array of observed interactions -------- #
+
+# Creating an array with dimensions that correspond to birds, plants and
+# studies. Entries are equal to 0 if the species did not interact in the
+# specific study, and equal to 1 if they were recorded to interact.
+
+```{r}
+obs_A2 <- array(0, dim = c(nM, nP, nS))
+dimnames(obs_A2) <- list(uni_primates, uni_parasites, uni_studies_lst)
+for (ss in 1 : nrow(traits_and_studies)) {
+  wh1 <- which(uni_primates == traits_and_studies$HostCorrectedName[ss])
+  wh2 <- which(uni_parasites == traits_and_studies$ParasiteCorrectedName[ss])
+  wh3 <- which(uni_studies_lst == traits_and_studies$Citation[ss])
+  obs_A2[wh1, wh2, wh3] <- 1
+}
+
+dim(obs_A2) # primate, parasite, studies 
+
+sum(obs_A2) # 732 ones.
+sum(obs_A2) / (nM*nP) # 5.01 % of adjacency matrix is ones.
+
+if (save_files) {
+  save(obs_A2, file = paste0(save_path, 'obs_A2.dat'))
+}
+```
+
+# ------ PART D: Covariates and correlation matrices -------- #
+
+# Here we re-format the original data to acquire matrices of covariate
+# information for each set of species, and the phylogenetic correlation
+# matrices.
+
+# Starting for the first set of species.
+
+# Including the bird covariate information in one data frame. This data frame
+# includes phylogenetic information that will be used to create the species'
+# correlation matrix.
+#
+```{r}
+all_X2 <- traits_and_studies %>% 
+  select(HostCorrectedName,
+         bodymass_kg,
+         diel_activity,
+         habitat_category,
+         SSD,
+         locomotion)
+
+# Excluding replicates of primates:
+all_X2 <- unique(all_X2)
+# Ensuring that the dimensions are correct:
+cat(nM, dim(all_X2)[1])
+# Ensuring that the species in all_X are in the same order as in obs_A:
+sum(all_X2$HostCorrectedName != dimnames(obs_A2)[[1]])  # Should be equal to 0.
+```
+
+# Some information on the covariates:
+
+```{r}
+pM <- c(2, 3)  # Two continous and three binary covariates:
+obs_X2 <- matrix(NA, nrow = nM, ncol = sum(pM))
+rownames(obs_X2) <- uni_primates
+colnames(obs_X2) <- c('logBodyMass', 'logSSD', 'isnocturnal', 'isarboreal', 'isforest')
+obs_X2[, 1] <- log(all_X2$bodymass_kg) # taking logs of body mass
+obs_X2[, 2] <- log(all_X2$SSD)
+obs_X2[, 3] <- (all_X2$diel_activity == 'nocturnal') * 1
+obs_X2[, 4] <- (all_X2$locomotion == 'arboreal') * 1
+obs_X2[, 5] <- (all_X2$habitat_category == 'forest') * 1 # can we change to an ordinal variable?
+obs_X2
+
+if (save_files) {
+  save(obs_X2, file = paste0(save_path, 'obs_X2.dat'))
+}
+```
+
+
+# For the second set of species: We perform a similar process to acquire their phylogenetic correlation matrix and their covariate information.
+
+```{r}
+all_W2 <- traits_and_studies %>% 
+  select(ParasiteCorrectedName,
+         parasite_type,
+         transmission_type,
+         life_cycle 
+         )
+
+# Excluding species that are duplicated:
+all_W2 <- unique(all_W2)
+####
+# Debug1
+y <- rnorm(157, mean = 3, sd = 1.0)
+all_W2 <- cbind(all_W2, y)
+####
+
+# Making sure that the dimension and order of species is correct:
+cat(nP, dim(all_W2)[1])
+sum(all_W2$Parasite_Species != dimnames(obs_A2)[[2]])  # Should be 0.
+```
+
+```{r}
+pP <- c(1, 11)  # Number of continuous and binary covariates.
+obs_W2 <- matrix(NA, nrow = nP, ncol = sum(pP))
+
+obs_W2[, 1] <- log(all_W2$y)
+obs_W2[, 2] <- (all_W2$parasite_type == 'Bacteria') * 1
+obs_W2[, 3] <- (all_W2$parasite_type == 'Virus') * 1
+obs_W2[, 4] <- (all_W2$parasite_type == 'Arthropod') * 1
+obs_W2[, 5] <- (all_W2$parasite_type == 'Protozoa') * 1
+obs_W2[, 6] <- (all_W2$transmission_type == 'CloseT') * 1
+obs_W2[, 7] <- (all_W2$transmission_type == 'Nonclose') * 1
+obs_W2[, 8] <- (all_W2$transmission_type == 'Vector') * 1
+obs_W2[, 9] <- (all_W2$transmission_type == 'Intermediate') * 1
+obs_W2[, 10] <- (all_W2$transmission_type == 'Sexual_Vertical_CloseT') * 1
+obs_W2[, 11] <- (all_W2$life_cycle == "Direct") * 1
+obs_W2[, 12] <- (all_W2$parasite_type == 'Helminth') * 1
+
+# Creating the column names.
+colnames(obs_W2) <- c('isHelminth', 'isBacteria', 'isVirus', 'isArthropod',
+                     'isProtozoa', 'isCloseT', 'isNonclose', 'isVector',
+                     'isIntermediate', 'isSexualVerticalCloseT', 'isDirect', 'y')
+
+if (save_files) {
+  save(obs_W2, file = paste0(save_path, 'obs_W2.dat'))
+}
+```
+
+
+Are there studies in the GMPD in which multiple host species are recorded?
+```{r}
+# For occurrence of network study
+obs_OB2 <- array(0, dim = c(nM, nS))
+obs_OP2 <- array(0, dim = c(nP, nS))
+dimnames(obs_OB2) <- list(uni_primates, uni_studies_lst)
+dimnames(obs_OP2) <- list(uni_parasites, uni_studies_lst)
+
+studied_multiple_hosts <- array(0, nS)
+for (ss in 1 : nS) {
+  wh_study <- uni_studies_lst[ss]
+  these_primates <- unique(traits_and_studies$HostCorrectedName[traits_and_studies$Citation == wh_study]) # primates that have been studies here.
+  if(length(these_primates) > 1){
+    studied_multiple_hosts[ss] = 1
+  }
+}
+
+sum(studied_multiple_hosts) # 49
+```
+
+```{r}
+multihost_studies <- traits_and_studies %>% 
+  group_by(Citation) %>% 
+  select(Citation, HostCorrectedName) %>% 
+  unique() %>% 
+  group_by(Citation) %>% 
+  arrange(Citation) %>% 
+  filter(n()>1) %>% # citation appears several times, so these are the studies with multiple hosts.
+  distinct(Citation) %>% 
+  select(Citation) # this turns the df into a list of citations.
+```
+Out of our 217 studies, we have 49 that study multiple hosts, although some study only one genera. I'll select those studies to be parasite oriented.
+
+```{r}
+multibug_studies <- traits_and_studies %>% 
+  group_by(Citation, ParasiteCorrectedName) %>% 
+  select(ParasiteCorrectedName) %>% 
+  unique() %>% # 
+  group_by(Citation) %>% 
+  arrange(Citation) %>% 
+  filter(n()>1) %>% # those citations that studied more that one parasite.
+  distinct(Citation) %>% 
+  select(Citation) # this turns the df into a list of citations.
+```
+Out of our 217 studies, we have 49 that study multiple hosts, 108 that study multiple parasites, and 38 that study both multiple hosts AND multiple parasites.
+
+```{r}
+network_studies <- intersect(multihost_studies, multibug_studies) %>% 
+  distinct(Citation) %>% 
+  select(Citation) # this turns df into a list of citations
+
+"Petrasova et al. 2010" %in% network_studies$Citation
+```
+
+# ------ PART E: Focus and species occurrence across studies -------- #
+
+
+# Creating two arrays that correspond to whether the studies would have
+# recorded an observed interaction or not, and whether species co-occur in the
+# study area. We will assume that these arrays are 0/1. 
+
+# For the focus array, this makes sense as we have access to whether the study is animal or plant focused or a network study. 
+# For the species occurrence, we know for a fact
+# that a species with a recorded interaction occurs in the area. The only
+# simplifying assumption is therefore when we set probability of occurrence to
+# zero for species without any recorded interaction.
+#
+
+```{r}
+# For study focus:
+obs_F2 <- array(0, dim = c(nM, nP, nS))
+dimnames(obs_F2) <- list(uni_primates, uni_parasites, uni_studies_lst)
+
+for (ss in 1 : nS) {
+    wh_study <- uni_studies_lst[ss]
+
+    # i. Find all primates studied in the study.
+    these_primates <- unique(traits_and_studies$HostCorrectedName[traits_and_studies$Citation == wh_study]) # the primates in the study
+    
+    # ii. find the indices of all 'these_parasites'
+    wh_primates <- which(uni_primates %in% these_primates) # the indices of the primate.
+
+    # iii. Find all parasite types studied in the study.
+    wh_study_parasitetypesstudied <- unique(traits_and_studies$parasite_type[traits_and_studies$Citation == wh_study])
+    
+    # iv. For each parasite type, find all species in the database. We assume the test performed in the study has the potential to record such species.
+    these_parasites <- unique(traits_and_studies$ParasiteCorrectedName[traits_and_studies$parasite_type %in% wh_study_parasitetypesstudied])
+    
+    # v. find the indices of all 'these_parasites'
+    wh_parasites <- which(uni_parasites %in% these_parasites)
+    
+    obs_F2[wh_primates, wh_parasites, ss] <- 1 # records all of the potentially recorded parasites for the primates in the study.
+}
+
+if (save_files) {
+  save(obs_F2, file = paste0(save_path, 'obs_F2.dat'))
+}
+
+obs_F2[,1,1] # all primates in row 1 column 1
+obs_F2[1,,1] # all parasites in row 1 column 1
+obs_F2[1,1,] # all studies in row 1 column 1
+dim(obs_F2) # primate, parasite, study
+
+sum(obs_F2) # 23456 ones.
+sum(obs_F2) / (nM*nP*nS) #  0.007 % of matrix is ones.
+```
+
+
+```{r}
+# For occurrence of network study
+obs_OB2 <- array(0, dim = c(nM, nS))
+obs_OP2 <- array(0, dim = c(nP, nS))
+dimnames(obs_OB2) <- list(uni_primates, uni_studies_lst)
+dimnames(obs_OP2) <- list(uni_parasites, uni_studies_lst)
+
+for (ss in 1 : nS) {
+  wh_study <- uni_studies_lst[ss]
+  these_primates <- unique(traits_and_studies$HostCorrectedName[traits_and_studies$Citation == wh_study]) # primates that have been studied here.
+  these_parasites <- unique(traits_and_studies$ParasiteCorrectedName[traits_and_studies$Citation == wh_study]) # primates that have been studied here.
+  wh_primates <- which(uni_primates %in% these_primates)
+  wh_parasites <- which(uni_parasites %in% these_parasites)
+  obs_OB2[wh_primates, ss] <- 1 # indicator that the primate has been studied here.
+  obs_OP2[wh_parasites, ss] <- 1 # indicator that the parasite has been studied here.
+}
+
+if (save_files) {
+  save(obs_OB2, file = paste0(save_path, 'obs_OB2.dat'))
+  save(obs_OP2, file = paste0(save_path, 'obs_OP2.dat'))
+}
+```
+

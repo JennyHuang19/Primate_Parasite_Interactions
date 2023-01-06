@@ -1,0 +1,48 @@
+---
+title: "parasite_cov_matrix"
+author: "Jenny Yijian Huang"
+date: '2022-06-06'
+output: html_document
+---
+
+# --------------------
+# Creating Parasite Correlation Matrix based on TAXONOMY.
+# --------------------
+
+```{r}
+uni_parasites <- unique(traits_and_studies$ParasiteCorrectedName)
+nP <- length(uni_parasites)
+
+all_W3 <- all_W2 %>% 
+  separate(ParasiteCorrectedName, c('genus', 'species'))
+```
+
+```{r}
+# create taxonomic correlation matrix
+Cv <- diag(nP)
+dimnames(Cv) <- list(uni_parasites, uni_parasites)
+
+for (i1 in 1 : (nP - 1)) {
+  for (i2 in (i1 + 1) : nP) {
+    
+    if (all_W3$genus[i1] == all_W3$genus[i2]) { # match on genus (0 occurrences)
+      Cv[i1, i2] <- Cv[i2, i1] <- 0.75
+      print("Genus Matches")
+    } else if (all_W3$parasite_type[i1] == all_W3$parasite_type[i2]) { # match on parasite type.
+      Cv[i1, i2] <- Cv[i2, i1] <- 0.25
+    }
+    
+  }
+}
+
+heatmap.2(Cv, dendrogram = 'none', trace = 'none', Rowv = FALSE, Colv = FALSE)
+if (save_files) {
+  save(Cv, file = paste0(save_path, 'Cv_tax.dat'))
+}
+
+# number of each covariance.
+sum(Cv == 1.00)
+sum(Cv == 0.75)
+sum(Cv == 0.25)
+sum(Cv == 0)
+```
