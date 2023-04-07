@@ -39,46 +39,6 @@ library(gplots)
 
 # ---------- PART A: Loading in the data -------------- #
 
-```{r}
-# Loading in the data set.
-
-###
-library (readr)
-urlfile="https://raw.githubusercontent.com/gpapadog/Bird_Plant_Interactions/master/Data/ATLANTIC_frugivory.csv"
-###
-
-#dta <- fread(paste0(data_path, 'ATLANTIC_frugivory.csv'))
-dta <-read_csv(url(urlfile)) # JH: 8319 rows.
-
-# Studies with the same reference but different method are treated separately:
-dta$Study_combined <- sapply(1 : nrow(dta), function(r) paste(dta$`Study reference`[r], '-', dta$Study_Method[r]))
-
-# Correcting recorded coordinates. Some entries have recorded coordinates that
-# are not correct as they are not in Brazil. These coordinates are set to NA.
-wh <- which(dta$Longitude > 0)
-dta$Longitude[wh] <- dta$Longitude[wh] * (- 1)
-wh <- which(dta$Longitude > - 30)
-dta$Longitude[wh] <- NA
-dta$Latitude[wh] <- NA
-
-
-# Correcting a wrong recorded interaction.
-#
-# After communications with the data manager, we realized that the species that
-# was originally recorded as "Amaioua hybridus" does not exist, and it should
-# have been recorded as "Amaranthus hubridus".
-#
-# We excluding the Amaioua hybridus interaction since an interactions between
-# Amaranthus hybridus (the correct species) and the frugivore species already
-# exists in the data.
-#
-# However, we are keeping the plant color (plant covariate).
-#
-subset(dta, Plant_Species %in% c('Amaioua hybridus', 'Amaranthus hybridus'))
-dta <- subset(dta, Plant_Species != 'Amaioua hybridus')
-dta$Fruit_color[dta$Plant_Species == 'Amaranthus hybridus'] <- 'red'
-```
-
 # ---------- PART A and B: Loading in the data -------------- #
 
 ```{r}
@@ -88,10 +48,50 @@ primate_traits_original <- read.csv("trait_parasite_species_cleaned.csv") # trop
 head(primate_traits_original)
 host_parasite_interactions <- read.csv("GMPD_unique_parasite_sp.csv")
 head(host_parasite_interactions)
+```
 
+```{r}
+primate_traits_original <- primate_traits_original %>% 
+  rename(social_time = Mean_Percent_Social_Activity_Time)
+```
+
+
+### EDA: feature distributions.
+```{r}
+hist(primate_traits_original$bodymass_kg)
+hist(primate_traits_original$social_time)
+hist(log(primate_traits_original$mean_groupsize)) # log
+hist(log(primate_traits_original$mean_dayrange_meters)) # log
+hist(log(primate_traits_original$homerange_ha)) # log
+
+ggplot(primate_traits_original,aes(mating_system,mating_system))+
+  geom_bar(stat="identity",width=1)+
+  theme(axis.text.x = element_text(angle = 90))
+ggplot(primate_traits_original,aes(realm,realm))+
+  geom_bar(stat="identity",width=1)+
+  theme(axis.text.x = element_text(angle = 90))
+ggplot(primate_traits_original,aes(trophic_folivore,trophic_folivore))+
+  geom_bar(stat="identity",width=1)+
+  theme(axis.text.x = element_text(angle = 90))
+ggplot(primate_traits_original,aes(trophic_Omnivore,trophic_Omnivore))+
+  geom_bar(stat="identity",width=1)+
+  theme(axis.text.x = element_text(angle = 90))
+ggplot(primate_traits_original,aes(iucn,iucn))+
+  geom_bar(stat="identity",width=1)+
+  theme(axis.text.x = element_text(angle = 90))
+```
+
+
+
+```{r}
+
+# View(host_parasite_interactions)
 # clean original df to select variables of interest
 primate_traits <- primate_traits_original %>% 
-  select(HostCorrectedName, diel_activity, bodymass_kg, habitat_category, SSD, locomotion) # (LATER: add trophic, iucn, mating system, and more.)
+  select(HostCorrectedName, bodymass_kg, SSD,
+         social_time, mean_groupsize, mean_dayrange_meters, homerange_ha,
+         mating_system, trophic_folivore, trophic_Omnivore, realm, iucn,
+         diel_activity, habitat_category, locomotion)
 
 parasite_traits <- parasite_traits_original %>% 
   rename(ParasiteCorrectedName = parasite) %>% 
@@ -118,9 +118,13 @@ nS <- length(uni_studies_lst)
 cat(nM, nP, nS) # 93 157 217
 ```
 
-# ------ PART B: Subsetting the data to only bird-plant interactions -------- #
 
-NOT NEEDED FOR THE PRIMATE STUDY.
+# Do the ‘bipartitedf’ entries make sense:
+```{r}
+traits_and_studies %>% 
+  filter(#HostCorrectedName == "Varecia_variegata")
+         ParasiteCorrectedName == "Shigella sp.")
+```
 
 # ------ PART C: Array of observed interactions -------- #
 
@@ -164,10 +168,19 @@ if (save_files) {
 all_X2 <- traits_and_studies %>% 
   select(HostCorrectedName,
          bodymass_kg,
+         mean_groupsize, 
+         mean_dayrange_meters,
+         homerange_ha,
+         social_time,
+         SSD,
          diel_activity,
          habitat_category,
-         SSD,
-         locomotion)
+         locomotion,
+         mating_system,
+         trophic_folivore,
+         trophic_Omnivore,
+         realm,
+         iucn)
 
 # Excluding replicates of primates:
 all_X2 <- unique(all_X2)
@@ -178,22 +191,48 @@ sum(all_X2$HostCorrectedName != dimnames(obs_A2)[[1]])  # Should be equal to 0.
 ```
 
 # Some information on the covariates:
-
+body mass, ssd, group size, homerange, social time, nocturnal, arboreal forest, mating-system, diet, realm, iucn
 ```{r}
-pM <- c(2, 3)  # Two continous and three binary covariates:
+pM <- c(6, 13)  # Two continous and three binary covariates:
 obs_X2 <- matrix(NA, nrow = nM, ncol = sum(pM))
 rownames(obs_X2) <- uni_primates
-colnames(obs_X2) <- c('logBodyMass', 'logSSD', 'isnocturnal', 'isarboreal', 'isforest')
+colnames(obs_X2) <- c('logBodyMass', 'logSSD', 'log_mean_groupsize',
+                      'log_mean_dayrange_meters', 'loghomerange_ha', 
+                      'social_time', 'isnocturnal', 'isarboreal', 
+                      'isforest', 'ismultimale-multifemale', 'ismonogamous', 
+                      'isdispersed','isfolivorous','isomnivorous',
+                      'realm_M_Africa','realm_Neotropics','realm_Asia', 
+                      'iucn_endangered', 'iucn_least_concern')
 obs_X2[, 1] <- log(all_X2$bodymass_kg) # taking logs of body mass
 obs_X2[, 2] <- log(all_X2$SSD)
-obs_X2[, 3] <- (all_X2$diel_activity == 'nocturnal') * 1
-obs_X2[, 4] <- (all_X2$locomotion == 'arboreal') * 1
-obs_X2[, 5] <- (all_X2$habitat_category == 'forest') * 1 # can we change to an ordinal variable?
-obs_X2
+
+obs_X2[, 3] <- log(all_X2$mean_groupsize)
+obs_X2[, 4] <- log(all_X2$mean_dayrange_meters)
+obs_X2[, 5] <- log(all_X2$homerange_ha)
+obs_X2[, 6] <- all_X2$social_time
+
+obs_X2[, 7] <- (all_X2$diel_activity == 'nocturnal') * 1
+obs_X2[, 8] <- (all_X2$locomotion == 'arboreal') * 1
+obs_X2[, 9] <- (all_X2$habitat_category == 'forest') * 1
+
+obs_X2[, 10] <- (all_X2$mating_system == 'multimale-multifemale') * 1
+obs_X2[, 11] <- (all_X2$mating_system == 'monogamy') * 1
+obs_X2[, 12] <- (all_X2$mating_system == 'dispersed') * 1
+
+obs_X2[, 13] <- (all_X2$trophic_folivore == 'Folivore') * 1
+obs_X2[, 14] <- (all_X2$trophic_Omnivore == 'Omnivore/Insectivore') * 1
+
+obs_X2[, 15] <- (all_X2$realm == 'M_Africa') * 1
+obs_X2[, 16] <- (all_X2$realm == 'Neotropics') * 1
+obs_X2[, 17] <- (all_X2$realm == 'Asia') * 1
+
+obs_X2[, 18] <- (all_X2$iucn == 'endangered') * 1
+obs_X2[, 19] <- (all_X2$iucn == 'least concern') * 1
 
 if (save_files) {
   save(obs_X2, file = paste0(save_path, 'obs_X2.dat'))
 }
+
 ```
 
 
@@ -219,12 +258,16 @@ all_W2 <- cbind(all_W2, y)
 cat(nP, dim(all_W2)[1])
 sum(all_W2$Parasite_Species != dimnames(obs_A2)[[2]])  # Should be 0.
 ```
+# VECTOR OF 1s AS PLACEHOLDER FOR A CONTINUOUS FEATURE.
+```{r}
+y <- rnorm(nP,1,0)
+```
 
 ```{r}
 pP <- c(1, 11)  # Number of continuous and binary covariates.
 obs_W2 <- matrix(NA, nrow = nP, ncol = sum(pP))
 
-obs_W2[, 1] <- log(all_W2$y)
+obs_W2[, 1] <- log(all_W2$y) # VECTOR OF 1 AS PLACEHOLDER FOR A CONTINUOUS FEATURE.
 obs_W2[, 2] <- (all_W2$parasite_type == 'Bacteria') * 1
 obs_W2[, 3] <- (all_W2$parasite_type == 'Virus') * 1
 obs_W2[, 4] <- (all_W2$parasite_type == 'Arthropod') * 1
@@ -247,6 +290,7 @@ if (save_files) {
 }
 ```
 
+# ------ PART E: Focus and species occurrence -------- #
 
 Are there studies in the GMPD in which multiple host species are recorded?
 ```{r}
@@ -279,7 +323,7 @@ multihost_studies <- traits_and_studies %>%
   distinct(Citation) %>% 
   select(Citation) # this turns the df into a list of citations.
 ```
-Out of our 217 studies, we have 49 that study multiple hosts, although some study only one genera. I'll select those studies to be parasite oriented.
+Out of our 217 studies, we have 49 that study multiple hosts, although some study only one genera.
 
 ```{r}
 multibug_studies <- traits_and_studies %>% 
@@ -297,11 +341,11 @@ Out of our 217 studies, we have 49 that study multiple hosts, 108 that study mul
 ```{r}
 network_studies <- intersect(multihost_studies, multibug_studies) %>% 
   distinct(Citation) %>% 
-  select(Citation) # this turns df into a list of citations
+  select(Citation) # this turns the dataframe into a list of citations
 
+# SANITY CHECK
 "Petrasova et al. 2010" %in% network_studies$Citation
 ```
-
 # ------ PART E: Focus and species occurrence across studies -------- #
 
 
@@ -377,5 +421,7 @@ if (save_files) {
   save(obs_OB2, file = paste0(save_path, 'obs_OB2.dat'))
   save(obs_OP2, file = paste0(save_path, 'obs_OP2.dat'))
 }
+
+obs_OB2
 ```
 
