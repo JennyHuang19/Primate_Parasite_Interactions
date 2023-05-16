@@ -53,8 +53,15 @@ mean(obs_A2[obs_F2 == 1])  # 0.0312
 # Prevalence predicted by the model:
 
 # posterior probability of interaction by averaging across posterior samples:
-pred_ours <- apply(pred_ours, c(2, 3), mean)
+# pred_ours from 5a.
 mean(pred_ours) # 0.898
+mean(pred_ours[comb_F == 1]) # 0.887. posterior probability of interaction that were the focus of some study.
+
+# we need pairs that were ever studied in the same study.
+# The combined network:
+comb_F <- apply(obs_F2, c(1, 2), sum)
+comb_F <- (comb_F > 1) * 1 # pairs that are the focus in >5 studies.
+comb_F
 
 # ------ Sanity Check: histogram of number of primates (top entries vs. entire dataset)  --------- #
 
