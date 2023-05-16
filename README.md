@@ -1,2 +1,2 @@
 # Primate_Parasite_Interactions
-Predicting missing edges in a sparse primate parasite network.
+Using a latent factor model to predict missing edges in a primate parasite bipartite network.
