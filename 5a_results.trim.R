@@ -42,17 +42,17 @@ nchains <- 2
 repetitions <- 30
 
 # Covariate names that are nicer for plotting:
-good_namesX <- c('Body Mass', 'Gape Size', 'Large*', 'Fruit\nDependent*', 'Endangered*')
-good_namesW <- c('Fruit\nDiameter', 'Fruit\nLength', 'Seed\nDiameter', 'Seed\nLength', 'Native*',
-                 'Tree*', 'Black\nFruit*', 'Red\nFruit*', 'Yellow/Orange\nFruit*', 'Green\nFruit*',
-                 'Lipid*', 'Endangered*')
+# good_namesX <- c('Body Mass', 'Gape Size', 'Large*', 'Fruit\nDependent*', 'Endangered*')
+# good_namesW <- c('Fruit\nDiameter', 'Fruit\nLength', 'Seed\nDiameter', 'Seed\nLength', 'Native*',
+#                  'Tree*', 'Black\nFruit*', 'Red\nFruit*', 'Yellow/Orange\nFruit*', 'Green\nFruit*',
+#                  'Lipid*', 'Endangered*')
 
 
 # --------------- STEP 1: Getting the results together ----------------- #
 
 all_res <- NULL
 for (ii in 1 : nchains) {
-  load(paste0(result_path, 'res.may8.test2_', ii, '.dat'))
+  load(paste0(result_path, 'res.may29th_', ii, '.dat'))
   all_res[[ii]] <- res # loads the "res" object, saved in restest6_1.dat
 }
 
@@ -62,32 +62,37 @@ for (ii in 1 : nchains) {
 
 # Binding the posterior samples for the interactions from across chains.
 
-
-# ----- Based on our model:
+# ----- Based on our model: may 24th start.
 
 # Number of posterior samples used:
-# use_Nsims <- dim(all_res[[1]]$all_pred)[1] # N_sim, 97x157, 3
-# trimmed 1 (take the mean), 93x157, only takes pL1s_mean
+use_Nsims <- dim(all_res[[1]]$all_pred)[1]
 
 # Creating an array to bind results across chains:
-# (may 8..) pred_ours <- array(NA, dim = c(nchains * use_Nsims, nB, nP))
-pred_ours <- array(NA, dim = c(nchains, nB, nP))
+pred_ours <- array(NA, dim = c(nchains * use_Nsims, nB, nP))
 for (ii in 1 : nchains) {
   # Using the posterior samples of the L matrix:
-  # pred_ours[1 : use_Nsims + use_Nsims * (ii - 1), , ] <- all_res[[ii]]$all_pred[, , , 1]
-  pred_ours[ii, , ] <- all_res[[ii]]$all_pred # Rather than filling in the first Nsims, trimmed keeps only the avg over iterations.
+  pred_ours[1 : use_Nsims + use_Nsims * (ii - 1), , ] <- all_res[[ii]]$all_pred[, , , 1]
 }
 dimnames(pred_ours)[2 : 3] <- list(bird = rownames(obs_A), plant = colnames(obs_A))
 
 # Calculating the posterior probability of interaction by averaging across
 # posterior samples:
 pred_ours <- apply(pred_ours, c(2, 3), mean)
+# --- May 24th fin.
 
-mean(pred_ours) # 0.898
-# (trimmed may 8.) 0.54
+# ----- Based on our model:
+
+mean(pred_ours) # (untrimmed) 0.898
 # (trimmed may 10.) 0.895
+# (trimmed, Obs 0.5) 0.167
+# (trimmed, may 18.) 0.24
+# (trimmed, may 24.) 0.26
 # confusionmatrix (first), ROC
+# (trimmed, may 29th) 0.416 # changing some pi_OB to lower probabilities.
 
+# (may 24th, mcmc (untrimmed..)) Count the number of 1s
+sum(pred_ours == 1) # [1] 822 # [1] 850 trimmed Us+Vs+ps.
+sum(comb_A == 1) # [1] 562 # [1] 562
 
 # ----------- PART A: PLOTTING THE HEATMAP:
 
@@ -135,6 +140,33 @@ superheat(plot_pred,
           heat.pal.values = seq(0, 1, by = 0.05))
 
 # plot: set anything in A black.
+plot_pred_obs <- plot_pred
+for (primate in rownames(plot_pred)) {
+  for (parasite in colnames(plot_pred)) {
+    # print(plot_pred[primate, parasite])
+    if (comb_A[primate, parasite] == 1 && plot_pred[primate, parasite] != 1){
+      print("error")
+      plot_pred_obs[primate, parasite] <- 1
+    }
+    else{
+      plot_pred_obs[primate, parasite] <- plot_pred[primate, parasite]
+    }
+  }
+}
+superheat(plot_pred_obs,
+          # membership.rows = bird_group[keep_bird_index],
+          # membership.cols = plant_group[keep_plant_index],
+          grid.hline.col = "#00257D", grid.vline.col = '#00257D',
+          grid.hline.size = 0.3, grid.vline.size = 0.3,
+          bottom.label.text.angle = 90,
+          force.bottom.label = TRUE,
+          left.label.text.size = 3,
+          bottom.label.text.size = 3,
+          bottom.label.size = 0.24, left.label.size = 0.24,
+          heat.col.scheme = "grey", heat.na.col = 'black',
+          heat.pal.values = seq(0, 1, by = 0.05))
+# -------
+
 
 # Array of posterior probabilities.
 # df of host, parasite, posterior probabilities.
@@ -149,13 +181,13 @@ bipartitedf[,3] <- as.numeric(bipartitedf[,3])
 # arrange in desc order of post. prob.
 bipartitedf <- bipartitedf %>% 
   filter(posterior_prob < 1) %>% 
-  filter(posterior_prob >= 0.9) %>% 
+  filter(posterior_prob >= 0.5) %>% 
   arrange(desc(posterior_prob))
 
 head(bipartitedf)
 View(bipartitedf)
 # https://rlbarter.github.io/superheat/clustering.html
-# write.csv(bipartitedf, "bipartitedf_may10.csv")
+# write.csv(bipartitedf, "bipartitedf_may29th.csv")
 
 # ----- MCMC Diagnostics:
 
@@ -172,6 +204,7 @@ rhoU = all_res[[1]]$correlations[,1]
 probL = all_res[[1]]$all_pred[,,,3] 
 probL11 = all_res[[1]]$all_pred[,1,1,3]
 probL12 = all_res[[1]]$all_pred[,1,2,3]
+
 
 ## convert the output into coda format
 coda_mcmc_chain = mcmc(cbind(rhoV, rhoU, probL11, probL12))
