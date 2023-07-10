@@ -1,0 +1,1103 @@
+"","X.1","X","ID","ParasiteReportedName","HostReportedName","Citation","LocationName","TotalPrevalence","ParasiteCorrectedName","HostCorrectedName_Corbet","pargenera","sp","nonsp_in_gen","colsp"
+"1",5,5,8771,"STLV","Allenopithecus nigroviridis","Ahuka-Mundeke et al. 2017","Mbandaka","0.409","Deltaretrovirus sp.","Allenopithecus_nigroviridis","Deltaretrovirus","sp.",FALSE,TRUE
+"2",29,29,2390,"Cebidicola sp.","Alouatta belzebul","Stuart et al. 1998","UNKNOWN","NULL","Cebidicola sp.","Alouatta_belzebul","Cebidicola","sp.",FALSE,TRUE
+"3",37,37,7935,"Pseudomonas sp.","Alouatta belzebul","Menezes-Costa et al. 2013","Tucurui","0.181","Pseudomonas sp.","Alouatta_belzebul","Pseudomonas","sp.",FALSE,TRUE
+"4",48,48,2427,"Amblyomma sp.","Alouatta caraya","Stuart et al. 1998","ARGENTINA","0.012","Amblyomma sp.","Alouatta_caraya","Amblyomma","sp.",FALSE,TRUE
+"5",71,71,2442,"Chilomastix sp.","Alouatta caraya","Stuart et al. 1998","UNKNOWN","NULL","Chilomastix sp.","Alouatta_caraya","Chilomastix","sp.",FALSE,TRUE
+"6",78,78,2443,"Entamoeba sp.","Alouatta caraya","Stuart et al. 1998","BRAZIL","NULL","Entamoeba sp.","Alouatta_caraya","Entamoeba","sp.",FALSE,TRUE
+"7",93,93,10393,"Mycoplasma sp.","Alouatta caraya","Cubilla et al. 2017","Bela Vista","1","Mycoplasma sp.","Alouatta_caraya","Mycoplasma","sp.",FALSE,TRUE
+"8",131,131,7937,"Pseudomonas sp.","Alouatta caraya","Menezes-Costa et al. 2013","Chapada dos Guimaraes","0.175","Pseudomonas sp.","Alouatta_caraya","Pseudomonas","sp.",FALSE,TRUE
+"9",137,137,8231,"Strongyloides sp.","Alouatta caraya","Santa Cruz et al. 2000","San Cayetano","NULL","Strongyloides sp.","Alouatta_caraya","Strongyloides","sp.",FALSE,TRUE
+"10",138,138,8232,"Strongyloides sp.","Alouatta caraya","Santa Cruz et al. 2000","Ituzaingo","NULL","Strongyloides sp.","Alouatta_caraya","Strongyloides","sp.",FALSE,TRUE
+"11",144,144,2447,"Trichomonas sp.","Alouatta caraya","Stuart et al. 1998","BRAZIL","NULL","Trichomonas sp.","Alouatta_caraya","Trichomonas","sp.",FALSE,TRUE
+"12",284,284,9662,"Balantidium sp.","Alouatta palliata aequatorialis","Helenbrook et al. 2015b ","Bilsa","0.094","Balantidium sp.","Alouatta_palliata","Balantidium","sp.",FALSE,TRUE
+"13",285,285,8078,"Blastocystis","Alouatta palliata aequatorialis","Helenbrook et al. 2015","Bilsa","0.604","Blastocystis sp.","Alouatta_palliata","Blastocystis","sp.",FALSE,TRUE
+"14",286,286,9663,"Blastocystis sp.","Alouatta palliata aequatorialis","Helenbrook et al. 2015b ","Bilsa","0.604","Blastocystis sp.","Alouatta_palliata","Blastocystis","sp.",FALSE,TRUE
+"15",287,287,9668,"Capillaria sp.","Alouatta palliata aequatorialis","Helenbrook et al. 2015b ","Bilsa","0.781","Capillaria sp.","Alouatta_palliata","Capillaria","sp.",FALSE,TRUE
+"16",232,232,2469,"Chilomastix sp.","Alouatta palliata","Stuart et al. 1998","PANAMA","0.12","Chilomastix sp.","Alouatta_palliata","Chilomastix","sp.",FALSE,TRUE
+"17",288,288,9664,"Chilomastix sp.","Alouatta palliata aequatorialis","Helenbrook et al. 2015b ","Bilsa","0.042","Chilomastix sp.","Alouatta_palliata","Chilomastix","sp.",FALSE,TRUE
+"18",240,240,7207,"Cyclospora sp.","Alouatta palliata","Gonzalez-Hernandez 2011","Macuspana","0.029","Cyclospora sp.","Alouatta_palliata","Cyclospora","sp.",FALSE,TRUE
+"19",290,290,9660,"Cyclospora sp.","Alouatta palliata aequatorialis","Helenbrook et al. 2015b ","Bilsa","0.177","Cyclospora sp.","Alouatta_palliata","Cyclospora","sp.",FALSE,TRUE
+"20",292,292,9667,"Enterobius sp.","Alouatta palliata aequatorialis","Helenbrook et al. 2015b ","Bilsa","0.031","Enterobius sp.","Alouatta_palliata","Enterobius","sp.",FALSE,TRUE
+"21",244,244,2471,"Giardia sp.","Alouatta palliata","Stuart et al. 1998","PANAMA","0.5","Giardia sp.","Alouatta_palliata","Giardia","sp.",FALSE,TRUE
+"22",293,293,9666,"Iodamoeba sp.","Alouatta palliata aequatorialis","Helenbrook et al. 2015b ","Bilsa","0.052","Iodamoeba sp.","Alouatta_palliata","Iodamoeba","sp.",FALSE,TRUE
+"23",266,266,2475,"Retortamonas sp.","Alouatta palliata","Stuart et al. 1998","PANAMA","0.12","Retortamonas sp.","Alouatta_palliata","Retortamonas","sp.",FALSE,TRUE
+"24",268,268,8116,"Strongyloides sp.","Alouatta palliata","Maldonado-Lopez et al. 2014","Guancaste Conservation Area","0.51","Strongyloides sp.","Alouatta_palliata","Strongyloides","sp.",FALSE,TRUE
+"25",269,269,8117,"Strongyloides sp.","Alouatta palliata","Maldonado-Lopez et al. 2014","Guancaste Conservation Area","0.43","Strongyloides sp.","Alouatta_palliata","Strongyloides","sp.",FALSE,TRUE
+"26",295,295,9669,"Strongyloides sp.","Alouatta palliata aequatorialis","Helenbrook et al. 2015b ","Bilsa","0.875","Strongyloides sp.","Alouatta_palliata","Strongyloides","sp.",FALSE,TRUE
+"27",331,331,8978,"Strongyloides sp.","Alouatta palliata mexicana","Cristobal-Azkarate et al 2010","Los Tuxtlas","0.917","Strongyloides sp.","Alouatta_palliata","Strongyloides","sp.",FALSE,TRUE
+"28",332,332,8979,"Strongyloides sp.","Alouatta palliata mexicana","Cristobal-Azkarate et al 2010","Los Tuxtlas","0.833","Strongyloides sp.","Alouatta_palliata","Strongyloides","sp.",FALSE,TRUE
+"29",333,333,8980,"Strongyloides sp.","Alouatta palliata mexicana","Cristobal-Azkarate et al 2010","Los Tuxtlas","1","Strongyloides sp.","Alouatta_palliata","Strongyloides","sp.",FALSE,TRUE
+"30",271,271,2477,"Trichomonas sp.","Alouatta palliata","Stuart et al. 1998","PANAMA","0.75","Trichomonas sp.","Alouatta_palliata","Trichomonas","sp.",FALSE,TRUE
+"31",521,521,2498,"Balantidium sp.","Alouatta seniculus","Stuart et al. 1998","UNKNOWN","NULL","Balantidium sp.","Alouatta_seniculus","Balantidium","sp.",FALSE,TRUE
+"32",532,532,3955,"Entamoeba sp.","Alouatta seniculus","de Thoisy et al. 2001","Petit Saut","0.583","Entamoeba sp.","Alouatta_seniculus","Entamoeba","sp.",FALSE,TRUE
+"33",534,534,3956,"Enteromonas sp.","Alouatta seniculus","de Thoisy et al. 2001","Petit Saut","0.083","Enteromonas sp.","Alouatta_seniculus","Enteromonas","sp.",FALSE,TRUE
+"34",541,541,3962,"Mansonella sp.","Alouatta seniculus","de Thoisy et al. 2001","Petit Saut","NULL","Mansonella sp.","Alouatta_seniculus","Mansonella","sp.",FALSE,TRUE
+"35",538,538,3971,"Haemobartonella sp.","Alouatta seniculus","de Thoisy et al. 2001","Petit Saut","NULL","Mycoplasma sp.","Alouatta_seniculus","Mycoplasma","sp.",FALSE,TRUE
+"36",561,561,2059,"spiruid","Alouatta seniculus","Gilbert K., pers. comm.","UNKNOWN","NULL","Spirura sp.","Alouatta_seniculus","Spirura","sp.",FALSE,TRUE
+"37",562,562,3957,"Strongyloides","Alouatta seniculus","de Thoisy et al. 2001","Petit Saut","0.375","Strongyloides sp.","Alouatta_seniculus","Strongyloides","sp.",FALSE,TRUE
+"38",563,563,7030,"Strongyloides sp.","Alouatta seniculus","Phillips et al. 2004","Tampobata Research Center","0.313","Strongyloides sp.","Alouatta_seniculus","Strongyloides","sp.",FALSE,TRUE
+"39",569,569,4002,"Trichostrongylus sp.","Alouatta seniculus","de Thoisy et al. 2001","Petit Saut","0.042","Trichostrongylus sp.","Alouatta_seniculus","Trichostrongylus","sp.",FALSE,TRUE
+"40",350,350,7855,"Ascaris sp.","Alouatta pigra","Kowalzik et al. 2010","Monkey River","NULL","Ascaris sp.","Alouatta_villosa","Ascaris","sp.",FALSE,TRUE
+"41",351,351,3879,"Blastocystis sp.","Alouatta pigra","Stoner and Gonzalez Di Pierro 2006","Biosfera Montes Azules","0.65","Blastocystis sp.","Alouatta_villosa","Blastocystis","sp.",FALSE,TRUE
+"42",410,410,3885,"Enterobius sp.","Alouatta pigra","Stoner and Gonzalez Di Pierro 2006","Biosfera Montes Azules","0.02","Enterobius sp.","Alouatta_villosa","Enterobius","sp.",FALSE,TRUE
+"43",429,429,3883,"Isospora sp.","Alouatta pigra","Stoner and Gonzalez Di Pierro 2006","Biosfera Montes Azules","0.1","Isospora sp.","Alouatta_villosa","Isospora","sp.",FALSE,TRUE
+"44",437,437,8822,"Parabronema sp.","Alouatta pigra","Martinez-Mota et al. 2017","Escarcega","0.007","Parabronema sp.","Alouatta_villosa","Parabronema","sp.",FALSE,TRUE
+"45",439,439,5724,"Raillietina sp.","Alouatta pigra","Trejo-Macias et al. 2007","Calakmul","0.035","Raillietina sp.","Alouatta_villosa","Raillietina","sp.",FALSE,TRUE
+"46",440,440,5725,"Raillietina sp.","Alouatta pigra","Trejo-Macias et al. 2007","Palenque","0.035","Raillietina sp.","Alouatta_villosa","Raillietina","sp.",FALSE,TRUE
+"47",441,441,5726,"Raillietina sp.","Alouatta pigra","Trejo-Macias et al. 2007","Montes Azules","0.044","Raillietina sp.","Alouatta_villosa","Raillietina","sp.",FALSE,TRUE
+"48",443,443,5734,"Raillietina sp.","Alouatta pigra","Trejo-Macias et al. 2007","MEXICO","0.045","Raillietina sp.","Alouatta_villosa","Raillietina","sp.",FALSE,TRUE
+"49",447,447,5749,"Raillietina sp.","Alouatta pigra","Trejo-Macias et al. 2007","Calakmul","0.125","Raillietina sp.","Alouatta_villosa","Raillietina","sp.",FALSE,TRUE
+"50",451,451,5753,"Raillietina sp.","Alouatta pigra","Trejo-Macias et al. 2007","Montes Azules","0.067","Raillietina sp.","Alouatta_villosa","Raillietina","sp.",FALSE,TRUE
+"51",455,455,5769,"Raillietina sp.","Alouatta pigra","Trejo-Macias et al. 2007","UNKNOWN","0.125","Raillietina sp.","Alouatta_villosa","Raillietina","sp.",FALSE,TRUE
+"52",6,6,9753,"Strongyloides sp.","Alouatta pigra","Solorzano-Garcia and Perez-Ponce de Leon 2017","Lacandona","0.04","Strongyloides sp.","Alouatta_villosa","Strongyloides","sp.",FALSE,TRUE
+"53",456,456,3880,"Strongyloides sp.","Alouatta pigra","Stoner and Gonzalez Di Pierro 2006","Biosfera Montes Azules","0.45","Strongyloides sp.","Alouatta_villosa","Strongyloides","sp.",FALSE,TRUE
+"54",461,461,3884,"Trichostrongyloides sp.","Alouatta pigra","Stoner and Gonzalez Di Pierro 2006","Biosfera Montes Azules","0.02","Trichostrongyloidea sp.","Alouatta_villosa","Trichostrongyloidea","sp.",FALSE,TRUE
+"55",466,466,7854,"Trichostrongylus sp.","Alouatta pigra","Kowalzik et al. 2010","Monkey River","NULL","Trichostrongylus sp.","Alouatta_villosa","Trichostrongylus","sp.",FALSE,TRUE
+"56",467,467,7853,"Trichuris spp.","Alouatta pigra","Kowalzik et al. 2010","Monkey River","NULL","Trichuris sp.","Alouatta_villosa","Trichuris","sp.",FALSE,TRUE
+"57",887,887,9248,"Blastocystis sp.","Aotus azarai azari","Perea-Rodriguez et al. 2010","Estancia Guaycolec","0.264","Blastocystis sp.","Aotus_azarae","Blastocystis","sp.",FALSE,TRUE
+"58",889,889,9247,"Entamoeba sp.","Aotus azarai azari","Perea-Rodriguez et al. 2010","Estancia Guaycolec","0.226","Entamoeba sp.","Aotus_azarae","Entamoeba","sp.",FALSE,TRUE
+"59",890,890,9250,"Giarda sp.","Aotus azarai azari","Perea-Rodriguez et al. 2010","Estancia Guaycolec","0.075","Giardia sp.","Aotus_azarae","Giardia","sp.",FALSE,TRUE
+"60",891,891,9249,"Isospora sp.","Aotus azarai azari","Perea-Rodriguez et al. 2010","Estancia Guaycolec","0.453","Isospora sp.","Aotus_azarae","Isospora","sp.",FALSE,TRUE
+"61",919,919,3205,"Mansonella sp.","Aotus nancymae","Tantalean et al. 1990","Yanayacu","NULL","Mansonella sp.","Aotus_azarae","Mansonella","sp.",FALSE,TRUE
+"62",892,892,9243,"Strongyloides sp.","Aotus azarai azari","Perea-Rodriguez et al. 2010","Estancia Guaycolec","0.302","Strongyloides sp.","Aotus_azarae","Strongyloides","sp.",FALSE,TRUE
+"63",893,893,9245,"Taenia","Aotus azarai azari","Perea-Rodriguez et al. 2010","Estancia Guaycolec","0.019","Taenia sp.","Aotus_azarae","Taenia","sp.",FALSE,TRUE
+"64",895,895,9244,"Uncinaria sp.","Aotus azarai azari","Perea-Rodriguez et al. 2010","Estancia Guaycolec","0.17","Uncinaria sp.","Aotus_azarae","Uncinaria","sp.",FALSE,TRUE
+"65",1054,1054,7048,"Ascaris sp.","Aotus vociferans","Phillips et al. 2004","Tampobata Research Center","0.4","Ascaris sp.","Aotus_trivirgatus","Ascaris","sp.",FALSE,TRUE
+"66",1084,1084,1168,"Cyclophyllidea","Aotus zonalis","National Parasite Collection (WWW)","Panama","NULL","Cyclophyllidea sp.","Aotus_trivirgatus","Cyclophyllidea","sp.",FALSE,TRUE
+"67",1078,1078,7047,"Strongyloides sp.","Aotus vociferans","Phillips et al. 2004","Tampobata Research Center","0.2","Strongyloides sp.","Aotus_trivirgatus","Strongyloides","sp.",FALSE,TRUE
+"68",1136,1136,2917,"Leptospira sp.","Ateles belzebuth","Minette 1966","COLOMBIA","NULL","Leptospira sp.","Ateles_belzebuth","Leptospira","sp.",FALSE,TRUE
+"69",1147,1147,7067,"Strongyloides sp.","Ateles belzebuth chamek","Phillips et al. 2004","Tampobata Research Center","0.364","Strongyloides sp.","Ateles_belzebuth","Strongyloides","sp.",FALSE,TRUE
+"70",1158,1158,1174,"Buckleyenterobius","Ateles dariensis","National Parasite Collection (WWW)","Panama","NULL","Trypanoxyuris sp.","Ateles_fusciceps","Trypanoxyuris","sp.",FALSE,TRUE
+"71",1163,1163,1175,"Oxyuronema","Ateles dariensis","National Parasite Collection (WWW)","Panama","NULL","Trypanoxyuris sp.","Ateles_fusciceps","Trypanoxyuris","sp.",FALSE,TRUE
+"72",1178,1178,1183,"Ascaris","Ateles geoffroy","National Parasite Collection (WWW)","Panama","NULL","Ascaris sp.","Ateles_geoffroyi","Ascaris","sp.",FALSE,TRUE
+"73",1264,1264,2636,"Strongyloides sp.","Ateles paniscus chamek","Karesh et al. 1998","Noel Kampff Mercado","0.25","Strongyloides sp.","Ateles_paniscus","Strongyloides","sp.",FALSE,TRUE
+"74",1363,1363,5654,"Group D Enterococcus","Avahi laniger","Junge and Louis 2002","Betampona","NULL","Enterococcus sp.","Avahi_laniger","Enterococcus","sp.",FALSE,TRUE
+"75",1369,1369,8501,"Lemurostrongylus sp.","Avahi laniger","Junge et al. 2017","Ambatovy Joint Venture","0.167","Lemurostrongylus sp.","Avahi_laniger","Lemurostrongylus","sp.",FALSE,TRUE
+"76",1371,1371,8726,"Norovirus GI","Avahi laniger","Zohdy et al. 2015","Ranomafana","1","Norovirus sp.","Avahi_laniger","Norovirus","sp.",FALSE,TRUE
+"77",1372,1372,8727,"Norovirus GII","Avahi laniger","Zohdy et al. 2015","Ranomafana","1","Norovirus sp.","Avahi_laniger","Norovirus","sp.",FALSE,TRUE
+"78",1373,1373,8503,"Parahabronema","Avahi laniger","Junge et al. 2017","Ambatovy Joint Venture","0.067","Parabronema sp.","Avahi_laniger","Parabronema","sp.",FALSE,TRUE
+"79",1360,1360,5660,"Coagulase negative Staphylococcus sp.","Avahi laniger","Junge and Louis 2002","Betampona","NULL","Staphylococcus sp.","Avahi_laniger","Staphylococcus","sp.",FALSE,TRUE
+"80",1663,1663,8025,"Monodontus sp.","Cacajao calvus","Goncalves et al. 2002","Japura River","NULL","Bunostomum sp.","Cacajao_calvus","Bunostomum","sp.",FALSE,TRUE
+"81",1669,1669,9240,"Trypanoxyuris","Cacajao calvus ucayalii","Conga et al. 2013","Lago Preto","0.111","Trypanoxyuris sp.","Cacajao_calvus","Trypanoxyuris","sp.",FALSE,TRUE
+"82",1753,1753,1202,"Sparganum","Callimico goeldii","National Parasite Collection (WWW)","BRAZIL","NULL","Sparganum sp.","Callimico_goeldii","Sparganum","sp.",FALSE,TRUE
+"83",1754,1754,1203,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"84",1755,1755,1204,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"85",1756,1756,1205,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"86",1757,1757,1206,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"87",1758,1758,1207,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"88",1759,1759,1208,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"89",1760,1760,1209,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"90",1761,1761,1210,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"91",1762,1762,1211,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"92",1763,1763,1212,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"93",1764,1764,1213,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"94",1765,1765,1214,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"95",1766,1766,1215,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"96",1767,1767,1216,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"97",1768,1768,1217,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"98",1769,1769,1218,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"99",1770,1770,1219,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"100",1771,1771,1220,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"101",1772,1772,1221,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"102",1773,1773,1222,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"103",1774,1774,1223,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"104",1775,1775,1224,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"105",1776,1776,1225,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"106",1777,1777,1226,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"107",1778,1778,1227,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"108",1779,1779,1228,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"109",1780,1780,1229,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"110",1781,1781,1230,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"111",1782,1782,1231,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"112",1783,1783,1232,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"113",1784,1784,1233,"Strigea","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"114",1785,1785,1234,"Strigea sp.","Callimico goeldii","National Parasite Collection (WWW)","Unknown","NULL","Strigea sp.","Callimico_goeldii","Strigea","sp.",FALSE,TRUE
+"115",1805,1805,1262,"Armillifer","Callithrix jacchus","National Parasite Collection (WWW)","BRAZIL","NULL","Armillifer sp.","Callithrix_jacchus","Armillifer","sp.",FALSE,TRUE
+"116",1905,1905,9651,"Capillaria sp.","Cebus albifrons","Martin-Solano et al. 2017","Misahualli","0.133","Capillaria sp.","Cebus_albifrons","Capillaria","sp.",FALSE,TRUE
+"117",1906,1906,9727,"Capillaria sp.","Cebus albifrons","Martin et al. 2018","Misahualli","0.133","Capillaria sp.","Cebus_albifrons","Capillaria","sp.",FALSE,TRUE
+"118",1914,1914,9649,"Hymenolepis sp.","Cebus albifrons","Martin-Solano et al. 2017","Misahualli","0.666","Hymenolepis sp.","Cebus_albifrons","Hymenolepis","sp.",FALSE,TRUE
+"119",1915,1915,9725,"Hymenolepis sp.","Cebus albifrons","Martin et al. 2018","Misahualli","0.667","Hymenolepis sp.","Cebus_albifrons","Hymenolepis","sp.",FALSE,TRUE
+"120",1933,1933,7070,"Strongyloides sp.","Cebus albifrons","Phillips et al. 2004","Tampobata Research Center","0.182","Strongyloides sp.","Cebus_albifrons","Strongyloides","sp.",FALSE,TRUE
+"121",1934,1934,9650,"Strongyloides sp.","Cebus albifrons","Martin-Solano et al. 2017","Misahualli","0.933","Strongyloides sp.","Cebus_albifrons","Strongyloides","sp.",FALSE,TRUE
+"122",1935,1935,9726,"Strongyloides sp.","Cebus albifrons","Martin et al. 2018","Misahualli","0.933","Strongyloides sp.","Cebus_albifrons","Strongyloides","sp.",FALSE,TRUE
+"123",1951,1951,7088,"Ascaris sp.","Cebus apella","Phillips et al. 2004","Tampobata Research Center","0.1","Ascaris sp.","Cebus_apella","Ascaris","sp.",FALSE,TRUE
+"124",10011,10011,9857,"Ascaris sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.2","Ascaris sp.","Cebus_apella","Ascaris","sp.",FALSE,TRUE
+"125",10012,10012,9858,"Ascaris sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.125","Ascaris sp.","Cebus_apella","Ascaris","sp.",FALSE,TRUE
+"126",10013,10013,9859,"Ascaris sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.154","Ascaris sp.","Cebus_apella","Ascaris","sp.",FALSE,TRUE
+"127",1960,1960,7080,"Entamoeba sp.","Cebus apella","Phillips et al. 2004","Tampobata Research Center","0.2","Entamoeba sp.","Cebus_apella","Entamoeba","sp.",FALSE,TRUE
+"128",2014,2014,7087,"Strongyloides sp.","Cebus apella","Phillips et al. 2004","Tampobata Research Center","0.1","Strongyloides sp.","Cebus_apella","Strongyloides","sp.",FALSE,TRUE
+"129",10033,10033,9820,"Strongyloides","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.125","Strongyloides sp.","Cebus_apella","Strongyloides","sp.",FALSE,TRUE
+"130",10034,10034,9825,"Strongyloides","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.143","Strongyloides sp.","Cebus_apella","Strongyloides","sp.",FALSE,TRUE
+"131",10035,10035,9848,"Strongyloides sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.133","Strongyloides sp.","Cebus_apella","Strongyloides","sp.",FALSE,TRUE
+"132",10036,10036,9854,"Strongyloides sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.2","Strongyloides sp.","Cebus_apella","Strongyloides","sp.",FALSE,TRUE
+"133",10037,10037,9855,"Strongyloides sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.25","Strongyloides sp.","Cebus_apella","Strongyloides","sp.",FALSE,TRUE
+"134",10038,10038,9856,"Strongyloides sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.231","Strongyloides sp.","Cebus_apella","Strongyloides","sp.",FALSE,TRUE
+"135",10039,10039,9822,"Trichuris sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.125","Trichuris sp.","Cebus_apella","Trichuris","sp.",FALSE,TRUE
+"136",10041,10041,9850,"Trichuris sp.","Sapajus nigritus","Tiddi et al. 2019","Iguazú National Park","0.067","Trichuris sp.","Cebus_apella","Trichuris","sp.",FALSE,TRUE
+"137",2089,2089,1279,"Oxyuroidea","Cebus capucinus","National Parasite Collection (WWW)","Panama","NULL","Oxyuroidea sp.","Cebus_capucinus","Oxyuroidea","sp.",FALSE,TRUE
+"138",2100,2100,7469,"Strongyloides sp.","Cebus capucinus","Parr 2011","Santa Rosa","NULL","Strongyloides sp.","Cebus_capucinus","Strongyloides","sp.",FALSE,TRUE
+"139",2101,2101,7850,"Strongyloides sp.","Cebus capucinus","Parr et al. 2013","Santa Rosa","0.759","Strongyloides sp.","Cebus_capucinus","Strongyloides","sp.",FALSE,TRUE
+"140",2115,2115,1270,"Trypanoxyuris callis","Cebus capucinus","National Parasite Collection (WWW)","Panama","NULL","Trypanoxyuris sp.","Cebus_capucinus","Trypanoxyuris","sp.",FALSE,TRUE
+"141",4838,4838,8307,"Blastocysis spp.","Lophocebus albigena","Chapman et al. 2012","Kibale","NULL","Blastocystis sp.","Cercocebus_albigena","Blastocystis","sp.",FALSE,TRUE
+"142",4854,4854,8308,"Isospora sp.","Lophocebus albigena","Chapman et al. 2012","Kibale","NULL","Isospora sp.","Cercocebus_albigena","Isospora","sp.",FALSE,TRUE
+"143",4855,4855,8217,"Oesophagostomum","Lophocebus albigena","Ghai et al. 2014a","Kibale","0.929","Oesophagostomum sp.","Cercocebus_albigena","Oesophagostomum","sp.",FALSE,TRUE
+"144",4856,4856,8156,"Physaloptera sp.","Lophocebus albigena","Arlet et al. 2015","Kibale","0.55","Physaloptera sp.","Cercocebus_albigena","Physaloptera","sp.",FALSE,TRUE
+"145",4866,4866,8158,"Strongyloidea sp.","Lophocebus albigena","Arlet et al. 2015","Kibale","0.45","Strongyloides sp.","Cercocebus_albigena","Strongyloides","sp.",FALSE,TRUE
+"146",2470,2470,6172,"Anoplocephala sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.018","Anoplocephala sp.","Cercocebus_galeritus","Anoplocephala","sp.",FALSE,TRUE
+"147",2439,2439,2770,"Ascaroids","Cercocebus galeritus","Lilly et al. 2002","Dzanga-Ndoki","0.87","Ascaris sp.","Cercocebus_galeritus","Ascaris","sp.",FALSE,TRUE
+"148",2472,2472,6174,"Ascaris sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.08","Ascaris sp.","Cercocebus_galeritus","Ascaris","sp.",FALSE,TRUE
+"149",2474,2474,6176,"Bertiella sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.113","Bertiella sp.","Cercocebus_galeritus","Bertiella","sp.",FALSE,TRUE
+"150",2441,2441,4830,"Capillaria sp.","Cercocebus galeritus","Mbora and Munene 2006","Kenya","0.018","Capillaria sp.","Cercocebus_galeritus","Capillaria","sp.",FALSE,TRUE
+"151",2475,2475,6177,"Capillaria sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.103","Capillaria sp.","Cercocebus_galeritus","Capillaria","sp.",FALSE,TRUE
+"152",2476,2476,6178,"Dicrocoelium sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.25","Dicrocoelium sp.","Cercocebus_galeritus","Dicrocoelium","sp.",FALSE,TRUE
+"153",2448,2448,4831,"Heterakis sp.","Cercocebus galeritus","Mbora and Munene 2006","Kenya","0.1","Heterakis sp.","Cercocebus_galeritus","Heterakis","sp.",FALSE,TRUE
+"154",2480,2480,6182,"Heterakis sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.19","Heterakis sp.","Cercocebus_galeritus","Heterakis","sp.",FALSE,TRUE
+"155",2481,2481,6183,"Isospora sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.06","Isospora sp.","Cercocebus_galeritus","Isospora","sp.",FALSE,TRUE
+"156",2482,2482,6184,"Oesophagostomum sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.057","Oesophagostomum sp.","Cercocebus_galeritus","Oesophagostomum","sp.",FALSE,TRUE
+"157",2452,2452,4835,"Physaloptera sp.","Cercocebus galeritus","Mbora and Munene 2006","Kenya","0.018","Physaloptera sp.","Cercocebus_galeritus","Physaloptera","sp.",FALSE,TRUE
+"158",2469,2469,6171,"Abbreviata sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.09","Physaloptera sp.","Cercocebus_galeritus","Physaloptera","sp.",FALSE,TRUE
+"159",2483,2483,6185,"Physaloptera sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.138","Physaloptera sp.","Cercocebus_galeritus","Physaloptera","sp.",FALSE,TRUE
+"160",2454,2454,4836,"Streptopharagus sp.","Cercocebus galeritus","Mbora and Munene 2006","Kenya","0.009","Streptopharagus sp.","Cercocebus_galeritus","Streptopharagus","sp.",FALSE,TRUE
+"161",2484,2484,6186,"Streptopharagus sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.127","Streptopharagus sp.","Cercocebus_galeritus","Streptopharagus","sp.",FALSE,TRUE
+"162",2457,2457,4838,"Toxascaris sp.","Cercocebus galeritus","Mbora and Munene 2006","Kenya","0.009","Toxascaris sp.","Cercocebus_galeritus","Toxascaris","sp.",FALSE,TRUE
+"163",2486,2486,6188,"Toxascaris sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.073","Toxascaris sp.","Cercocebus_galeritus","Toxascaris","sp.",FALSE,TRUE
+"164",2458,2458,4839,"Toxocara sp.","Cercocebus galeritus","Mbora and Munene 2006","Kenya","0.009","Toxocara sp.","Cercocebus_galeritus","Toxocara","sp.",FALSE,TRUE
+"165",2487,2487,6189,"Toxocara sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.24","Toxocara sp.","Cercocebus_galeritus","Toxocara","sp.",FALSE,TRUE
+"166",2459,2459,4840,"Trichostrongylus sp.","Cercocebus galeritus","Mbora and Munene 2006","Kenya","0.063","Trichostrongylus sp.","Cercocebus_galeritus","Trichostrongylus","sp.",FALSE,TRUE
+"167",2488,2488,6190,"Trichostrongylus sp.","Cercocebus galeritus galeritus","Mbora and McPeek 2009","Tana River","0.108","Trichostrongylus sp.","Cercocebus_galeritus","Trichostrongylus","sp.",FALSE,TRUE
+"168",2388,2388,9101,"Ancylostoma sp.","Cercocebus atys","Kouassi et al. 2015","Tai National Park","0.739","Ancylostoma sp.","Cercocebus_torquatus","Ancylostoma","sp.",FALSE,TRUE
+"169",2391,2391,9119,"Blastocystis sp.","Cercocebus atys","Kouassi et al. 2015","Tai National Park","0.372","Blastocystis sp.","Cercocebus_torquatus","Blastocystis","sp.",FALSE,TRUE
+"170",2394,2394,9360,"cytomegalovirus (CMV)","Cercocebus atys","Anoh et al. 2017","Tai National Park","0.191","Cytomegalovirus sp.","Cercocebus_torquatus","Cytomegalovirus","sp.",FALSE,TRUE
+"171",2395,2395,9110,"Dicrocoelium sp.","Cercocebus atys","Kouassi et al. 2015","Tai National Park","0.367","Dicrocoelium sp.","Cercocebus_torquatus","Dicrocoelium","sp.",FALSE,TRUE
+"172",2400,2400,9118,"Giardia sp.","Cercocebus atys","Kouassi et al. 2015","Tai National Park","0.286","Giardia sp.","Cercocebus_torquatus","Giardia","sp.",FALSE,TRUE
+"173",2404,2404,9103,"Oesophagostomum sp.","Cercocebus atys","Kouassi et al. 2015","Tai National Park","0.799","Oesophagostomum sp.","Cercocebus_torquatus","Oesophagostomum","sp.",FALSE,TRUE
+"174",2424,2424,9104,"Subulura sp.","Cercocebus atys","Kouassi et al. 2015","Tai National Park","0.302","Subulura sp.","Cercocebus_torquatus","Subulura","sp.",FALSE,TRUE
+"175",2425,2425,9107,"Ternidens sp.","Cercocebus atys","Kouassi et al. 2015","Tai National Park","0.096","Ternidens sp.","Cercocebus_torquatus","Ternidens","sp.",FALSE,TRUE
+"176",2428,2428,9108,"Trichuris sp.","Cercocebus atys","Kouassi et al. 2015","Tai National Park","0.111","Trichuris sp.","Cercocebus_torquatus","Trichuris","sp.",FALSE,TRUE
+"177",3480,3480,7747,"Anatrichosoma sp.","Chlorocebus aethiops pygerythrus","Petrasova et al. 2010","Rubondo","0.045","Anatrichosoma sp.","Cercopithecus_aethiops","Anatrichosoma","sp.",FALSE,TRUE
+"178",3466,3466,9637,"Ascaris sp.","Chlorocebus aethiops","Valenta et al. 2017","Lake Nabugabo","0.33","Ascaris sp.","Cercopithecus_aethiops","Ascaris","sp.",FALSE,TRUE
+"179",3496,3496,9677,"Ascaris sp.","Chlorocebus pygerythrus","Thatcher et al. 2018","KwaZulu-Natal","NULL","Ascaris sp.","Cercopithecus_aethiops","Ascaris","sp.",FALSE,TRUE
+"180",2714,2714,2641,"Chlamydia sp.","Cercopithecus aethiops pygerythrus","Kaschula et al. 1978","Kruger","NULL","Chlamydia sp.","Cercopithecus_aethiops","Chlamydia","sp.",FALSE,TRUE
+"181",2568,2568,3534,"Cryptosporidium sp.","Cercopithecus aethiops","Legesse and Erko 2004","Sodore","0.12","Cryptosporidium sp.","Cercopithecus_aethiops","Cryptosporidium","sp.",FALSE,TRUE
+"182",2569,2569,3535,"Cryptosporidium sp.","Cercopithecus aethiops","Legesse and Erko 2004","Wondo Genet","0.563","Cryptosporidium sp.","Cercopithecus_aethiops","Cryptosporidium","sp.",FALSE,TRUE
+"183",3469,3469,9639,"Fasciola sp.","Chlorocebus aethiops","Valenta et al. 2017","Lake Nabugabo","0.38","Fasciola sp.","Cercopithecus_aethiops","Fasciola","sp.",FALSE,TRUE
+"184",3488,3488,7732,"Giardia sp.","Chlorocebus aethiops pygerythrus","Petrasova et al. 2010","Rubondo","0.144","Giardia sp.","Cercopithecus_aethiops","Giardia","sp.",FALSE,TRUE
+"185",3470,3470,9640,"Hyostrongylus sp.","Chlorocebus aethiops","Valenta et al. 2017","Lake Nabugabo","0.04","Hyostrongylus sp.","Cercopithecus_aethiops","Hyostrongylus","sp.",FALSE,TRUE
+"186",3471,3471,9766,"Hyostrongylus spp.","Chlorocebus aethiops","Valenta et al. 2017","Lake Nabugabo","NULL","Hyostrongylus sp.","Cercopithecus_aethiops","Hyostrongylus","sp.",FALSE,TRUE
+"187",2719,2719,2642,"Leptospira sp.","Cercopithecus aethiops pygerythrus","Kaschula et al. 1978","Kruger","NULL","Leptospira sp.","Cercopithecus_aethiops","Leptospira","sp.",FALSE,TRUE
+"188",3502,3502,10198,"Leptospira sp.","Chlorocebus pygerythrus","Jobbins & Alexander 2015","Chobe","0.5","Leptospira sp.","Cercopithecus_aethiops","Leptospira","sp.",FALSE,TRUE
+"189",3472,3472,9764,"Metastrongylus","Chlorocebus aethiops","Valenta et al. 2017","Lake Nabugabo","0.17","Metastrongylus sp.","Cercopithecus_aethiops","Metastrongylus","sp.",FALSE,TRUE
+"190",2543,2543,341,"Necator sp.","Cercopithecus (aethiops) sabaeus","McGrew et al. 1989b","Nikolo Koba","0.063","Necator sp.","Cercopithecus_aethiops","Necator","sp.",FALSE,TRUE
+"191",2544,2544,240,"Physaloptera sp.","Cercopithecus (aethiops) sabaeus","McGrew et al. 1989b","Nikolo Koba","0.06","Physaloptera sp.","Cercopithecus_aethiops","Physaloptera","sp.",FALSE,TRUE
+"192",2722,2722,7661,"Primasubulura sp.","Cercopithecus aethiops pygerythrus","Kooriyama et al., 2012","Mahale","0.1","Primasubulura sp.","Cercopithecus_aethiops","Primasubulura","sp.",FALSE,TRUE
+"193",3504,3504,10026,"Primasubulura spp.","Chlorocebus pygerythrus","Obanda et al. 2019","Amboseli","NULL","Primasubulura sp.","Cercopithecus_aethiops","Primasubulura","sp.",FALSE,TRUE
+"194",3308,3308,524,"Setaria sp.","Cercopithecus pygerythrus pygerythrus","Jooste 1990","ZIMBABWE","NULL","Setaria sp.","Cercopithecus_aethiops","Setaria","sp.",FALSE,TRUE
+"195",3513,3513,10024,"Spirurina spp.","Chlorocebus pygerythrus","Obanda et al. 2019","Amboseli","NULL","Spirurida sp.","Cercopithecus_aethiops","Spirurida","sp.",FALSE,TRUE
+"196",3477,3477,9643,"Toxocara sp.","Chlorocebus aethiops","Valenta et al. 2017","Lake Nabugabo","0.17","Toxocara sp.","Cercopithecus_aethiops","Toxocara","sp.",FALSE,TRUE
+"197",2756,2756,3654,"Bertiella sp.","Cercopithecus ascanius","Gillespie et al. 2004","Kibale","0.004","Bertiella sp.","Cercopithecus_ascanius","Bertiella","sp.",FALSE,TRUE
+"198",2757,2757,8331,"Blastocysis spp.","Cercopithecus ascanius","Chapman et al. 2012","Kibale","NULL","Blastocystis sp.","Cercopithecus_ascanius","Blastocystis","sp.",FALSE,TRUE
+"199",2826,2826,7643,"Chitwoodspirura sp.","Cercopithecus ascanius schmidti","Kooriyama et al., 2012","Mahale","0.13","Chitwoodspirura sp.","Cercopithecus_ascanius","Chitwoodspirura","sp.",FALSE,TRUE
+"200",2777,2777,3650,"Enterobius sp.","Cercopithecus ascanius","Gillespie et al. 2004","Kibale","0.01","Enterobius sp.","Cercopithecus_ascanius","Enterobius","sp.",FALSE,TRUE
+"201",2789,2789,8332,"Isospora sp.","Cercopithecus ascanius","Chapman et al. 2012","Kibale","NULL","Isospora sp.","Cercopithecus_ascanius","Isospora","sp.",FALSE,TRUE
+"202",2790,2790,2997,"Mesocestoides sp.","Cercopithecus ascanius","Nelson et al. 1965","KENYA","NULL","Mesocestoides sp.","Cercopithecus_ascanius","Mesocestoides","sp.",FALSE,TRUE
+"203",2793,2793,8221,"Oesophagostomum","Cercopithecus ascanius","Ghai et al. 2014a","Kibale","0.927","Oesophagostomum sp.","Cercopithecus_ascanius","Oesophagostomum","sp.",FALSE,TRUE
+"204",2794,2794,3349,"Oesophagostomum sp.","Cercopithecus ascanius","Gillespie et al. 2005b","Kibale","0.03","Oesophagostomum sp.","Cercopithecus_ascanius","Oesophagostomum","sp.",FALSE,TRUE
+"205",2795,2795,3614,"Oesophagostomum sp.","Cercopithecus ascanius","Gillespie et al. 2004","Kibale","0.1","Oesophagostomum sp.","Cercopithecus_ascanius","Oesophagostomum","sp.",FALSE,TRUE
+"206",2796,2796,3976,"Oesophagostomum sp.","Cercopithecus ascanius","Gillespie et al. 2005b","Kibale","0.21","Oesophagostomum sp.","Cercopithecus_ascanius","Oesophagostomum","sp.",FALSE,TRUE
+"207",2833,2833,7644,"Oesophagostomum spp.","Cercopithecus ascanius schmidti","Kooriyama et al., 2012","Mahale","0.44","Oesophagostomum sp.","Cercopithecus_ascanius","Oesophagostomum","sp.",FALSE,TRUE
+"208",2835,2835,7646,"Primasubulura sp.","Cercopithecus ascanius schmidti","Kooriyama et al., 2012","Mahale","0.16","Primasubulura sp.","Cercopithecus_ascanius","Primasubulura","sp.",FALSE,TRUE
+"209",2805,2805,3345,"Streptopharagus sp.","Cercopithecus ascanius","Gillespie et al. 2005b","Kibale","0.32","Streptopharagus sp.","Cercopithecus_ascanius","Streptopharagus","sp.",FALSE,TRUE
+"210",2806,2806,3354,"Streptopharagus sp.","Cercopithecus ascanius","Gillespie et al. 2005b","Kibale","0.13","Streptopharagus sp.","Cercopithecus_ascanius","Streptopharagus","sp.",FALSE,TRUE
+"211",2807,2807,3634,"Streptopharagus sp.","Cercopithecus ascanius","Gillespie et al. 2004","Kibale","0.18","Streptopharagus sp.","Cercopithecus_ascanius","Streptopharagus","sp.",FALSE,TRUE
+"212",2842,2842,7647,"Streptopharagus sp.","Cercopithecus ascanius schmidti","Kooriyama et al., 2012","Mahale","0.1","Streptopharagus sp.","Cercopithecus_ascanius","Streptopharagus","sp.",FALSE,TRUE
+"213",2868,2868,9121,"Ancylostoma sp.","Cercopithecus campbelli","Kouassi et al. 2015","Tai National Park","0.461","Ancylostoma sp.","Cercopithecus_campbelli","Ancylostoma","sp.",FALSE,TRUE
+"214",2871,2871,9139,"Blastocystis sp.","Cercopithecus campbelli","Kouassi et al. 2015","Tai National Park","0.073","Blastocystis sp.","Cercopithecus_campbelli","Blastocystis","sp.",FALSE,TRUE
+"215",2874,2874,9364,"cytomegalovirus (CMV)","Cercopithecus campbelli","Anoh et al. 2017","Tai National Park","0.25","Cytomegalovirus sp.","Cercopithecus_campbelli","Cytomegalovirus","sp.",FALSE,TRUE
+"216",2880,2880,9138,"Giardia sp.","Cercopithecus campbelli","Kouassi et al. 2015","Tai National Park","0.157","Giardia sp.","Cercopithecus_campbelli","Giardia","sp.",FALSE,TRUE
+"217",2884,2884,9123,"Oesophagostomum sp.","Cercopithecus campbelli","Kouassi et al. 2015","Tai National Park","0.562","Oesophagostomum sp.","Cercopithecus_campbelli","Oesophagostomum","sp.",FALSE,TRUE
+"218",2891,2891,9124,"Subulura sp.","Cercopithecus campbelli","Kouassi et al. 2015","Tai National Park","0.56","Subulura sp.","Cercopithecus_campbelli","Subulura","sp.",FALSE,TRUE
+"219",2892,2892,9127,"Ternidens sp.","Cercopithecus campbelli","Kouassi et al. 2015","Tai National Park","0.843","Ternidens sp.","Cercopithecus_campbelli","Ternidens","sp.",FALSE,TRUE
+"220",2893,2893,9129,"Trichostrongylus sp.","Cercopithecus campbelli","Kouassi et al. 2015","Tai National Park","0.023","Trichostrongylus sp.","Cercopithecus_campbelli","Trichostrongylus","sp.",FALSE,TRUE
+"221",2898,2898,7533,"Haemaphysalis parmata","Cercopithecus cephus","Hoogstraal and Theiler 1959","Djoum","NULL","Haemaphysalis sp.","Cercopithecus_cephus","Haemaphysalis","sp.",FALSE,TRUE
+"222",2904,2904,7534,"Ixodes rageaui","Cercopithecus cephus","Hoogstraal and Theiler 1959","Yaounde","NULL","Ixodes sp.","Cercopithecus_cephus","Ixodes","sp.",FALSE,TRUE
+"223",2947,2947,9141,"Ancylostoma sp.","Cercopithecus diana","Kouassi et al. 2015","Tai National Park","0.38","Ancylostoma sp.","Cercopithecus_diana","Ancylostoma","sp.",FALSE,TRUE
+"224",2950,2950,9159,"Blastocystis sp.","Cercopithecus diana","Kouassi et al. 2015","Tai National Park","0.094","Blastocystis sp.","Cercopithecus_diana","Blastocystis","sp.",FALSE,TRUE
+"225",2953,2953,9363,"cytomegalovirus (CMV)","Cercopithecus diana","Anoh et al. 2017","Tai National Park","0.125","Cytomegalovirus sp.","Cercopithecus_diana","Cytomegalovirus","sp.",FALSE,TRUE
+"226",2959,2959,9158,"Giardia sp.","Cercopithecus diana","Kouassi et al. 2015","Tai National Park","0.146","Giardia sp.","Cercopithecus_diana","Giardia","sp.",FALSE,TRUE
+"227",2965,2965,9143,"Oesophagostomum sp.","Cercopithecus diana","Kouassi et al. 2015","Tai National Park","0.252","Oesophagostomum sp.","Cercopithecus_diana","Oesophagostomum","sp.",FALSE,TRUE
+"228",2970,2970,9144,"Subulura sp.","Cercopithecus diana","Kouassi et al. 2015","Tai National Park","0.029","Subulura sp.","Cercopithecus_diana","Subulura","sp.",FALSE,TRUE
+"229",2971,2971,9147,"Ternidens sp.","Cercopithecus diana","Kouassi et al. 2015","Tai National Park","0.029","Ternidens sp.","Cercopithecus_diana","Ternidens","sp.",FALSE,TRUE
+"230",2983,2983,8218,"Oesophagostomum","Cercopithecus lhoesti","Ghai et al. 2014a","Kibale","1","Oesophagostomum sp.","Cercopithecus_lhoesti","Oesophagostomum","sp.",FALSE,TRUE
+"231",2984,2984,3616,"Oesophagostomum sp.","Cercopithecus lhoesti","Gillespie et al. 2004","Kibale","0.09","Oesophagostomum sp.","Cercopithecus_lhoesti","Oesophagostomum","sp.",FALSE,TRUE
+"232",3007,3007,8356,"Blastocysis spp.","Cercopithecus mitis","Chapman et al. 2012","Kibale","NULL","Blastocystis sp.","Cercopithecus_mitis","Blastocystis","sp.",FALSE,TRUE
+"233",3079,3079,727,"Capillaria sp.","Cercopithecus mitis erythrarchus","Appleton et al. 1994","Cape Vidal","0.03","Capillaria sp.","Cercopithecus_mitis","Capillaria","sp.",FALSE,TRUE
+"234",3102,3102,726,"Capillaria sp.","Cercopithecus mitis labiatus","Appleton et al. 1994","Karkloof","0.5","Capillaria sp.","Cercopithecus_mitis","Capillaria","sp.",FALSE,TRUE
+"235",3080,3080,940,"Gongylonema sp.","Cercopithecus mitis erythrarchus","Appleton et al. 1994","Cape Vidal","0.02","Gongylonema sp.","Cercopithecus_mitis","Gongylonema","sp.",FALSE,TRUE
+"236",3031,3031,8357,"Isospora sp.","Cercopithecus mitis","Chapman et al. 2012","Kibale","NULL","Isospora sp.","Cercopithecus_mitis","Isospora","sp.",FALSE,TRUE
+"237",3033,3033,2999,"Mesocestoides sp.","Cercopithecus mitis","Nelson et al. 1965","KENYA","0.07","Mesocestoides sp.","Cercopithecus_mitis","Mesocestoides","sp.",FALSE,TRUE
+"238",3098,3098,1312,"Subulura","Cercopithecus mitis kolbi","National Parasite Collection (WWW)","Nairobi","NULL","Subulura sp.","Cercopithecus_mitis","Subulura","sp.",FALSE,TRUE
+"239",3099,3099,1313,"Subulura","Cercopithecus mitis kolbi","National Parasite Collection (WWW)","Nairobi","NULL","Subulura sp.","Cercopithecus_mitis","Subulura","sp.",FALSE,TRUE
+"240",3100,3100,1314,"Subulura","Cercopithecus mitis kolbi","National Parasite Collection (WWW)","Nairobi","NULL","Subulura sp.","Cercopithecus_mitis","Subulura","sp.",FALSE,TRUE
+"241",3101,3101,1315,"Subulura","Cercopithecus mitis kolbi","National Parasite Collection (WWW)","Nairobi","NULL","Subulura sp.","Cercopithecus_mitis","Subulura","sp.",FALSE,TRUE
+"242",3073,3073,4622,"Trypanosoma sp.","Cercopithecus mitis","Hoare 1972","Congo","NULL","Trypanosoma sp.","Cercopithecus_mitis","Trypanosoma","sp.",FALSE,TRUE
+"243",3171,3171,732,"Psorergates sp.","Cercopithecus mona mona","Fain 1963","CAMEROON","NULL","Psorergates sp.","Cercopithecus_mona","Psorergates","sp.",FALSE,TRUE
+"244",3254,3254,9160,"Anatrichosoma sp.","Cercopithecus petaurista","Kouassi et al. 2015","Tai National Park","0.032","Anatrichosoma sp.","Cercopithecus_petaurista","Anatrichosoma","sp.",FALSE,TRUE
+"245",3255,3255,9161,"Ancylostoma sp.","Cercopithecus petaurista","Kouassi et al. 2015","Tai National Park","0.376","Ancylostoma sp.","Cercopithecus_petaurista","Ancylostoma","sp.",FALSE,TRUE
+"246",3258,3258,9179,"Blastocystis sp.","Cercopithecus petaurista","Kouassi et al. 2015","Tai National Park","0.095","Blastocystis sp.","Cercopithecus_petaurista","Blastocystis","sp.",FALSE,TRUE
+"247",3260,3260,9162,"Chitwoodspirura sp.","Cercopithecus petaurista","Kouassi et al. 2015","Tai National Park","0.013","Chitwoodspirura sp.","Cercopithecus_petaurista","Chitwoodspirura","sp.",FALSE,TRUE
+"248",3266,3266,9178,"Giardia sp.","Cercopithecus petaurista","Kouassi et al. 2015","Tai National Park","0.191","Giardia sp.","Cercopithecus_petaurista","Giardia","sp.",FALSE,TRUE
+"249",3271,3271,9163,"Oesophagostomum sp.","Cercopithecus petaurista","Kouassi et al. 2015","Tai National Park","0.306","Oesophagostomum sp.","Cercopithecus_petaurista","Oesophagostomum","sp.",FALSE,TRUE
+"250",3278,3278,9167,"Ternidens sp.","Cercopithecus petaurista","Kouassi et al. 2015","Tai National Park","0.026","Ternidens sp.","Cercopithecus_petaurista","Ternidens","sp.",FALSE,TRUE
+"251",3280,3280,9168,"Trichuris sp.","Cercopithecus petaurista","Kouassi et al. 2015","Tai National Park","0.185","Trichuris sp.","Cercopithecus_petaurista","Trichuris","sp.",FALSE,TRUE
+"252",3342,3342,8668,"Ascaris sp.","Cheirogaleus medius","Springer and Kappeler 2016","Kirindy","0.13","Ascaris sp.","Cheirogaleus_medius","Ascaris","sp.",FALSE,TRUE
+"253",3343,3343,8673,"Ascaris sp.","Cheirogaleus medius","Springer and Kappeler 2016","Kirindy","0.042","Ascaris sp.","Cheirogaleus_medius","Ascaris","sp.",FALSE,TRUE
+"254",3344,3344,9603,"Ascaris sp.","Cheirogaleus medius","Rakotoniaina et al. 2016","Kirindy","0.089","Ascaris sp.","Cheirogaleus_medius","Ascaris","sp.",FALSE,TRUE
+"255",3347,3347,6715,"Hymenolepis sp.","Cheirogaleus medius","Raharivololona et al. 2007","Mandena","0.269","Hymenolepis sp.","Cheirogaleus_medius","Hymenolepis","sp.",FALSE,TRUE
+"256",3348,3348,7259,"Hymenolepis sp.","Cheirogaleus medius","Raharivololona 2006","Mandena","0.269","Hymenolepis sp.","Cheirogaleus_medius","Hymenolepis","sp.",FALSE,TRUE
+"257",3349,3349,8666,"Hymenolepis sp.","Cheirogaleus medius","Springer and Kappeler 2016","Kirindy","0.4805","Hymenolepis sp.","Cheirogaleus_medius","Hymenolepis","sp.",FALSE,TRUE
+"258",3350,3350,8671,"Hymenolepis sp.","Cheirogaleus medius","Springer and Kappeler 2016","Kirindy","0.042","Hymenolepis sp.","Cheirogaleus_medius","Hymenolepis","sp.",FALSE,TRUE
+"259",3351,3351,9586,"Hymenolepis spp.","Cheirogaleus medius","Rakotoniaina et al. 2016","Kirindy","0.298","Hymenolepis sp.","Cheirogaleus_medius","Hymenolepis","sp.",FALSE,TRUE
+"260",3352,3352,9604,"Lemuricola spp.","Cheirogaleus medius","Rakotoniaina et al. 2016","Kirindy","0.015","Lemuricola sp.","Cheirogaleus_medius","Lemuricola","sp.",FALSE,TRUE
+"261",3353,3353,8669,"Metagonimus sp.","Cheirogaleus medius","Springer and Kappeler 2016","Kirindy","0.026","Metagonimus sp.","Cheirogaleus_medius","Metagonimus","sp.",FALSE,TRUE
+"262",3354,3354,8674,"Metagonimus sp.","Cheirogaleus medius","Springer and Kappeler 2016","Kirindy","0.042","Metagonimus sp.","Cheirogaleus_medius","Metagonimus","sp.",FALSE,TRUE
+"263",3355,3355,9609,"Metagonimus spp.","Cheirogaleus medius","Rakotoniaina et al. 2016","Kirindy","0.023","Metagonimus sp.","Cheirogaleus_medius","Metagonimus","sp.",FALSE,TRUE
+"264",3357,3357,9608,"Opisthorchis spp.","Cheirogaleus medius","Rakotoniaina et al. 2016","Kirindy","0.007","Opisthorchis sp.","Cheirogaleus_medius","Opisthorchis","sp.",FALSE,TRUE
+"265",3360,3360,9607,"Strongylida spp.","Cheirogaleus medius","Rakotoniaina et al. 2016","Kirindy","0.059","Strongylida sp.","Cheirogaleus_medius","Strongylida","sp.",FALSE,TRUE
+"266",3361,3361,6713,"Strongyloides sp.","Cheirogaleus medius","Raharivololona et al. 2007","Mandena","0.04","Strongyloides sp.","Cheirogaleus_medius","Strongyloides","sp.",FALSE,TRUE
+"267",3362,3362,7254,"Strongyloides spp.","Cheirogaleus medius","Raharivololona 2006","Mandena","0.039","Strongyloides sp.","Cheirogaleus_medius","Strongyloides","sp.",FALSE,TRUE
+"268",3367,3367,6714,"Trichuris sp.","Cheirogaleus medius","Raharivololona et al. 2007","Mandena","0.269","Trichuris sp.","Cheirogaleus_medius","Trichuris","sp.",FALSE,TRUE
+"269",3368,3368,7256,"Trichuris sp.","Cheirogaleus medius","Raharivololona 2006","Mandena","0.269","Trichuris sp.","Cheirogaleus_medius","Trichuris","sp.",FALSE,TRUE
+"270",3369,3369,8667,"Trichuris sp.","Cheirogaleus medius","Springer and Kappeler 2016","Kirindy","0.1818","Trichuris sp.","Cheirogaleus_medius","Trichuris","sp.",FALSE,TRUE
+"271",3371,3371,9602,"Trichuris spp.","Cheirogaleus medius","Rakotoniaina et al. 2016","Kirindy","0.127","Trichuris sp.","Cheirogaleus_medius","Trichuris","sp.",FALSE,TRUE
+"272",3564,3564,3590,"Trichuris sp.","Colobus angolensis","Gillespie et al. 2005a","Lake Nabugabo","1","Trichuris sp.","Colobus_angolensis","Trichuris","sp.",FALSE,TRUE
+"273",3585,3585,6125,"Trichuris sp.","Colobus angolensis palliatus","Okanga et al. 2006","Diani","0.094","Trichuris sp.","Colobus_angolensis","Trichuris","sp.",FALSE,TRUE
+"274",3586,3586,6126,"Trichuris sp.","Colobus angolensis palliatus","Okanga et al. 2006","Diani","0.095","Trichuris sp.","Colobus_angolensis","Trichuris","sp.",FALSE,TRUE
+"275",3587,3587,6127,"Trichuris sp.","Colobus angolensis palliatus","Okanga et al. 2006","Diani","0.102","Trichuris sp.","Colobus_angolensis","Trichuris","sp.",FALSE,TRUE
+"276",3588,3588,6128,"Trichuris sp.","Colobus angolensis palliatus","Okanga et al. 2006","Diani","0.08","Trichuris sp.","Colobus_angolensis","Trichuris","sp.",FALSE,TRUE
+"277",3589,3589,6129,"Trichuris sp.","Colobus angolensis palliatus","Okanga et al. 2006","Diani","0.081","Trichuris sp.","Colobus_angolensis","Trichuris","sp.",FALSE,TRUE
+"278",9091,9091,9181,"Ancylostoma sp.","Procolobus badius","Kouassi et al. 2015","Tai National Park","0.131","Ancylostoma sp.","Colobus_badius","Ancylostoma","sp.",FALSE,TRUE
+"279",8681,8681,3585,"Ascaris sp.","Piliocolobus tephrosceles","Gillespie et al. 2005a","Kibale","0.001","Ascaris sp.","Colobus_badius","Ascaris","sp.",FALSE,TRUE
+"280",9138,9138,6155,"Ascaris sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.095","Ascaris sp.","Colobus_badius","Ascaris","sp.",FALSE,TRUE
+"281",8682,8682,3594,"Bertiella sp.","Piliocolobus tephrosceles","Gillespie et al. 2005a","Kibale","0.001","Bertiella sp.","Colobus_badius","Bertiella","sp.",FALSE,TRUE
+"282",9141,9141,6157,"Bertiella sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.45","Bertiella sp.","Colobus_badius","Bertiella","sp.",FALSE,TRUE
+"283",9094,9094,9199,"Blastocystis sp.","Procolobus badius","Kouassi et al. 2015","Tai National Park","0.049","Blastocystis sp.","Colobus_badius","Blastocystis","sp.",FALSE,TRUE
+"284",9145,9145,6158,"Capillaria sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.28","Capillaria sp.","Colobus_badius","Capillaria","sp.",FALSE,TRUE
+"285",9118,9118,7631,"Chitwoodspirura sp.","Procolobus badius tephrosceles","Kooriyama et al., 2012","Mahale","0.02","Chitwoodspirura sp.","Colobus_badius","Chitwoodspirura","sp.",FALSE,TRUE
+"286",8684,8684,6706,"Cryptosporidium sp.","Piliocolobus tephrosceles","Salzer et al. 2007","Kibale","0.143","Cryptosporidium sp.","Colobus_badius","Cryptosporidium","sp.",FALSE,TRUE
+"287",8655,8655,9361,"cytomegalovirus (CMV)","Piliocolobus badius","Anoh et al. 2017","Tai National Park","0.129","Cytomegalovirus sp.","Colobus_badius","Cytomegalovirus","sp.",FALSE,TRUE
+"288",8666,8666,7912,"cytomegalovirus","Piliocolobus badius badius","Murthy et al. 2013","Tai National Park","NULL","Cytomegalovirus sp.","Colobus_badius","Cytomegalovirus","sp.",FALSE,TRUE
+"289",9121,9121,7629,"Enterobius sp.","Procolobus badius tephrosceles","Kooriyama et al., 2012","Mahale","0.01","Enterobius sp.","Colobus_badius","Enterobius","sp.",FALSE,TRUE
+"290",9176,9176,5650,"Enterobius","Procolobus rufomitratus","Snaith et al. 2008","Kibale","0.002","Enterobius sp.","Colobus_badius","Enterobius","sp.",FALSE,TRUE
+"291",9183,9183,8320,"Isospora sp.","Procolobus rufomitratus","Chapman et al. 2012","Kibale","NULL","Isospora sp.","Colobus_badius","Isospora","sp.",FALSE,TRUE
+"292",8667,8667,7915,"Lymphocryptovirus","Piliocolobus badius badius","Murthy et al. 2013","Tai National Park","NULL","Lymphocryptovirus sp.","Colobus_badius","Lymphocryptovirus","sp.",FALSE,TRUE
+"293",8696,8696,6523,"Oesophagostomum","Piliocolobus tephrosceles","Chapman et al. 2006a","Kibale","0.017","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"294",8697,8697,6528,"Oesophagostomum","Piliocolobus tephrosceles","Chapman et al. 2006a","Kibale","0.074","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"295",8698,8698,6533,"Oesophagostomum","Piliocolobus tephrosceles","Chapman et al. 2006a","Kibale","0.167","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"296",8699,8699,6538,"Oesophagostomum","Piliocolobus tephrosceles","Chapman et al. 2006a","Kibale","0.034","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"297",8700,8700,6543,"Oesophagostomum","Piliocolobus tephrosceles","Chapman et al. 2006a","Kibale","0.047","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"298",8701,8701,6548,"Oesophagostomum","Piliocolobus tephrosceles","Chapman et al. 2006a","Kibale","0.112","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"299",8702,8702,6553,"Oesophagostomum","Piliocolobus tephrosceles","Chapman et al. 2006a","Kibale","0.003","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"300",8704,8704,6561,"Oesophagostomum","Piliocolobus tephrosceles","Chapman et al. 2006a","Kibale","0.057","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"301",8705,8705,3579,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie et al. 2005a","Kibale","0.028","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"302",8706,8706,3658,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.02","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"303",8707,8707,3659,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.02","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"304",8708,8708,3662,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.05","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"305",8709,8709,3663,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.07","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"306",8710,8710,3668,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.24","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"307",8711,8711,3669,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.03","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"308",8712,8712,3670,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.006","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"309",8714,8714,3686,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.03","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"310",8715,8715,3692,"Oesophagostomum sp.","Piliocolobus tephrosceles","Chapman et al. 2005","Crater Lake Nkuruba","0.005","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"311",8716,8716,3886,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie and Chapman 2006","Kibale","0.05","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"312",8717,8717,3979,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie et al. 2005b","Kibale","0.05","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"313",8718,8718,3980,"Oesophagostomum sp.","Piliocolobus tephrosceles","Gillespie et al. 2005b","Kibale","0.02","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"314",8719,8719,6694,"Oesophagostomum sp.","Piliocolobus tephrosceles","Chapman et al. 2006b","Kibale","NULL","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"315",9106,9106,465,"Oesophagostomum sp.","Procolobus badius","Bakarr et al. 1991","Tiwai","0.072","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"316",9107,9107,9183,"Oesophagostomum sp.","Procolobus badius","Kouassi et al. 2015","Tai National Park","0.159","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"317",9123,9123,7630,"Oesophagostomum spp.","Procolobus badius tephrosceles","Kooriyama et al., 2012","Mahale","0.27","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"318",9184,9184,6570,"Oesophagostomum","Procolobus rufomitratus","Gillespie and Chapman 2008","Kibale","0.04","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"319",9185,9185,8220,"Oesophagostomum","Procolobus rufomitratus","Ghai et al. 2014a","Kibale","0.406","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"320",9186,9186,4817,"Oesophagostomum sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.011","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"321",9187,9187,4989,"Oesophagostomum sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.021","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"322",9188,9188,5130,"Oesophagostomum sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.009","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"323",9189,9189,6162,"Oesophagostomum sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.074","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"324",9190,9190,6566,"Oesophagostomum sp.","Procolobus rufomitratus","Chapman et al. 2007","Kibale","0.01","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"325",9191,9191,6595,"Oesophagostomum sp.","Procolobus rufomitratus","Gillespie and Chapman 2008","Kibale","0.02","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"326",9192,9192,6103,"Oesophagostomum spp.","Procolobus rufomitratus","Chapman et al. 2009a","Kibale","NULL","Oesophagostomum sp.","Colobus_badius","Oesophagostomum","sp.",FALSE,TRUE
+"327",9130,9130,4813,"Abbreviata sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.011","Physaloptera sp.","Colobus_badius","Physaloptera","sp.",FALSE,TRUE
+"328",9131,9131,4987,"Abbreviata sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.021","Physaloptera sp.","Colobus_badius","Physaloptera","sp.",FALSE,TRUE
+"329",9132,9132,5128,"Abbreviata sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.009","Physaloptera sp.","Colobus_badius","Physaloptera","sp.",FALSE,TRUE
+"330",9133,9133,6153,"Abbreviata sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.077","Physaloptera sp.","Colobus_badius","Physaloptera","sp.",FALSE,TRUE
+"331",9194,9194,6163,"Physaloptera sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.07","Physaloptera sp.","Colobus_badius","Physaloptera","sp.",FALSE,TRUE
+"332",8668,8668,7918,"rhadinovirus","Piliocolobus badius badius","Murthy et al. 2013","Tai National Park","NULL","Rhadinovirus sp.","Colobus_badius","Rhadinovirus","sp.",FALSE,TRUE
+"333",9213,9213,4821,"Toxascaris sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.131","Toxascaris sp.","Colobus_badius","Toxascaris","sp.",FALSE,TRUE
+"334",9214,9214,4991,"Toxascaris sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.125","Toxascaris sp.","Colobus_badius","Toxascaris","sp.",FALSE,TRUE
+"335",9215,9215,5132,"Toxascaris sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.144","Toxascaris sp.","Colobus_badius","Toxascaris","sp.",FALSE,TRUE
+"336",9216,9216,6166,"Toxascaris sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.164","Toxascaris sp.","Colobus_badius","Toxascaris","sp.",FALSE,TRUE
+"337",9218,9218,6167,"Toxocara sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.14","Toxocara sp.","Colobus_badius","Toxocara","sp.",FALSE,TRUE
+"338",9220,9220,4823,"Trichostrongylus sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.051","Trichostrongylus sp.","Colobus_badius","Trichostrongylus","sp.",FALSE,TRUE
+"339",9222,9222,5133,"Trichostrongylus sp.","Procolobus rufomitratus","Mbora and Munene 2006","Kenya","0.076","Trichostrongylus sp.","Colobus_badius","Trichostrongylus","sp.",FALSE,TRUE
+"340",9223,9223,6168,"Trichostrongylus sp.","Procolobus rufomitratus","Mbora and McPeek 2009","Tana River","0.076","Trichostrongylus sp.","Colobus_badius","Trichostrongylus","sp.",FALSE,TRUE
+"341",3603,3603,3586,"Ascaris sp.","Colobus guereza","Gillespie et al. 2005a","Kibale","0.013","Ascaris sp.","Colobus_guereza","Ascaris","sp.",FALSE,TRUE
+"342",3604,3604,6576,"Ascaris sp.","Colobus guereza","Gillespie and Chapman 2008","Kibale","0.06","Ascaris sp.","Colobus_guereza","Ascaris","sp.",FALSE,TRUE
+"343",3606,3606,3595,"Bertiella sp.","Colobus guereza","Gillespie et al. 2005a","Kibale","0.002","Bertiella sp.","Colobus_guereza","Bertiella","sp.",FALSE,TRUE
+"344",3607,3607,8344,"Blastocysis spp.","Colobus guereza","Chapman et al. 2012","Kibale","NULL","Blastocystis sp.","Colobus_guereza","Blastocystis","sp.",FALSE,TRUE
+"345",3608,3608,7719,"Blastocystis sp.","Colobus guereza","Petrasova et al. 2010","Rubondo","0.609","Blastocystis sp.","Colobus_guereza","Blastocystis","sp.",FALSE,TRUE
+"346",3609,3609,8492,"Blastocystis sp.","Colobus guereza","Petrasova et al. 2011","Rubondo","0.837","Blastocystis sp.","Colobus_guereza","Blastocystis","sp.",FALSE,TRUE
+"347",3610,3610,8614,"Blastocystis sp.","Colobus guereza","Petrasova et al. 2011","Rubondo","0.612","Blastocystis sp.","Colobus_guereza","Blastocystis","sp.",FALSE,TRUE
+"348",3671,3671,5996,"STLV","Colobus guereza","Liegeois et al. 2008","CAMEROON","0.429","Deltaretrovirus sp.","Colobus_guereza","Deltaretrovirus","sp.",FALSE,TRUE
+"349",3708,3708,1319,"Filaria","Colobus occidentalis","National Parasite Collection (WWW)","DEMOCRATIC REPUBLIC OF CONGO","NULL","Filaria sp.","Colobus_guereza","Filaria","sp.",FALSE,TRUE
+"350",3706,3706,7731,"Giardia sp.","Colobus guerza","Petrasova et al. 2010","Rubondo","0.196","Giardia sp.","Colobus_guereza","Giardia","sp.",FALSE,TRUE
+"351",3646,3646,7867,"Hepatocystis sp.","Colobus guereza","Thurber et al. 2013","Kibale","0.222","Hepatocystis sp.","Colobus_guereza","Hepatocystis","sp.",FALSE,TRUE
+"352",3712,3712,9201,"Ancylostoma sp.","Colobus polykomos","Kouassi et al. 2015","Tai National Park","0.072","Ancylostoma sp.","Colobus_polykomos","Ancylostoma","sp.",FALSE,TRUE
+"353",3789,3789,6628,"Ascaris sp.","Colobus vellerosus","Teichroeb et al. 2009","Boabeng-Fiema Monkey Sanctuary","0.115","Ascaris sp.","Colobus_polykomos","Ascaris","sp.",FALSE,TRUE
+"354",3790,3790,6637,"Ascaris sp.","Colobus vellerosus","Teichroeb et al. 2009","Boabeng-Fiema Monkey Sanctuary","0.028","Ascaris sp.","Colobus_polykomos","Ascaris","sp.",FALSE,TRUE
+"355",3715,3715,9219,"Blastocystis sp.","Colobus polykomos","Kouassi et al. 2015","Tai National Park","0.04","Blastocystis sp.","Colobus_polykomos","Blastocystis","sp.",FALSE,TRUE
+"356",3791,3791,6623,"Blastocystis sp.","Colobus vellerosus","Teichroeb et al. 2009","Boabeng-Fiema Monkey Sanctuary","0.375","Blastocystis sp.","Colobus_polykomos","Blastocystis","sp.",FALSE,TRUE
+"357",3792,3792,6631,"Blastocystis sp.","Colobus vellerosus","Teichroeb et al. 2009","Boabeng-Fiema Monkey Sanctuary","0.3","Blastocystis sp.","Colobus_polykomos","Blastocystis","sp.",FALSE,TRUE
+"358",3720,3720,7913,"cytomegalovirus","Colobus polykomos","Murthy et al. 2013","Tai National Park","NULL","Cytomegalovirus sp.","Colobus_polykomos","Cytomegalovirus","sp.",FALSE,TRUE
+"359",3721,3721,9362,"cytomegalovirus (CMV)","Colobus polykomos","Anoh et al. 2017","Tai National Park","0.083","Cytomegalovirus sp.","Colobus_polykomos","Cytomegalovirus","sp.",FALSE,TRUE
+"360",3722,3722,9209,"Dicrocoelium sp.","Colobus polykomos","Kouassi et al. 2015","Tai National Park","0.328","Dicrocoelium sp.","Colobus_polykomos","Dicrocoelium","sp.",FALSE,TRUE
+"361",3797,3797,6629,"Enterobius sp.","Colobus vellerosus","Teichroeb et al. 2009","Boabeng-Fiema Monkey Sanctuary","0.077","Enterobius sp.","Colobus_polykomos","Enterobius","sp.",FALSE,TRUE
+"362",3798,3798,6638,"Enterobius sp.","Colobus vellerosus","Teichroeb et al. 2009","Boabeng-Fiema Monkey Sanctuary","0.018","Enterobius sp.","Colobus_polykomos","Enterobius","sp.",FALSE,TRUE
+"363",3801,3801,6626,"Isospora sp.","Colobus vellerosus","Teichroeb et al. 2009","Boabeng-Fiema Monkey Sanctuary","0.154","Isospora sp.","Colobus_polykomos","Isospora","sp.",FALSE,TRUE
+"364",3802,3802,6635,"Isospora sp.","Colobus vellerosus","Teichroeb et al. 2009","Boabeng-Fiema Monkey Sanctuary","0.064","Isospora sp.","Colobus_polykomos","Isospora","sp.",FALSE,TRUE
+"365",3729,3729,7916,"Lymphocryptovirus","Colobus polykomos","Murthy et al. 2013","Tai National Park","NULL","Lymphocryptovirus sp.","Colobus_polykomos","Lymphocryptovirus","sp.",FALSE,TRUE
+"366",3710,3710,7241,"Adenovirus","Colobus polykomos","Wevers et al. 2011","IVORY COAST","NULL","Mastadenovirus sp.","Colobus_polykomos","Mastadenovirus","sp.",FALSE,TRUE
+"367",3732,3732,9203,"Oesophagostomum sp.","Colobus polykomos","Kouassi et al. 2015","Tai National Park","0.088","Oesophagostomum sp.","Colobus_polykomos","Oesophagostomum","sp.",FALSE,TRUE
+"368",3733,3733,7919,"rhadinovirus","Colobus polykomos","Murthy et al. 2013","Tai National Park","NULL","Rhadinovirus sp.","Colobus_polykomos","Rhadinovirus","sp.",FALSE,TRUE
+"369",3737,3737,469,"Strongyloides sp.","Colobus polykomos","Bakarr et al. 1991","Tiwai","0.178","Strongyloides sp.","Colobus_polykomos","Strongyloides","sp.",FALSE,TRUE
+"370",3738,3738,9205,"Strongyloides sp.","Colobus polykomos","Kouassi et al. 2015","Tai National Park","0.144","Strongyloides sp.","Colobus_polykomos","Strongyloides","sp.",FALSE,TRUE
+"371",3841,3841,342,"Necator sp.","Erythrocebus patas patas","McGrew et al. 1989b","Nikolo Koba","0.059","Necator sp.","Erythrocebus_patas","Necator","sp.",FALSE,TRUE
+"372",3842,3842,343,"Physaloptera sp.","Erythrocebus patas patas","McGrew et al. 1989b","Nikolo Koba","0.118","Physaloptera sp.","Erythrocebus_patas","Physaloptera","sp.",FALSE,TRUE
+"373",3843,3843,345,"Streptopharagus sp.","Erythrocebus patas patas","McGrew et al. 1989b","Nikolo Koba","0.529","Streptopharagus sp.","Erythrocebus_patas","Streptopharagus","sp.",FALSE,TRUE
+"374",3844,3844,339,"Strongyloides sp.","Erythrocebus patas patas","McGrew et al. 1989b","Nikolo Koba","0.235","Strongyloides sp.","Erythrocebus_patas","Strongyloides","sp.",FALSE,TRUE
+"375",3845,3845,347,"Trichuris sp.","Erythrocebus patas patas","McGrew et al. 1989b","Nikolo Koba","0.118","Trichuris sp.","Erythrocebus_patas","Trichuris","sp.",FALSE,TRUE
+"376",4012,4012,2921,"Leptospira sp.","Galago senegalensis","Minette 1966","Tororo","NULL","Leptospira sp.","Galago_senegalensis","Leptospira","sp.",FALSE,TRUE
+"377",3961,3961,9366,"Ancylostoma","Galago demidoff","Boundenga et al. 2018","GABON","0.096","Ancylostoma sp.","Galagoides_demidoff","Ancylostoma","sp.",FALSE,TRUE
+"378",3962,3962,9396,"Ancylostoma","Galago demidoff","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.146","Ancylostoma sp.","Galagoides_demidoff","Ancylostoma","sp.",FALSE,TRUE
+"379",3963,3963,9397,"Ancylostoma","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.071","Ancylostoma sp.","Galagoides_demidoff","Ancylostoma","sp.",FALSE,TRUE
+"380",4070,4070,9367,"Ancylostoma","Galago thomasi","Boundenga et al. 2018","GABON","0.078","Ancylostoma sp.","Galagoides_demidoff","Ancylostoma","sp.",FALSE,TRUE
+"381",4071,4071,9420,"Ancylostoma","Galago thomasi","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.105","Ancylostoma sp.","Galagoides_demidoff","Ancylostoma","sp.",FALSE,TRUE
+"382",4072,4072,9421,"Ancylostoma","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.048","Ancylostoma sp.","Galagoides_demidoff","Ancylostoma","sp.",FALSE,TRUE
+"383",3964,3964,9372,"Ascaris sp.","Galago demidoff","Boundenga et al. 2018","GABON","0.313","Ascaris sp.","Galagoides_demidoff","Ascaris","sp.",FALSE,TRUE
+"384",3965,3965,9390,"Ascaris sp.","Galago demidoff","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.463","Ascaris sp.","Galagoides_demidoff","Ascaris","sp.",FALSE,TRUE
+"385",3966,3966,9391,"Ascaris sp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.357","Ascaris sp.","Galagoides_demidoff","Ascaris","sp.",FALSE,TRUE
+"386",4073,4073,9373,"Ascaris sp.","Galago thomasi","Boundenga et al. 2018","GABON","0.406","Ascaris sp.","Galagoides_demidoff","Ascaris","sp.",FALSE,TRUE
+"387",4074,4074,9412,"Ascaris sp.","Galago thomasi","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.632","Ascaris sp.","Galagoides_demidoff","Ascaris","sp.",FALSE,TRUE
+"388",4075,4075,9413,"Ascaris sp.","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.143","Ascaris sp.","Galagoides_demidoff","Ascaris","sp.",FALSE,TRUE
+"389",3967,3967,9384,"Balantidium sp.","Galago demidoff","Boundenga et al. 2018","GABON","0.193","Balantidium sp.","Galagoides_demidoff","Balantidium","sp.",FALSE,TRUE
+"390",3968,3968,9394,"Balantidium sp.","Galago demidoff","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.293","Balantidium sp.","Galagoides_demidoff","Balantidium","sp.",FALSE,TRUE
+"391",3969,3969,9395,"Balantidium sp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.095","Balantidium sp.","Galagoides_demidoff","Balantidium","sp.",FALSE,TRUE
+"392",4076,4076,9385,"Balantidium sp.","Galago thomasi","Boundenga et al. 2018","GABON","0.156","Balantidium sp.","Galagoides_demidoff","Balantidium","sp.",FALSE,TRUE
+"393",4077,4077,9414,"Balantidium sp.","Galago thomasi","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.316","Balantidium sp.","Galagoides_demidoff","Balantidium","sp.",FALSE,TRUE
+"394",4078,4078,9415,"Balantidium sp.","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.143","Balantidium sp.","Galagoides_demidoff","Balantidium","sp.",FALSE,TRUE
+"395",3970,3970,9378,"Dicrocoelium sp.","Galago demidoff","Boundenga et al. 2018","GABON","0.072","Dicrocoelium sp.","Galagoides_demidoff","Dicrocoelium","sp.",FALSE,TRUE
+"396",3971,3971,9402,"Dicrocoelium sp.","Galago demidoff","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.073","Dicrocoelium sp.","Galagoides_demidoff","Dicrocoelium","sp.",FALSE,TRUE
+"397",3972,3972,9403,"Dicrocoelium sp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.024","Dicrocoelium sp.","Galagoides_demidoff","Dicrocoelium","sp.",FALSE,TRUE
+"398",4079,4079,9379,"Dicrocoelium sp.","Galago thomasi","Boundenga et al. 2018","GABON","0.094","Dicrocoelium sp.","Galagoides_demidoff","Dicrocoelium","sp.",FALSE,TRUE
+"399",4080,4080,9416,"Dicrocoelium sp.","Galago thomasi","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.263","Dicrocoelium sp.","Galagoides_demidoff","Dicrocoelium","sp.",FALSE,TRUE
+"400",4081,4081,9417,"Dicrocoelium sp.","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.048","Dicrocoelium sp.","Galagoides_demidoff","Dicrocoelium","sp.",FALSE,TRUE
+"401",3973,3973,9386,"Entamoeba sp.","Galago demidoff","Boundenga et al. 2018","GABON","0.072","Entamoeba sp.","Galagoides_demidoff","Entamoeba","sp.",FALSE,TRUE
+"402",3974,3974,9398,"Entamoeba sp.","Galago demidoff","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.122","Entamoeba sp.","Galagoides_demidoff","Entamoeba","sp.",FALSE,TRUE
+"403",3975,3975,9399,"Entamoeba sp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.095","Entamoeba sp.","Galagoides_demidoff","Entamoeba","sp.",FALSE,TRUE
+"404",4082,4082,9387,"Entamoeba sp.","Galago thomasi","Boundenga et al. 2018","GABON","0.094","Entamoeba sp.","Galagoides_demidoff","Entamoeba","sp.",FALSE,TRUE
+"405",4083,4083,9424,"Entamoeba sp.","Galago thomasi","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.053","Entamoeba sp.","Galagoides_demidoff","Entamoeba","sp.",FALSE,TRUE
+"406",4084,4084,9425,"Entamoeba sp.","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.048","Entamoeba sp.","Galagoides_demidoff","Entamoeba","sp.",FALSE,TRUE
+"407",3976,3976,9368,"Gonglyonema sp","Galago demidoff","Boundenga et al. 2018","GABON","0.06","Gongylonema sp.","Galagoides_demidoff","Gongylonema","sp.",FALSE,TRUE
+"408",3978,3978,9407,"Gonglyonema sp","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.119","Gongylonema sp.","Galagoides_demidoff","Gongylonema","sp.",FALSE,TRUE
+"409",4085,4085,9369,"Gonglyonema sp","Galago thomasi","Boundenga et al. 2018","GABON","0.047","Gongylonema sp.","Galagoides_demidoff","Gongylonema","sp.",FALSE,TRUE
+"410",4087,4087,9429,"Gonglyonema sp","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.071","Gongylonema sp.","Galagoides_demidoff","Gongylonema","sp.",FALSE,TRUE
+"411",3979,3979,9370,"Lemuricola spp.","Galago demidoff","Boundenga et al. 2018","GABON","0.036","Lemuricola sp.","Galagoides_demidoff","Lemuricola","sp.",FALSE,TRUE
+"412",3981,3981,9409,"Lemuricola spp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.071","Lemuricola sp.","Galagoides_demidoff","Lemuricola","sp.",FALSE,TRUE
+"413",3982,3982,9374,"Oesophagostomum spp.","Galago demidoff","Boundenga et al. 2018","GABON","0.096","Oesophagostomum sp.","Galagoides_demidoff","Oesophagostomum","sp.",FALSE,TRUE
+"414",3983,3983,9392,"Oesophagostomum spp.","Galago demidoff","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.366","Oesophagostomum sp.","Galagoides_demidoff","Oesophagostomum","sp.",FALSE,TRUE
+"415",3984,3984,9393,"Oesophagostomum spp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.119","Oesophagostomum sp.","Galagoides_demidoff","Oesophagostomum","sp.",FALSE,TRUE
+"416",4091,4091,9375,"Oesophagostomum spp.","Galago thomasi","Boundenga et al. 2018","GABON","0.391","Oesophagostomum sp.","Galagoides_demidoff","Oesophagostomum","sp.",FALSE,TRUE
+"417",4092,4092,9418,"Oesophagostomum spp.","Galago thomasi","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.263","Oesophagostomum sp.","Galagoides_demidoff","Oesophagostomum","sp.",FALSE,TRUE
+"418",4093,4093,9419,"Oesophagostomum spp.","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.19","Oesophagostomum sp.","Galagoides_demidoff","Oesophagostomum","sp.",FALSE,TRUE
+"419",3985,3985,9382,"Strongyloides spp.","Galago demidoff","Boundenga et al. 2018","GABON","0.627","Strongyloides sp.","Galagoides_demidoff","Strongyloides","sp.",FALSE,TRUE
+"420",3986,3986,9388,"Strongyloides spp.","Galago demidoff","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.537","Strongyloides sp.","Galagoides_demidoff","Strongyloides","sp.",FALSE,TRUE
+"421",3987,3987,9389,"Strongyloides spp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.31","Strongyloides sp.","Galagoides_demidoff","Strongyloides","sp.",FALSE,TRUE
+"422",4094,4094,9410,"Strongyloides sp.","Galago thomasi","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.737","Strongyloides sp.","Galagoides_demidoff","Strongyloides","sp.",FALSE,TRUE
+"423",4095,4095,9411,"Strongyloides sp.","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.238","Strongyloides sp.","Galagoides_demidoff","Strongyloides","sp.",FALSE,TRUE
+"424",4096,4096,9383,"Strongyloides spp.","Galago thomasi","Boundenga et al. 2018","GABON","0.109","Strongyloides sp.","Galagoides_demidoff","Strongyloides","sp.",FALSE,TRUE
+"425",3988,3988,9376,"Trichostrongylus","Galago demidoff","Boundenga et al. 2018","GABON","0.012","Trichostrongylus sp.","Galagoides_demidoff","Trichostrongylus","sp.",FALSE,TRUE
+"426",3990,3990,9405,"Trichostrongylus sp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.167","Trichostrongylus sp.","Galagoides_demidoff","Trichostrongylus","sp.",FALSE,TRUE
+"427",4097,4097,9377,"Trichostrongylus","Galago thomasi","Boundenga et al. 2018","GABON","0.234","Trichostrongylus sp.","Galagoides_demidoff","Trichostrongylus","sp.",FALSE,TRUE
+"428",4099,4099,9427,"Trichostrongylus sp.","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.214","Trichostrongylus sp.","Galagoides_demidoff","Trichostrongylus","sp.",FALSE,TRUE
+"429",3991,3991,9400,"Trichuris sp.","Galago demidoff","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.098","Trichuris sp.","Galagoides_demidoff","Trichuris","sp.",FALSE,TRUE
+"430",3992,3992,9401,"Trichuris sp.","Galago demidoff","Boundenga et al. 2018","Djoumou Forest ","0.024","Trichuris sp.","Galagoides_demidoff","Trichuris","sp.",FALSE,TRUE
+"431",3993,3993,9380,"Trichuris spp.","Galago demidoff","Boundenga et al. 2018","GABON","0.036","Trichuris sp.","Galagoides_demidoff","Trichuris","sp.",FALSE,TRUE
+"432",4100,4100,9381,"Trichuris spp.","Galago thomasi","Boundenga et al. 2018","GABON","0.094","Trichuris sp.","Galagoides_demidoff","Trichuris","sp.",FALSE,TRUE
+"433",4101,4101,9422,"Trichuris spp.","Galago thomasi","Boundenga et al. 2018","Primatology Center Forest (CDP)","0.105","Trichuris sp.","Galagoides_demidoff","Trichuris","sp.",FALSE,TRUE
+"434",4102,4102,9423,"Trichuris spp.","Galago thomasi","Boundenga et al. 2018","Djoumou Forest ","0.048","Trichuris sp.","Galagoides_demidoff","Trichuris","sp.",FALSE,TRUE
+"435",4381,4381,9548,"Bertiella sp.","Gorilla gorilla gorilla","Pafco et al. 2017","Dzanga Sangha Protected Areas","NULL","Bertiella sp.","Gorilla_gorilla","Bertiella","sp.",FALSE,TRUE
+"436",4382,4382,8007,"Blastocystis sp.","Gorilla gorilla gorilla","Freeman et al. 2004","Bai Hokou","0.027","Blastocystis sp.","Gorilla_gorilla","Blastocystis","sp.",FALSE,TRUE
+"437",4383,4383,9518,"Blastocystis sp.","Gorilla gorilla gorilla","Pafco et al. 2017","Dzanga Sangha Protected Areas","0.16","Blastocystis sp.","Gorilla_gorilla","Blastocystis","sp.",FALSE,TRUE
+"438",4217,4217,10322,"Chabertia sp.","Gorilla beringei graueri","Kamungu et al. 2015","Kahuzi-Biega","0.03","Chabertia sp.","Gorilla_gorilla","Chabertia","sp.",FALSE,TRUE
+"439",4314,4314,1097,"cytomegalovirus","Gorilla gorilla beringei","Hastings 1991","AFRICA","NULL","Cytomegalovirus sp.","Gorilla_gorilla","Cytomegalovirus","sp.",FALSE,TRUE
+"440",4401,4401,9963,"Enterovirus","Gorilla gorilla gorilla","Grützmacher et al. 2016","Dzanga Sangha Protected Areas","0.143","Enterovirus sp.","Gorilla_gorilla","Enterovirus","sp.",FALSE,TRUE
+"441",4402,4402,9969,"Enterovirus","Gorilla gorilla gorilla","Grützmacher et al. 2016","Dzanga Sangha Protected Areas","1","Enterovirus sp.","Gorilla_gorilla","Enterovirus","sp.",FALSE,TRUE
+"442",4221,4221,10334,"Fasciola sp.","Gorilla beringei graueri","Kamungu et al. 2015","Kahuzi-Biega","0.16","Fasciola sp.","Gorilla_gorilla","Fasciola","sp.",FALSE,TRUE
+"443",4243,4243,242,"Gongylonema sp.","Gorilla g. gorilla","Landsoud-Soukate et al. 1995","Lope","0.08","Gongylonema sp.","Gorilla_gorilla","Gongylonema","sp.",FALSE,TRUE
+"444",4223,4223,10318,"Hoemonchus sp.","Gorilla beringei graueri","Kamungu et al. 2015","Kahuzi-Biega","0.33","Haemonchus sp.","Gorilla_gorilla","Haemonchus","sp.",FALSE,TRUE
+"445",4111,4111,560,"Impalaia sp.","gorilla","Fossey 1983","Parc Natl Volcans","NULL","Impalaia sp.","Gorilla_gorilla","Impalaia","sp.",FALSE,TRUE
+"446",4180,4180,4681,"Impalaia sp.","Gorilla beringei beringei","Rothman and Bowman 2003","Parc Natl Volcans","NULL","Impalaia sp.","Gorilla_gorilla","Impalaia","sp.",FALSE,TRUE
+"447",4417,4417,8013,"Mammomonogamous sp.","Gorilla gorilla gorilla","Freeman et al. 2004","Bai Hokou","0.827","Mammomonogamus sp.","Gorilla_gorilla","Mammomonogamus","sp.",FALSE,TRUE
+"448",4418,4418,9522,"Mammomonogamus sp.","Gorilla gorilla gorilla","Pafco et al. 2017","Dzanga Sangha Protected Areas","0.641","Mammomonogamus sp.","Gorilla_gorilla","Mammomonogamus","sp.",FALSE,TRUE
+"449",4224,4224,10338,"Monieza sp.","Gorilla beringei graueri","Kamungu et al. 2015","Kahuzi-Biega","0.2","Moniezia sp.","Gorilla_gorilla","Moniezia","sp.",FALSE,TRUE
+"450",4225,4225,10326,"Ostertagia sp.","Gorilla beringei graueri","Kamungu et al. 2015","Kahuzi-Biega","0.01","Ostertagia sp.","Gorilla_gorilla","Ostertagia","sp.",FALSE,TRUE
+"451",4427,4427,9570,"Picobirnavirus IHU-Con-GPbvs","Gorilla gorilla gorilla","Duraisamy et al. 2018","Lesio-Louna","NULL","Picobirnavirus sp.","Gorilla_gorilla","Picobirnavirus","sp.",FALSE,TRUE
+"452",4428,4428,9577,"Picoronavirus Gorilla Stool Associcate virus (GOSA)","Gorilla gorilla gorilla","Duraisamy et al. 2018","Lesio-Louna","NULL","Picornaviridae sp.","Gorilla_gorilla","Picornaviridae","sp.",FALSE,TRUE
+"453",4116,4116,387,"Pneumonyssus sp.","gorilla","Meder 1994","UNKNOWN","NULL","Pneumonyssus sp.","Gorilla_gorilla","Pneumonyssus","sp.",FALSE,TRUE
+"454",4457,4457,8077,"Providencia sp.","Gorilla gorilla gorilla","Mbehang Nguema et al. 2015","Moukalaba-Doudou","0.111","Providencia sp.","Gorilla_gorilla","Providencia","sp.",FALSE,TRUE
+"455",4197,4197,5642,"Salmonella","Gorilla beringei beringei","Kalema-Zikusoka et al. 2005","Bwindi","0.5","Salmonella sp.","Gorilla_gorilla","Salmonella","sp.",FALSE,TRUE
+"456",4355,4355,71,"Salmonella","Gorilla gorilla beringei","Nizeyi et al. 2001","Bwindi","0.109","Salmonella sp.","Gorilla_gorilla","Salmonella","sp.",FALSE,TRUE
+"457",4356,4356,108,"Salmonella","Gorilla gorilla beringei","Nizeyi et al. 2001","Mgahinga","0.286","Salmonella sp.","Gorilla_gorilla","Salmonella","sp.",FALSE,TRUE
+"458",4357,4357,459,"Salmonella","Gorilla gorilla beringei","Kalema 1995","Bwindi","NULL","Salmonella sp.","Gorilla_gorilla","Salmonella","sp.",FALSE,TRUE
+"459",4229,4229,10336,"Schistosoma sp.","Gorilla beringei graueri","Kamungu et al. 2015","Kahuzi-Biega","0.38","Schistosoma sp.","Gorilla_gorilla","Schistosoma","sp.",FALSE,TRUE
+"460",4478,4478,9070,"Streptophargus","Gorilla gorilla gorilla","Makouloutou et al. 2014","Moukalaba-Doudou","0.004","Streptopharagus sp.","Gorilla_gorilla","Streptopharagus","sp.",FALSE,TRUE
+"461",4233,4233,10340,"Taenia sp.","Gorilla beringei graueri","Kamungu et al. 2015","Kahuzi-Biega","0.11","Taenia sp.","Gorilla_gorilla","Taenia","sp.",FALSE,TRUE
+"462",4496,4496,8740,"Enterovirus","Hapalemur aureus","Zohdy et al. 2015","Ranomafana","0.286","Enterovirus sp.","Hapalemur_aureus","Enterovirus","sp.",FALSE,TRUE
+"463",4497,4497,8741,"Norovirus GI","Hapalemur aureus","Zohdy et al. 2015","Ranomafana","0.143","Norovirus sp.","Hapalemur_aureus","Norovirus","sp.",FALSE,TRUE
+"464",4498,4498,8742,"Norovirus GII","Hapalemur aureus","Zohdy et al. 2015","Ranomafana","0.286","Norovirus sp.","Hapalemur_aureus","Norovirus","sp.",FALSE,TRUE
+"465",4504,4504,7971,"Plasmodium sp.","Hapalemur griseus griseus","Pacheco et al. 2011","Ranomafana","1","Plasmodium sp.","Hapalemur_griseus","Plasmodium","sp.",FALSE,TRUE
+"466",9265,9265,8617,"Cryptosporidium sp.","Prolemur simus","Rasambainarivo et al. 2013","Ranomafana","0.5","Cryptosporidium sp.","Hapalemur_simus","Cryptosporidium","sp.",FALSE,TRUE
+"467",9264,9264,8754,"Adenovirus","Prolemur simus","Zohdy et al. 2015","Ranomafana","0.333","Mastadenovirus sp.","Hapalemur_simus","Mastadenovirus","sp.",FALSE,TRUE
+"468",9269,9269,8756,"Norovirus GI","Prolemur simus","Zohdy et al. 2015","Ranomafana","0.333","Norovirus sp.","Hapalemur_simus","Norovirus","sp.",FALSE,TRUE
+"469",9270,9270,8757,"Norovirus GII","Prolemur simus","Zohdy et al. 2015","Ranomafana","0.667","Norovirus sp.","Hapalemur_simus","Norovirus","sp.",FALSE,TRUE
+"470",4514,4514,7829,"Ascaris sp.","Hylobates lar","Gillespie et al. 2013","Khao Yai ","0.087","Ascaris sp.","Hylobates_lar","Ascaris","sp.",FALSE,TRUE
+"471",4518,4518,7823,"Cryptosporidium sp.","Hylobates lar","Gillespie et al. 2013","Khao Yai ","0.044","Cryptosporidium sp.","Hylobates_lar","Cryptosporidium","sp.",FALSE,TRUE
+"472",4519,4519,7821,"Dicrocoeliidae sp.","Hylobates lar","Gillespie et al. 2013","Khao Yai ","0.087","Dicrocoeliidae sp.","Hylobates_lar","Dicrocoeliidae","sp.",FALSE,TRUE
+"473",4521,4521,7824,"Necator sp.","Hylobates lar","Gillespie et al. 2013","Khao Yai ","0.087","Necator sp.","Hylobates_lar","Necator","sp.",FALSE,TRUE
+"474",4527,4527,7827,"Ternidens sp.","Hylobates lar","Gillespie et al. 2013","Khao Yai ","0.913","Ternidens sp.","Hylobates_lar","Ternidens","sp.",FALSE,TRUE
+"475",4528,4528,7825,"Trichostrongylus sp.","Hylobates lar","Gillespie et al. 2013","Khao Yai ","0.13","Trichostrongylus sp.","Hylobates_lar","Trichostrongylus","sp.",FALSE,TRUE
+"476",4529,4529,7828,"Trichuris sp.","Hylobates lar","Gillespie et al. 2013","Khao Yai ","0.913","Trichuris sp.","Hylobates_lar","Trichuris","sp.",FALSE,TRUE
+"477",10073,10073,1328,"Trichuris","Symphalangus syndactylus","National Parasite Collection (WWW)","UNKNOWN","NULL","Trichuris sp.","Hylobates_syndactylus","Trichuris","sp.",FALSE,TRUE
+"478",4539,4539,5656,"Bacillus sp..","Indri indri","Junge and Louis 2002","Betampona","NULL","Bacillus sp.","Indri_indri","Bacillus","sp.",FALSE,TRUE
+"479",4541,4541,9032,"Bertiella sp.","Indri indri","Junge et al. 2011","Analamazoatra","0.333","Bertiella sp.","Indri_indri","Bertiella","sp.",FALSE,TRUE
+"480",4554,4554,5653,"Group D Enterococcus","Indri indri","Junge and Louis 2002","Betampona","NULL","Enterococcus sp.","Indri_indri","Enterococcus","sp.",FALSE,TRUE
+"481",4562,4562,9013,"Lemurostrongylus sp.","Indri indri","Junge et al. 2011","Betampona","1","Lemurostrongylus sp.","Indri_indri","Lemurostrongylus","sp.",FALSE,TRUE
+"482",4563,4563,9031,"Lemurostrongylus sp.","Indri indri","Junge et al. 2011","Analamazoatra","0.833","Lemurostrongylus sp.","Indri_indri","Lemurostrongylus","sp.",FALSE,TRUE
+"483",4570,4570,7974,"Plasmodium sp.","Indri indri","Pacheco et al. 2011","Analamazoatra","0.028","Plasmodium sp.","Indri_indri","Plasmodium","sp.",FALSE,TRUE
+"484",4544,4544,5659,"Coagulase negative Staphylococcus sp.","Indri indri","Junge and Louis 2002","Betampona","NULL","Staphylococcus sp.","Indri_indri","Staphylococcus","sp.",FALSE,TRUE
+"485",4592,4592,1338,"Filaria","Lagothrix humboldti","National Parasite Collection (WWW)","Unknown","NULL","Filaria sp.","Lagothrix_lagotricha","Filaria","sp.",FALSE,TRUE
+"486",4593,4593,1339,"Strongylus","Lagothrix humboldti","National Parasite Collection (WWW)","Unknown","NULL","Strongylus sp.","Lagothrix_lagotricha","Strongylus","sp.",FALSE,TRUE
+"487",4625,4625,1610,"Bacillus sp..","Lemur catta","Dutton et al. 2003","Tsimanampetsotsa","0.05","Bacillus sp.","Lemur_catta","Bacillus","sp.",FALSE,TRUE
+"488",4626,4626,6203,"Balantidium sp.","Lemur catta","Loudon 2009","Beza Mahafaly","1","Balantidium sp.","Lemur_catta","Balantidium","sp.",FALSE,TRUE
+"489",4627,4627,7895,"Balantidium sp.","Lemur catta","Loudon and Sauther 2013","Beza Mahafaly","1","Balantidium sp.","Lemur_catta","Balantidium","sp.",FALSE,TRUE
+"490",4628,4628,1611,"Citrobacter sp.","Lemur catta","Dutton et al. 2003","Tsimanampetsotsa","0.05","Citrobacter sp.","Lemur_catta","Citrobacter","sp.",FALSE,TRUE
+"491",4629,4629,6212,"Entamoeba sp.","Lemur catta","Loudon 2009","Beza Mahafaly","0.513","Entamoeba sp.","Lemur_catta","Entamoeba","sp.",FALSE,TRUE
+"492",4630,4630,7896,"Entamoeba sp.","Lemur catta","Loudon and Sauther 2013","Beza Mahafaly","0.513","Entamoeba sp.","Lemur_catta","Entamoeba","sp.",FALSE,TRUE
+"493",4631,4631,1613,"Enterobacter sp.","Lemur catta","Dutton et al. 2003","Tsimanampetsotsa","0.25","Enterobacter sp.","Lemur_catta","Enterobacter","sp.",FALSE,TRUE
+"494",4632,4632,1618,"Enterococcus","Lemur catta","Dutton et al. 2003","Tsimanampetsotsa","0.45","Enterococcus sp.","Lemur_catta","Enterococcus","sp.",FALSE,TRUE
+"495",4636,4636,6209,"Lemurgales sp.","Lemur catta","Loudon 2009","Beza Mahafaly","1","Lemuralges sp.","Lemur_catta","Lemuralges","sp.",FALSE,TRUE
+"496",4638,4638,6215,"Lemurostrongyles sp.","Lemur catta","Loudon 2009","Beza Mahafaly","0.385","Lemurostrongylus sp.","Lemur_catta","Lemurostrongylus","sp.",FALSE,TRUE
+"497",4639,4639,7899,"Lemurostrongylus sp.","Lemur catta","Loudon and Sauther 2013","Beza Mahafaly","0.385","Lemurostrongylus sp.","Lemur_catta","Lemurostrongylus","sp.",FALSE,TRUE
+"498",4641,4641,6210,"Listophoroides sp.","Lemur catta","Loudon 2009","Beza Mahafaly","0.436","Listrophoroides sp.","Lemur_catta","Listrophoroides","sp.",FALSE,TRUE
+"499",4642,4642,1615,"Micrococcus sp.","Lemur catta","Dutton et al. 2003","Tsimanampetsotsa","0.1","Micrococcus sp.","Lemur_catta","Micrococcus","sp.",FALSE,TRUE
+"500",4647,4647,1612,"Staphylococcus sp.","Lemur catta","Dutton et al. 2003","Tsimanampetsotsa","0.3","Staphylococcus sp.","Lemur_catta","Staphylococcus","sp.",FALSE,TRUE
+"501",4648,4648,6217,"Subulura sp.","Lemur catta","Loudon 2009","Beza Mahafaly","0.077","Subulura sp.","Lemur_catta","Subulura","sp.",FALSE,TRUE
+"502",4651,4651,6218,"Trichuris sp.","Lemur catta","Loudon 2009","Beza Mahafaly","0.051","Trichuris sp.","Lemur_catta","Trichuris","sp.",FALSE,TRUE
+"503",4728,4728,745,"Amblyomma sp.","Leontopithecus rosalia","Pissinatti et al. 2002","UNKNOWN","NULL","Amblyomma sp.","Leontopithecus_rosalia","Amblyomma","sp.",FALSE,TRUE
+"504",4729,4729,1002,"Euschoengastia sp.","Leontopithecus rosalia","Pissinatti et al. 2002","UNKNOWN","NULL","Euschoengastia sp.","Leontopithecus_rosalia","Euschoengastia","sp.",FALSE,TRUE
+"505",4731,4731,5910,"Oncicola sp.","Leontopithecus rosalia","Monteiro et al. 2003","Poco das Antas","0.511","Oncicola sp.","Leontopithecus_rosalia","Oncicola","sp.",FALSE,TRUE
+"506",4732,4732,5911,"Oncicola sp.","Leontopithecus rosalia","Monteiro et al. 2003","Uniao","0.556","Oncicola sp.","Leontopithecus_rosalia","Oncicola","sp.",FALSE,TRUE
+"507",4733,4733,5908,"Oxyuridae sp.","Leontopithecus rosalia","Monteiro et al. 2003","Poco das Antas","0.106","Oxyuridae sp.","Leontopithecus_rosalia","Oxyuridae","sp.",FALSE,TRUE
+"508",4734,4734,5909,"Oxyuridae sp.","Leontopithecus rosalia","Monteiro et al. 2003","Uniao","0.056","Oxyuridae sp.","Leontopithecus_rosalia","Oxyuridae","sp.",FALSE,TRUE
+"509",4735,4735,5923,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2007","Uniao","0.5","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"510",4736,4736,5924,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2007","Poco das Antas","0.23","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"511",4737,4737,5925,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2007","Poco das Antas","0.31","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"512",4738,4738,5926,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2007","Rio de Janeiro","0.1","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"513",4739,4739,5927,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2007","Rio de Janeiro","0.13","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"514",4740,4740,6114,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2007","Rio de Janeiro","0.11","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"515",4741,4741,6115,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2007","Poco das Antas","0.27","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"516",4742,4742,10350,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2010","Poco das Antas","0.2","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"517",4743,4743,10351,"Prosthenorchis sp.","Leontopithecus rosalia","Monteiro et al. 2010","Poco das Antas","0.26","Prosthenorchis sp.","Leontopithecus_rosalia","Prosthenorchis","sp.",FALSE,TRUE
+"518",4774,4774,5663,"Enterococcus sp.","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Enterococcus sp.","Lepilemur_mustelinus","Enterococcus","sp.",FALSE,TRUE
+"519",4775,4775,5663,"Enterococcus sp.","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Enterococcus sp.","Lepilemur_mustelinus","Enterococcus","sp.",FALSE,TRUE
+"520",4776,4776,5663,"Enterococcus sp.","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Enterococcus sp.","Lepilemur_mustelinus","Enterococcus","sp.",FALSE,TRUE
+"521",4777,4777,5655,"Group D Enterococcus","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Enterococcus sp.","Lepilemur_mustelinus","Enterococcus","sp.",FALSE,TRUE
+"522",4778,4778,5655,"Group D Enterococcus","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Enterococcus sp.","Lepilemur_mustelinus","Enterococcus","sp.",FALSE,TRUE
+"523",4779,4779,5655,"Group D Enterococcus","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Enterococcus sp.","Lepilemur_mustelinus","Enterococcus","sp.",FALSE,TRUE
+"524",4769,4769,7245,"Lemurostrongyles sp.","Lepilemur edwardsi","Irwin and Raharison, 2009","MADAGASCAR","NULL","Lemurostrongylus sp.","Lepilemur_mustelinus","Lemurostrongylus","sp.",FALSE,TRUE
+"525",4770,4770,9536,"Ornithodoros sp.","Lepilemur edwardsi","Hokan et al. 2017","Ankarafantsika","0.75","Ornithodoros sp.","Lepilemur_mustelinus","Ornithodoros","sp.",FALSE,TRUE
+"526",4816,4816,8513,"Parahabronema","Lepilemur mustelinus","Junge et al. 2017","Ambatovy Joint Venture","0.6","Parabronema sp.","Lepilemur_mustelinus","Parabronema","sp.",FALSE,TRUE
+"527",4817,4817,8513,"Parahabronema","Lepilemur mustelinus","Junge et al. 2017","Ambatovy Joint Venture","0.6","Parabronema sp.","Lepilemur_mustelinus","Parabronema","sp.",FALSE,TRUE
+"528",4818,4818,8513,"Parahabronema","Lepilemur mustelinus","Junge et al. 2017","Ambatovy Joint Venture","0.6","Parabronema sp.","Lepilemur_mustelinus","Parabronema","sp.",FALSE,TRUE
+"529",4771,4771,5661,"Coagulase negative Staphylococcus sp.","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Staphylococcus sp.","Lepilemur_mustelinus","Staphylococcus","sp.",FALSE,TRUE
+"530",4772,4772,5661,"Coagulase negative Staphylococcus sp.","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Staphylococcus sp.","Lepilemur_mustelinus","Staphylococcus","sp.",FALSE,TRUE
+"531",4773,4773,5661,"Coagulase negative Staphylococcus sp.","Lepilemur mustelinus","Junge and Louis 2002","Betampona","NULL","Staphylococcus sp.","Lepilemur_mustelinus","Staphylococcus","sp.",FALSE,TRUE
+"532",4877,4877,149,"human T-cell leukemia virus","Macaca arctoides","Ishida et al. 1985","THAILAND","0.015","Deltaretrovirus sp.","Macaca_arctoides","Deltaretrovirus","sp.",FALSE,TRUE
+"533",4904,4904,8997,"Alaria","Macaca fascicularis","Lane et al. 2011","Bali","0.023","Alaria sp.","Macaca_fascicularis","Alaria","sp.",FALSE,TRUE
+"534",4908,4908,8991,"Ascaris","Macaca fascicularis","Lane et al. 2011","Bali","0.06","Ascaris sp.","Macaca_fascicularis","Ascaris","sp.",FALSE,TRUE
+"535",4909,4909,10378,"Ascaris sp.","Macaca fascicularis","Salgado-Lynn 2010","Kinabatangan ","0.629","Ascaris sp.","Macaca_fascicularis","Ascaris","sp.",FALSE,TRUE
+"536",4910,4910,9004,"Balantidium","Macaca fascicularis","Lane et al. 2011","Bali","0.044","Balantidium sp.","Macaca_fascicularis","Balantidium","sp.",FALSE,TRUE
+"537",4912,4912,9005,"Blastocystis","Macaca fascicularis","Lane et al. 2011","Bali","0.031","Blastocystis sp.","Macaca_fascicularis","Blastocystis","sp.",FALSE,TRUE
+"538",4918,4918,10368,"Clonorchis sp.","Macaca fascicularis","Salgado-Lynn 2010","Kinabatangan ","0.014","Clonorchis sp.","Macaca_fascicularis","Clonorchis","sp.",FALSE,TRUE
+"539",4919,4919,9003,"Cryptosporidia","Macaca fascicularis","Lane et al. 2011","Bali","0.249","Cryptosporidium sp.","Macaca_fascicularis","Cryptosporidium","sp.",FALSE,TRUE
+"540",4920,4920,10139,"Cryptosporidium spp.","Macaca fascicularis","Karim et al. 2014","Guangxi Zhuang Autonomous Region","0.1","Cryptosporidium sp.","Macaca_fascicularis","Cryptosporidium","sp.",FALSE,TRUE
+"541",4922,4922,9001,"Endolimax","Macaca fascicularis","Lane et al. 2011","Bali","0.301","Endolimax sp.","Macaca_fascicularis","Endolimax","sp.",FALSE,TRUE
+"542",4923,4923,8998,"Entamoeba","Macaca fascicularis","Lane et al. 2011","Bali","0.632","Entamoeba sp.","Macaca_fascicularis","Entamoeba","sp.",FALSE,TRUE
+"543",4924,4924,8994,"Enterobius","Macaca fascicularis","Lane et al. 2011","Bali","0.064","Enterobius sp.","Macaca_fascicularis","Enterobius","sp.",FALSE,TRUE
+"544",4926,4926,10371,"Fasciola sp.","Macaca fascicularis","Salgado-Lynn 2010","Kinabatangan ","0.049","Fasciola sp.","Macaca_fascicularis","Fasciola","sp.",FALSE,TRUE
+"545",4934,4934,8999,"Giardia","Macaca fascicularis","Lane et al. 2011","Bali","0.609","Giardia sp.","Macaca_fascicularis","Giardia","sp.",FALSE,TRUE
+"546",4935,4935,7860,"Globocephalus sp.","Macaca fascicularis","Wenz-Mucke et al. 2013","Kosumpee Forest Park","0.117","Globocephalus sp.","Macaca_fascicularis","Globocephalus","sp.",FALSE,TRUE
+"547",4936,4936,7865,"Globocephalus sp.","Macaca fascicularis","Wenz-Mucke et al. 2013","Don Chao Pu Forest Park","0.117","Globocephalus sp.","Macaca_fascicularis","Globocephalus","sp.",FALSE,TRUE
+"548",4950,4950,9002,"Iodamoeba","Macaca fascicularis","Lane et al. 2011","Bali","0.096","Iodamoeba sp.","Macaca_fascicularis","Iodamoeba","sp.",FALSE,TRUE
+"549",4951,4951,9000,"Isospora","Macaca fascicularis","Lane et al. 2011","Bali","0.137","Isospora sp.","Macaca_fascicularis","Isospora","sp.",FALSE,TRUE
+"550",4970,4970,9007,"Retortamonas","Macaca fascicularis","Lane et al. 2011","Bali","0.017","Retortamonas sp.","Macaca_fascicularis","Retortamonas","sp.",FALSE,TRUE
+"551",4882,4882,1341,"Streptopharagus","Macaca cyanomalgus","National Parasite Collection (WWW)","Jakarta","NULL","Streptopharagus sp.","Macaca_fascicularis","Streptopharagus","sp.",FALSE,TRUE
+"552",4987,4987,8992,"Taenia","Macaca fascicularis","Lane et al. 2011","Bali","0.137","Taenia sp.","Macaca_fascicularis","Taenia","sp.",FALSE,TRUE
+"553",4988,4988,10374,"Taenia sp.","Macaca fascicularis","Salgado-Lynn 2010","Kinabatangan ","0.028","Taenia sp.","Macaca_fascicularis","Taenia","sp.",FALSE,TRUE
+"554",4990,4990,9006,"Trichomonas","Macaca fascicularis","Lane et al. 2011","Bali","0.056","Trichomonas sp.","Macaca_fascicularis","Trichomonas","sp.",FALSE,TRUE
+"555",4991,4991,8993,"Trichostrongylus","Macaca fascicularis","Lane et al. 2011","Bali","0.035","Trichostrongylus sp.","Macaca_fascicularis","Trichostrongylus","sp.",FALSE,TRUE
+"556",4992,4992,783,"Trichostrongylus sp.","Macaca fascicularis","Son, 2002","Can Gio","0.127","Trichostrongylus sp.","Macaca_fascicularis","Trichostrongylus","sp.",FALSE,TRUE
+"557",5015,5015,3080,"Enterobius sp.","Macaca fuscata","Rivera and Kanbara 1999","Takasaki-yama","0.3","Enterobius sp.","Macaca_fuscata","Enterobius","sp.",FALSE,TRUE
+"558",5249,5249,9498,"Cryptosporidium sp.","Macaca mulatta","Debenham et al. 2017","Kurali","0.006","Cryptosporidium sp.","Macaca_mulatta","Cryptosporidium","sp.",FALSE,TRUE
+"559",5284,5284,3232,"human T-cell leukemia virus","Macaca mulatta","Ishida et al. 1985","UNKNOWN","0.033","Deltaretrovirus sp.","Macaca_mulatta","Deltaretrovirus","sp.",FALSE,TRUE
+"560",5282,5282,1350,"Gongylonema","Macaca mulatta","National Parasite Collection (WWW)","Unknown","NULL","Gongylonema sp.","Macaca_mulatta","Gongylonema","sp.",FALSE,TRUE
+"561",5289,5289,2922,"Leptospira sp.","Macaca mulatta","Minette 1966","INDIA","0.02","Leptospira sp.","Macaca_mulatta","Leptospira","sp.",FALSE,TRUE
+"562",5236,5236,5589,"Adenovirus sp.","Macaca mulatta","Bhatt et al. 1966","Lucknow","0.021","Mastadenovirus sp.","Macaca_mulatta","Mastadenovirus","sp.",FALSE,TRUE
+"563",5313,5313,36,"Reovirus","Macaca mulatta","Bhatt et al. 1966","Lucknow","0.32","Reovirus sp.","Macaca_mulatta","Reovirus","sp.",FALSE,TRUE
+"564",5323,5323,9056,"Salmonella spp.","Macaca mulatta","Beisner et al. 2016","Dehradun","0.022","Salmonella sp.","Macaca_mulatta","Salmonella","sp.",FALSE,TRUE
+"565",5330,5330,9057,"Shigella spp.","Macaca mulatta","Beisner et al. 2016","Dehradun","0.049","Shigella sp.","Macaca_mulatta","Shigella","sp.",FALSE,TRUE
+"566",5390,5390,5590,"Echovirus","Macaca radiata","Bhatt et al. 1966","Shimoga","NULL","Enterovirus sp.","Macaca_radiata","Enterovirus","sp.",FALSE,TRUE
+"567",5391,5391,2,"Haemaphysalis sp.","Macaca radiata","Fiennes 1972","Kyasanur","NULL","Haemaphysalis sp.","Macaca_radiata","Haemaphysalis","sp.",FALSE,TRUE
+"568",5397,5397,2923,"Leptospira sp.","Macaca radiata","Minette 1966","INDIA","0.04","Leptospira sp.","Macaca_radiata","Leptospira","sp.",FALSE,TRUE
+"569",5414,5414,1743,"Reovirus","Macaca radiata","Bhatt et al. 1966","Shimoga","0.86","Reovirus sp.","Macaca_radiata","Reovirus","sp.",FALSE,TRUE
+"570",5416,5416,7873,"Ancylostoma","Macaca silenus","Hussain et al. 2013","Valparai","0.264","Ancylostoma sp.","Macaca_silenus","Ancylostoma","sp.",FALSE,TRUE
+"571",5417,5417,9982,"Ascaris sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.124","Ascaris sp.","Macaca_silenus","Ascaris","sp.",FALSE,TRUE
+"572",5420,5420,7874,"Bunostomum","Macaca silenus","Hussain et al. 2013","Valparai","0.242","Bunostomum sp.","Macaca_silenus","Bunostomum","sp.",FALSE,TRUE
+"573",5421,5421,9980,"Bunostomum sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.005","Bunostomum sp.","Macaca_silenus","Bunostomum","sp.",FALSE,TRUE
+"574",5422,5422,7878,"Cotylophoron","Macaca silenus","Hussain et al. 2013","Valparai","0.121","Cotylophoron sp.","Macaca_silenus","Cotylophoron","sp.",FALSE,TRUE
+"575",5423,5423,7880,"Diphyllobothrium","Macaca silenus","Hussain et al. 2013","Valparai","0.022","Diphyllobothrium sp.","Macaca_silenus","Diphyllobothrium","sp.",FALSE,TRUE
+"576",5424,5424,9989,"Diphylobothrium sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.021","Diphyllobothrium sp.","Macaca_silenus","Diphyllobothrium","sp.",FALSE,TRUE
+"577",5429,5429,7876,"Haemonchus","Macaca silenus","Hussain et al. 2013","Valparai","0.154","Haemonchus sp.","Macaca_silenus","Haemonchus","sp.",FALSE,TRUE
+"578",5430,5430,9981,"Haemonchus sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.01","Haemonchus sp.","Macaca_silenus","Haemonchus","sp.",FALSE,TRUE
+"579",5431,5431,9988,"Metastrongylus sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.005","Metastrongylus sp.","Macaca_silenus","Metastrongylus","sp.",FALSE,TRUE
+"580",5432,5432,7879,"Moniezia","Macaca silenus","Hussain et al. 2013","Valparai","0.011","Moniezia sp.","Macaca_silenus","Moniezia","sp.",FALSE,TRUE
+"581",5433,5433,9983,"Oesophagostomum sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.005","Oesophagostomum sp.","Macaca_silenus","Oesophagostomum","sp.",FALSE,TRUE
+"582",5434,5434,9957,"Plasmodium sp.","Macaca silenus","Dixit et al. 2018","Southern India","0.667","Plasmodium sp.","Macaca_silenus","Plasmodium","sp.",FALSE,TRUE
+"583",5437,5437,9984,"Toxocara sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.026","Toxocara sp.","Macaca_silenus","Toxocara","sp.",FALSE,TRUE
+"584",5438,5438,9986,"Trichostrongylus sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.036","Trichostrongylus sp.","Macaca_silenus","Trichostrongylus","sp.",FALSE,TRUE
+"585",5439,5439,7877,"Trichuris","Macaca silenus","Hussain et al. 2013","Valparai","0.318","Trichuris sp.","Macaca_silenus","Trichuris","sp.",FALSE,TRUE
+"586",5440,5440,9978,"Trichuris sp.","Macaca silenus","Kumar et al. 2019","Chiksuli","0.057","Trichuris sp.","Macaca_silenus","Trichuris","sp.",FALSE,TRUE
+"587",5475,5475,5969,"Chilomastix spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.17","Chilomastix sp.","Macaca_sinica","Chilomastix","sp.",FALSE,TRUE
+"588",5476,5476,5970,"Chilomastix spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.07","Chilomastix sp.","Macaca_sinica","Chilomastix","sp.",FALSE,TRUE
+"589",5477,5477,5971,"Chilomastix spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.06","Chilomastix sp.","Macaca_sinica","Chilomastix","sp.",FALSE,TRUE
+"590",5478,5478,5972,"Chilomastix spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.19","Chilomastix sp.","Macaca_sinica","Chilomastix","sp.",FALSE,TRUE
+"591",5479,5479,6096,"Chilomastix spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.124","Chilomastix sp.","Macaca_sinica","Chilomastix","sp.",FALSE,TRUE
+"592",5480,5480,5937,"Cryptosporidium","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.26","Cryptosporidium sp.","Macaca_sinica","Cryptosporidium","sp.",FALSE,TRUE
+"593",5481,5481,5938,"Cryptosporidium","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.32","Cryptosporidium sp.","Macaca_sinica","Cryptosporidium","sp.",FALSE,TRUE
+"594",5482,5482,5939,"Cryptosporidium","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.33","Cryptosporidium sp.","Macaca_sinica","Cryptosporidium","sp.",FALSE,TRUE
+"595",5483,5483,5940,"Cryptosporidium","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.26","Cryptosporidium sp.","Macaca_sinica","Cryptosporidium","sp.",FALSE,TRUE
+"596",5453,5453,234,"human T-cell leukemia virus","Macaca sinica","Ishida et al. 1985","SRI LANKA","0.175","Deltaretrovirus sp.","Macaca_sinica","Deltaretrovirus","sp.",FALSE,TRUE
+"597",5454,5454,5396,"human T-cell leukemia virus","Macaca sinica","Ishida et al. 1985","SRI LANKA","0.188","Deltaretrovirus sp.","Macaca_sinica","Deltaretrovirus","sp.",FALSE,TRUE
+"598",5455,5455,5432,"human T-cell leukemia virus","Macaca sinica","Ishida et al. 1985","SRI LANKA","0.168","Deltaretrovirus sp.","Macaca_sinica","Deltaretrovirus","sp.",FALSE,TRUE
+"599",5456,5456,5468,"human T-cell leukemia virus","Macaca sinica","Ishida et al. 1985","SRI LANKA","0.267","Deltaretrovirus sp.","Macaca_sinica","Deltaretrovirus","sp.",FALSE,TRUE
+"600",5457,5457,5531,"human T-cell leukemia virus","Macaca sinica","Ishida et al. 1985","SRI LANKA","0.071","Deltaretrovirus sp.","Macaca_sinica","Deltaretrovirus","sp.",FALSE,TRUE
+"601",5499,5499,5945,"Enterobius spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.7","Enterobius sp.","Macaca_sinica","Enterobius","sp.",FALSE,TRUE
+"602",5500,5500,5946,"Enterobius spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.31","Enterobius sp.","Macaca_sinica","Enterobius","sp.",FALSE,TRUE
+"603",5501,5501,5947,"Enterobius spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.49","Enterobius sp.","Macaca_sinica","Enterobius","sp.",FALSE,TRUE
+"604",5502,5502,5948,"Enterobius spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.55","Enterobius sp.","Macaca_sinica","Enterobius","sp.",FALSE,TRUE
+"605",5503,5503,6090,"Enterobius spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.517","Enterobius sp.","Macaca_sinica","Enterobius","sp.",FALSE,TRUE
+"606",5504,5504,5957,"Iodamoeba spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.25","Iodamoeba sp.","Macaca_sinica","Iodamoeba","sp.",FALSE,TRUE
+"607",5505,5505,5958,"Iodamoeba spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.26","Iodamoeba sp.","Macaca_sinica","Iodamoeba","sp.",FALSE,TRUE
+"608",5506,5506,5959,"Iodamoeba spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.28","Iodamoeba sp.","Macaca_sinica","Iodamoeba","sp.",FALSE,TRUE
+"609",5507,5507,5960,"Iodamoeba spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.24","Iodamoeba sp.","Macaca_sinica","Iodamoeba","sp.",FALSE,TRUE
+"610",5508,5508,6093,"Iodamoeba spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.258","Iodamoeba sp.","Macaca_sinica","Iodamoeba","sp.",FALSE,TRUE
+"611",5509,5509,5949,"Strongyloides spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.34","Strongyloides sp.","Macaca_sinica","Strongyloides","sp.",FALSE,TRUE
+"612",5510,5510,5950,"Strongyloides spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.24","Strongyloides sp.","Macaca_sinica","Strongyloides","sp.",FALSE,TRUE
+"613",5511,5511,5951,"Strongyloides spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.25","Strongyloides sp.","Macaca_sinica","Strongyloides","sp.",FALSE,TRUE
+"614",5512,5512,5952,"Strongyloides spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.33","Strongyloides sp.","Macaca_sinica","Strongyloides","sp.",FALSE,TRUE
+"615",5513,5513,6091,"Strongyloides spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.292","Strongyloides sp.","Macaca_sinica","Strongyloides","sp.",FALSE,TRUE
+"616",5468,5468,7992,"Trichuris sp.","Macaca sinica","Huffman et al. 2013","SRI LANKA","0.22","Trichuris sp.","Macaca_sinica","Trichuris","sp.",FALSE,TRUE
+"617",5514,5514,5953,"Trichuris spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.08","Trichuris sp.","Macaca_sinica","Trichuris","sp.",FALSE,TRUE
+"618",5515,5515,5954,"Trichuris spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.09","Trichuris sp.","Macaca_sinica","Trichuris","sp.",FALSE,TRUE
+"619",5516,5516,5955,"Trichuris spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.11","Trichuris sp.","Macaca_sinica","Trichuris","sp.",FALSE,TRUE
+"620",5517,5517,5956,"Trichuris spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.07","Trichuris sp.","Macaca_sinica","Trichuris","sp.",FALSE,TRUE
+"621",5518,5518,6092,"Trichuris spp.","Macaca sinica sinica","Ekanayake et al. 2006","Polonnaruwa","0.09","Trichuris sp.","Macaca_sinica","Trichuris","sp.",FALSE,TRUE
+"622",5193,5193,3864,"Anatrichosoma sp.","Macaca hecki","Gotoh et al. 2001","Tambu","0.619","Anatrichosoma sp.","Macaca_tonkeana","Anatrichosoma","sp.",FALSE,TRUE
+"623",5201,5201,3872,"Anatrichosoma sp.","Macaca hecki / M. tonkeana hybrid","Gotoh et al. 2001","Kebun-Kopi","0.379","Anatrichosoma sp.","Macaca_tonkeana","Anatrichosoma","sp.",FALSE,TRUE
+"624",5208,5208,3863,"Eutrombicula","Macaca hecki or tonkeana","Gotoh et al. 2001","Tambu","NULL","Eutrombicula sp.","Macaca_tonkeana","Eutrombicula","sp.",FALSE,TRUE
+"625",5202,5202,3874,"Oesophagostomum sp.","Macaca hecki / M. tonkeana hybrid","Gotoh et al. 2001","Kebun-Kopi","0.4","Oesophagostomum sp.","Macaca_tonkeana","Oesophagostomum","sp.",FALSE,TRUE
+"626",5195,5195,3868,"Physaloptera sp.","Macaca hecki","Gotoh et al. 2001","Tambu","0.112","Physaloptera sp.","Macaca_tonkeana","Physaloptera","sp.",FALSE,TRUE
+"627",5203,5203,3876,"Physaloptera sp.","Macaca hecki / M. tonkeana hybrid","Gotoh et al. 2001","Kebun-Kopi","0.08","Physaloptera sp.","Macaca_tonkeana","Physaloptera","sp.",FALSE,TRUE
+"628",5196,5196,3861,"Plasmodium sp.","Macaca hecki","Gotoh et al. 2001","Tambu","0.682","Plasmodium sp.","Macaca_tonkeana","Plasmodium","sp.",FALSE,TRUE
+"629",5204,5204,3862,"Plasmodium sp.","Macaca hecki / M. tonkeana hybrid","Gotoh et al. 2001","Kebun-Kopi","0.653","Plasmodium sp.","Macaca_tonkeana","Plasmodium","sp.",FALSE,TRUE
+"630",5207,5207,3878,"Watsonius sp.","Macaca hecki / M. tonkeana hybrid","Gotoh et al. 2001","Kebun-Kopi","0.04","Watsonius sp.","Macaca_tonkeana","Watsonius","sp.",FALSE,TRUE
+"631",5565,5565,4,"Sarcoptes sp.","Mandrillus leucophaeus","Fiennes 1972","GUINEA","NULL","Sarcoptes sp.","Mandrillus_leucophaeus","Sarcoptes","sp.",FALSE,TRUE
+"632",8366,8366,2317,"Dicrocoelium sp.","Papio sphinx","Myers and Kuntz 1965","GUINEA","NULL","Dicrocoelium sp.","Mandrillus_sphinx","Dicrocoelium","sp.",FALSE,TRUE
+"633",5598,5598,8146,"Mammomonogamous sp.","Mandrillus sphinx","Poirotte et al. 2015","Lekedi Park","0.023","Mammomonogamus sp.","Mandrillus_sphinx","Mammomonogamus","sp.",FALSE,TRUE
+"634",5599,5599,4812,"Mammomonogamus","Mandrillus sphinx","Setchell et al. 2007","Gabon","0.001","Mammomonogamus sp.","Mandrillus_sphinx","Mammomonogamus","sp.",FALSE,TRUE
+"635",5600,5600,9734,"Mammomonogamus sp.","Mandrillus sphinx","Poirotte et al. 2017","Bakoumba","0.014","Mammomonogamus sp.","Mandrillus_sphinx","Mammomonogamus","sp.",FALSE,TRUE
+"636",5568,5568,1353,"Abbreviata","Mandrillus sphinx","National Parasite Collection (WWW)","Minkouala village","NULL","Physaloptera sp.","Mandrillus_sphinx","Physaloptera","sp.",FALSE,TRUE
+"637",5569,5569,1354,"Abbreviata","Mandrillus sphinx","National Parasite Collection (WWW)","Djidji","NULL","Physaloptera sp.","Mandrillus_sphinx","Physaloptera","sp.",FALSE,TRUE
+"638",5616,5616,1355,"Streptopharagus","Mandrillus sphinx","National Parasite Collection (WWW)","Minkouala village","NULL","Streptopharagus sp.","Mandrillus_sphinx","Streptopharagus","sp.",FALSE,TRUE
+"639",5617,5617,8145,"Strongyloides sp.","Mandrillus sphinx","Poirotte et al. 2015","Lekedi Park","0.139","Strongyloides sp.","Mandrillus_sphinx","Strongyloides","sp.",FALSE,TRUE
+"640",5618,5618,9043,"Strongyloides sp.","Mandrillus sphinx","Pouillevet et al. 2017","Lekedi Park","0.21","Strongyloides sp.","Mandrillus_sphinx","Strongyloides","sp.",FALSE,TRUE
+"641",5619,5619,9044,"Strongyloides sp.","Mandrillus sphinx","Pouillevet et al. 2017","Lekedi Park","0.38","Strongyloides sp.","Mandrillus_sphinx","Strongyloides","sp.",FALSE,TRUE
+"642",5620,5620,9045,"Strongyloides sp.","Mandrillus sphinx","Pouillevet et al. 2017","Lekedi Park","0.3","Strongyloides sp.","Mandrillus_sphinx","Strongyloides","sp.",FALSE,TRUE
+"643",5621,5621,9046,"Strongyloides sp.","Mandrillus sphinx","Pouillevet et al. 2017","Lekedi Park","0.21","Strongyloides sp.","Mandrillus_sphinx","Strongyloides","sp.",FALSE,TRUE
+"644",5622,5622,9732,"Strongyloides sp.","Mandrillus sphinx","Poirotte et al. 2017","Bakoumba","0.162","Strongyloides sp.","Mandrillus_sphinx","Strongyloides","sp.",FALSE,TRUE
+"645",5623,5623,8144,"Trichostrongylus sp.","Mandrillus sphinx","Poirotte et al. 2015","Lekedi Park","0.234","Trichostrongylus sp.","Mandrillus_sphinx","Trichostrongylus","sp.",FALSE,TRUE
+"646",5624,5624,9733,"Trichostrongylus sp.","Mandrillus sphinx","Poirotte et al. 2017","Bakoumba","0.122","Trichostrongylus sp.","Mandrillus_sphinx","Trichostrongylus","sp.",FALSE,TRUE
+"647",5625,5625,4811,"Trichuris","Mandrillus sphinx","Setchell et al. 2007","Gabon","0.001","Trichuris sp.","Mandrillus_sphinx","Trichuris","sp.",FALSE,TRUE
+"648",5663,5663,9059,"Ascaris sp.","Microcebus berthae","Springer and Kappeler 2016","Kirindy","NULL","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"649",5669,5669,6716,"Ascaris sp.","Microcebus murinus","Raharivololona et al. 2007","Mandena","0.01","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"650",5670,5670,7262,"Ascaris sp.","Microcebus murinus","Raharivololona 2006","Mandena","0.01","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"651",5671,5671,8652,"Ascaris sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.2","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"652",5672,5672,8660,"Ascaris sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.011","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"653",5673,5673,9090,"Ascaris sp.","Microcebus murinus","Radespiel et al. 2015","Ankarafantsika","0.053","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"654",5674,5674,9976,"Ascaris sp.","Microcebus murinus","Poirotte and Kappeler 2019","Kirindy","0.036","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"655",5675,5675,9591,"Ascaris spp.","Microcebus murinus","Rakotoniaina et al. 2016","Kirindy","0.125","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"656",5779,5779,9095,"Ascaris sp.","Microcebus ravelobensis","Radespiel et al. 2015","Ankarafantsika","0.097","Ascaris sp.","Microcebus_murinus","Ascaris","sp.",FALSE,TRUE
+"657",5676,5676,6719,"Capillaria sp.","Microcebus murinus","Raharivololona et al. 2007","Mandena","0.01","Capillaria sp.","Microcebus_murinus","Capillaria","sp.",FALSE,TRUE
+"658",5677,5677,7267,"Capillaria sp.","Microcebus murinus","Raharivololona 2006","Mandena","0.01","Capillaria sp.","Microcebus_murinus","Capillaria","sp.",FALSE,TRUE
+"659",5678,5678,9596,"Capillaria spp.","Microcebus murinus","Rakotoniaina et al. 2016","Kirindy","0.004","Capillaria sp.","Microcebus_murinus","Capillaria","sp.",FALSE,TRUE
+"660",5681,5681,6720,"Enterobius sp.","Microcebus murinus","Raharivololona et al. 2007","Mandena","0.01","Enterobius sp.","Microcebus_murinus","Enterobius","sp.",FALSE,TRUE
+"661",5682,5682,7269,"Enterobius sp.","Microcebus murinus","Raharivololona 2006","Mandena","0.01","Enterobius sp.","Microcebus_murinus","Enterobius","sp.",FALSE,TRUE
+"662",5664,5664,9060,"Hymenolepis sp.","Microcebus berthae","Springer and Kappeler 2016","Kirindy","NULL","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"663",5686,5686,6721,"Hymenolepis sp.","Microcebus murinus","Raharivololona et al. 2007","Mandena","0.337","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"664",5687,5687,7272,"Hymenolepis sp.","Microcebus murinus","Raharivololona 2006","Mandena","0.337","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"665",5688,5688,8649,"Hymenolepis sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.595","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"666",5689,5689,8657,"Hymenolepis sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.374","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"667",5690,5690,6979,"Hymenolepis sp. 1","Microcebus murinus","Raharivololona and Ganzhorn 2010","Mandena","0.23","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"668",5691,5691,7004,"Hymenolepis sp. 1","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.214","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"669",5692,5692,7007,"Hymenolepis sp. 1","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.333","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"670",5693,5693,7014,"Hymenolepis sp. 1","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.074","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"671",5694,5694,7017,"Hymenolepis sp. 1","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.383","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"672",5695,5695,7024,"Hymenolepis sp. 1","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.267","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"673",5696,5696,9092,"Hymenolepis sp. 1","Microcebus murinus","Radespiel et al. 2015","Ankarafantsika","0.011","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"674",5698,5698,7006,"Hymenolepis sp. 2","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.083","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"675",5699,5699,7015,"Hymenolepis sp. 2","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.019","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"676",5700,5700,7016,"Hymenolepis sp. 2","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.021","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"677",5701,5701,7025,"Hymenolepis sp. 2","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.067","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"678",5703,5703,9583,"Hymenolepis spp.","Microcebus murinus","Rakotoniaina et al. 2016","Kirindy","0.523","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"679",5783,5783,9097,"Hymenolepis sp. 1","Microcebus ravelobensis","Radespiel et al. 2015","Ankarafantsika","0.023","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"680",5784,5784,9098,"Hymenolepis sp. 2","Microcebus ravelobensis","Radespiel et al. 2015","Ankarafantsika","0.01","Hymenolepis sp.","Microcebus_murinus","Hymenolepis","sp.",FALSE,TRUE
+"681",5720,5720,10280,"Listophoroides sp.","Microcebus murinus","Kiene et al. 2020","Mariarano","0.811","Listrophoroides sp.","Microcebus_murinus","Listrophoroides","sp.",FALSE,TRUE
+"682",5721,5721,10284,"Listophoroides sp.","Microcebus murinus","Kiene et al. 2020","Ankarafantsika","0.2857","Listrophoroides sp.","Microcebus_murinus","Listrophoroides","sp.",FALSE,TRUE
+"683",5789,5789,10272,"Listophoroides sp.","Microcebus ravelobensis","Kiene et al. 2020","Mariarano","0.2876","Listrophoroides sp.","Microcebus_murinus","Listrophoroides","sp.",FALSE,TRUE
+"684",5790,5790,10276,"Listophoroides sp.","Microcebus ravelobensis","Kiene et al. 2020","Ankarafantsika","0.0562","Listrophoroides sp.","Microcebus_murinus","Listrophoroides","sp.",FALSE,TRUE
+"685",5722,5722,8655,"Metagonimus sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.02","Metagonimus sp.","Microcebus_murinus","Metagonimus","sp.",FALSE,TRUE
+"686",5724,5724,9600,"Metagonimus spp.","Microcebus murinus","Rakotoniaina et al. 2016","Kirindy","0.027","Metagonimus sp.","Microcebus_murinus","Metagonimus","sp.",FALSE,TRUE
+"687",5726,5726,8664,"Oesophagostomum sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.006","Oesophagostomum sp.","Microcebus_murinus","Oesophagostomum","sp.",FALSE,TRUE
+"688",5727,5727,9594,"Oesophagostomum spp.","Microcebus murinus","Rakotoniaina et al. 2016","Kirindy","0.004","Oesophagostomum sp.","Microcebus_murinus","Oesophagostomum","sp.",FALSE,TRUE
+"689",5728,5728,8654,"Opisthorchis sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.004","Opisthorchis sp.","Microcebus_murinus","Opisthorchis","sp.",FALSE,TRUE
+"690",5730,5730,9599,"Opisthorchis spp.","Microcebus murinus","Rakotoniaina et al. 2016","Kirindy","0.002","Opisthorchis sp.","Microcebus_murinus","Opisthorchis","sp.",FALSE,TRUE
+"691",5731,5731,9974,"Oxyuridae sp.","Microcebus murinus","Poirotte and Kappeler 2019","Kirindy","0.145","Oxyuridae sp.","Microcebus_murinus","Oxyuridae","sp.",FALSE,TRUE
+"692",5737,5737,9598,"Strongylida spp.","Microcebus murinus","Rakotoniaina et al. 2016","Kirindy","0.197","Strongylida sp.","Microcebus_murinus","Strongylida","sp.",FALSE,TRUE
+"693",5738,5738,6717,"Strongyloides sp.","Microcebus murinus","Raharivololona et al. 2007","Mandena","0.119","Strongyloides sp.","Microcebus_murinus","Strongyloides","sp.",FALSE,TRUE
+"694",5739,5739,9973,"Strongyloides sp.","Microcebus murinus","Poirotte and Kappeler 2019","Kirindy","0.164","Strongyloides sp.","Microcebus_murinus","Strongyloides","sp.",FALSE,TRUE
+"695",5740,5740,7264,"Strongyloides spp.","Microcebus murinus","Raharivololona 2006","Mandena","0.119","Strongyloides sp.","Microcebus_murinus","Strongyloides","sp.",FALSE,TRUE
+"696",5754,5754,3946,"Trichosomoides sp.","Microcebus murinus","Schad et al. 2005","Mandena","0.045","Trichosomoides sp.","Microcebus_murinus","Trichosomoides","sp.",FALSE,TRUE
+"697",5665,5665,9058,"Trichuris sp.","Microcebus berthae","Springer and Kappeler 2016","Kirindy","NULL","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"698",5759,5759,3947,"Trichuris sp.","Microcebus murinus","Schad et al. 2005","Mandena","0.119","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"699",5764,5764,6718,"Trichuris sp.","Microcebus murinus","Raharivololona et al. 2007","Mandena","0.089","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"700",5765,5765,6977,"Trichuris sp.","Microcebus murinus","Raharivololona and Ganzhorn 2010","Mandena","0.03","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"701",5766,5766,7002,"Trichuris sp.","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.142","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"702",5768,5768,7012,"Trichuris sp.","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.074","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"703",5770,5770,7022,"Trichuris sp.","Microcebus murinus","Raharivololona and Ganzhorn 2009","Mandena","0.1","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"704",5771,5771,7266,"Trichuris sp.","Microcebus murinus","Raharivololona 2006","Mandena","0.089","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"705",5772,5772,8651,"Trichuris sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.237","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"706",5773,5773,8659,"Trichuris sp.","Microcebus murinus","Springer and Kappeler 2016","Kirindy","0.011","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"707",5774,5774,9972,"Trichuris sp.","Microcebus murinus","Poirotte and Kappeler 2019","Kirindy","0.273","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"708",5775,5775,9601,"Trichuris spp.","Microcebus murinus","Rakotoniaina et al. 2016","Kirindy","0.208","Trichuris sp.","Microcebus_murinus","Trichuris","sp.",FALSE,TRUE
+"709",5796,5796,8618,"Cryptosporidium sp.","Microcebus rufus","Rasambainarivo et al. 2013","Ranomafana","0.5","Cryptosporidium sp.","Microcebus_rufus","Cryptosporidium","sp.",FALSE,TRUE
+"710",5797,5797,8618,"Cryptosporidium sp.","Microcebus rufus","Rasambainarivo et al. 2013","Ranomafana","0.5","Cryptosporidium sp.","Microcebus_rufus","Cryptosporidium","sp.",FALSE,TRUE
+"711",5800,5800,8769,"Eimeria sp.","Microcebus rufus","Aivelo and Norberg 2017","Ranomafana","0.36","Eimeria sp.","Microcebus_rufus","Eimeria","sp.",FALSE,TRUE
+"712",5801,5801,8769,"Eimeria sp.","Microcebus rufus","Aivelo and Norberg 2017","Ranomafana","0.36","Eimeria sp.","Microcebus_rufus","Eimeria","sp.",FALSE,TRUE
+"713",5816,5816,9291,"Enterobius","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.04","Enterobius sp.","Microcebus_rufus","Enterobius","sp.",FALSE,TRUE
+"714",5817,5817,9291,"Enterobius","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.04","Enterobius sp.","Microcebus_rufus","Enterobius","sp.",FALSE,TRUE
+"715",5818,5818,9296,"Enterobius","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.044","Enterobius sp.","Microcebus_rufus","Enterobius","sp.",FALSE,TRUE
+"716",5819,5819,9296,"Enterobius","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.044","Enterobius sp.","Microcebus_rufus","Enterobius","sp.",FALSE,TRUE
+"717",5820,5820,9301,"Enterobius","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.042","Enterobius sp.","Microcebus_rufus","Enterobius","sp.",FALSE,TRUE
+"718",5821,5821,9301,"Enterobius","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.042","Enterobius sp.","Microcebus_rufus","Enterobius","sp.",FALSE,TRUE
+"719",5822,5822,8745,"Enterovirus","Microcebus rufus","Zohdy et al. 2015","Ranomafana","0.3","Enterovirus sp.","Microcebus_rufus","Enterovirus","sp.",FALSE,TRUE
+"720",5823,5823,8745,"Enterovirus","Microcebus rufus","Zohdy et al. 2015","Ranomafana","0.3","Enterovirus sp.","Microcebus_rufus","Enterovirus","sp.",FALSE,TRUE
+"721",5794,5794,8744,"Adenovirus","Microcebus rufus","Zohdy et al. 2015","Ranomafana","0.5","Mastadenovirus sp.","Microcebus_rufus","Mastadenovirus","sp.",FALSE,TRUE
+"722",5795,5795,8744,"Adenovirus","Microcebus rufus","Zohdy et al. 2015","Ranomafana","0.5","Mastadenovirus sp.","Microcebus_rufus","Mastadenovirus","sp.",FALSE,TRUE
+"723",5866,5866,8746,"Norovirus GI","Microcebus rufus","Zohdy et al. 2015","Ranomafana","0.5","Norovirus sp.","Microcebus_rufus","Norovirus","sp.",FALSE,TRUE
+"724",5867,5867,8746,"Norovirus GI","Microcebus rufus","Zohdy et al. 2015","Ranomafana","0.5","Norovirus sp.","Microcebus_rufus","Norovirus","sp.",FALSE,TRUE
+"725",5868,5868,8747,"Norovirus GII","Microcebus rufus","Zohdy et al. 2015","Ranomafana","0.4","Norovirus sp.","Microcebus_rufus","Norovirus","sp.",FALSE,TRUE
+"726",5869,5869,8747,"Norovirus GII","Microcebus rufus","Zohdy et al. 2015","Ranomafana","0.4","Norovirus sp.","Microcebus_rufus","Norovirus","sp.",FALSE,TRUE
+"727",5872,5872,9258,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","1","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"728",5873,5873,9258,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","1","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"729",5874,5874,9259,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","1","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"730",5875,5875,9259,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","1","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"731",5876,5876,9260,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","1","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"732",5877,5877,9260,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","1","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"733",5878,5878,9273,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.491","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"734",5879,5879,9273,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.491","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"735",5880,5880,9274,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.411","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"736",5881,5881,9274,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.411","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"737",5882,5882,9275,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.561","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"738",5883,5883,9275,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.561","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"739",5884,5884,9288,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.81","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"740",5885,5885,9288,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.81","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"741",5886,5886,9293,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.626","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"742",5887,5887,9293,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.626","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"743",5888,5888,9298,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.89","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"744",5889,5889,9298,"Strongyloides","Microcebus rufus","Aivelo et al. 2015","Ranomafana","0.89","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"745",5890,5890,8712,"Strongyloides sp.","Microcebus rufus","Rafalinirina et al. 2015","Ranomafana","0.883","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"746",5891,5891,8712,"Strongyloides sp.","Microcebus rufus","Rafalinirina et al. 2015","Ranomafana","0.883","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"747",5892,5892,8713,"Strongyloides sp.","Microcebus rufus","Rafalinirina et al. 2015","Ranomafana","0.8","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"748",5893,5893,8713,"Strongyloides sp.","Microcebus rufus","Rafalinirina et al. 2015","Ranomafana","0.8","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"749",5894,5894,8714,"Strongyloides sp.","Microcebus rufus","Rafalinirina et al. 2015","Ranomafana","0.933","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"750",5895,5895,8714,"Strongyloides sp.","Microcebus rufus","Rafalinirina et al. 2015","Ranomafana","0.933","Strongyloides sp.","Microcebus_rufus","Strongyloides","sp.",FALSE,TRUE
+"751",5937,5937,9062,"Ascaris sp.","Mirza coquereli","Springer and Kappeler 2016","Kirindy","NULL","Ascaris sp.","Mirza_coquereli","Ascaris","sp.",FALSE,TRUE
+"752",5938,5938,9065,"Hymenolepis sp.","Mirza coquereli","Springer and Kappeler 2016","Kirindy","NULL","Hymenolepis sp.","Mirza_coquereli","Hymenolepis","sp.",FALSE,TRUE
+"753",5939,5939,9063,"Subulura sp.","Mirza coquereli","Springer and Kappeler 2016","Kirindy","NULL","Subulura sp.","Mirza_coquereli","Subulura","sp.",FALSE,TRUE
+"754",5940,5940,9061,"Trichuris sp.","Mirza coquereli","Springer and Kappeler 2016","Kirindy","NULL","Trichuris sp.","Mirza_coquereli","Trichuris","sp.",FALSE,TRUE
+"755",5946,5946,8470,"Anatrichosoma sp.","Nasalis larvatus","Klaus et al. 2017","Kinabatangan ","0.014","Anatrichosoma sp.","Nasalis_larvatus","Anatrichosoma","sp.",FALSE,TRUE
+"756",5947,5947,10377,"Anatrichosoma sp.","Nasalis larvatus","Salgado-Lynn 2010","Kinabatangan ","0.021","Anatrichosoma sp.","Nasalis_larvatus","Anatrichosoma","sp.",FALSE,TRUE
+"757",5952,5952,10010,"Diphyllobothrium sp.","Nasalis larvatus","Adrus et al. 2019","Bako","0.015","Diphyllobothrium sp.","Nasalis_larvatus","Diphyllobothrium","sp.",FALSE,TRUE
+"758",5953,5953,8475,"Enterobius spp.","Nasalis larvatus","Klaus et al. 2017","Kinabatangan ","0.055","Enterobius sp.","Nasalis_larvatus","Enterobius","sp.",FALSE,TRUE
+"759",5954,5954,10012,"Fasciola sp.","Nasalis larvatus","Adrus et al. 2019","Bako","0.015","Fasciola sp.","Nasalis_larvatus","Fasciola","sp.",FALSE,TRUE
+"760",5956,5956,10011,"Hymenolepis sp.","Nasalis larvatus","Adrus et al. 2019","Bako","0.031","Hymenolepis sp.","Nasalis_larvatus","Hymenolepis","sp.",FALSE,TRUE
+"761",5959,5959,10003,"Physaloptera sp.","Nasalis larvatus","Adrus et al. 2019","Bako","0.031","Physaloptera sp.","Nasalis_larvatus","Physaloptera","sp.",FALSE,TRUE
+"762",5960,5960,10013,"Schistosoma sp.","Nasalis larvatus","Adrus et al. 2019","Bako","0.015","Schistosoma sp.","Nasalis_larvatus","Schistosoma","sp.",FALSE,TRUE
+"763",5966,5966,10375,"Taenia sp.","Nasalis larvatus","Salgado-Lynn 2010","Kinabatangan ","0.288","Taenia sp.","Nasalis_larvatus","Taenia","sp.",FALSE,TRUE
+"764",5967,5967,8471,"Trichostrongylus sp.","Nasalis larvatus","Klaus et al. 2017","Kinabatangan ","0.485","Trichostrongylus sp.","Nasalis_larvatus","Trichostrongylus","sp.",FALSE,TRUE
+"765",5968,5968,10008,"Trichostrongylus sp.","Nasalis larvatus","Adrus et al. 2019","Bako","0.092","Trichostrongylus sp.","Nasalis_larvatus","Trichostrongylus","sp.",FALSE,TRUE
+"766",5984,5984,8086,"Necator spp.","Nycticebus javanicus","Rode-Margono et al. 2015","Cipaganti","NULL","Necator sp.","Nycticebus_coucang","Necator","sp.",FALSE,TRUE
+"767",5986,5986,9336,"Strongyloides spp.","Nycticebus menagensis","Frias et al. 2018","Kinabatangan ","NULL","Strongyloides sp.","Nycticebus_coucang","Strongyloides","sp.",FALSE,TRUE
+"768",5985,5985,8087,"Trichostrongylus","Nycticebus javanicus","Rode-Margono et al. 2015","Cipaganti","NULL","Trichostrongylus sp.","Nycticebus_coucang","Trichostrongylus","sp.",FALSE,TRUE
+"769",5982,5982,4575,"Trypanosoma sp.","Nycticebus cougang","Hoare 1972","Malaysia","NULL","Trypanosoma sp.","Nycticebus_coucang","Trypanosoma","sp.",FALSE,TRUE
+"770",3941,3941,1366,"Ancylostoma","Galago crass icaudatus","National Parasite Collection (WWW)","Katanga","NULL","Ancylostoma sp.","Otolemur_crassicaudatus","Ancylostoma","sp.",FALSE,TRUE
+"771",3943,3943,3449,"Armillifer sp.","Galago crassicaudatus","Durden et al. 1985","TANZANIA","NULL","Armillifer sp.","Otolemur_crassicaudatus","Armillifer","sp.",FALSE,TRUE
+"772",3955,3955,7503,"Ixodes schillingsi","Galago crassicaudatus agisymbanus","Hoogstraal and Theiler 1959","Zanzibar ","NULL","Ixodes sp.","Otolemur_crassicaudatus","Ixodes","sp.",FALSE,TRUE
+"773",3956,3956,7543,"Ixodes schillingsi","Galago crassicaudatus agisymbanus","Hoogstraal and Theiler 1959","Pemba Island","NULL","Ixodes sp.","Otolemur_crassicaudatus","Ixodes","sp.",FALSE,TRUE
+"774",6004,6004,6036,"Ascaris sp.","Pan paniscus","Dupain et al. 2009","Lomako","0.034","Ascaris sp.","Pan_paniscus","Ascaris","sp.",FALSE,TRUE
+"775",6025,6025,9533,"Necator sp.","Pan paniscus","Narat et al. 2015","Manzano Forest","0.056","Necator sp.","Pan_paniscus","Necator","sp.",FALSE,TRUE
+"776",6062,6062,9531,"Toxocara sp.","Pan paniscus","Narat et al. 2015","Manzano Forest","0.004","Toxocara sp.","Pan_paniscus","Toxocara","sp.",FALSE,TRUE
+"777",6063,6063,206,"Trichuris sp.","Pan paniscus","Hasegawa et al. 1983","Wamba","0.033","Trichuris sp.","Pan_paniscus","Trichuris","sp.",FALSE,TRUE
+"778",6064,6064,6033,"Trichuris sp.","Pan paniscus","Dupain et al. 2009","Lomako","0.023","Trichuris sp.","Pan_paniscus","Trichuris","sp.",FALSE,TRUE
+"779",6322,6322,3688,"TTV circinovirus","Pan troglodytes schweinfurthi","Vartanian et al. 2002","AFRICA","1","Alphatorquevirus sp.","Pan_troglodytes","Alphatorquevirus","sp.",FALSE,TRUE
+"780",6704,6704,5800,"TT Virus","Pan troglodytes sweinfurthii","Barnett et al. 2004","Kisingani","0.25","Alphatorquevirus sp.","Pan_troglodytes","Alphatorquevirus","sp.",FALSE,TRUE
+"781",6705,6705,5801,"TT Virus","Pan troglodytes sweinfurthii","Barnett et al. 2004","Budongo","1","Alphatorquevirus sp.","Pan_troglodytes","Alphatorquevirus","sp.",FALSE,TRUE
+"782",6088,6088,1714,"Blastocystis","Pan troglodytes","Ashford et al. 2000","Kibale","0.27","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"783",6089,6089,7721,"Blastocystis sp.","Pan troglodytes","Petrasova et al. 2010","Rubondo","0.328","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"784",6090,6090,8490,"Blastocystis sp.","Pan troglodytes","Petrasova et al. 2011","Rubondo","0.714","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"785",6091,6091,8612,"Blastocystis sp.","Pan troglodytes","Petrasova et al. 2011","Rubondo","0.325","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"786",6402,6402,3562,"Blastocystis sp.","Pan troglodytes schweinfurthii","Muehlenbein 2005","Ngogo","0.027","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"787",6403,6403,4880,"Blastocystis sp.","Pan troglodytes schweinfurthii","Muehlenbein 2005","Ngogo","0.027","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"788",6404,6404,7982,"Blastocystis sp.","Pan troglodytes schweinfurthii","Kalousova et al. 2014","Issa Valley","0.513","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"789",6405,6405,9829,"Blastocystis sp.","Pan troglodytes schweinfurthii","McLennan et al. 2017","Bulindi ","NULL","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"790",6773,6773,8837,"Blastocystis sp.","Pan troglodytes verus","Sa et al. 2013","Cantanhez","0.49","Blastocystis sp.","Pan_troglodytes","Blastocystis","sp.",FALSE,TRUE
+"791",3391,3391,4793,"Hepaticola","chimpanzee","Troisier et al. 1928","Guinea","1","Capillaria sp.","Pan_troglodytes","Capillaria","sp.",FALSE,TRUE
+"792",6289,6289,10331,"Coperia sp.","Pan troglodytes schweinfurthi","Kamungu et al. 2015","Kahuzi-Biega","0.0109","Cooperia sp.","Pan_troglodytes","Cooperia","sp.",FALSE,TRUE
+"793",3385,3385,3137,"Cyclospora sp.","chimpanzee","Smith et al. 1996","Gombe","0.067","Cyclospora sp.","Pan_troglodytes","Cyclospora","sp.",FALSE,TRUE
+"794",6779,6779,7911,"cytomegalovirus","Pan troglodytes verus","Murthy et al. 2013","Tai National Park","NULL","Cytomegalovirus sp.","Pan_troglodytes","Cytomegalovirus","sp.",FALSE,TRUE
+"795",6780,6780,9359,"cytomegalovirus (CMV)","Pan troglodytes verus","Anoh et al. 2017","Tai National Park","0.395","Cytomegalovirus sp.","Pan_troglodytes","Cytomegalovirus","sp.",FALSE,TRUE
+"796",6408,6408,9841,"Dicrocoeliidae gen. sp.","Pan troglodytes schweinfurthii","McLennan et al. 2017","Bulindi ","NULL","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"797",6409,6409,6765,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.02","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"798",6411,6411,6795,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.017","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"799",6412,6412,6811,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.125","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"800",6414,6414,6841,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.035","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"801",6415,6415,6855,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.026","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"802",6418,6418,6901,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.077","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"803",6419,6419,6915,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.067","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"804",6421,6421,6945,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.069","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"805",6422,6422,6961,"Dicrocoeliidae sp.","Pan troglodytes schweinfurthii","Gillespie et al. 2010b","Gombe","0.042","Dicrocoeliidae sp.","Pan_troglodytes","Dicrocoeliidae","sp.",FALSE,TRUE
+"806",6069,6069,2758,"Dicrocoelium sp.","Pan t. troglodytes","Landsoud-Soukate et al. 1995","Lope","0.03","Dicrocoelium sp.","Pan_troglodytes","Dicrocoelium","sp.",FALSE,TRUE
+"807",6097,6097,2102,"Dicrocoelium sp.","Pan troglodytes","Huffman and Gotoh, unpublished in Ashford et al. 2","Mahale","0.01","Dicrocoelium sp.","Pan_troglodytes","Dicrocoelium","sp.",FALSE,TRUE
+"808",3386,3386,1368,"Dirofilaria","chimpanzee","National Parasite Collection (WWW)","Unknown","NULL","Dirofilaria sp.","Pan_troglodytes","Dirofilaria","sp.",FALSE,TRUE
+"809",6292,6292,10335,"Fasciola sp.","Pan troglodytes schweinfurthi","Kamungu et al. 2015","Kahuzi-Biega","0.0323","Fasciola sp.","Pan_troglodytes","Fasciola","sp.",FALSE,TRUE
+"810",6073,6073,2756,"Gongylonema sp.","Pan t. troglodytes","Landsoud-Soukate et al. 1995","Lope","0.01","Gongylonema sp.","Pan_troglodytes","Gongylonema","sp.",FALSE,TRUE
+"811",6294,6294,10319,"Hoemonchus sp.","Pan troglodytes schweinfurthi","Kamungu et al. 2015","Kahuzi-Biega","0.2178","Haemonchus sp.","Pan_troglodytes","Haemonchus","sp.",FALSE,TRUE
+"812",6474,6474,3565,"Hymenolepis sp.","Pan troglodytes schweinfurthii","Muehlenbein 2005","Ngogo","0.324","Hymenolepis sp.","Pan_troglodytes","Hymenolepis","sp.",FALSE,TRUE
+"813",6475,6475,4883,"Hymenolepis sp.","Pan troglodytes schweinfurthii","Muehlenbein 2005","Ngogo","0.324","Hymenolepis sp.","Pan_troglodytes","Hymenolepis","sp.",FALSE,TRUE
+"814",6794,6794,7914,"Lymphocryptovirus","Pan troglodytes verus","Murthy et al. 2013","Tai National Park","NULL","Lymphocryptovirus sp.","Pan_troglodytes","Lymphocryptovirus","sp.",FALSE,TRUE
+"815",6297,6297,10339,"Monieza sp.","Pan troglodytes schweinfurthi","Kamungu et al. 2015","Kahuzi-Biega","0.1868","Moniezia sp.","Pan_troglodytes","Moniezia","sp.",FALSE,TRUE
+"816",6300,6300,10327,"Ostertagia sp.","Pan troglodytes schweinfurthi","Kamungu et al. 2015","Kahuzi-Biega","0.0329","Ostertagia sp.","Pan_troglodytes","Ostertagia","sp.",FALSE,TRUE
+"817",3412,3412,2656,"Prosthenorchis sp.","chimpanzee","Kawabata and Nishida 1991","Mahale","0.007","Prosthenorchis sp.","Pan_troglodytes","Prosthenorchis","sp.",FALSE,TRUE
+"818",6605,6605,6119,"rotavirus","Pan troglodytes schweinfurthii","Kaur et al. 2008","Mahale","NULL","Rotavirus sp.","Pan_troglodytes","Rotavirus","sp.",FALSE,TRUE
+"819",6225,6225,7751,"Subulura sp.","Pan troglodytes","Petrasova et al. 2010","Rubondo","0.005","Subulura sp.","Pan_troglodytes","Subulura","sp.",FALSE,TRUE
+"820",6316,6316,10341,"Taenia sp.","Pan troglodytes schweinfurthi","Kamungu et al. 2015","Kahuzi-Biega","0.1319","Taenia sp.","Pan_troglodytes","Taenia","sp.",FALSE,TRUE
+"821",6652,6652,851,"Ternidens sp.","Pan troglodytes schweinfurthii","Huffman et al. 1993","Mahale","NULL","Ternidens sp.","Pan_troglodytes","Ternidens","sp.",FALSE,TRUE
+"822",6317,6317,10309,"Trichomonas","Pan troglodytes schweinfurthi","Kamungu et al. 2015","Kahuzi-Biega","0.0549","Trichomonas sp.","Pan_troglodytes","Trichomonas","sp.",FALSE,TRUE
+"823",6318,6318,10329,"Trichostrogylus sp","Pan troglodytes schweinfurthi","Kamungu et al. 2015","Kahuzi-Biega","0.0659","Trichostrongylus sp.","Pan_troglodytes","Trichostrongylus","sp.",FALSE,TRUE
+"824",6653,6653,8867,"Trichostrongylus sp.","Pan troglodytes schweinfurthii","Zommers et al. 2013","Sonso","0.364","Trichostrongylus sp.","Pan_troglodytes","Trichostrongylus","sp.",FALSE,TRUE
+"825",6654,6654,8879,"Trichostrongylus sp.","Pan troglodytes schweinfurthii","Zommers et al. 2013","Busingiro","0.549","Trichostrongylus sp.","Pan_troglodytes","Trichostrongylus","sp.",FALSE,TRUE
+"826",6655,6655,8891,"Trichostrongylus sp.","Pan troglodytes schweinfurthii","Zommers et al. 2013","Kaniyo-Pabidi","0.396","Trichostrongylus sp.","Pan_troglodytes","Trichostrongylus","sp.",FALSE,TRUE
+"827",6656,6656,8903,"Trichostrongylus sp.","Pan troglodytes schweinfurthii","Zommers et al. 2013","Kasokwa","0.358","Trichostrongylus sp.","Pan_troglodytes","Trichostrongylus","sp.",FALSE,TRUE
+"828",7320,7320,394,"Ambylomma sp.","Papio doguera","Kuntz and Myers 1967a","Kilifi","0.16","Amblyomma sp.","Papio_anubis","Amblyomma","sp.",FALSE,TRUE
+"829",7322,7322,2733,"Ambylomma sp.","Papio doguera","Kuntz and Myers 1967a","Kimani","0.1","Amblyomma sp.","Papio_anubis","Amblyomma","sp.",FALSE,TRUE
+"830",7231,7231,1069,"Ascaris sp.","Papio cynocephalus anubis","Hope et al. 2004","Bwindi","0.78","Ascaris sp.","Papio_anubis","Ascaris","sp.",FALSE,TRUE
+"831",6878,6878,2962,"Cryptosporidium sp.","Papio anubis","Muriuki et al. 1997","KENYA","0.27","Cryptosporidium sp.","Papio_anubis","Cryptosporidium","sp.",FALSE,TRUE
+"832",6879,6879,3532,"Cryptosporidium sp.","Papio anubis","Legesse and Erko 2004","Burka Dita","0.171","Cryptosporidium sp.","Papio_anubis","Cryptosporidium","sp.",FALSE,TRUE
+"833",6880,6880,3533,"Cryptosporidium sp.","Papio anubis","Legesse and Erko 2004","Bishan Gari","0.042","Cryptosporidium sp.","Papio_anubis","Cryptosporidium","sp.",FALSE,TRUE
+"834",7234,7234,1065,"Cryptosporidium sp.","Papio cynocephalus anubis","Hope et al. 2004","Bwindi","0.321","Cryptosporidium sp.","Papio_anubis","Cryptosporidium","sp.",FALSE,TRUE
+"835",6884,6884,5614,"Dicrocoelium sp.","Papio anubis","Weyher et al. 2006","Gashaka Gumti","0.9","Dicrocoelium sp.","Papio_anubis","Dicrocoelium","sp.",FALSE,TRUE
+"836",6885,6885,5615,"Dicrocoelium sp.","Papio anubis","Weyher et al. 2006","Gashaka Gumti","0.847","Dicrocoelium sp.","Papio_anubis","Dicrocoelium","sp.",FALSE,TRUE
+"837",6886,6886,6062,"Dicrocoelium sp.","Papio anubis","Weyher 2009","Gashaka Gumti","0.9","Dicrocoelium sp.","Papio_anubis","Dicrocoelium","sp.",FALSE,TRUE
+"838",6887,6887,6063,"Dicrocoelium sp.","Papio anubis","Weyher 2009","Gashaka Gumti","0.85","Dicrocoelium sp.","Papio_anubis","Dicrocoelium","sp.",FALSE,TRUE
+"839",7340,7340,308,"Dipetalonema sp.","Papio doguera","Myers and Kuntz 1965","KENYA","NULL","Dipetalonema sp.","Papio_anubis","Dipetalonema","sp.",FALSE,TRUE
+"840",7341,7341,2328,"Dipetalonema sp.","Papio doguera","Myers and Kuntz 1965","UGANDA","NULL","Dipetalonema sp.","Papio_anubis","Dipetalonema","sp.",FALSE,TRUE
+"841",7235,7235,1067,"Eimeria sp.","Papio cynocephalus anubis","Hope et al. 2004","Bwindi","0.993","Eimeria sp.","Papio_anubis","Eimeria","sp.",FALSE,TRUE
+"842",6904,6904,7611,"Gongylonema sp.","Papio anubis","Ryan et al., 2012","Mole","0.018","Gongylonema sp.","Papio_anubis","Gongylonema","sp.",FALSE,TRUE
+"843",7238,7238,1072,"Hymenolepis sp.","Papio cynocephalus anubis","Hope et al. 2004","Bwindi","0.071","Hymenolepis sp.","Papio_anubis","Hymenolepis","sp.",FALSE,TRUE
+"844",7529,7529,7138,"Papio hamadryas lymphocryptovirus 1–3","Papio hamadryas anubis","Knauf et al. 2011","Lake Manyara","0.769","Lymphocryptovirus sp.","Papio_anubis","Lymphocryptovirus","sp.",FALSE,TRUE
+"845",7376,7376,3005,"Mesocestoides sp.","Papio doguera","Nelson et al. 1965","KENYA","0.01","Mesocestoides sp.","Papio_anubis","Mesocestoides","sp.",FALSE,TRUE
+"846",6912,6912,6518,"Molineus sp.","Papio anubis","Bezjian et al. 2008","Dura","0.02","Molineus sp.","Papio_anubis","Molineus","sp.",FALSE,TRUE
+"847",7378,7378,2714,"Nephridiacanthus sp.","Papio doguera","Kuntz and Myers 1966","AFRICA","0.07","Nephridiacanthus sp.","Papio_anubis","Nephridiacanthus","sp.",FALSE,TRUE
+"848",7383,7383,2719,"Oxyuris sp.","Papio doguera","Kuntz and Myers 1966","AFRICA","0.07","Oxyuris sp.","Papio_anubis","Oxyuris","sp.",FALSE,TRUE
+"849",7232,7232,10268,"Baboon cytomegalovirus","Papio cynocephalus anubis","Knauf et al. 2011","Lake Manyara","0.1","Papiine betaherpesvirus sp.","Papio_anubis","Papiine","sp.",FALSE,TRUE
+"850",7010,7010,2972,"Sparganum sp.","Papio anubis neumanni","Myers and Kuntz 1967","Grumeti","0.42","Sparganum sp.","Papio_anubis","Sparganum","sp.",FALSE,TRUE
+"851",6955,6955,5624,"Strongylid sp.","Papio anubis","Weyher et al. 2006","Gashaka Gumti","1","Strongylida sp.","Papio_anubis","Strongylida","sp.",FALSE,TRUE
+"852",6956,6956,5625,"Strongylid sp.","Papio anubis","Weyher et al. 2006","Gashaka Gumti","0.923","Strongylida sp.","Papio_anubis","Strongylida","sp.",FALSE,TRUE
+"853",6957,6957,6068,"Strongylid sp.","Papio anubis","Weyher 2009","Gashaka Gumti","0.9","Strongylida sp.","Papio_anubis","Strongylida","sp.",FALSE,TRUE
+"854",6958,6958,6069,"Strongylid sp.","Papio anubis","Weyher 2009","Gashaka Gumti","1","Strongylida sp.","Papio_anubis","Strongylida","sp.",FALSE,TRUE
+"855",6990,6990,3504,"Trichostrongylus sp.","Papio anubis","Legesse and Erko 2004","Burka Dita","0.114","Trichostrongylus sp.","Papio_anubis","Trichostrongylus","sp.",FALSE,TRUE
+"856",6991,6991,3505,"Trichostrongylus sp.","Papio anubis","Legesse and Erko 2004","Bishan Gari","0.042","Trichostrongylus sp.","Papio_anubis","Trichostrongylus","sp.",FALSE,TRUE
+"857",6992,6992,6513,"Trichostrongylus sp.","Papio anubis","Bezjian et al. 2008","Dura","0.22","Trichostrongylus sp.","Papio_anubis","Trichostrongylus","sp.",FALSE,TRUE
+"858",7015,7015,2975,"Trichostrongylus sp.","Papio anubis neumanni","Myers and Kuntz 1967","Grumeti","0.5","Trichostrongylus sp.","Papio_anubis","Trichostrongylus","sp.",FALSE,TRUE
+"859",7029,7029,2956,"Trichostrongylus sp.","Papio cyanocephalus anubis","Munene et al. 1998","KENYA","0.435","Trichostrongylus sp.","Papio_anubis","Trichostrongylus","sp.",FALSE,TRUE
+"860",7432,7432,2721,"Trichostrongylus sp.","Papio doguera","Kuntz and Myers 1966","AFRICA","0.07","Trichostrongylus sp.","Papio_anubis","Trichostrongylus","sp.",FALSE,TRUE
+"861",7016,7016,2970,"Trombiculidae sp.","Papio anubis neumanni","Myers and Kuntz 1967","Grumeti","0.08","Trombiculidae sp.","Papio_anubis","Trombiculidae","sp.",FALSE,TRUE
+"862",7037,7037,9810,"Acanthocephala sp","Papio cynocephalus","Akinyi et al. 2019","Amboseli","NULL","Acanthocephalus sp.","Papio_cynocephalus","Acanthocephalus","sp.",FALSE,TRUE
+"863",7040,7040,2337,"Ancylostoma sp.","Papio cynocephalus","Myers and Kuntz 1965","GUINEA","NULL","Ancylostoma sp.","Papio_cynocephalus","Ancylostoma","sp.",FALSE,TRUE
+"864",7041,7041,2546,"Ancylostoma sp.","Papio cynocephalus","Kalter et al. 1966","KENYA","NULL","Ancylostoma sp.","Papio_cynocephalus","Ancylostoma","sp.",FALSE,TRUE
+"865",7098,7098,2710,"Isospora sp.","Papio cynocephalus","Kuntz and Moore 1973","Rift Valley","0.00787402","Isospora sp.","Papio_cynocephalus","Isospora","sp.",FALSE,TRUE
+"866",7101,7101,2564,"Klebsiella sp.","Papio cynocephalus","Kalter et al. 1966","KENYA","NULL","Klebsiella sp.","Papio_cynocephalus","Klebsiella","sp.",FALSE,TRUE
+"867",7108,7108,2565,"Neisseria sp.","Papio cynocephalus","Kalter et al. 1966","KENYA","NULL","Neisseria sp.","Papio_cynocephalus","Neisseria","sp.",FALSE,TRUE
+"868",7125,7125,2339,"Oxyuris sp.","Papio cynocephalus","Myers and Kuntz 1965","GUINEA","NULL","Oxyuris sp.","Papio_cynocephalus","Oxyuris","sp.",FALSE,TRUE
+"869",7130,7130,2566,"Pasteurella sp.","Papio cynocephalus","Kalter et al. 1966","KENYA","NULL","Pasteurella sp.","Papio_cynocephalus","Pasteurella","sp.",FALSE,TRUE
+"870",7136,7136,2334,"Porocephalus sp.","Papio cynocephalus","Myers and Kuntz 1965","GUINEA","NULL","Porocephalus sp.","Papio_cynocephalus","Porocephalus","sp.",FALSE,TRUE
+"871",7137,7137,10000,"Primasubulura","Papio cynocephalus","Habig et al. 2019","Amboseli","0.031","Primasubulura sp.","Papio_cynocephalus","Primasubulura","sp.",FALSE,TRUE
+"872",7138,7138,7674,"Primasubulura sp.","Papio cynocephalus","Kooriyama et al., 2012","Mahale","0.05","Primasubulura sp.","Papio_cynocephalus","Primasubulura","sp.",FALSE,TRUE
+"873",7139,7139,9809,"Primasubulura sp.","Papio cynocephalus","Akinyi et al. 2019","Amboseli","NULL","Primasubulura sp.","Papio_cynocephalus","Primasubulura","sp.",FALSE,TRUE
+"874",7140,7140,10027,"Primasubulura spp.","Papio cynocephalus","Obanda et al. 2019","Amboseli","NULL","Primasubulura sp.","Papio_cynocephalus","Primasubulura","sp.",FALSE,TRUE
+"875",7145,7145,2583,"Reovirus sp.","Papio cynocephalus","Kalter et al. 1966","KENYA","0.38","Reovirus sp.","Papio_cynocephalus","Reovirus","sp.",FALSE,TRUE
+"876",7153,7153,10023,"Spirurina spp.","Papio cynocephalus","Obanda et al. 2019","Amboseli","NULL","Spirurida sp.","Papio_cynocephalus","Spirurida","sp.",FALSE,TRUE
+"877",7154,7154,2543,"Streptococcus sp.","Papio cynocephalus","Kalter et al. 1966","KENYA","NULL","Streptococcus sp.","Papio_cynocephalus","Streptococcus","sp.",FALSE,TRUE
+"878",7534,7534,2990,"Ascaris sp.","Papio hamadryas arabicus","Nasher 1988","Asir","0.061","Ascaris sp.","Papio_hamadryas","Ascaris","sp.",FALSE,TRUE
+"879",7564,7564,6370,"Necator sp.","Papio hamadryas papio","Howells et al. 2010","Fongoli","0.294","Necator sp.","Papio_hamadryas","Necator","sp.",FALSE,TRUE
+"880",7516,7516,67,"Trichuris sp.","Papio hamadryas","Ghandour et al. 1995","Al-Baha","0.053","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"881",7517,7517,82,"Trichuris sp.","Papio hamadryas","Ghandour et al. 1995","Al-Taif","0.044","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"882",7518,7518,90,"Trichuris sp.","Papio hamadryas","Ghandour et al. 1995","Turabah","0.046","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"883",7519,7519,98,"Trichuris sp.","Papio hamadryas","Ghandour et al. 1995","Al-Rihat","0.009","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"884",7521,7521,8394,"Trichuris sp.","Papio hamadryas","Ghandour et al. 1995","Al-Baha","0.083","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"885",7522,7522,8395,"Trichuris sp.","Papio hamadryas","Ghandour et al. 1995","Al-Taif","0.107","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"886",7523,7523,8396,"Trichuris sp.","Papio hamadryas","Ghandour et al. 1995","Turabah","0.053","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"887",7539,7539,2992,"Trichuris sp.","Papio hamadryas arabicus","Nasher 1988","Asir","0.192","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"888",7568,7568,6374,"Trichuris sp.","Papio hamadryas papio","Howells et al. 2010","Fongoli","0.353","Trichuris sp.","Papio_hamadryas","Trichuris","sp.",FALSE,TRUE
+"889",7575,7575,8017,"Ascaris","Papio papio","Ebbert et al. 2013","Mt. Assirik","0.03","Ascaris sp.","Papio_papio","Ascaris","sp.",FALSE,TRUE
+"890",7576,7576,3463,"Ascaris sp.","Papio papio","Ebbert et al. 2004","Mont Assirik","0.03","Ascaris sp.","Papio_papio","Ascaris","sp.",FALSE,TRUE
+"891",7585,7585,8019,"Enterobius","Papio papio","Ebbert et al. 2013","Mt. Assirik","0.39","Enterobius sp.","Papio_papio","Enterobius","sp.",FALSE,TRUE
+"892",7586,7586,2353,"Enterobius sp.","Papio papio","Myers and Kuntz 1965","GUINEA","NULL","Enterobius sp.","Papio_papio","Enterobius","sp.",FALSE,TRUE
+"893",7588,7588,3461,"Enterobius sp.","Papio papio","Ebbert et al. 2004","Mont Assirik","0.39","Enterobius sp.","Papio_papio","Enterobius","sp.",FALSE,TRUE
+"894",7600,7600,2898,"Necator sp.","Papio papio","McGrew et al. 1989a","Nikolo Koba","0.38","Necator sp.","Papio_papio","Necator","sp.",FALSE,TRUE
+"895",7607,7607,2357,"Physaloptera sp.","Papio papio","Myers and Kuntz 1965","GUINEA","NULL","Physaloptera sp.","Papio_papio","Physaloptera","sp.",FALSE,TRUE
+"896",7608,7608,2901,"Physaloptera sp.","Papio papio","McGrew et al. 1989a","Nikolo Koba","0.31","Physaloptera sp.","Papio_papio","Physaloptera","sp.",FALSE,TRUE
+"897",7609,7609,3459,"Physaloptera sp.","Papio papio","Ebbert et al. 2004","Mont Assirik","0.69","Physaloptera sp.","Papio_papio","Physaloptera","sp.",FALSE,TRUE
+"898",7611,7611,8020,"Protospirura sp.","Papio papio","Ebbert et al. 2013","Mt. Assirik","0.7","Protospirura sp.","Papio_papio","Protospirura","sp.",FALSE,TRUE
+"899",7614,7614,2903,"Streptopharagus sp.","Papio papio","McGrew et al. 1989a","Nikolo Koba","0.23","Streptopharagus sp.","Papio_papio","Streptopharagus","sp.",FALSE,TRUE
+"900",7615,7615,3456,"Streptopharagus sp.","Papio papio","Ebbert et al. 2004","Mont Assirik","0.01","Streptopharagus sp.","Papio_papio","Streptopharagus","sp.",FALSE,TRUE
+"901",7617,7617,3458,"Streptopharagus sp.","Papio papio","Ebbert et al. 2004","Mont Assirik","0.16","Streptopharagus sp.","Papio_papio","Streptopharagus","sp.",FALSE,TRUE
+"902",7618,7618,8021,"Streptophargus","Papio papio","Ebbert et al. 2013","Mt. Assirik","0.04","Streptopharagus sp.","Papio_papio","Streptopharagus","sp.",FALSE,TRUE
+"903",7619,7619,8022,"Strongyloides","Papio papio","Ebbert et al. 2013","Mt. Assirik","0.03","Strongyloides sp.","Papio_papio","Strongyloides","sp.",FALSE,TRUE
+"904",7621,7621,2904,"Strongyloides sp.","Papio papio","McGrew et al. 1989a","Nikolo Koba","0.26","Strongyloides sp.","Papio_papio","Strongyloides","sp.",FALSE,TRUE
+"905",7622,7622,3464,"Strongyloides sp.","Papio papio","Ebbert et al. 2004","Mont Assirik","0.03","Strongyloides sp.","Papio_papio","Strongyloides","sp.",FALSE,TRUE
+"906",4490,4490,1932,"treponemas","Guinea baboon","Fribourg-Blanc 1972","Cesamance","NULL","Treponema sp.","Papio_papio","Treponema","sp.",FALSE,TRUE
+"907",7624,7624,1755,"Treponema","Papio papio","Boulox and Cirera 1972","Nikolo Koba","0.152","Treponema sp.","Papio_papio","Treponema","sp.",FALSE,TRUE
+"908",7631,7631,8024,"Watsonius sp.","Papio papio","Ebbert et al. 2013","Mt. Assirik","0.44","Watsonius sp.","Papio_papio","Watsonius","sp.",FALSE,TRUE
+"909",7632,7632,3460,"Watsonius watsoni","Papio papio","Ebbert et al. 2004","Mont Assirik","0.44","Watsonius sp.","Papio_papio","Watsonius","sp.",FALSE,TRUE
+"910",8383,8383,7297,"Ascaris sp.","Papio ursinus","Benavides et al. 2011","Tsaobis Leopard Park","0.02","Ascaris sp.","Papio_ursinus","Ascaris","sp.",FALSE,TRUE
+"911",8408,8408,2858,"cytomegalovirus (CMV)","Papio ursinus","McConnell et al. 1974","Kruger","0.066","Cytomegalovirus sp.","Papio_ursinus","Cytomegalovirus","sp.",FALSE,TRUE
+"912",8409,8409,7332,"cytomegalovirus (CMV)","Papio ursinus","Drewe et al. 2012","Red Hill","NULL","Cytomegalovirus sp.","Papio_ursinus","Cytomegalovirus","sp.",FALSE,TRUE
+"913",8410,8410,7342,"cytomegalovirus (CMV)","Papio ursinus","Drewe et al. 2012","Da Gama","NULL","Cytomegalovirus sp.","Papio_ursinus","Cytomegalovirus","sp.",FALSE,TRUE
+"914",8411,8411,7352,"cytomegalovirus (CMV)","Papio ursinus","Drewe et al. 2012","Smitswinkel Bay","NULL","Cytomegalovirus sp.","Papio_ursinus","Cytomegalovirus","sp.",FALSE,TRUE
+"915",8413,8413,7375,"cytomegalovirus (CMV)","Papio ursinus","Drewe et al. 2012","Tokai (MT1 troop)","NULL","Cytomegalovirus sp.","Papio_ursinus","Cytomegalovirus","sp.",FALSE,TRUE
+"916",8509,8509,2830,"Sarcocystis sp.","Papio ursinus","McConnell et al. 1973","Kruger","0.46","Sarcocystis sp.","Papio_ursinus","Sarcocystis","sp.",FALSE,TRUE
+"917",8510,8510,2852,"Sarcocystis sp.","Papio ursinus","McConnell et al. 1974","Kruger","0.47","Sarcocystis sp.","Papio_ursinus","Sarcocystis","sp.",FALSE,TRUE
+"918",8511,8511,2853,"Sarcocystis sp.","Papio ursinus","McConnell et al. 1974","Kruger","0.02","Sarcocystis sp.","Papio_ursinus","Sarcocystis","sp.",FALSE,TRUE
+"919",8512,8512,2854,"Sarcocystis sp.","Papio ursinus","McConnell et al. 1974","Kruger","0.14","Sarcocystis sp.","Papio_ursinus","Sarcocystis","sp.",FALSE,TRUE
+"920",8513,8513,2855,"Sarcocystis sp.","Papio ursinus","McConnell et al. 1974","Kruger","0.11","Sarcocystis sp.","Papio_ursinus","Sarcocystis","sp.",FALSE,TRUE
+"921",7301,7301,1677,"Spirurid","Papio cynocephalus ursinus","Appleton et al. 1991","Mkuzi","0.04","Spirura sp.","Papio_ursinus","Spirura","sp.",FALSE,TRUE
+"922",8550,8550,7298,"Subulura sp.","Papio ursinus","Benavides et al. 2011","Tsaobis Leopard Park","0.01","Subulura sp.","Papio_ursinus","Subulura","sp.",FALSE,TRUE
+"923",8559,8559,3540,"Trichomonas sp.","Papio ursinus","Goldsmid and Rogers 1978","Transvaal","0.042","Trichomonas sp.","Papio_ursinus","Trichomonas","sp.",FALSE,TRUE
+"924",8608,8608,2220,"Babesia sp.","Perodicticus potto","Baker 1972","LIBERIA","NULL","Babesia sp.","Perodicticus_potto","Babesia","sp.",FALSE,TRUE
+"925",8610,8610,7498,"Ixodes sp.","Perodicticus potto","Hoogstraal and Theiler 1959","CAMEROON","NULL","Ixodes sp.","Perodicticus_potto","Ixodes","sp.",FALSE,TRUE
+"926",3874,3874,6284,"Entamoeba sp.","Eulemur fulvus rufus","Clough 2010","Kirindy","1","Entamoeba sp.","Petterus_fulvus","Entamoeba","sp.",FALSE,TRUE
+"927",3875,3875,6334,"Entamoeba sp.","Eulemur fulvus rufus","Clough et al. 2010","Kirindy","1","Entamoeba sp.","Petterus_fulvus","Entamoeba","sp.",FALSE,TRUE
+"928",3876,3876,6344,"Entamoeba sp.","Eulemur fulvus rufus","Clough et al. 2010","Kirindy","1","Entamoeba sp.","Petterus_fulvus","Entamoeba","sp.",FALSE,TRUE
+"929",3932,3932,8735,"Enterovirus","Eulemur rufifrons","Zohdy et al. 2015","Ranomafana","0.048","Enterovirus sp.","Petterus_fulvus","Enterovirus","sp.",FALSE,TRUE
+"930",3862,3862,5664,"Lactobacillus sp.","Eulemur fulvus albifrons","Junge and Louis 2002","Betampona","NULL","Lactobacillus sp.","Petterus_fulvus","Lactobacillus","sp.",FALSE,TRUE
+"931",3863,3863,7244,"Lemurostrongyles sp.","Eulemur fulvus albifrons","Irwin and Raharison, 2009","MADAGASCAR","NULL","Lemurostrongylus sp.","Petterus_fulvus","Lemurostrongylus","sp.",FALSE,TRUE
+"932",3882,3882,5786,"Lemurostrongylus spp.","Eulemur fulvus rufus","Junge and Louis 2005b","Tsiombokibo","0.3","Lemurostrongylus sp.","Petterus_fulvus","Lemurostrongylus","sp.",FALSE,TRUE
+"933",3930,3930,8734,"Adenovirus","Eulemur rufifrons","Zohdy et al. 2015","Ranomafana","0.333","Mastadenovirus sp.","Petterus_fulvus","Mastadenovirus","sp.",FALSE,TRUE
+"934",3934,3934,8737,"Norovirus GII","Eulemur rufifrons","Zohdy et al. 2015","Ranomafana","0.095","Norovirus sp.","Petterus_fulvus","Norovirus","sp.",FALSE,TRUE
+"935",3935,3935,8738,"rotavirus","Eulemur rufifrons","Zohdy et al. 2015","Ranomafana","0.381","Rotavirus sp.","Petterus_fulvus","Rotavirus","sp.",FALSE,TRUE
+"936",3851,3851,6498,"Callistoura sp.","Eulemur flavifrons","Schwitzer et al. 2010","Ankarafa","0.042","Callistoura sp.","Petterus_macaco","Callistoura","sp.",FALSE,TRUE
+"937",3852,3852,6499,"Callistoura sp.","Eulemur flavifrons","Schwitzer et al. 2010","Ankarafa","0.042","Callistoura sp.","Petterus_macaco","Callistoura","sp.",FALSE,TRUE
+"938",3891,3891,5775,"Callistroura","Eulemur macaco macaco","Junge and Louis 2007","Lokobe","0.3","Callistoura sp.","Petterus_macaco","Callistoura","sp.",FALSE,TRUE
+"939",3893,3893,5777,"Enterococcus","Eulemur macaco macaco","Junge and Louis 2007","Lokobe","0.7","Enterococcus sp.","Petterus_macaco","Enterococcus","sp.",FALSE,TRUE
+"940",4660,4660,1326,"Filaria","Lemur macaco collaris","National Parasite Collection (WWW)","Bemangidy","NULL","Filaria sp.","Petterus_macaco","Filaria","sp.",FALSE,TRUE
+"941",3897,3897,5776,"Psoroptes","Eulemur macaco macaco","Junge and Louis 2007","Lokobe","0.04","Psoroptes sp.","Petterus_macaco","Psoroptes","sp.",FALSE,TRUE
+"942",3892,3892,5778,"coagulase-negative Staphylococcus","Eulemur macaco macaco","Junge and Louis 2007","Lokobe","0.2","Staphylococcus sp.","Petterus_macaco","Staphylococcus","sp.",FALSE,TRUE
+"943",3889,3889,5781,"alpha-hemolytic Streptococcus","Eulemur macaco macaco","Junge and Louis 2007","Lokobe","0.1","Streptococcus sp.","Petterus_macaco","Streptococcus","sp.",FALSE,TRUE
+"944",3898,3898,5780,"Streptococcus group D","Eulemur macaco macaco","Junge and Louis 2007","Lokobe","0.1","Streptococcus sp.","Petterus_macaco","Streptococcus","sp.",FALSE,TRUE
+"945",3899,3899,5772,"Toxoplasma IgG","Eulemur macaco macaco","Junge and Louis 2007","Lokobe","0.1","Toxoplasma sp.","Petterus_macaco","Toxoplasma","sp.",FALSE,TRUE
+"946",3907,3907,8730,"Enterovirus","Eulemur rubriventer","Zohdy et al. 2015","Ranomafana","0.4","Enterovirus sp.","Petterus_rubriventer","Enterovirus","sp.",FALSE,TRUE
+"947",3909,3909,543,"Fasciola sp.","Eulemur rubriventer","Hogg 2002","Ranomafana","0.059","Fasciola sp.","Petterus_rubriventer","Fasciola","sp.",FALSE,TRUE
+"948",3910,3910,4854,"Fasciola sp.","Eulemur rubriventer","Hogg 2002","Ranomafana","0.143","Fasciola sp.","Petterus_rubriventer","Fasciola","sp.",FALSE,TRUE
+"949",3914,3914,541,"Lemuricola sp.","Eulemur rubriventer","Hogg 2002","Ranomafana","0.235","Lemuricola sp.","Petterus_rubriventer","Lemuricola","sp.",FALSE,TRUE
+"950",3915,3915,4852,"Lemuricola sp.","Eulemur rubriventer","Hogg 2002","Ranomafana","0.286","Lemuricola sp.","Petterus_rubriventer","Lemuricola","sp.",FALSE,TRUE
+"951",3916,3916,5004,"Lemuricola sp.","Eulemur rubriventer","Hogg 2002","Ranomafana","0.2","Lemuricola sp.","Petterus_rubriventer","Lemuricola","sp.",FALSE,TRUE
+"952",3900,3900,8729,"Adenovirus","Eulemur rubriventer","Zohdy et al. 2015","Ranomafana","0.25","Mastadenovirus sp.","Petterus_rubriventer","Mastadenovirus","sp.",FALSE,TRUE
+"953",3920,3920,8731,"Norovirus GI","Eulemur rubriventer","Zohdy et al. 2015","Ranomafana","0.15","Norovirus sp.","Petterus_rubriventer","Norovirus","sp.",FALSE,TRUE
+"954",3921,3921,8732,"Norovirus GII","Eulemur rubriventer","Zohdy et al. 2015","Ranomafana","0.1","Norovirus sp.","Petterus_rubriventer","Norovirus","sp.",FALSE,TRUE
+"955",3598,3598,7536,"Ixodes schillingsi","Colobus badius kirkii","Hoogstraal and Theiler 1959","Zanzibar","NULL","Ixodes sp.","Piliocolobus_kirkii","Ixodes","sp.",FALSE,TRUE
+"956",8801,8801,3965,"Dipetalonema sp.","Pithecia pithecia","de Thoisy et al. 2001","Petit Saut","0.5","Dipetalonema sp.","Pithecia_pithecia","Dipetalonema","sp.",FALSE,TRUE
+"957",8804,8804,3964,"Mansonella sp.","Pithecia pithecia","de Thoisy et al. 2001","Petit Saut","0.5","Mansonella sp.","Pithecia_pithecia","Mansonella","sp.",FALSE,TRUE
+"958",8803,8803,3972,"Haemobartonella sp.","Pithecia pithecia","de Thoisy et al. 2001","Petit Saut","NULL","Mycoplasma sp.","Pithecia_pithecia","Mycoplasma","sp.",FALSE,TRUE
+"959",8836,8836,4743,"Chilomastix sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.125","Chilomastix sp.","Pongo_pygmaeus","Chilomastix","sp.",FALSE,TRUE
+"960",8838,8838,5110,"Chilomastix sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.211","Chilomastix sp.","Pongo_pygmaeus","Chilomastix","sp.",FALSE,TRUE
+"961",8927,8927,519,"Leptospira sp.","Pongo pygmaeus pygmaeus","Kilbourn et al. 1998","Eastern Sabah","NULL","Leptospira sp.","Pongo_pygmaeus","Leptospira","sp.",FALSE,TRUE
+"962",8852,8852,4746,"Mammomonogamus sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.188","Mammomonogamus sp.","Pongo_pygmaeus","Mammomonogamus","sp.",FALSE,TRUE
+"963",8853,8853,4972,"Mammomonogamus sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.077","Mammomonogamus sp.","Pongo_pygmaeus","Mammomonogamus","sp.",FALSE,TRUE
+"964",8854,8854,5113,"Mammomonogamus sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.263","Mammomonogamus sp.","Pongo_pygmaeus","Mammomonogamus","sp.",FALSE,TRUE
+"965",8898,8898,518,"Adenovirus","Pongo pygmaeus pygmaeus","Kilbourn et al. 1998","Eastern Sabah","0.088","Mastadenovirus sp.","Pongo_pygmaeus","Mastadenovirus","sp.",FALSE,TRUE
+"966",8899,8899,1139,"adenovirus group","Pongo pygmaeus pygmaeus","Kilbourn et al. 2003","Sabah","0.05","Mastadenovirus sp.","Pongo_pygmaeus","Mastadenovirus","sp.",FALSE,TRUE
+"967",8855,8855,4747,"Spirurida sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.094","Spirurida sp.","Pongo_pygmaeus","Spirurida","sp.",FALSE,TRUE
+"968",8856,8856,4973,"Spirurida sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.077","Spirurida sp.","Pongo_pygmaeus","Spirurida","sp.",FALSE,TRUE
+"969",8857,8857,5114,"Spirurida sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.105","Spirurida sp.","Pongo_pygmaeus","Spirurida","sp.",FALSE,TRUE
+"970",8858,8858,4745,"Strongylida sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.375","Strongylida sp.","Pongo_pygmaeus","Strongylida","sp.",FALSE,TRUE
+"971",8859,8859,4971,"Strongylida sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.385","Strongylida sp.","Pongo_pygmaeus","Strongylida","sp.",FALSE,TRUE
+"972",8860,8860,5112,"Strongylida sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.368","Strongylida sp.","Pongo_pygmaeus","Strongylida","sp.",FALSE,TRUE
+"973",8864,8864,4750,"Trichuris sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.188","Trichuris sp.","Pongo_pygmaeus","Trichuris","sp.",FALSE,TRUE
+"974",8865,8865,4976,"Trichuris sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.154","Trichuris sp.","Pongo_pygmaeus","Trichuris","sp.",FALSE,TRUE
+"975",8866,8866,5117,"Trichuris sp.","Pongo abelii","Mul et al. 2007","Ketambe","0.211","Trichuris sp.","Pongo_pygmaeus","Trichuris","sp.",FALSE,TRUE
+"976",8895,8895,947,"Trichuris sp.","Pongo pygmaeus","Collet et al. 1986","Ketambe","0.125","Trichuris sp.","Pongo_pygmaeus","Trichuris","sp.",FALSE,TRUE
+"977",8961,8961,3009,"Bertiella sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.14","Bertiella sp.","Presbytis_cristata","Bertiella","sp.",FALSE,TRUE
+"978",8962,8962,4860,"Bertiella sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.2","Bertiella sp.","Presbytis_cristata","Bertiella","sp.",FALSE,TRUE
+"979",8963,8963,5012,"Bertiella sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.12","Bertiella sp.","Presbytis_cristata","Bertiella","sp.",FALSE,TRUE
+"980",8966,8966,3011,"Breinlia sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.01","Breinlia sp.","Presbytis_cristata","Breinlia","sp.",FALSE,TRUE
+"981",8968,8968,5014,"Breinlia sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.02","Breinlia sp.","Presbytis_cristata","Breinlia","sp.",FALSE,TRUE
+"982",8977,8977,20,"Dirofilaria sp.","Presbytis cristatus","Masbar et al. 1981","Tanah Intan","0.01","Dirofilaria sp.","Presbytis_cristata","Dirofilaria","sp.",FALSE,TRUE
+"983",8980,8980,3013,"Enterobius sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.29","Enterobius sp.","Presbytis_cristata","Enterobius","sp.",FALSE,TRUE
+"984",8981,8981,4864,"Enterobius sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.4","Enterobius sp.","Presbytis_cristata","Enterobius","sp.",FALSE,TRUE
+"985",8982,8982,5016,"Enterobius sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.26","Enterobius sp.","Presbytis_cristata","Enterobius","sp.",FALSE,TRUE
+"986",8983,8983,3016,"Gastrodiscoides sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.01","Gastrodiscoides sp.","Presbytis_cristata","Gastrodiscoides","sp.",FALSE,TRUE
+"987",8985,8985,5019,"Gastrodiscoides sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.02","Gastrodiscoides sp.","Presbytis_cristata","Gastrodiscoides","sp.",FALSE,TRUE
+"988",8992,8992,3010,"Parabertiella sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.01","Parabertiella sp.","Presbytis_cristata","Parabertiella","sp.",FALSE,TRUE
+"989",8994,8994,5013,"Parabertiella sp.","Presbytis cristatus","Palmieri et al. 1980a","Tanah Intan","0.02","Parabertiella sp.","Presbytis_cristata","Parabertiella","sp.",FALSE,TRUE
+"990",9004,9004,1686,"Pneumonyssus","Presbytis cristatus","Arambulo et al. 1974","Kuala Selangor","0.8","Pneumonyssus sp.","Presbytis_cristata","Pneumonyssus","sp.",FALSE,TRUE
+"991",10056,10056,5941,"Cryptosporidium","Semnopithecus priam thersites","Ekanayake et al. 2006","Polonnaruwa","0.2","Cryptosporidium sp.","Presbytis_entellus","Cryptosporidium","sp.",FALSE,TRUE
+"992",10057,10057,5942,"Cryptosporidium","Semnopithecus priam thersites","Ekanayake et al. 2006","Polonnaruwa","0.44","Cryptosporidium sp.","Presbytis_entellus","Cryptosporidium","sp.",FALSE,TRUE
+"993",10058,10058,5943,"Cryptosporidium","Semnopithecus priam thersites","Ekanayake et al. 2006","Polonnaruwa","0.667","Cryptosporidium sp.","Presbytis_entellus","Cryptosporidium","sp.",FALSE,TRUE
+"994",10059,10059,5944,"Cryptosporidium","Semnopithecus priam thersites","Ekanayake et al. 2006","Polonnaruwa","0.27","Cryptosporidium sp.","Presbytis_entellus","Cryptosporidium","sp.",FALSE,TRUE
+"995",10060,10060,7994,"Entamoeba histolytica/dispar","Semnopithecus priam thersites","Huffman et al. 2013","SRI LANKA","0.05","Entamoeba sp.","Presbytis_entellus","Entamoeba","sp.",FALSE,TRUE
+"996",9019,9019,5592,"Echovirus","Presbytis entellus","Bhatt et al. 1966","Shimoga","NULL","Enterovirus sp.","Presbytis_entellus","Enterovirus","sp.",FALSE,TRUE
+"997",9023,9023,3,"Haemaphysalis sp.","Presbytis entellus","Fiennes 1972","Kyasanur","NULL","Haemaphysalis sp.","Presbytis_entellus","Haemaphysalis","sp.",FALSE,TRUE
+"998",9032,9032,2925,"Leptospira sp.","Presbytis entellus","Minette 1966","INDIA","0.03","Leptospira sp.","Presbytis_entellus","Leptospira","sp.",FALSE,TRUE
+"999",10053,10053,9342,"Oesophagostomum spp.","Semnopithecus ajax","Kumar et al. 2018","Kumaon","NULL","Oesophagostomum sp.","Presbytis_entellus","Oesophagostomum","sp.",FALSE,TRUE
+"1000",9036,9036,1744,"Reovirus","Presbytis entellus","Bhatt et al. 1966","Shimoga","0.18","Reovirus sp.","Presbytis_entellus","Reovirus","sp.",FALSE,TRUE
+"1001",9037,9037,2081,"Rotavirus sp.","Presbytis entellus","Hrdy 1982","Mysore","0.03","Rotavirus sp.","Presbytis_entellus","Rotavirus","sp.",FALSE,TRUE
+"1002",10062,10062,7995,"Trichuris sp.","Semnopithecus priam thersites","Huffman et al. 2013","SRI LANKA","0.38","Trichuris sp.","Presbytis_entellus","Trichuris","sp.",FALSE,TRUE
+"1003",10100,10100,6490,"Physaloptera sp.","Trachypithecus delacouri","Do 2009","Van Long","1","Physaloptera sp.","Presbytis_francoisi","Physaloptera","sp.",FALSE,TRUE
+"1004",10063,10063,7997,"Entamoeba histolytica/dispar","Semnopithecus vetulus","Huffman et al. 2013","SRI LANKA","0.29","Entamoeba sp.","Presbytis_vetulus","Entamoeba","sp.",FALSE,TRUE
+"1005",10065,10065,7998,"Trichuris sp.","Semnopithecus vetulus","Huffman et al. 2013","SRI LANKA","0.36","Trichuris sp.","Presbytis_vetulus","Trichuris","sp.",FALSE,TRUE
+"1006",9243,9243,9221,"Ancylostoma sp.","Procolobus verus","Kouassi et al. 2015","Tai National Park","0.047","Ancylostoma sp.","Procolobus_verus","Ancylostoma","sp.",FALSE,TRUE
+"1007",9245,9245,9239,"Blastocystis sp.","Procolobus verus","Kouassi et al. 2015","Tai National Park","0.085","Blastocystis sp.","Procolobus_verus","Blastocystis","sp.",FALSE,TRUE
+"1008",9248,9248,9230,"Dicrocoelium sp.","Procolobus verus","Kouassi et al. 2015","Tai National Park","0.039","Dicrocoelium sp.","Procolobus_verus","Dicrocoelium","sp.",FALSE,TRUE
+"1009",9253,9253,9238,"Giardia sp.","Procolobus verus","Kouassi et al. 2015","Tai National Park","0.093","Giardia sp.","Procolobus_verus","Giardia","sp.",FALSE,TRUE
+"1010",9255,9255,9223,"Oesophagostomum sp.","Procolobus verus","Kouassi et al. 2015","Tai National Park","0.047","Oesophagostomum sp.","Procolobus_verus","Oesophagostomum","sp.",FALSE,TRUE
+"1011",9262,9262,9229,"Trichostrongylus sp.","Procolobus verus","Kouassi et al. 2015","Tai National Park","0.054","Trichostrongylus sp.","Procolobus_verus","Trichostrongylus","sp.",FALSE,TRUE
+"1012",9263,9263,9228,"Trichuris sp.","Procolobus verus","Kouassi et al. 2015","Tai National Park","0.93","Trichuris sp.","Procolobus_verus","Trichuris","sp.",FALSE,TRUE
+"1013",9327,9327,535,"Anoplocephala sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.056","Anoplocephala sp.","Propithecus_diadema","Anoplocephala","sp.",FALSE,TRUE
+"1014",9329,9329,4998,"Anoplocephala sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.125","Anoplocephala sp.","Propithecus_diadema","Anoplocephala","sp.",FALSE,TRUE
+"1015",9345,9345,6039,"Anoplocephala sp.","Propithecus edwardsi","Wright et al. 2009","Ranomafana","NULL","Anoplocephala sp.","Propithecus_diadema","Anoplocephala","sp.",FALSE,TRUE
+"1016",9272,9272,8684,"Bertiella sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","0.285","Bertiella sp.","Propithecus_diadema","Bertiella","sp.",FALSE,TRUE
+"1017",9273,9273,8685,"Bertiella sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","0.5","Bertiella sp.","Propithecus_diadema","Bertiella","sp.",FALSE,TRUE
+"1018",9350,9350,8750,"Enterovirus","Propithecus edwardsi","Zohdy et al. 2015","Ranomafana","0.167","Enterovirus sp.","Propithecus_diadema","Enterovirus","sp.",FALSE,TRUE
+"1019",9277,9277,8696,"Gaudalges sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","1","Gaudalges sp.","Propithecus_diadema","Gaudalges","sp.",FALSE,TRUE
+"1020",9278,9278,8697,"Gaudalges sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","1","Gaudalges sp.","Propithecus_diadema","Gaudalges","sp.",FALSE,TRUE
+"1021",9279,9279,8698,"Gaudalges sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","1","Gaudalges sp.","Propithecus_diadema","Gaudalges","sp.",FALSE,TRUE
+"1022",9282,9282,8688,"Lemuricola sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","0.714","Lemuricola sp.","Propithecus_diadema","Lemuricola","sp.",FALSE,TRUE
+"1023",9283,9283,8689,"Lemuricola sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","1","Lemuricola sp.","Propithecus_diadema","Lemuricola","sp.",FALSE,TRUE
+"1024",9284,9284,8690,"Lemuricola sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","0.5","Lemuricola sp.","Propithecus_diadema","Lemuricola","sp.",FALSE,TRUE
+"1025",9333,9333,536,"Lemuricola sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.056","Lemuricola sp.","Propithecus_diadema","Lemuricola","sp.",FALSE,TRUE
+"1026",9334,9334,4847,"Lemuricola sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.125","Lemuricola sp.","Propithecus_diadema","Lemuricola","sp.",FALSE,TRUE
+"1027",9354,9354,6043,"Lemuricola sp.","Propithecus edwardsi","Wright et al. 2009","Ranomafana","NULL","Lemuricola sp.","Propithecus_diadema","Lemuricola","sp.",FALSE,TRUE
+"1028",9286,9286,8692,"Lemurostrongylus sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","1","Lemurostrongylus sp.","Propithecus_diadema","Lemurostrongylus","sp.",FALSE,TRUE
+"1029",9287,9287,8693,"Lemurostrongylus sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","1","Lemurostrongylus sp.","Propithecus_diadema","Lemurostrongylus","sp.",FALSE,TRUE
+"1030",9288,9288,8694,"Lemurostrongylus sp.","Propithecus candidus","Loudon et al. 2017","Marojejy","1","Lemurostrongylus sp.","Propithecus_diadema","Lemurostrongylus","sp.",FALSE,TRUE
+"1031",9289,9289,8695,"Lemurostrongylus sp.","Propithecus candidus","Loudon et al. 2017","Makira","0.33","Lemurostrongylus sp.","Propithecus_diadema","Lemurostrongylus","sp.",FALSE,TRUE
+"1032",9310,9310,7249,"Lemurostrongyles sp.","Propithecus diadema","Irwin and Raharison, 2009","MADAGASCAR","NULL","Lemurostrongylus sp.","Propithecus_diadema","Lemurostrongylus","sp.",FALSE,TRUE
+"1033",9336,9336,534,"Moniezia sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.412","Moniezia sp.","Propithecus_diadema","Moniezia","sp.",FALSE,TRUE
+"1034",9337,9337,4845,"Moniezia sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.375","Moniezia sp.","Propithecus_diadema","Moniezia","sp.",FALSE,TRUE
+"1035",9338,9338,4997,"Moniezia sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.5","Moniezia sp.","Propithecus_diadema","Moniezia","sp.",FALSE,TRUE
+"1036",9355,9355,6037,"Monezia sp.","Propithecus edwardsi","Wright et al. 2009","Ranomafana","0.6","Moniezia sp.","Propithecus_diadema","Moniezia","sp.",FALSE,TRUE
+"1037",9356,9356,6038,"Monezia sp.","Propithecus edwardsi","Wright et al. 2009","Ranomafana","0.125","Moniezia sp.","Propithecus_diadema","Moniezia","sp.",FALSE,TRUE
+"1038",9357,9357,8751,"Norovirus GI","Propithecus edwardsi","Zohdy et al. 2015","Ranomafana","0.25","Norovirus sp.","Propithecus_diadema","Norovirus","sp.",FALSE,TRUE
+"1039",9358,9358,8752,"Norovirus GII","Propithecus edwardsi","Zohdy et al. 2015","Ranomafana","0.417","Norovirus sp.","Propithecus_diadema","Norovirus","sp.",FALSE,TRUE
+"1040",9339,9339,537,"Physocephalus sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.111","Physocephalus sp.","Propithecus_diadema","Physocephalus","sp.",FALSE,TRUE
+"1041",9340,9340,4848,"Physocephalus sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.125","Physocephalus sp.","Propithecus_diadema","Physocephalus","sp.",FALSE,TRUE
+"1042",9341,9341,5000,"Physocephalus sp.","Propithecus diadema edwardsi","Hogg 2002","Ranomafana","0.125","Physocephalus sp.","Propithecus_diadema","Physocephalus","sp.",FALSE,TRUE
+"1043",9365,9365,6044,"Physocephalus sp.","Propithecus edwardsi","Wright et al. 2009","Ranomafana","NULL","Physocephalus sp.","Propithecus_diadema","Physocephalus","sp.",FALSE,TRUE
+"1044",9370,9370,6041,"Strongylus sp.","Propithecus edwardsi","Wright et al. 2009","Ranomafana","NULL","Strongylus sp.","Propithecus_diadema","Strongylus","sp.",FALSE,TRUE
+"1045",9375,9375,553,"Mansonella sp.","Propithecus tattersalli","Garell and Meyers 1995","Daraina","0.58","Mansonella sp.","Propithecus_tattersalli","Mansonella","sp.",FALSE,TRUE
+"1046",9376,9376,5137,"Mansonella sp.","Propithecus tattersalli","Garell and Meyers 1995","Daraina","0.84","Mansonella sp.","Propithecus_tattersalli","Mansonella","sp.",FALSE,TRUE
+"1047",9377,9377,5253,"Mansonella sp.","Propithecus tattersalli","Garell and Meyers 1995","Daraina","0.26","Mansonella sp.","Propithecus_tattersalli","Mansonella","sp.",FALSE,TRUE
+"1048",9407,9407,5792,"Citrobacter ssp.","Propithecus verreauxi deckeni","Junge and Louis 2005b","Tsiombokibo","0.167","Citrobacter sp.","Propithecus_verreauxi","Citrobacter","sp.",FALSE,TRUE
+"1049",9385,9385,1602,"Enterobius","Propithecus verreauxi","Raveloarisoa 2000 ","Beza Mahafaly","0.056","Enterobius sp.","Propithecus_verreauxi","Enterobius","sp.",FALSE,TRUE
+"1050",9391,9391,6205,"Lemurostrongyles sp.","Propithecus verreauxi","Loudon 2009","Beza Mahafaly","0.115","Lemurostrongylus sp.","Propithecus_verreauxi","Lemurostrongylus","sp.",FALSE,TRUE
+"1051",9392,9392,7907,"Lemurostrongylus sp.","Propithecus verreauxi","Loudon and Sauther 2013","Beza Mahafaly","0.115","Lemurostrongylus sp.","Propithecus_verreauxi","Lemurostrongylus","sp.",FALSE,TRUE
+"1052",9412,9412,5784,"Lemurostrongylus spp.","Propithecus verreauxi deckeni","Junge and Louis 2005b","Tsiombokibo","0.456","Lemurostrongylus sp.","Propithecus_verreauxi","Lemurostrongylus","sp.",FALSE,TRUE
+"1053",9394,9394,6200,"Listophoroides sp.","Propithecus verreauxi","Loudon 2009","Beza Mahafaly","0.038","Listrophoroides sp.","Propithecus_verreauxi","Listrophoroides","sp.",FALSE,TRUE
+"1054",9395,9395,1603,"Ogmocotyle","Propithecus verreauxi","Raveloarisoa 2000 ","Beza Mahafaly","0.056","Ogmocotyle sp.","Propithecus_verreauxi","Ogmocotyle","sp.",FALSE,TRUE
+"1055",9396,9396,6301,"Plasmodium malagasi","Propithecus verreauxi","Duval et al. 2010","MADAGASCAR","NULL","Plasmodium sp.","Propithecus_verreauxi","Plasmodium","sp.",FALSE,TRUE
+"1056",9397,9397,8435,"Plasmodium sp.","Propithecus verreauxi","Springer et al. 2015","Kirindy","0.36","Plasmodium sp.","Propithecus_verreauxi","Plasmodium","sp.",FALSE,TRUE
+"1057",9413,9413,5789,"Psoroptes","Propithecus verreauxi deckeni","Junge and Louis 2005b","Tsiombokibo","0.05","Psoroptes sp.","Propithecus_verreauxi","Psoroptes","sp.",FALSE,TRUE
+"1058",9436,9436,8139,"Ancylostoma sp.","Rhinopithecus bieti","Li et al. 2014","Tacheng","NULL","Ancylostoma sp.","Pygathrix_roxellana","Ancylostoma","sp.",FALSE,TRUE
+"1059",9437,9437,8142,"Ascaris sp.","Rhinopithecus bieti","Li et al. 2014","Tacheng","NULL","Ascaris sp.","Pygathrix_roxellana","Ascaris","sp.",FALSE,TRUE
+"1060",9439,9439,8140,"Oesophagostomum sp","Rhinopithecus bieti","Li et al. 2014","Tacheng","NULL","Oesophagostomum sp.","Pygathrix_roxellana","Oesophagostomum","sp.",FALSE,TRUE
+"1061",9446,9446,1465,"Armillifer","Saguinus fuscicollis","National Parasite Collection (WWW)","BRAZIL","NULL","Armillifer sp.","Saguinus_fuscicollis","Armillifer","sp.",FALSE,TRUE
+"1062",9493,9493,1466,"Armillifer","Saguinus fusicollis nigrifrons","National Parasite Collection (WWW)","COLOMBIA","NULL","Armillifer sp.","Saguinus_fuscicollis","Armillifer","sp.",FALSE,TRUE
+"1063",9452,9452,7097,"Entamoeba sp.","Saguinus fuscicollis","Phillips et al. 2004","Tampobata Research Center","0.25","Entamoeba sp.","Saguinus_fuscicollis","Entamoeba","sp.",FALSE,TRUE
+"1064",9681,9681,1533,"Neodiplostomum","Saguinus oedipus","National Parasite Collection (WWW)","BRAZIL","NULL","Neodiplostomum sp.","Saguinus_fuscicollis","Neodiplostomum","sp.",FALSE,TRUE
+"1065",9458,9458,1467,"Porocephalus","Saguinus fuscicollis","National Parasite Collection (WWW)","BRAZIL","NULL","Porocephalus sp.","Saguinus_fuscicollis","Porocephalus","sp.",FALSE,TRUE
+"1066",9463,9463,1468,"Rictularia","Saguinus fuscicollis","National Parasite Collection (WWW)","BRAZIL","NULL","Rictularia sp.","Saguinus_fuscicollis","Rictularia","sp.",FALSE,TRUE
+"1067",9464,9464,1469,"Sarcocystis","Saguinus fuscicollis","National Parasite Collection (WWW)","BRAZIL","NULL","Sarcocystis sp.","Saguinus_fuscicollis","Sarcocystis","sp.",FALSE,TRUE
+"1068",9479,9479,1470,"Viannaia","Saguinus fuscicollis","National Parasite Collection (WWW)","BRAZIL","NULL","Viannaia sp.","Saguinus_fuscicollis","Viannaia","sp.",FALSE,TRUE
+"1069",9526,9526,9353,"Dipetalonema sp.","Saguinus imperator","Erkenswick et al. 2017a","Rio Los Amigos EBLA","0.48","Dipetalonema sp.","Saguinus_imperator","Dipetalonema","sp.",FALSE,TRUE
+"1070",9527,9527,9354,"Dipetalonema sp.","Saguinus imperator","Erkenswick et al. 2017a","Rio Los Amigos EBLA","0.54","Dipetalonema sp.","Saguinus_imperator","Dipetalonema","sp.",FALSE,TRUE
+"1071",9528,9528,9355,"Dipetalonema sp.","Saguinus imperator","Erkenswick et al. 2017a","Rio Los Amigos EBLA","0.76","Dipetalonema sp.","Saguinus_imperator","Dipetalonema","sp.",FALSE,TRUE
+"1072",9569,9569,8820,"Ascaris sp.","Saguinus leucopus","Soto-Calderon et al. 2016","COLOMBIA","0.053","Ascaris sp.","Saguinus_leucopus","Ascaris","sp.",FALSE,TRUE
+"1073",9571,9571,8818,"Endolimax sp.","Saguinus leucopus","Soto-Calderon et al. 2016","COLOMBIA","0.105","Endolimax sp.","Saguinus_leucopus","Endolimax","sp.",FALSE,TRUE
+"1074",9573,9573,8819,"Entamoeba sp.","Saguinus leucopus","Soto-Calderon et al. 2016","COLOMBIA","0.053","Entamoeba sp.","Saguinus_leucopus","Entamoeba","sp.",FALSE,TRUE
+"1075",9575,9575,8815,"Prosthenorchis sp.","Saguinus leucopus","Soto-Calderon et al. 2016","COLOMBIA","0.474","Prosthenorchis sp.","Saguinus_leucopus","Prosthenorchis","sp.",FALSE,TRUE
+"1076",9576,9576,8810,"Strongyloides spp.","Saguinus leucopus","Soto-Calderon et al. 2016","Medellin","67","Strongyloides sp.","Saguinus_leucopus","Strongyloides","sp.",FALSE,TRUE
+"1077",9577,9577,8817,"Strongyloides spp.","Saguinus leucopus","Soto-Calderon et al. 2016","COLOMBIA","0.158","Strongyloides sp.","Saguinus_leucopus","Strongyloides","sp.",FALSE,TRUE
+"1078",9580,9580,8816,"Trichostrongylus sp.","Saguinus leucopus","Soto-Calderon et al. 2016","COLOMBIA","0.263","Trichostrongylus sp.","Saguinus_leucopus","Trichostrongylus","sp.",FALSE,TRUE
+"1079",9588,9588,3973,"Haemobartonella sp.","Saguinus midas","de Thoisy et al. 2001","Petit Saut","NULL","Mycoplasma sp.","Saguinus_midas","Mycoplasma","sp.",FALSE,TRUE
+"1080",9620,9620,7949,"Cryptosporidium sp.","Saguinus mystax","West et al. 2013","Estacion Biologica Quebrada Blanco","0.05","Cryptosporidium sp.","Saguinus_mystax","Cryptosporidium","sp.",FALSE,TRUE
+"1081",9645,9645,1504,"Sparganum","Saguinus mystax","National Parasite Collection (WWW)","BRAZIL","NULL","Sparganum sp.","Saguinus_mystax","Sparganum","sp.",FALSE,TRUE
+"1082",9646,9646,3333,"Spirometra sp.","Saguinus mystax","Michaud et al. 2003","PERU","0.01","Spirometra sp.","Saguinus_mystax","Spirometra","sp.",FALSE,TRUE
+"1083",4684,4684,1532,"Allodapa sp.","Leontocebus geoffroyi","National Parasite Collection (WWW)","Panama","NULL","Allodapa sp.","Saguinus_oedipus","Allodapa","sp.",FALSE,TRUE
+"1084",9746,9746,3322,"Atriotaenia sp.","Saimiri boliviensis peruviensis","Michaud et al. 2003","PERU","0.277","Atriotaenia sp.","Saimiri_boliviensis","Atriotaenia","sp.",FALSE,TRUE
+"1085",9762,9762,3428,"Trypanoxyuris sp.","Saimiri boliviensis peruviensis","Michaud et al. 2003","PERU","0.055","Trypanoxyuris sp.","Saimiri_boliviensis","Trypanoxyuris","sp.",FALSE,TRUE
+"1086",9764,9764,1654,"Entamoeba sp.","Saimiri oerstedi","Appleton and Boinski 1991","Corcovado","0.278","Entamoeba sp.","Saimiri_oerstedii","Entamoeba","sp.",FALSE,TRUE
+"1087",9765,9765,1625,"Filarioides sp.","Saimiri oerstedi","Appleton and Boinski 1991","Corcovado","NULL","Filaroides sp.","Saimiri_oerstedii","Filaroides","sp.",FALSE,TRUE
+"1088",9768,9768,1653,"Prosthenorchis sp.","Saimiri oerstedi","Appleton and Boinski 1991","Corcovado","0.167","Prosthenorchis sp.","Saimiri_oerstedii","Prosthenorchis","sp.",FALSE,TRUE
+"1089",9853,9853,7100,"Entamoeba sp.","Saimiri sciureus","Phillips et al. 2004","Tampobata Research Center","0.056","Entamoeba sp.","Saimiri_sciureus","Entamoeba","sp.",FALSE,TRUE
+"1090",9812,9812,1594,"Microfilaria","Saimiri sciurea","National Parasite Collection (WWW)","Florencia","NULL","Microfilaria sp.","Saimiri_sciureus","Microfilaria","sp.",FALSE,TRUE
+"1091",9825,9825,1578,"Porocephalus","Saimiri sciurea","National Parasite Collection (WWW)","Unknown","NULL","Porocephalus sp.","Saimiri_sciureus","Porocephalus","sp.",FALSE,TRUE
+"1092",9834,9834,1579,"Strongyloides","Saimiri sciurea","National Parasite Collection (WWW)","BRAZIL","NULL","Strongyloides sp.","Saimiri_sciureus","Strongyloides","sp.",FALSE,TRUE
+"1093",9944,9944,3423,"Trichuris sp.","Saimiri sciureus macrodon","Michaud et al. 2003","PERU","0.018","Trichuris sp.","Saimiri_sciureus","Trichuris","sp.",FALSE,TRUE
+"1094",10108,10108,8418,"Acinetobacter species","Varecia rubra","Dutton et al. 2008","Masoala","0.35","Acinetobacter sp.","Varecia_variegata","Acinetobacter","sp.",FALSE,TRUE
+"1095",10141,10141,5657,"Bacillus sp..","Varecia vareigata","Junge and Louis 2002","Betampona","NULL","Bacillus sp.","Varecia_variegata","Bacillus","sp.",FALSE,TRUE
+"1096",10112,10112,8420,"Enterobacter species","Varecia rubra","Dutton et al. 2008","Masoala","0.53","Enterobacter sp.","Varecia_variegata","Enterobacter","sp.",FALSE,TRUE
+"1097",10115,10115,8425,"Group D Enterococcus","Varecia rubra","Dutton et al. 2008","Masoala","0.41","Enterococcus sp.","Varecia_variegata","Enterococcus","sp.",FALSE,TRUE
+"1098",10120,10120,7246,"Lemurostrongyles sp.","Varecia rubra","Dutton et al. 2008","Masoala National Park","NULL","Lemurostrongylus sp.","Varecia_variegata","Lemurostrongylus","sp.",FALSE,TRUE
+"1099",10121,10121,8504,"Lemurostrongylus spp.","Varecia rubra","Dutton et al. 2008","Masoala","0.111","Lemurostrongylus sp.","Varecia_variegata","Lemurostrongylus","sp.",FALSE,TRUE
+"1100",10145,10145,7970,"Plasmodium sp.","Varecia variegata","Pacheco et al. 2011","Ranomafana","0.143","Plasmodium sp.","Varecia_variegata","Plasmodium","sp.",FALSE,TRUE
+"1101",10142,10142,5662,"Coagulase negative Staphylococcus sp.","Varecia vareigata","Junge and Louis 2002","Betampona","NULL","Staphylococcus sp.","Varecia_variegata","Staphylococcus","sp.",FALSE,TRUE
+"1102",10116,10116,8426,"Group D non-Enterococcus","Varecia rubra","Dutton et al. 2008","Masoala","0.06","Streptococcus sp.","Varecia_variegata","Streptococcus","sp.",FALSE,TRUE
