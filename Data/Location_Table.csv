@@ -1,0 +1,874 @@
+LocationName,Status,Resolution,Coordinates,LatitudeDecimal,LongitudeDecimal,Nation,ProvinceState,DistrictCounty,CityTown,Biome,ContinentOcean,ParkReserveName,Altitude,Rainfall,Temperature,Notes,Accuracy,Extent_km2,TimeAdded
+Abuko,NULL,SL,NULL,13.3897,-16.6525,"The Gambia",NULL,"Kombo North",Banjul,NULL,Africa,NULL,NULL,NULL,NULL,"Google maps: Abuko nature reserve",2,2,"2019-11-07 20:39:37"
+Accra,NULL,SL,NULL,5.55,-0.2166,Ghana,NULL,NULL,Accra,NULL,Africa,0,0,0,NULL,"; ACME Mapper 2.0: Accra",2,2,"2019-11-07 21:13:56"
+AFRICA,NULL,O,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"continent; not relevant",4,4,"2019-12-05 20:14:51"
+"Aguas Frias",NULL,SL,"08° 25' 00" N; 080° 20' 00" W",8.41,-80.33,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames: Aguas Frias PPL alternate for Agua Fria; matches map in references",2,2,"2011-07-06 21:37:21"
+Akanyaru,NULL,SL,"02° 04' 32" S; 030° 01' 04" E",-2.07,30.01,Rwanda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Akanyaru STM, only entry, didn't restrict to Rwanda",2,2,"2011-07-06 21:37:30"
+"AL field site",NULL,SL,NULL,3.5,13.7,Cameroon,[Null],NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Determined coordinates by comparing source map to googlemaps",2,2,"2012-09-18 18:14:37"
+Al-Akhal,NULL,SL,"23° 18' 56" N; 039° 51' 34" E",23.31,39.85,"Saudi Arabia",NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"this seems to be the only popln that is truly wild, but still not a preserve (farming); Geonames: Al-Akhal",2,2,"2011-07-06 21:40:09"
+Al-Baha,NULL,SL,"20° 00' 00" N; 041° 30' 00" E",20,41.5,"Saudi Arabia",NULL,NULL,NULL,NULL,Eurasia,0,2225,450,NULL,"; rainfall is mm; Geonames: Al-Baha ADM1 alternate name, only exact match; listed as locality because matches closely map in primary reference",2,2,"2011-07-07 19:26:42"
+Al-Rihat,NULL,SL,"22° N; 40° E",34.23,-5.63,Morocco,NULL,NULL,NULL,NULL,Africa,,0,0,NULL,"Acmemapper 2.0,Al-Rihat",2,2,"2011-07-07 19:26:47"
+Al-Taif,NULL,SL,"21° 16'13" N; 040° 24' 57" E",21.27,40.4,"Saudi Arabia",NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,":Acmemapper 2.0 Al-Taif",2,2,"2011-07-07 19:26:53"
+Allahabad,NULL,SL,"25° 27' 00" N; 081° 51' 00" E",25.45,81.85,India,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"Acmemapper 2.0,Allahabad",2,2,"2011-07-07 19:26:58"
+"Alto Magdalena",NULL,P,"04° 00' 00" N; 072° 00' 00" W",30.74,-112.14,Mexico,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Acmemapper 2.0,Alto magdalena",2,2,"2020-01-14 20:42:00"
+"AM field site",NULL,SL,NULL,1.2,23.7,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"see Figure 1",2,2,"2019-12-03 19:00:49"
+Amakhala,NULL,SL,,-33.5365,26.0883,"South Africa","Eastern Cape",,,NULL,NULL,"Amakhala Game Reserve",NULL,NULL,NULL,,1,3,"2020-08-23 22:25:26"
+Amazon,NULL,P,"01° 54' 30" S; 055° 31' 08" W",-1.908,-55.52,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"river, basin; Geonames: Obidos, Brazil, PPL.  Used this because on Amazon river, approx 1/2 way to source",3,2,"2011-07-07 19:27:14"
+"Amazon Basin",NULL,O,NULL,-3,-60,Brazil,,,,NULL,NULL,,NULL,NULL,NULL,"No specificity in 1966 paper, Amazon Basin covers 6,300,000 km2 
+Central location for cordinates used on Google maps: Amazon River",4,4,"2020-01-14 21:16:24"
+"Amazon Headwaters",NULL,P,"03° 22' 00" S; 064° 42' 00" W",-3.367,-64.7,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"river; Geonames: Tefe, Brazil PPL. Used this as one of the most distant towns on Amazon, where headwaters presumably begin, but can only be approximate",3,2,"2011-07-07 19:27:19"
+Amazonas,NULL,P,"05° 00' 00" S; 063° 00' 00" W",-3.42,-65.86,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,";Acmemapper 2.0: Amazonas ",2,2,"2011-07-07 19:27:24"
+"Amazonas State",NULL,SL,NULL,-5.2,-61.83,Brazil,Amazonas,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"along the BR-319 road",2,1,"2019-11-13 20:49:53"
+Amazonas-Colombia,NULL,P,"01° 01' 11" S; 071° 56' 18" W",-1.45,-71.56,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,";Acmemapper 2.0,Amazonas colombia",2,2,"2020-01-17 21:09:27"
+Ambatolampy,NULL,SL,NULL,-19.38,47.42,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,";Acmemapper 2.0,Ambatolampy",2,2,"2019-11-07 21:14:00"
+Ambatondrazaka,NULL,SL,"17° 50' 00" S; 048° 25' 00" E",-17.83,48.41,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Ambatondrazaka PPL",2,2,"2011-07-07 19:27:41"
+Ambatovy,NULL,SL,NULL,-18.8167,48.3,Madagascar,,Moramanga,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Ambatovy",2,2,"2020-01-14 21:15:29"
+"Ambatovy Joint Venture",NULL,SL,"-18.7782696,48.2637773",-18.7783,48.2638,Madagascar,,Moramanga,,NULL,NULL,,NULL,NULL,NULL,,1,1,"2019-11-07 20:20:20"
+Ambavaniasy,NULL,SL,"18° 57' 00" S; 048° 31' 00" E",-18.95,48.51,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Ambavaniasy;Acmemapper 2.0;location could not be parsed",2,2,"2011-07-07 19:27:45"
+Ambohimahavelona,NULL,P,NULL,-23.4445,43.9098,Madagascar,NULL,"Toliara II ",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Ambohimahavelona -> Toliara II
+"Tulear Province" is now Toliara",3,2,"2019-11-07 20:37:00"
+Ambolisaka,NULL,P,NULL,-21.9,43.5833,Madagascar,,,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Ambolisaka, Madagascar",,,"2020-01-14 21:16:13"
+Amboseli,NULL,SL,"02° 40'00" S; 037° 17' 00" E",-2.63,37.26,Kenya,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames: Amboseli PPL;Acmemapper 2.0;Amboseli",2,2,"2011-07-07 19:27:51"
+Amistad-Caribe,NULL,O,NULL,9.40408,-82.941,"Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Google maps: La Amistad International Park",1,3,"2019-12-04 21:06:32"
+Ampijoroa,NULL,SL,NULL,-16.21,47.2,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Acmemapper 2.0;Ampijoroa",2,2,"2019-11-07 20:46:37"
+"AN field site",NULL,SL,NULL,4.5,27.7,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2019-12-03 19:00:56"
+Analamazoatra,NULL,SL,NULL,-18.9314,48.4103,Madagascar,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,1,"2019-11-07 21:07:57"
+Anerley,NULL,SL,,-30.6721,30.5078,"South Africa",KwaZulu-Natal,,Anerley,NULL,NULL,"Camp Anerley",NULL,NULL,NULL,,1,2,"2020-08-23 22:18:36"
+"Ankafana Forest",NULL,O,NULL,NULL,NULL,Madagascar,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Geonames: no hits; East Betsileo was a province in the 1800s and even Blanco et al 2013 could not find the modern location",4,3,"2019-11-07 21:05:11"
+Ankarafa,NULL,SL,NULL,-16.31,46.8,Madagascar,"Province Autonome de Mahajanga",NULL,NULL,NULL,Africa,"Sahamalaza National Park",NULL,1600,32,"Maximum annual temperature 32C. Min. annual temperature 20.6. National Park and UN Biosphere Reserve on the Sahamalaza Peninsula. However, lat long for this is in the sea so used Ankarafantsika coords instead.",2,2,"2019-11-07 21:12:36"
+Ankarafantsika,NULL,SL,"16° 19' S; 46° 48' E",-16.31,46.8,Madagascar,,,,NULL,Africa,1,0,0,NULL,"obtained from Weidt et al. 2004,  AJPA 123:40-51
+",1,1,"2011-07-07 23:24:09"
+Antongyl,NULL,SL,NULL,-15.79,49.83,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Acmemapper 2.0;Antongil matched,no records for Antongyl",2,2,"2019-11-07 21:13:03"
+Antsiranana,NULL,SL,"13° 08' 52" S, 49°55' 03" E",-13.148,49.918,Madagascar,,,,NULL,NULL,,NULL,NULL,NULL,,1,1,"2020-01-21 21:13:24"
+"Aquidauana ",NULL,SL,"20º28'15" S and 55°47'13" W",20.4708,55.7869,Brazil,"Mato Grosso do Sul",,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-09-15 01:05:34"
+Arabuko,NULL,SL,"03° 20' 00" S; 039° 52' 00" E",-3.33,39.86,Kenya,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"forest; Geonames: no records for Arabuka, but match for Arabuko Forest FRST",2,2,"2011-07-07 19:25:39"
+Arashiyama,NULL,SL,NULL,35.03,135.7,Japan,Kyoto,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Arashiyama",2,2,"2019-11-07 21:14:40"
+"Aratay River",NULL,O,NULL,NULL,NULL,,"French Guiana",NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; Acmemapper 2.0; Aratay River - no this is in Kazakhstan!",-,-,"2020-01-14 21:16:42"
+Arenal-Tempisque,NULL,O,NULL,10,-84.5,"Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"SINAC website lists coordinates http://www.sinac.go.cr/EN-US/ac/acat/Pages/default.aspx",1,3,"2019-12-04 21:06:35"
+ARGENTINA,NULL,N,"34° 00' 00" S; 064° 00' 00" W",-34,-64,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Argentina PCLI",2,4,"2011-07-06 21:42:13"
+Arusha,NULL,SL,NULL,-3.25,36.75,Tanzania,,,,NULL,NULL,"Arusha National Park",NULL,NULL,NULL,"Geonames: Arusha National Park",2,2,"2020-01-14 21:14:42"
+ASIA,NULL,O,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; not relevant",-,-,"2019-11-13 20:54:52"
+Asir,NULL,SL,"19° 00'00" N; 042° 00' 00" E",19,42,"Saudi Arabia",NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Asir RGN",2,3,"2011-07-07 19:29:18"
+Assam,NULL,P,"26° 00' 00" N; 093° 00' 00" E",26,93,India,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"state in India; Geonames: Assam ADM1",2,3,"2011-07-06 21:46:03"
+Awajishima,NULL,P,NULL,34.3,134.8,Japan,Hyogo,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Awajishima",2,2,"2019-11-13 20:54:49"
+Awash,NULL,SL,"08° 24' 00" N; 039° 20' 00" E",8.4,39.33,Ethiopia,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"national park; Geonames: Awash (2)",2,2,"2011-07-07 19:29:50"
+"AZ field site",NULL,SL,NULL,1.6,22.9,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2019-12-03 19:01:00"
+"BA field site",NULL,SL,NULL,1.2,27.1,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2019-12-03 18:57:53"
+Bahia,NULL,P,"12° 00' 00" S; 042° 00' 00" W",-12,-42,Brazil,,,,NULL,SouthAmerica,0,0,0,NULL,"State of Bahia in Ricciardi et al. 1976; Geonames: Bahia ADMD
+",2,2,"2011-07-07 23:31:12"
+"Bahr El Ghazal",NULL,P,NULL,9.32,29.85,"South Sudan",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: has both east and west Bahr El Ghazal 
+Used Google Maps: Bahr el Ghazal for central location",3,2,"2019-12-05 18:00:29"
+"Bai Hokou",NULL,SL,NULL,2.85944,16.4675,"Central African Republic","Dzangha-Ndoki National Park",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Provided in paper",1,1,"2019-11-21 20:14:51"
+Bakel,NULL,P,NULL,14.2361,-12.2396,Senegal,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Bakel, Senegal",2,2,"2019-11-13 21:09:51"
+Bako,NULL,SL,NULL,1.717,110.45,Malaysia,,,,NULL,NULL,,NULL,NULL,NULL,"Bako National Park",1,1,"2020-01-14 21:14:32"
+Bakoumba,NULL,SL,"12º59'55.91E 1º46'49.21S",13.0213,1.8299,Gabon,,,,NULL,Africa,,NULL,NULL,NULL,,1,1,"2019-11-13 21:11:58"
+Balancan,NULL,SL,"(17º40'N, -91º30W)",17.8082,91.5357,Mexico,Tabasco,,,NULL,SouthAmerica,,NULL,1976,27.9,,1,1,"2019-11-21 20:35:39"
+Balanga,NULL,SL,NULL,-1.16436,23.5494,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Google maps: Balanga, DRC",2,2,"2019-11-21 20:31:38"
+Balbina,NULL,SL,"01° 55' 00" S; 059° 28' 00" W",-1.91,-59.46,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"State of Amazonas; from primary ref, Lourenco de Oliveira and Deane 1995",1,1,"2011-07-06 21:44:40"
+Bali,NULL,P,NULL,-8.33333,115,Indonesia,,,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Bali",3,3,"2020-01-14 21:14:34"
+Ballena,checked,SL,,9.15,-82.267,"Costa Rica",,,,CoastalMarine,PacificOcean,,NULL,NULL,NULL,,1,2,"2020-05-27 07:37:09"
+Bananjale,NULL,SL,NULL,0.616666,25.4167,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,"Lomami National Park",NULL,NULL,NULL,"Manual finding of coordinates by map from Terese Hart: https://www.flickr.com/photos/teresehart/12290344873/ ",2,1,"2019-11-22 21:52:19"
+Bandundu,NULL,P,NULL,-2.44676,20.903,"Democratic Republic of Congo",Bandundu,,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Salong National Park",2,2,"2020-01-14 21:16:01"
+BANGLADESH,NULL,N,"24° 00' 00" N; 90° E",24,90,Bangladesh,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Bangladesh PCLI",2,4,"2011-07-06 21:44:04"
+Bangui,NULL,SL,"03° 53' 00" N; 018° 00' 00" E",3.88,18,"Central African Republic",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"near M'Baiki, southern CAR; Geonames: Bangui PPL brings up many, used Mbaiki PPL instead",3,2,"2011-07-07 19:32:44"
+"Baobeng Fiema",NULL,SL,NULL,7.79,-1.76,Ghana,NULL,Nkoranza,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper 2.0,Baobeng Fiema not matched,returned Boabeng Fiema;Monkey Sanctuary",2,2,"2012-09-18 18:16:25"
+Barbascal,NULL,SL,NULL,3.68333,-73.4333,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,NULL,0,0,NULL,"; Geonames: Barbascal, Colombia",2,2,"2019-12-03 18:23:56"
+Barcelos,NULL,SL,NULL,-0.39287,-63.5371,Brazil,Amazonia,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Barcelos, Brazil, Amazonas",2,2,"2019-12-03 18:29:30"
+"Barigui Park",NULL,SL,NULL,25.4269,-49.3078,Brazil,Paraná,,Curitiba,NULL,NULL,,NULL,NULL,NULL,"Coordinates given in paper",1,1,"2020-01-14 21:16:40"
+Barranquilla,NULL,SL,NULL,10.9639,-74.7964,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Coordinates given by Smithsonian: https://www.si.edu/object/nmnhinvertebratezoology_12011880",2,2,"2019-12-03 18:35:07"
+"Barro Colorado Island",NULL,SL,"09° 09' 17" N; 079° 50' 53" W",9.15,-79.83,Panama,NULL,NULL,NULL,NULL,NorthAmerica,2,0,0,NULL,"; Geonames:  Barro Colorado Island",2,2,"2011-07-07 19:35:49"
+Bata,NULL,SL,NULL,1.86,9.76,Guinea,NULL,NULL,NULL,NULL,Africa,0,NULL,NULL,NULL,";google maps;multiple its,used Bata,littoral,equitorial guinea as other options are not in guinea",2,2,"2011-07-07 19:36:12"
+"Batang Berjuntai",NULL,SL,"03° 23' 00" N; 101° 25' 00" E",3.38,101.41,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"on fringes of oil and palm plantations; Geonames:  Batang Berjuntai (only value that came up);confirmed on Acmemapper 2.0",2,2,"2011-07-07 19:36:45"
+Bayandjo,NULL,SL,NULL,-0.28333,25.1,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"; Geonames: Bayandjo, DR Congo",2,2,"2019-12-03 18:36:55"
+"BB field site",NULL,SL,NULL,2.9,14.7,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2012-09-18 18:16:28"
+"BD field site",NULL,SL,NULL,4.2,27.1,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2019-12-03 18:57:38"
+Behara,NULL,SL,NULL,-24.95,46.3833,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Behara in the Anosy Region in the South (paper mentions "sud")",3,2,"2019-12-03 18:40:55"
+Bekily,NULL,SL,NULL,-19.8667,44.9,Madagascar,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Geonames: Bekily I in Menabe. Cross-referenced state with range of Lepilemur ruficaudatus, which helped narrow search tremendously",2,2,"2019-12-03 18:44:28"
+"Bela Vista",NULL,SL,,-25.4492,-54.555,Brazil,Parana,,,NULL,NULL,"Bela Vista Biological Sanctuary",NULL,NULL,NULL,,1,2,"2020-05-29 23:08:19"
+Belem,NULL,SL,"01° 27' 00" S; 048° 29' 00" W",-1.45,-48.48,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"in Para State; Geonames:  Belem do Para PPL (many Belem, matched up also using Atlas);Also usig Acmemapper 2.0",2,2,"2011-07-07 19:37:24"
+"Belize and Mexico",NULL,O,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"samples combined over both countries",4,4,"2019-12-03 18:46:53"
+"Bella Vista",NULL,SL,"28° 30' 00" S; 058° 50' 00" W",-28.5,-58.83,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"Corrientes State; Geonames:  Bella Vista ADM2, matched up using atlas bc many Bella Vistas",3,2,"2011-07-07 19:38:07"
+Belterra,NULL,SL,"02° 38' 00" S; 054° 57' 00" W",-2.63,-54.95,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; Geonames: Belterra PPL",2,2,"2011-07-07 19:38:24"
+Belvedere,NULL,SL,NULL,-20.75,-42.867,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Reference:  de Oliveira Tavela et al. 2013",1,1,"2019-12-03 18:48:36"
+Bemangidy,NULL,SL,NULL,-17.5,47,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: 3 hits with close coordinates,took average of the three values",2,2,"2019-12-03 18:48:47"
+Beroboka,NULL,SL,"16° 46' 00" S; 045° 39' 00" E",-16.76,45.65,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: used Beroboka PPL, but some other potential matches in another locality",2,2,"2011-07-07 19:45:04"
+Betampona,NULL,SL,NULL,-17.9,49.2167,Madagascar,NULL,NULL,Tamatave,NULL,Africa,NULL,NULL,NULL,NULL,"; Geonames: Tahiry Nanaharin Betampona",1,2,"2019-12-03 18:56:09"
+"Beza Mahafaly",NULL,SL,"23° 30' S; 44° 40' E",-23.5,44.67,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; taken from proposal with Michelle Sauther",1,1,"2011-07-07 19:47:15"
+"BF field site",NULL,SL,NULL,1,29,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2019-12-03 18:57:41"
+"BI field site",NULL,SL,NULL,-0.8,24.7,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2019-12-03 18:57:44"
+Bilsa,NULL,SL,NULL,0.35,-79.733,Ecuador,,,,NULL,NULL,,NULL,NULL,NULL,,1,2,"2020-01-14 21:14:38"
+"Biosfera Montes Azules",NULL,SL,NULL,16.13,-90.94,Mexico,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"in Chiapas, in southern part of biosphere reserve in Lacandona Forest; lat-long given in reference",1,2,"2012-09-18 18:17:01"
+Bipindi,NULL,SL,NULL,3.1,10.5,Cameroon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Provided by Herder et al. 2002",2,2,"2019-12-03 19:09:58"
+"Bishan Gari",NULL,SL,"07° 36' 00" N; 038° 43' 00" E",7.6,38.71,Ethiopia,NULL,NULL,NULL,NULL,Africa,0,1600,0,NULL,"Southeast of Lake Langano, 210 km from Addis Ababa; Geonames: Langano LK",3,2,"2011-07-07 19:48:06"
+"BL field site",NULL,SL,NULL,3.2,22.4,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2019-12-03 18:57:46"
+"Boabeng-Fiema Monkey Sanctuary",NULL,SL,NULL,7.71667,1.7,Ghana,"Brong-Ahafo Region","Nkoranza district",NULL,NULL,Africa,NULL,350,1250,NULL,"1250 = mean annual rainfall from 1985-1990. Rainfall was 1329 in the year of the study",2,2,"2019-12-03 19:10:19"
+Bobo-Dioulasso,NULL,SL,"11° 12' 00" N; 004° 18' 00" W",11.1,-4.2,"Burkina Faso",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Geonames;Bobo dioulasso Acmemapper 2.0;Bobo-Dioulasso,Burkina faso",2,2,"2011-07-07 19:51:36"
+Bolívar,NULL,SL,NULL,6,-61.4,Venezuela,Bolívar,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Specific location given in Jones et al. 1972, as cited by Stuart et al. 1998",1,2,"2021-04-20 19:58:25"
+BOLIVIA,NULL,N,"17° 00' 00" S; 065° 00' 00" W",-17,-65,Bolivia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames:  Bolivia PCLI",2,3,"2011-07-07 19:51:52"
+"Bolivia and Paraguay",NULL,O,NULL,NULL,NULL,"Bolivia and Paraguay",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,4,"2019-12-03 19:10:54"
+Bonga,NULL,SL,NULL,7.2,36.2,Unknown,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; not in Geonames, no information on country;Acmemapper2.0 ;Bonga",2,2,"2019-12-03 19:11:01"
+Bormi,NULL,P,NULL,24.2477,90.4976,Bangladesh,NULL,NULL,Bormi,NULL,NULL,NULL,NULL,NULL,NULL,"; in Geonames as "Barmi, Bangladesh". Cross-referencing using the map from the reference, it is the correct location",2,2,"2019-12-03 19:21:56"
+Borneo,NULL,O,"01° 00' 00" N; 114° 00' 00" E",1,114,NULL,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"could be one of three countries; Geonames: Borneo , no country selected",3,4,"2019-12-03 19:28:18"
+"Bosque da Companhia de Energia Eléctrica do Estado do Paraná",NULL,SL,NULL,-25.4325,-49.3017,Brazil,Paraná,,Curitiba,NULL,NULL,,NULL,NULL,NULL,,2,1,"2020-01-14 21:14:46"
+Bossou,NULL,SL,NULL,7.7,-8.5,"Republic of Guinea",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper;Bossou,republic of guinea",2,2,"2012-09-18 18:17:27"
+"BQ field site",NULL,SL,NULL,3.7,12.1,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,1,"2012-09-18 18:17:33"
+BRAZIL,NULL,N,"10° 00' 00" S; 055° 00' 00" W",-10,-55,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames:  Brazil PCLI",2,4,"2011-07-08 19:39:10"
+"Brazilian Atlantic Forest",NULL,O,NULL,-24.1667,-48,Brazil,"São Paulo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Crossreferencing Duarte et al. 2005 map with UNESCO coordinates of same location: https://whc.unesco.org/en/list/893/",2,3,"2019-12-03 19:58:49"
+Brazzaville,NULL,SL,"04° 15' 33" S; 015° 17' 05" E",-4.25,15.28,"Republic of the Congo",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"not Zaire; Congo; Geonames: Brazzaville PPLC;confirmed on Acmemapper 2.0described in French as "Braizeville" in 1956, take this into context for 1950s Congo
+Geonames: Commune de BRAZZAVILLE",2,2,"2020-01-15 20:34:32"
+Budongo,NULL,SL,"01° 44' 16" N; 031° 33' 22" E
+",1.73,31.55,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"also includes "Budango" records from National Parasite Collection; Geonames: Budongo Forest FRST",2,2,"2011-07-08 19:39:59"
+Bugesera,NULL,SL,"02° 07' 00" S; 030° 25' 00" E",-2.11,30.41,Rwanda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"listed as Rwanda-Burundi; Geonames: Bugesera AREA;onfirmed ith Acmemapper 2.0",2,2,"2011-07-08 19:40:35"
+Bugoma,NULL,SL,"01° 11' 53" N; 030° 56' 07" E",1.19,30.93,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""forest", Bunyoro district; Geonames: Bugoma Forest FRST",2,2,"2011-07-08 19:40:53"
+Bujuko,NULL,SL,"00° 20' 08" N; 032° 21' 34" E",0.33,32.35,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Mengo district; Geonames: Bujuko PPL;confirmed on Acmemapper 2.0",2,2,"2011-07-08 19:41:08"
+Bukavu,NULL,SL,"02° 30' 30" S; 028° 51' 39" E",-2.5,28.85,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Bukavu PPLAconfirmed with Acmemapper 2.0",2,2,"2019-12-03 18:59:55"
+"Bukit Lagong Kepong",NULL,SL,NULL,3.25,101.65,Malaysia,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acme mapper 2.0;Bukit Lagong Kepong",2,2,"2012-06-14 21:56:12"
+"Bukit Lawang",NULL,SL,"03°32.983' N; 098°06.908' E",3.54995,98.1151,Indonesia,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Coordinates from Foitova et al 2010",1,2,"2019-12-03 21:18:26"
+"Bulindi ",NULL,SL,"(1º28'N, 31º28'E)",1.46667,31.4667,Uganda,,,,NULL,Africa,,NULL,NULL,NULL,,1,1,"2019-12-03 21:18:51"
+"Bundu Tuhan",NULL,SL,NULL,5.9835,116.534,Malaysia,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Called "Bundi Tuhan" in text but near Kinabalu, there is Bundu Tuhan. Geonames: Kampung Bundu Tuhan",2,2,"2019-12-03 21:25:21"
+"Burka Dita",NULL,SL,"07° 16' 00" N; 037° 18' 00" E",7.26,37.3,Ethiopia,NULL,NULL,NULL,NULL,Africa,0,1600,0,NULL,"Southeast of Lake Langano, 210 km from Addis Ababa; Geonames: Dita PPL; close to the coordinates for Langano, matching info in reference (Legesse and Erko 2004)",2,2,"2011-07-08 19:42:24"
+Busingiro,NULL,SL,"1° 42' 941" N; 31° 28' 201" E",1.96139,31.5225,Uganda,,,,NULL,Africa,"Budongo Forest Reserve",NULL,NULL,NULL,,1,1,"2019-12-03 21:26:43"
+Bwamba,NULL,SL,"00° 50' 00" N; 030° 03' 00" E",0.83,30.05,Uganda,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"Bwamba Forests, along Semliki R; Geonames: Bwamba Country ADMD, short name Bwamba (no forest listed)",2,2,"2011-07-08 19:42:40"
+Bwindi,NULL,SL,"01° 00' 00" S; 029° 40' 00" E",-1.05,29.7,Uganda,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames:  Impenetrable Forest;confirmed with Acmemapper 2.0",2,2,"2011-07-08 19:44:11"
+"BY field site",NULL,SL,NULL,3.75,15.15,Cameroon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"See Figure 5",2,2,"2019-12-04 19:05:15"
+Calakmul,NULL,SL,NULL,18.11,-89.81,Mexico,Campeche,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Acmemapper2.0;calakmul,campeche,mexico",2,2,"2012-06-14 21:56:07"
+Cali,NULL,SL,NULL,3.43,-76.51,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,0,NULL,NULL,NULL,"Acmemapper2.0;cali,colombia",2,2,"2019-12-03 19:03:28"
+Camacan,NULL,SL,NULL,-15.35,-39.35,Brazil,Bahia,,,DeciduousForest,SouthAmerica,,NULL,NULL,NULL,,1,1,"2020-01-14 21:15:59"
+CAMBODIA,NULL,N,"13° 00' 00" N; 105° 00' 00" E",13,105,Cambodia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Cambodia PCLI",2,3,"2011-07-08 19:45:23"
+CAMEROON,NULL,N,"06° 00' 00" N; 012° 00' 00" E",6,12,Cameroon,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Cameroon PCLI",2,3,"2011-07-08 19:46:42"
+Camopi,NULL,SL,"03° 13' 00" N; 052° 28' 00" W",3.21,-52.46,"French Guyana",NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; Geonames:  Camopi PPL (all results very similar)",2,3,"2012-06-14 21:56:01"
+"Campo Alegre",NULL,SL,NULL,-26.085,-49.187,Brazil,"Santa Catarina",NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"See Map 1 on Deane et al. 1971; confirmed on Geonames: Campo Alegre, Santa Catarina, Brazil",2,1,"2019-12-04 19:14:09"
+"Campo Grande",NULL,SL,"20°26’34” S and 54°38’47” W",20.4428,54.646,Brazil,"Mato Grosso do Sul",,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-09-15 01:00:20"
+"Can Gio",NULL,SL,"10° 45' 00" N; 106° 40' 00" E",10.75,106.66,Vietnam,NULL,NULL,NULL,NULL,Eurasia,2,0,0,NULL,"Can Gio Mangrove Park, Ho Chi Minh City; Geonames: Ho Chi Minh City PPL (values similar to various ones for Can Gio_)",2,2,"2012-06-14 21:55:57"
+"Cano Canome",NULL,P,"03° 30' 00" N; 066° 00' 00" W",3.5,-66,Venezuela,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Amazonas State; not in Geonames; nor is Atalbapo; used Amazonas ADM1 (State), limited search to Venezuela",2,2,"2011-07-08 20:19:24"
+Cantanhez,NULL,SL,"11° 15' 52.6" N; 15° 1' 45.48" W",11.2646,-15.0293,"Guinea Bissau",Tombali,,,NULL,Africa,"Cantanhez National Park",70,NULL,NULL,,1,2,"2020-01-15 20:22:58"
+"Cape St. Marie",NULL,SL,NULL,-25.5823,45.1496,Madagascar,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Cape Saint Maries Special Reserve",1,2,"2019-12-04 21:06:46"
+"Cape Vidal",NULL,SL,"28° 06' S; 32° 34' E",-28.1,32.56,"South Africa",NULL,NULL,NULL,NULL,Africa,0,20,0,NULL,"Natal region of South Africa; ",2,2,"2011-07-08 20:23:17"
+"Capitão Poço",NULL,SL,NULL,-1.73,-47.05,Brazil,Para,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,2,"2019-12-04 19:22:48"
+Caratinga,NULL,SL,"19° 50' S; 41° 50' W",-19.83,-41.83,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,2,0,0,NULL,"; primary ref",1,1,"2011-07-08 20:23:25"
+"Carey Island",NULL,SL,"02° 52' 00" N; 101° 22' 00" E",2.86,101.36,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"killed by aborigines, but seem to be more isolated than Indian macaques in same paper (?); Geonames Gazetteer",2,2,"2011-07-08 20:23:56"
+"Carlos Green",NULL,P,NULL,17.6931,-92.6682,Mexico,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Carlos Green, Tabasco, Mexico",2,2,"2019-12-04 19:26:44"
+Carmo,NULL,SL,"21° 56' 01" S; 42° 36' 31" W",-21.934,-42.609,Brazil,"Rio de Janeiro",,,NULL,NULL,,NULL,NULL,NULL,,2,2,"2019-12-04 19:27:14"
+Casamance,NULL,SL,NULL,12.75,-15.5,Senegal,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Geonames: Casamance, Senegal",3,2,"2019-12-04 19:31:10"
+Cayo,NULL,P,NULL,17,-88.9,Belize,Cayo,,,NULL,NULL,,NULL,NULL,NULL,,2,2,"2020-01-14 21:14:35"
+Ceara,NULL,SL,"03° S; 40° W",-3,-40,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; approximated based on reference source (Deane et al. 1969)",2,2,"2011-07-08 20:24:33"
+"CENTRAL AFRICAN REPUBLIC",NULL,N,"07° 00' 00" N; 021° 00' 00" E",7,21,"Central African Republic",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  CAR PCLI",2,3,"2011-07-08 20:25:19"
+"Central Cameroon",NULL,O,NULL,4.7,11.7,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,";google maps;central cameroon",2,3,"2012-06-14 21:55:50"
+"Central Pacific Conservation Area",NULL,O,NULL,9.55721,-84.1532,"Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Using SINAC map http://www.sinac.go.cr/EN-US/ac/acopac/Pages/default.aspx in conjunction with Google maps",2,3,"2019-12-04 21:06:18"
+"Central Volcanic Mountain Range",NULL,O,NULL,10.021,-83.9722,"Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Cordillera Central",2,3,"2019-12-04 21:06:20"
+"Cerrito and San Cayetano",NULL,O,NULL,-27.4167,-58.65,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,1200,21.6,"Villages some distance apart but monkey data pooled from both.
+Averaged Cerrito (C) (271170 S, 581370 W) and San Cayetano (SC) (271340 S, 581420 W) ",2,3,"2019-12-04 20:36:47"
+"Cerro Azul",NULL,SL,"09° 10' 00" N; 079° 25' 00" W",9.16,-79.41,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames: Cerro Azul PPL, cross-checked to map in Galindo and Srihongse to decide which of two to use",2,2,"2011-07-08 20:26:32"
+"Cerro Cana",NULL,SL,"08° 25' 00" N; 081° 50' 00" W",8.41,-81.83,Panama,NULL,NULL,NULL,NULL,NorthAmerica,1,0,0,NULL,"; Geonames:  Cerro Cana PPL",2,2,"2011-07-08 20:26:43"
+Cesamance,NULL,O,"14° 00' 00" N; 014° 00' 00" W",14,-14,Senegal,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; not in Geonames, used coordinates for Senegal",3,3,"2020-01-14 20:40:39"
+Chaco,NULL,SL,NULL,-20.1562,-60.304,Paraguay,NULL,NULL,NULL,NULL,SouthAmerica,"Parque nacional Defensores del Chaco",0,0,NULL,"ACME mapper",2,3,"2019-12-04 20:41:18"
+Chandigarh,NULL,SL,"30.7333° N, 76.7794° E",30,77,"India ",,,,NULL,Eurasia,,NULL,NULL,NULL,"Punjab University in Chandigarh",1,1,"2019-12-04 20:43:46"
+"Chapada dos Guimaraes",NULL,SL,NULL,-15.43,-55.75,Brazil,"Mato Grosso",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,1,"2019-12-04 20:45:10"
+Charmaguria,NULL,P,NULL,23.1712,90.1698,Bangladesh,NULL,NULL,Charmaguria,NULL,NULL,NULL,NULL,NULL,NULL,"Google maps: Charmaguria, Bangladesh",2,2,"2019-12-04 20:48:39"
+"Cherok Paloh",NULL,P,"03° 30' 00" N; 102° 45' 00" E",3.6,103.4,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"in Pahang; Geonames: Pahang ADM1, no records for Cherok Paloh;Acmemapper2.0;cherok paloh,Malaysia",2,2,"2011-07-08 20:27:46"
+Chiba,NULL,P,NULL,35.6,140.1,Japan,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Prefecture;Acmemapper2.0;chiba prefecture,japan",2,3,"2011-07-08 20:23:11"
+"Chiba Prefecture",NULL,P,NULL,35.6,140.1,Japan,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;chiba prefecture,japan",2,3,"2012-09-18 18:17:38"
+Chicualacuala,NULL,SL,"22° 04' 45" S; 031° 40' 43" E",-22.07,31.66,Mozambique,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Chicualacuala PPL",2,2,"2011-07-08 20:29:59"
+Chiksuli,NULL,SL,NULL,14.336,74.639,India,Karnataka,,,NULL,NULL,,NULL,NULL,NULL,,1,1,"2020-01-14 21:15:33"
+CHINA,NULL,N,"35° 00' 00" N; 105° 00' 00" E",35,105,China,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  China PCLI",2,4,"2011-07-08 20:30:20"
+Chiriqui,NULL,SL,"08° 30' 00" N; 082° 14' 00" W",8.5,-82.23,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"prov=province?; Geonames: no hits for Chirigni, but there is a Chiriqui Province ADM1, used here ",2,2,"2011-07-08 20:30:39"
+"Chiriqui Province",NULL,P,NULL,8.59,-82.38,Panama,Chiriqui,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Along the Rio de la Vaca;googlemaps;chiriqui,panama",2,2,"2012-09-18 18:17:50"
+Chittagong,NULL,SL,"22° 21' 49" N; 091° 48' 12" E",22.36,91.8,Bangladesh,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Chittagong PPL (similar to ADM1 and ADM2)",2,2,"2011-07-08 20:30:51"
+Chobe,NULL,SL,NULL,-18.67,24.5,Botswana,,,,NULL,NULL,,NULL,NULL,NULL,,1,1,"2020-01-14 21:14:39"
+Cipaganti,NULL,SL,NULL,-7.10917,107.767,Indonesia,"West Java",NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,NULL,1,1,"2019-12-04 20:50:13"
+CIRMF,NULL,SL,NULL,-1.63,13.58,Gabon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"found co-ordinates already recorded without notes, Acmemapper and googlemaps could however not localize",2,1,"2019-12-04 20:50:44"
+"CK Durama Fragment",NULL,SL,NULL,0.5,30.4,Uganda,NULL,"Kibale National Park",NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Forest fragment neighboring Kibale National Park.Acmemapper2.0;could not be localized,used kibale national park",3,2,"2012-09-18 18:17:55"
+COLOMBIA,NULL,N,NULL,4.6,-74.3,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Acmemapper2.0;colombia,colombia",2,3,"2020-01-14 20:39:23"
+"Colon Province",NULL,P,NULL,9.4,-79.9,Panama,Colon,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Along the Rio Boqueron in the upper Chagres valley.;Acmemapper2.0;colon province,colon,panama",2,2,"2012-09-18 18:13:59"
+Comalcalco,NULL,SL,NULL,18.2654,-93.3041,Mexico,Tabasco,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Geonames: Comalcalco, Tabasco, Mexico
+Cross-referenced with Figure 1 ",1,1,"2019-12-04 21:12:26"
+"Community Baboon Sanctuary",NULL,SL,NULL,17.5559,88.5349,Belize,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Google maps: Community Baboon Sanctuary",1,3,"2019-12-04 21:25:03"
+CONGO,NULL,N,"01° 00' 00" S; 015° 00' 00" E",-1,15,Congo,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"not Zaire, French Congo; Geonames:  Congo PCLI (not Dem Rep Congo)",2,4,"2011-07-25 19:10:47"
+Coquilhatville,NULL,SL,"00° 04' 00" N; 018° 16' 00" E",0.06,18.26,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"alternate name is Mbandaka; Geonames: Coquilhatville PPLA (altnerate name Mbandaka)",2,2,"2019-12-03 18:58:11"
+Corcovado,NULL,SL,"08° 33' 00" N; 083° 37' 00" W",8.55,-83.61,"Costa Rica",NULL,NULL,NULL,NULL,NorthAmerica,2,0,0,NULL,"; Goenames:  Corcovado, used LKI (intermittent lakes) value; matches river, beach, etc. closely",2,2,"2011-07-08 20:21:36"
+Corrientes,NULL,P,NULL,-29,-58,Argentina,Corrientes,,,NULL,NULL,,NULL,NULL,NULL,,3,3,"2020-01-14 21:16:11"
+Corumbá,NULL,SL,"18º20’-19º40’ S and 57º57’-55º00’ W)",18.3333,57.95,Brazil,"Mato Grosso do Sul",,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-09-15 01:11:23"
+"COSTA RICA",NULL,N,"10° 00'00" N; 084° 00' 00" W",10,-84,"Costa Rica",NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames: Costa Rica, republic of",2,3,"2011-07-08 20:20:54"
+"CP field site",NULL,SL,NULL,2.6,9.9,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:14:06"
+"Crater Lake Nkuruba",NULL,SL,NULL,1.5,33.8,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: no hits for Nkur(uba), ;Acmemapper 2.0;Lake nkuru,uganda",2,2,"2019-12-04 21:34:00"
+"Crooked Tree",NULL,SL,NULL,17.7942,-88.5339,Belize,Belize,,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Crooked Tree Wildlife Sanctuary, Belize",1,2,"2020-01-14 21:16:36"
+"Cross River",NULL,SL,NULL,5.67866,8.2311,Nigeria,"Cross River",,,NULL,NULL,,NULL,NULL,NULL,"In Figure 1 of Friant et al. 2015 and used Google maps to find exact coordinates",2,1,"2020-01-14 21:16:17"
+"Cuc Phuong",NULL,SL,NULL,20.3,105.65,Vietnam,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Pu Luong - Cuc Phuong limestone range, Northern Vietnam:Acmemapper 2.0;cuc phuong,vietnam",2,2,"2012-06-14 21:54:47"
+"Da Gama",NULL,SL,"S 34° 20' 41'' E 18° 28' 29''",-34.34,18.47,"South Africa","Western Cape",NULL,"Cape Town",NULL,Africa,NULL,NULL,NULL,NULL,"Geonames: Vasco da Gama Peak is a mountain on the Western Cape of SA (GeoNameID: 3360025)",1,1,"2013-03-04 20:07:25"
+Daraina,NULL,SL,"13° 12' 00" S; 049° 40' 00" E",-13.2,49.66,Madagascar,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"region of NE Madagascar; Geonames:  Daraina PPL",2,2,"2011-07-18 18:16:30"
+Darajani,NULL,SL,"02° 35' 00" S; 038° 07' 00" E",-2.58,38.11,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Darajani PPL (3 other options, all close by)",2,2,"2011-07-18 18:16:47"
+Darien,NULL,P,"08° 13' 00" N; 077° 53' 00" W",8.22,-77.88,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames:  Darien ADM1",2,3,"2011-07-18 18:20:32"
+"Darien Province",NULL,P,"08° 13' 00" N; 077° 53' 00" W",8.22,-77.88,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames: Darien Province ADM1",2,3,"2011-07-18 18:20:50"
+"DD field site",NULL,SL,NULL,4.8,13.3,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:18:05"
+Dehradun,NULL,P,NULL,30.323,78.0317,India,,,Dehradun,NULL,NULL,,NULL,NULL,NULL,,2,3,"2020-01-14 21:15:35"
+"DEMOCRATIC REPUBLIC OF CONGO",NULL,N,"00° 00'00" S; 025° 00' 00" E",0,25,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Zaire, Belgian Congo; Geonames: Congo (Democratic Republic of) PCL1",2,4,"2019-12-05 18:02:22"
+"DG field site",NULL,SL,NULL,3.8,13.2,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:19:15"
+Dhamrai,NULL,P,NULL,23.94,90.15,Bangladesh,NULL,NULL,Dhamrai,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Dhamrai, Bangladesh",2,2,"2019-12-04 21:49:21"
+"DI field site",NULL,SL,NULL,3.417,12.66,Cameroon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Cross-referencing Figure 5 with Google Maps",2,2,"2019-12-04 21:56:54"
+Diani,NULL,P,NULL,-4.3,39.55,Kenya,"Kenyan South Coast","Kwale District",NULL,NULL,Africa,NULL,NULL,NULL,31.5,"Acmemapper 2.0;Diani kenya",2,2,"2020-01-14 20:41:05"
+"DJ field site",NULL,SL,NULL,3.15106,13.001,Cameroon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"See figure 1 and 5. Neel et al. states the site is just south of the Dja reserve om south-central Cameroon",2,2,"2019-12-05 18:07:34"
+Dja,NULL,SL,NULL,3.16,13.01,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper 2.0;dja cameroon",2,2,"2011-07-18 18:24:18"
+Djidji,NULL,SL,NULL,0.22,11.81,Gabon,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""village"; Geonames: no records for this from Gabon,Acmemapper 2.0;Djidji,Gabon",2,2,"2019-12-05 18:18:16"
+Djoum,NULL,P,NULL,2.666,12.666,Cameroon,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Listed in the 1959 text as being a part of "French Cameroon"; Geonames listed a few options but only Djoum in south Cameroon overlaps with C. cephus range",2,2,"2019-12-05 18:23:18"
+"Djoumou Forest ",NULL,SL,NULL,-2.0646,13.767,"Gabon ",,,,NULL,Africa,"Djoumou Forest ",NULL,NULL,NULL,"See Figure 1",1,2,"2020-01-14 21:16:57"
+Dokhola,NULL,P,NULL,24.71,90.0676,Bangladesh,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Google maps: Dokhola",2,2,"2019-12-05 18:42:12"
+"Don Chao Pu Forest Park",NULL,SL,NULL,15.858,104.629,Thailand,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,2,"2019-12-05 18:43:20"
+"DP field site",NULL,SL,NULL,2.8,11.4,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:30:55"
+"DS field site",NULL,SL,NULL,3.8,16.2,"Central African Republic",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:34:20"
+"Du River",NULL,SL,"06° 14' 34" N; 010° 32' 24" W",6.24,-10.53,Liberia,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Du River STM",3,2,"2011-07-18 18:27:57"
+Dura,NULL,SL,NULL,0.45,30.3833,Uganda,NULL,"Kibale National Park",NULL,NULL,Africa,NULL,1427,1749,17.45,"Temp.: avg. mean daily minima and maxima (14.9, 20.2)",2,2,"2019-12-05 18:46:07"
+"Dzanga Sangha Protected Areas",NULL,O,NULL,2.22,16.1919,"Central African Republic",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Geonames: Dzanga-Sangha Complex of Protected Areas",1,3,"2019-12-05 18:45:48"
+Dzanga-Ndoki,NULL,SL,"2° 22' N; 16° 16' E",2.36,16.26,"Central African Republic",NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; from primary ref",1,1,"2011-07-18 18:28:34"
+"Eastern Cape",NULL,P,"32° 00' 00" S; 026° 00' 00" E",-32,26,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Eastern Cape, Province of",2,3,"2011-07-18 18:29:41"
+"Eastern Sabah",NULL,P,"05° 30' 00" N; 117° 00' 00" E",5.5,117,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"in Borneo; Geonames: Sabah ADM1",2,3,"2011-07-18 18:30:54"
+"EB field site",NULL,SL,NULL,3.9,9.9,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:34:26"
+Ehime,NULL,P,"33° 45' 00" N; 132° 45' 00" E",33.75,132.75,Japan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"SL listed, but data not broken down by locality, so just use Prefecture; Geonames: Ehime ADM1",2,3,"2011-07-18 18:31:46"
+"EK field site",NULL,SL,NULL,2,11.3,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:34:29"
+"El Piñalito",NULL,SL,NULL,-26.5,-53.833,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Exact location given in Methods section of Holtzmann et al. 2010",1,1,"2019-12-05 18:51:42"
+"El Soberbio",NULL,SL,NULL,-27.29,-54.2,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,";Acmemapper 2.0;el soberbio,Argentina",2,2,"2011-07-18 18:55:14"
+Engenho,NULL,SL,"07° 00' 43.84" S; 34° 57' 24.96" W",-7.01218,-34.9569,Brazil,Paraiba,,"Joao Pessoa",NULL,SouthAmerica,"Private Natural Heritage Reserve of Engenho Gargau",NULL,1700,24,,1,2,"2019-12-05 18:52:24"
+Entebbe,NULL,SL,"00° 03' 52" N; 032° 26' 49" E",0.06,32.43,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Entebbe PPL
+
+For Hoare 1972, he lists Uganda as the location for the potto parasites which he collected himself, but Berghe, Chardome, and Peel in 1963 give clarification that his collection was near Entebbe, Uganda. This narrows it down.",2,2,"2020-12-07 20:20:27"
+"EP field site",NULL,SL,NULL,1.3,29.8,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:01:08"
+"EQUATORIAL GUINEA",NULL,N,"02° 00' 00" N; 010° 00' 00" E",2,10,"Equatorial Guinea",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Equatorial Guinea PCLI",2,3,"2011-07-18 18:56:22"
+Escarcega,NULL,SL,"18° 16' N; 90° 43' W",18.6101,90.739,Mexico,Campeche,,,NULL,NULL,,NULL,NULL,26,,1,1,"2019-12-05 18:52:49"
+"Espirito Santo",NULL,P,"20° 00' 00" S; 040° 45' 00" W",-20,-40.75,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Espirito Santo (Estado) ADMD",2,3,"2011-07-18 18:57:53"
+"Estación Biológica Corrientes",NULL,SL,NULL,-34.6,-58.4,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,1200,21.6,"Rainfall in mm.;Acmemapper 2.0;Estacion biologica,Argentina",2,2,"2012-06-14 21:54:09"
+"Estacion Biologica Quebrada Blanco",NULL,SL,NULL,-4.35,-73.15,Peru,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Wenz et al. 2010",1,1,"2019-12-05 18:54:09"
+"Estancia Guaycolec",NULL,SL,"58°11' W, 25°58' S",-25.9667,-58.1833,Argentina,,,,NULL,NULL,,NULL,NULL,NULL,"Forest in cattle ranch; Owl Monkey Project",1,3,"2019-12-05 18:54:03"
+"ET forestry reserve",NULL,SL,NULL,19.8,-90.5,Mexico,Campeche,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Acmemapper2.0;used campeche ,mexico",2,2,"2012-06-14 21:54:05"
+ETHIOPIA,NULL,N,"08° 00'00" N; 038° 00' 00" E",8,38,Ethiopia,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Ethiopia, federal democratic republic of",2,4,"2011-07-18 19:06:51"
+Etoumbi,NULL,SL,"00° 29' 40" N; 14° 40' 45" E",0.49,14.66,Congo,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Etoumbi PPL",2,2,"2011-07-18 19:07:09"
+Ewo,NULL,SL,"00° 52' 21" S; 014° 49' 14" E",-0.87,14.81,Congo,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Ewo PPL - picked 1 of 3 similar options",2,2,"2011-07-18 19:07:28"
+"Fathala Forest",NULL,SL,"13° 39' 00" N; 016° 30' 00" W",13.65,-16.5,Senegal,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Fathala Forest FRST",2,2,"2011-07-18 19:07:44"
+"Fazenda Barreiro Rico",NULL,SL,"22° 40' S; 48° 11' W",-22.66,-48.18,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,480,1200,NULL,"; primary ref; altitude and rainfall from Milton 1986",1,1,"2011-07-18 19:07:52"
+"Fazenda Esmeralda",NULL,SL,"20° 13' S; 42° 39' W",-20.21,-42.65,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"based on info Table 1; primary ref",1,2,"2011-07-18 19:08:05"
+Felixlandia,NULL,SL,"18° 47' 00" S; 044° 55' 00" W",-18.78,-44.92,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"State of Minas Gerais; Geonames:  Felixlandia PPL",2,2,"2011-07-18 19:08:29"
+Fianarantsoa,NULL,SL,NULL,-23.033,47.733,Madagascar,,,,NULL,NULL,,NULL,NULL,NULL,,1,2,"2020-01-14 21:16:34"
+Fiema,NULL,SL,"07° 43' 00" N; 001° 42' 00" W",7.71,-1.7,Ghana,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"no information on habitat; human samples from a different locality; Geonames: Fiema PLL",2,2,"2011-07-18 19:08:49"
+Florencia,NULL,SL,NULL,1.716,-75.596,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Geonames: Florencia, Colombia 
+Cross-referenced with 1940s map of Colombia https://i.pinimg.com/originals/ab/a6/16/aba616c33d4dcd3922298a49fb1801f3.jpg",2,2,"2019-12-05 19:04:59"
+Fongoli,NULL,SL,NULL,12.683,-12.2,Senegal,Kédougou,NULL,"Fongoli village",NULL,Africa,NULL,NULL,NULL,NULL,"Hot and dry;Acmemapper2.0;kedougou,senegal;Geonames;fongoli,kedougou,senegal",2,2,"2012-06-14 21:53:56"
+"Fonte Boa",NULL,SL,NULL,-2.5,-66.1,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Not possible to identify, as multiple entries with very different values;Acmemapper 2.0;fonte boa,brazil",2,2,"2019-12-05 20:15:23"
+"Forest fragments (Chapman)",NULL,SL,NULL,0.5,30.4,Uganda,NULL,"Kibale National Park",NULL,NULL,Africa,NULL,NULL,NULL,NULL,"8 forest fragmengs around Kibale National Park.Acmemapper2.0;used kibale national park",3,2,"2012-09-18 18:34:42"
+Formosa,NULL,SL,"23° 30' 00" N; 121° 00' 00" E",23.5,121,Taiwan,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames Formosa ISL",2,2,"2011-07-18 19:14:22"
+"Fort Dauphin",NULL,SL,"25° 02' 00" S; 047° 00' 00" E",-25.03,47,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Fort-Dauphin PPL",2,2,"2011-07-18 19:14:36"
+Fort-Lamy,NULL,SL,"12° 06' 47" N; 015° 02' 57" E",12.11,15.03,Chad,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Acmemapper2.0;Fort lamy,chad",2,2,"2011-07-18 19:15:36"
+Franca,NULL,P,NULL,-20.569,-47.339,Brazil,"Sao Paulo",NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,NULL,1,2,"2020-12-09 17:59:47"
+"Free State",NULL,P,"29° 00' 00" S;  026° 00' 00" E",-29,26,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"province; Geonames: Free State ADM1",2,3,"2011-07-18 19:16:47"
+"FRENCH GUIANA",NULL,N,"4° 20' N; 53° W",4,-53.1,"French Guiana",NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Acmemapper2.0;French Guiana",2,3,"2011-07-18 19:17:09"
+Fukushima,NULL,SL,NULL,37.3816,140.222,Japan,,,Fukushima,NULL,NULL,,NULL,NULL,NULL,"Listed in text as Fukushima city. Geonames: Fukushima-ken",1,2,"2020-01-14 21:15:53"
+GABON,NULL,N,"01° 00' 00" S; 011° 45' 00" E",-1,11.75,Gabon,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Gabon",2,4,"2011-07-18 19:18:16"
+"Gabon/Congo region",NULL,O,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Region cutting across two different countries",4,4,"2019-12-05 20:19:14"
+GAMBIA,NULL,N,"13° 30' 00" N; 015° 30' 00" W",13.5,-15.5,Gambia,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Gambia PCL1",2,3,"2011-07-18 19:19:34"
+"Gambia River",NULL,O,"14° 00' 00" N; 014° 00' 00" W",14,-14,Senegal,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Senegal, could not acquire info on Gambia river",2,4,"2020-01-14 20:41:42"
+Gariep,NULL,P,,-30.617,25.4809,"South Africa","Free State",Gariep,Gariepdam,NULL,NULL,,NULL,NULL,NULL,"(Gaetano et al. 2014) Orange River Valley / Southford Stud Farm / Fishery, Gariep (FS) ",2,2,"2020-08-24 01:48:29"
+Garupa,NULL,SL,NULL,-27.5,-55.8,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,";Acmemapper2.0;Garupa,Argentina",2,2,"2011-07-18 19:20:36"
+"Gashaka Gumti",NULL,SL,NULL,7.5,11.7,Nigeria,"Taraba and Adamwa",NULL,Kwano,NULL,Africa,"Gashaka Gumti",583,NULL,NULL,";Acmemapper2.0;Gashaka Gumpti,Nigeria",2,2,"2019-12-05 20:19:27"
+"GB field site",NULL,SL,NULL,3.9,14.7,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:34:53"
+Gbendembu-Mafuri,NULL,SL,"9° 4' 40" N; 12° 19' 20" W",9.07,-12.31,"Sierra Leone",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; from primary ref",1,1,"2011-07-18 19:21:22"
+Gede,NULL,SL,NULL,-3.45,39.3,Kenya,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Gede, Kenya",2,1,"2019-12-05 20:22:14"
+GHANA,NULL,N,"08° 00' 00" N; 002° 00' 00" W",8,-2,Ghana,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Ghana PCLI",2,4,"2011-07-18 19:21:40"
+"Giant's Castle",NULL,SL,"29° 14' 00" S; 029° 29' 00" E",-29.23,29.48,"South Africa",NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"game reserve; Geonames: Giants Castle Game Reserve; info in primary source but provided as a range",2,2,"2011-07-18 19:21:54"
+Gibraltar,NULL,SL,"35° 57' 00" N; 005° 36' 00" W",35.95,-5.6,Gibraltar,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Strait of Gibraltar STRT",2,2,"2011-07-18 19:22:07"
+Gilgil,NULL,SL,"00° 30' 00" S; 036° 19' 00" E",-0.5,36.31,Kenya,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames:  GilGil (PPL)",2,2,"2011-07-18 19:22:22"
+Gimbi,NULL,SL,"09° 10' 00" N; 035° 50' 00" E",9.16,35.83,Ethiopia,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Wollega/Welega Province; Geonames: Gimbi aka Ghimbi Gembi PPL (Gimbie turned up nothing, but a Gimbi in Welega aka Wollega province, found on web) PPL",2,2,"2011-07-18 19:22:40"
+"Gold Coast",NULL,P,"05° 20' 00" N; 000° 45' 00" W",5.333,-0.75,Ghana,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Africa; Geonames: Gold Coast CST",2,4,"2011-07-18 19:22:59"
+Goma,NULL,SL,"1° 40' 46.8516'' S, 29° 14' 31.8192'' E",-1.6585,29.2205,"Democratic Republic of Congo","North Kivu",,,NULL,NULL,,NULL,NULL,NULL,,2,2,"2019-12-05 20:24:47"
+Gombe,NULL,SL,"04° 42' 00" S; 029° 37' 00" E",-4.7,29.61,Tanzania,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames: Gombe PK",2,2,"2011-07-18 19:23:43"
+"Goualougo Triangle",NULL,SL,NULL,2.5,16.53,"Republic of the Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"From Gillespie et al. 2010, states it is between "In June 2003, the Congolese government announced that it would annex the majority of the Goualougo Triangle to the Nouabalé-Ndoki National Park (4400 km2, 2.05??3.03?N, 16.51??16.56?E)"",2,3,"2020-01-15 20:20:18"
+Grumeti,NULL,SL,"02° 10' 00" S; 034° 20' 00" E",-2.16,34.33,Tanzania,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"river in some refs; Geonames: Grumeti (RES)",2,2,"2011-07-18 19:24:16"
+"GT field site",NULL,SL,NULL,1.9,16.1,"Republic of the Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-18 18:37:41"
+"Gua Masang",NULL,SL,"04° 53' 00" N; 101° 58' 00" E",4.88,101.96,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Gua Masang PPL",2,2,"2011-07-18 19:24:50"
+Guaiba,NULL,SL,NULL,-30.1,-51.3,Unknown,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Acmemapper2.0 ;Guaiba",2,2,"2011-07-18 19:25:10"
+"Guancaste Conservation Area",NULL,O,NULL,10.837,-85.7,"Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Santa Rosa National Park
+",2,3,"2019-12-05 20:31:42"
+"Guangxi Zhuang Autonomous Region",NULL,P,NULL,24,109,China,,,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Guangxi Zhuangzu Zizhiqu",1,2,"2020-01-14 21:14:49"
+Guassa,NULL,O,NULL,10.35,39.783,Ethiopia,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Lit: western edge of the Great Rift Valley (10°15??10°27?N; 39°45??39°49?E)",1,3,"2019-12-05 20:38:01"
+GUATEMALA,NULL,N,NULL,14.6,-90.5,Guatemala,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Guatemala",2,4,"2012-06-14 21:53:28"
+GUINEA,NULL,N,"11° 00' 00" N; 010° 00' 00" W",11,-10,Guinea,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"formerly French Guinea; Geonames:  Guinea PCLI",2,4,"2011-07-18 19:26:21"
+"GUINEA BISSAU",NULL,N,"12° 00' 00" N; 015° 00' 00" W",12,-15,"Guinea Bissau",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"formerly Portueguese Guinea; Geonames: Portuguese Guinea",2,3,"2012-06-14 22:04:11"
+Guira-Oga,NULL,SL,NULL,-25.6166,-54.533,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"In text: ?Gu?ira?-Oga?? (Puerto Iguazu?, Misiones, 251370 S,541320 W)",1,1,"2019-12-05 20:42:39"
+"Gulf of Nicoya Islands",NULL,O,NULL,9.595,-85.08,"Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Isla Cabuya as one of the islands",3,3,"2019-12-05 20:49:01"
+"Gunung Leuser National Park",NULL,SL,NULL,-3,106.8,Indonesia,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper2.0;Gunung leuser national park,indonesia",2,2,"2012-06-14 21:53:09"
+GUYANA,NULL,N,"05° 00' 00" N; 059° 00' 00" W",5,-59,Guyana,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"this British Guyana; Geonames:  Guyana PCLI",2,4,"2011-07-18 19:28:51"
+Hagachizaki,NULL,SL,NULL,35.1,138.3,Japan,Shizuoka,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper2.0;Hagachizaki,shizouka,japan",2,2,"2012-06-14 21:52:49"
+Hanoi,NULL,SL,"21° 02' 00" N; 105° 51' 00" E",21.03,105.85,Vietnam,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Hanoi PPLC",2,3,"2012-06-14 21:52:44"
+Haryana,NULL,SL,"29.0588° N, 76.0856° E",29.0658,76.0405,"India ",,,,NULL,Eurasia,,NULL,NULL,NULL,,1,1,"2019-12-05 20:49:37"
+"Himachal Pradesh",NULL,SL,"31.1048° N, 77.1734° E",31.6908,76.5177,India,,,,NULL,Eurasia,,NULL,NULL,NULL,,1,1,"2019-12-05 20:50:07"
+"Hluhluwe Game Reserve",NULL,O,NULL,-28.0394,-32.0589,"South Africa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Hluhluwe-Imfolozi Park (just another name for it)",1,3,"2019-12-05 20:52:35"
+Honshu,NULL,SL,"36° 00' 00" N; 138° 00' 00" E",36,138,Japan,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"appears to be sampling locality, and coordinates similar to those for Nagano Prefecture; Geonames: Honshu ISL",2,2,"2011-07-20 19:12:21"
+Hualien,NULL,P,"23° 45' 00" N; 121° 25' 00" E",23.75,121.42,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"map in reference; Geonames: Haulien",2,2,"2011-07-20 19:12:37"
+Iberia,NULL,SL,"11° 21' 00" S; 069° 35' 00" W",-11.35,-69.58,Peru,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; Geonames:  Iberia, used closest match to province in ref, Madre di Dios",2,2,"2011-07-20 19:13:46"
+Ichikawa,NULL,SL,NULL,34.88,137.48,Japan,NULL,Aichi,Shinshiro,NULL,Eurasia,NULL,NULL,NULL,NULL,Geonames;Ichikawa.ppl,2,2,"2012-06-14 21:52:41"
+"Iguazú National Park",NULL,O,NULL,-25.6666,-54.5,Argentina,,,,NULL,NULL,,NULL,NULL,NULL,,1,2,"2020-01-14 21:15:12"
+Ikela,NULL,SL,NULL,-1.04964,23.3668,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Figure 1 Lui et al. 2017 and Geonames: Ikela, DRC",2,1,"2019-12-05 20:57:49"
+Ilheus,NULL,SL,"13° 01' 00" S; 040° 01' 00" W",-13.01,-40.01,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"State of Bahia; Geonames: Ilhueus PPL, used the locality in Bahia State",2,2,"2011-07-20 19:15:18"
+Imurok,NULL,O,NULL,4.30384,32.3996,Sudan,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"In 1959 text: Imurok, Torit, Equatoria in Sudan
+Geonames: Imurok",2,2,"2019-12-05 21:05:41"
+INDIA,NULL,N,"20° 00' 00" N; 077° 00' 00" E",20,77,India,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  India PCLI",2,4,"2011-07-20 19:15:45"
+INDONESIA,NULL,N,"05° 00' 00" S; 120° 00' 00" E",-5,120,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  Indonesia PCLI",2,4,"2011-07-20 19:15:59"
+Inkberry,NULL,SL,NULL,-32.858,27.9342,"South Africa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Inkberry",2,1,"2019-12-05 21:08:52"
+Iquitos,NULL,SL,"03° 44' 53" S; 073° 14' 50" W",-3.74,-73.23,Peru,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; Geonames:  Iquitos PPLA",2,2,"2011-07-20 19:16:12"
+"IS field site",NULL,SL,NULL,3.2,29.2,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:01:18"
+"Isla Brasilera",NULL,SL,NULL,-27.33,-58.67,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,1200,21.6,"Rainfall in mm.",1,1,"2012-09-18 18:39:24"
+"Issa Valley",NULL,SL,NULL,-5.4,30.6,Tanzania,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Issa Valley, in Ugalla Region
+Coordinates from map of Issa Valley: https://www.researchgate.net/figure/Map-of-western-Tanzania-with-the-study-site-Issa-in-the-center-box-and-the-other_fig3_268882837",2,3,"2019-12-05 21:15:16"
+Itan,NULL,P,"24° 30' N; 122° E",24.5,122,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"map in reference; couldnâ€™t find in Geonames, used map in Cross et al. 1983 and Rand McNally to estimate reasonable locality information",3,2,"2011-07-20 19:16:46"
+Ituri,NULL,SL,"01° 51' 00" N; 029° 58' 00" E",1.85,29.96,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"Zaire; Geonames: Ituri PPL",2,2,"2019-12-03 18:59:23"
+Ituzaingo,NULL,SL,NULL,-27.467,-56.733,Argentina,Corrientes,NULL,ItuzaingÃ³,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,1,"2019-12-05 21:15:45"
+Itwara,NULL,SL,"00° 48' 45" N; 030° 33' 30" E",0.81,30.55,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""forest," Toro District; Geonames: Itwara Forest FRST",2,2,"2011-07-20 19:17:19"
+"IVORY COAST",NULL,N,"08° 00' 00" N; 005° 00' 00" W",8,-5,"Côte d'Ivoire",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Cote d'Ivoire; Geonames:  Ivory Coast PCLI",2,4,"2020-01-15 20:21:21"
+Jakarta,NULL,SL,"06° 10' 28" S; 106° 49' 46" E",-6.17,106.81,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Jakarta",2,2,"2011-07-20 19:19:44"
+JAPAN,NULL,N,"36° 00' 00" N; 138° 00' 00" E",36,138,Japan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,";Geonames:Japan PCL1",2,4,"2011-07-20 19:20:39"
+"Japan Monkey Center",NULL,SL,"35°00'32.18" N 135°40'28.85" E",35.0089,135.675,Japan,,,,NULL,Eurasia,"Japan Monkey Center",NULL,NULL,NULL,,1,1,"2019-12-05 21:28:29"
+"Japura River",NULL,O,NULL,-1.80997,-66.797,Brazil,Amazonas,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Cross-referencing C. calvus IUCN range with "Japura river" on Google maps ",2,2,"2019-12-05 21:28:48"
+Jardim,NULL,SL,"21º28’49” S and 56º08’17” W",21.4803,56.1381,Brazil,"Mato Grosso do Sul",,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-09-15 01:07:59"
+Java,NULL,P,"07° 30' 00" S; 110° 00' 00" E",-7.5,110,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  Java ISL",2,3,"2019-12-05 21:16:28"
+Jigokudani,NULL,SL,NULL,36.7,138.4,Japan,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper2.0;jigokudani,japan",2,2,"2012-09-19 13:11:07"
+Johannesburg,NULL,SL,"26° 12' 00 S; 28° 05' 00 E",-26.2,28.08,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Johannesburg PPLA",2,2,"2011-07-20 19:23:25"
+Joinville,NULL,SL,NULL,-26.2,-48.5,Unknown,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Geonames;Joinville;multiple hits,chose the first one which was the only exact match, others had different prefixes and suffixes",2,2,"2011-07-20 19:27:14"
+Jozani-Chwaka,NULL,SL,NULL,-6.233,39.404,Tanzania,,,,NULL,NULL,"Jozani-Chwaka Bay National Park",NULL,NULL,NULL,"Geonames: Jozani-Chwaka Bay NP",1,2,"2020-01-14 21:16:32"
+Jubiya,NULL,SL,"00° 15' 00" S; 031° 58' 00" E",-0.25,31.96,Uganda,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL," "forest," western shore Lake Victoria; Geonames: Jubiya Forest FRST, determined country based on only solid match from Geonames and spp sampled",2,2,"2011-07-20 19:27:20"
+"KA field site",NULL,SL,NULL,2.3,26.6,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:01:34"
+Kabo,NULL,SL,NULL,2.5,16.54,"Republic of the Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper2.0;Kabo,republique democratique du congo",2,2,"2020-01-15 20:20:08"
+"Kafue National Park",NULL,SL,"S 14° 30' 0''	E 26° 10' 0''",-14.5,26.167,Zambia,,,,NULL,Africa,"Kafue National Park",NULL,NULL,NULL,,1,3,"2019-12-06 18:48:22"
+Kahuzi-Biega,NULL,SL,"02° 00' 00" S; 028° 45' 00" E",-2,28.75,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames: Kahuzi PRK",2,2,"2019-12-03 18:58:57"
+Kaimosi,NULL,SL,"00° 12' 00" N; 034° 57' 00" E",0.2,34.95,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,""forest"; Geonames:  Kaimosi AREA, all results near to one another",2,2,"2011-07-20 19:28:09"
+Kalimantan,NULL,P,"00° 00' 00" S; 110° 30' 00" E",0,110.5,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Kalimantan ADMD",2,3,"2011-07-20 19:29:19"
+Kalinzu,NULL,SL,"00° 25' 00" S; 030° 05' 00" E",-0.41,30.08,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Ankole District; Geonames: Kalinzu FRST",2,2,"2011-07-20 19:29:25"
+Kampala,NULL,SL,"00° 19' 00" N; 032° 35' 00" E",0.31,32.58,Uganda,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Kampala PPLA",2,2,"2011-07-20 19:29:38"
+"Kampong Titi Tinggu",NULL,SL,"06° 38' 00" N; 100° 15' 00" E",6.63,100.25,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames:  Kampong Titi Tinggi Hilin PPL, closest match, most Kampongs on Peninsular Malaysia",2,2,"2011-07-20 19:29:56"
+Kamuri,NULL,SL,NULL,36.6,136.6,Japan,Ishikawa,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper2.0;kamuri,ishikawa,japan",2,2,"2012-09-19 13:11:13"
+Kaniyo-Pabidi,NULL,SL,"1° 55' 099" N; 31° 43' 153" E",1.94417,31.7591,Uganda,,,,NULL,NULL,"Budongo Forest Reserve",NULL,NULL,NULL,,1,1,"2019-12-06 18:52:38"
+Kansanshi,NULL,SL,NULL,-12.0951,26.4273,Zambia,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1959 "Kansanshi, Northern Rhodesia" ----> modern-day Kansanshi, Zambia
+Geonames: Kansanshi, Zambia",2,2,"2019-12-06 18:57:18"
+Kanyawara,NULL,SL,NULL,0.45,30.4333,Uganda,NULL,"Kibale National Park",NULL,NULL,Africa,NULL,1500,1712,NULL,NULL,1,2,"2019-12-06 18:57:25"
+Kanye,NULL,SL,NULL,-24.9667,25.3327,Botswana,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"1959 "Kanye, Bechuanaland" ---> modern-day Kanye, Botswana",2,2,"2019-12-06 19:00:23"
+Kaolack,NULL,SL,"14° 09' 00" N; 016° 04' 00" W",14.15,-16.06,Senegal,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Kaolack PPLA",2,2,"2011-07-20 19:30:35"
+Kaosiung,NULL,P,"23° 00' 00" N; 120° 35' 00" E",23,120.58,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"map in reference; Geonames: Kao-hsiung Hsien",2,2,"2011-07-20 19:30:51"
+"Kapit Division ",NULL,P,NULL,2.16667,113.75,Malaysia,Sarawak,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Geonames: Bahagian Kapit",2,3,"2019-12-06 19:04:23"
+Karamjal,NULL,SL,NULL,22.428,89.5887,Bangladesh,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Google maps: Koromjal",1,2,"2019-12-06 19:12:43"
+Karamoja,NULL,P,"02° 45' 00" N; 034° 15' 00" E",2.75,34.25,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""district"; Geonames: Karamojo District ADM1",2,2,"2011-07-20 19:31:14"
+Karkloof,NULL,SL,"30° 24' S; 30° 17' E",-30.4,30.28,"South Africa",NULL,NULL,NULL,NULL,Africa,1,1000,0,NULL,"; taken from source, Appleton et al. 1994 provide slightly different latitude",1,1,"2011-07-20 19:31:20"
+Kartabo,NULL,SL,NULL,6.3,-59.2,Guyana,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: no records for Kartabo, searching web turned up little useful info, but should be repeated;Acmemapper;Kartabo,Guyana",2,2,"2020-01-14 21:13:21"
+Kasokwa,NULL,SL,"1° 39' 474" N; 31° 38' 880" E",1.78166,31.8778,Uganda,,,,NULL,NULL,"Budongo Forest Reserve",NULL,NULL,NULL,,1,2,"2019-12-06 19:13:59"
+Katanga,NULL,SL,NULL,-3.28,26.54,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: many entries for Katanga, unable to localize;googlemaps;Katanga,many options but used the only one in the republic of congo",2,2,"2019-12-06 19:14:10"
+Katavi,NULL,SL,NULL,-6.80184,31.0345,Tanzania,,,,NULL,NULL,"Katavi National Park",NULL,NULL,NULL,"Geonames: Katavi Plain Game Reserve",1,2,"2020-01-14 21:16:26"
+Kawa,NULL,SL,"01° 40' 00" N; 031° 00' 00" E",1.56667,30.5333,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"former Zaire; Geonames:  Albert, Lake LK",2,2,"2020-01-15 20:26:24"
+"KE field site",NULL,SL,NULL,1.9,28.1,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:01:38"
+Kebun-Kopi,NULL,SL,NULL,-0.68,119,Indonesia,Sulawesi,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Figure 1 of Gotoh et al. 2001 and Google Maps: Kebun-Kobi helped approximate the location",2,2,"2019-12-06 19:25:41"
+Kedah,NULL,P,"06° 00' 00" N; 100° 40' 00" E",6,100.67,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"Kedah-Perlis area; Geonames: Kedah ADM1; Kedah and Perlis give almost identical values, used Kedah and listed as P",2,3,"2011-07-20 19:33:20"
+Kedougou,NULL,SL,"12° 33' N; 12° 10'  W",12.55,-12.16,Senegal,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; ACMEmapper2.0;Kedougou,senegalAcmemapper2.0;kedougou",2,2,"2011-07-25 19:15:43"
+Kelantan,NULL,P,"05° 20' 00" N; 102° 00' 00" E",5.33,102,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Kelantan ADM1",2,3,"2011-07-20 19:34:02"
+Kenisa,NULL,SL,"N 6° 49' 33'' E 31° 7' 57''",6.83,31.13,"South Sudan",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"GeoNameID: 382113",2,2,"2019-12-10 19:41:29"
+KENYA,NULL,N,"01° 00' 00" N; 038° 00' 00" E",1,38,Kenya,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Kenya PCLI",2,4,"2011-07-20 19:34:14"
+Ketambe,NULL,SL,"03 ° 41' N; 97° 39' E",3.68,97.65,Indonesia,NULL,NULL,NULL,NULL,Eurasia,2,0,0,NULL,"; no record in Geonames, used this reference:Journal of Tropical Ecology (2001) 17:379?393. ",1,1,"2011-07-20 19:34:32"
+"KG field site",NULL,SL,NULL,3.6,13.5,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-19 13:23:16"
+"Khao Yai ",NULL,SL,NULL,14.4333,101.367,Thailand,NULL,NULL,NULL,NULL,NULL,"Khao Yai National Park",NULL,NULL,NULL,"Coordinates given in text of Gillespie et al. 2013",1,3,"2019-12-06 19:29:58"
+Kibale,NULL,SL,"0 27'N; 30 25'E",0.45,30.41,Uganda,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; from primary ref; matches closely value from Geonames: 00° 30' 00" N 030° 25' 00" E",1,1,"2011-07-20 19:34:45"
+Kibwe,NULL,SL,"02° 57' 00" S; 025° 57' 00" E",-2.95,25.95,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"Zaire, dense tropical rain forest; Geonames: Kindu (coordinates not right for Kibwe, so used nearby Kindu, approx 60 km away)",3,2,"2019-12-03 18:59:29"
+Kibwezi,NULL,SL,"02° 25' 00" S; 037° 58' 00" E",-2.41,37.96,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Kibwezi PPL",2,2,"2011-07-20 19:35:14"
+Kilamanjaro,NULL,SL,"03° 04' 00" S; 037° 22' 00" E",-3.06,37.36,Tanzania,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  Kilimanjaro MTN",2,2,"2011-07-20 19:36:00"
+Kilifi,NULL,SL,"03° 38' 00" S; 039° 51' 00" E",-3.63,39.85,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Kilifi PPL",2,2,"2011-07-20 19:36:06"
+Kimana,NULL,SL,"02° 48' 00" S; 037° 32' 00" E",-2.8,37.53,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Kimana PPL, based also on Fig 1 Dracopoli et al. 1986",2,2,"2011-07-20 19:36:26"
+Kimani,NULL,SL,"02° 08' 00" S; 037° 5' 00" E",-2.13,37.08,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; from primary ref, Kuntz and Myers 1967a",1,1,"2011-07-20 19:36:34"
+"Kinabatangan ",NULL,O,NULL,5.61589,118.358,Malaysia,Sabah,,,NULL,NULL,"Lower Kinabatangan Wildlife Sanctuary",NULL,NULL,NULL,"From GoogleMaps: Kinabatangan Wildlife Sanctuary",1,3,"2020-01-14 21:16:31"
+Kindia,NULL,SL,"10° 04' 00" N; 012° 51' 00" W",10.06,-12.85,Guinea,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Kindia PPLA",2,2,"2011-07-20 19:36:54"
+Kinkasan,NULL,SL,NULL,38.3,141.6,Japan,Miyagi,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper2.0;kinkasan,miyaki,japan",2,2,"2012-09-19 13:23:38"
+Kinkazan,NULL,SL,NULL,38.27,141.58,Japan,NULL,Miyagi,Ishinomaki,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;kinkazan,miyagi,japan",2,2,"2012-09-19 13:23:44"
+Kinshasa,NULL,SL,NULL,-4.32,15.3,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,NULL,NULL,NULL,"Acmemapper2.0;kinshasa,zaire",2,2,"2019-12-03 18:59:01"
+Kiranima,NULL,SL,"02° 10' 00" S; 034° 20' 00" E",-2.16,34.33,Tanzania,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Grumeti River, Tanzania; Geonames: used coordinates for Grumeti River",3,2,"2011-07-20 19:37:59"
+Kirindy,NULL,SL,NULL,-20.15,44.22,Madagascar,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper2.0;kirindy,madagascar",2,2,"2018-08-09 16:57:07"
+Kisangani,NULL,SL,,NULL,NULL,"Democratic Republic of the Congo",,,,Rainforest,Africa,,NULL,NULL,NULL,"A map is provided in the sup. info. Samples were collected at 3 sites within the Kisangani Region: one site in Wanie-Rukula forest, one in Obiatuku forest, and one in Parisi forest. ",1,,"2020-01-24 19:58:04"
+Kisingani,NULL,P,NULL,0.516666,25.2,"Democratic Republic of Congo",NULL,NULL,Kisingani,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper2.2: Kisingani, Democratic republic of congo",2,2,"2019-12-06 19:37:54"
+Kiso,NULL,SL,NULL,35.8,137.7,Japan,Nagano,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper2.0;kiso,nagano,japan",2,2,"2012-09-19 13:23:51"
+Kivu,NULL,SL,"02° 30' 00" S; 028° 00' 00" E",-2.5,28,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Kivu ADM1",2,2,"2019-12-03 18:59:17"
+"KK field site",NULL,SL,NULL,2.2,14.1,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-19 13:23:54"
+Klang,NULL,SL,"03° 02' 00" N; 101° 27' 00" E",3.03,101.45,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"Selangor; Geonames: Klang PPL",2,2,"2011-07-20 19:38:44"
+"KM field site",NULL,SL,NULL,5,12.8,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-19 13:23:56"
+"KO field site",NULL,SL,NULL,4.2,21.4,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:01:44"
+Kodera,NULL,SL,"S 0° 58' 0'' E 34° 29' 0''",-0.97,34.48,Kenya,Nyanza,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"GeoNameID: 190835",2,2,"2019-12-06 19:38:16"
+Kokolopori,NULL,O,NULL,0.25,23,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,"Kokolopori Bonobo Reserve",NULL,NULL,NULL,"This map http://apes.eva.mpg.de/apeswiki/index.php/Image:2Maringa-Lopori-Wamba_SOF_2008.jpg",2,3,"2019-12-06 19:43:04"
+Kolda,NULL,SL,"12° 53' 00" N; 014° 57' 00" W",12.88,-14.95,Senegal,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  Kolda PPL",2,2,"2011-07-20 19:39:09"
+Kole,NULL,SL,"2° 22' 12.36'' N, 32° 45' 47.88'' E",2.3701,32.7633,"Democratic Republic of Congo",Sankuru,,,NULL,NULL,,NULL,NULL,NULL,,1,1,"2019-12-06 19:44:55"
+Kolpetta,NULL,SL,NULL,11.6087,76.083,India,Kerala,,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Kalpatta, India
+Same location, sometimes spelled differently",2,2,"2020-01-14 21:15:37"
+Koshima,NULL,SL,"31° 27' 00" N; 131° 21' 00" E",31.45,131.35,Japan,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"used nearby Ichiki; Geonames: Ichiki PPL (too many "Koshima ISL" to identify locality)",2,2,"2011-07-20 19:39:23"
+"Kosumpee Forest Park",NULL,SL,NULL,16.25,103.067,Thailand,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,2,"2019-12-06 19:45:49"
+Kouande,NULL,SL,"10° 20' 11" N; 001° 41' 37" E",10.33,1.68,Togo,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Atacora Region; Geonames: Kouande PPL",2,2,"2011-07-20 19:39:28"
+"KR field site",NULL,SL,NULL,1.9,29.6,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:01:52"
+"Kr. Kahang",NULL,SL,"02° 15' 00" N; 103° 35' 00" E",2.25,103.58,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,""practically no human habitation", virgin rainforest near a game preserve; Geonames: Kangkar Kahang",2,2,"2011-07-20 19:39:55"
+Kruger,NULL,SL,"23° 50' 00" S; 031° 30' 00" E",-23.83,31.5,"South Africa",NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames: Kruger National Park",2,2,"2011-07-20 19:40:06"
+"KS field site",NULL,SL,NULL,0.5,23.8,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:01:59"
+"Kuala Selangor",NULL,SL,"03° 21' 00" N; 101° 15' 00" E",3.35,101.25,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"swamp forest; Geonames: Kuala Selangor PLL, other options very close by",2,2,"2011-07-20 19:40:17"
+"Kuang Forest",NULL,SL,"03° 17'00" N; 101° 32' 00" E",3.28,101.53,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"north of Kuala Lumpur; Geonames: Kuang forest reserve",2,2,"2011-07-20 19:40:24"
+"Kuiseb River",NULL,SL,"23° 33' 00" S; 015° 02' 00" E",-23.55,15.03,Namibia,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"coordinates in primary source are incorrect; used Geonames for research station location; Geonames: Gobabeb PPL, nearly identical with coordinates for Kuiseb CNYN",2,2,"2011-07-20 19:40:54"
+Kumaon,NULL,SL,"28'29 79'39",28.483,79.65,"India ",Uttarakhand,,,NULL,NULL,,NULL,NULL,NULL,,1,2,"2019-12-06 19:47:06"
+Kumba,NULL,SL,"04° 38' 00" N; 009° 25' 00" E",4.63,9.41,Cameroon,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  Kumba PPL - native",2,2,"2011-07-20 19:41:08"
+Kurali,NULL,SL,"30.8310° N, 76.5748° E",30,77,"India ",,,,NULL,Eurasia,,NULL,NULL,NULL,,1,2,"2019-12-06 20:15:40"
+"Kutai Kartanegara",NULL,SL,NULL,-0.44019,116.981,Indonesia,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,2,"2019-12-06 20:12:52"
+KwaZulu-Natal,NULL,P,NULL,-29,30,"South Africa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,2,"2019-12-06 20:14:42"
+"Kwela Lodge",NULL,SL,,-29.4932,30.3612,"South Africa",KwaZulu-Natal,,Pietermaritzburg,NULL,NULL,"Kwela Lodge",NULL,NULL,NULL,"Now closed, but still on Google maps",1,1,"2020-08-23 22:15:45"
+Kyasanur,NULL,SL,"14° 15'00" N; 075° 04' 00" E",14.25,75.06,India,NULL,NULL,NULL,NULL,Eurasia,2,0,0,NULL,"; Geonames: Kyasanor state forest;googlemaps;kyasanur state forest",2,2,"2011-07-20 19:41:33"
+"Kyushu Island",NULL,SL,"33° 00' 00" N; 131° 00' 00" E",33,131,Japan,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"Island; Geonames:  Kyushu ISL",2,2,"2011-07-20 19:41:39"
+"La Chorrera",NULL,SL,"08° 52' 49" N; 079° 47' 00" W",8.88,-79.78,Panama,NULL,NULL,NULL,NULL,NorthAmerica,1,0,0,NULL,"; Geonames: La Chorrera PPL, took first value of two because close geographic proximity",2,2,"2011-07-20 19:41:54"
+"La Libertad",NULL,SL,NULL,17.688,-91.7202,Mexico,Campeche,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"See Figure 1 in Solórzano-García and Pérez-Ponce de León 2017",2,2,"2019-12-11 18:55:40"
+"La Pacifica",NULL,SL,"10° 28' N; 85° 07' W",10.46,-85.11,"Costa Rica",NULL,NULL,NULL,NULL,NorthAmerica,2,0,0,NULL,"; primary source",1,1,"2011-07-20 19:42:00"
+"La Selva",NULL,SL,"10° 26' N; 83° 59' W",10.43,-83.98,"Costa Rica",NULL,NULL,NULL,NULL,NorthAmerica,2,0,0,NULL,"Province Heredia, northeastern Costa Rica; ",2,2,"2011-07-20 19:42:06"
+Lacandona,NULL,O,NULL,16,-91,Mexico,Chiapas,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"See Figure 1 in Solórzano-García and Pérez-Ponce de León 2017",2,3,"2019-12-11 18:56:34"
+"Lago Preto",NULL,SL,"4° 27.5' S, 71° 45.9' W",-4.45833,-71.765,Peru,Loreto,,,NULL,NULL,,NULL,NULL,NULL,"Formal name:  Lago Preto Conservation Concession",1,2,"2020-01-14 21:17:02"
+Lagos,NULL,SL,"06° 27' 11" N; 003° 23' 45" E",6.45,3.38,Nigeria,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Lagos PPL",2,3,"2011-07-20 19:42:31"
+Lajeado-Ipuerias,NULL,SL,"9 44 58 S  48 21 23 W",-9.749,-48.356,Brazil,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,2,"2019-12-11 19:08:52"
+"Lake Albert",NULL,SL,"01° 40 00 N; 031° 00 00 E",1.66,31,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Albert LK",2,2,"2011-07-20 19:42:50"
+"Lake Baringo",NULL,SL,"00° 38' 00" N; 036° 05' 00" E",0.63,36.08,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"map in reference; Geonames:  Baringo LK",2,2,"2011-07-20 19:42:56"
+"Lake Edward",NULL,SL,"00° 25' 00" S; 029° 30' 00" E",-0.41,29.5,Uganda,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"on border with Dem Rep Congo; Geonames: Edward, Uganda LK",2,2,"2011-07-20 19:43:17"
+"Lake Magadi",NULL,SL,NULL,-1.87054,36.2755,Kenya,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,2,"2019-12-11 19:11:35"
+"Lake Manyara",NULL,SL,"03° 35' 00" S; 035° 50' 00" E",-3.58,35.83,Tanzania,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Manyara LK - sampling area near to lake, see fig 1 in Fenwick 1969",3,2,"2011-07-20 19:43:30"
+"Lake McIlwaine",NULL,SL,"17° 54' 00" S; 030° 48' 00" E",-17.9,30.8,Zimbabwe,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"20 miles from Salisbury; Geonames:  McIlwaine, Lake RSV",3,2,"2011-07-20 19:43:36"
+"Lake Nabugabo",NULL,SL,NULL,-0.371,31.883,Uganda,NULL,NULL,NULL,NULL,Africa,NULL,NULL,1245,21.2,"taken from reference (Gillespie et al. 2005a); rainfall and temp taken as midpoints of ranges given in reference",1,1,"2011-07-20 19:43:46"
+"Lake Naivasha",NULL,SL,"00° 46' 00" S; 036° 21' 00" E",-0.76,36.35,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  Naivasha LK",2,2,"2011-07-20 19:43:58"
+"Lake Nkuruba",NULL,SL,NULL,0.53,30.41,Uganda,NULL,"Kibale National Park",NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Forest fragment neighboring Kibale National Park;Acmemapper2.0;could not parse Lake Nkuruba,used Kibale nationl park,uganda",3,2,"2012-09-19 13:24:17"
+"Lake Nyaherya Fragment",NULL,SL,NULL,0.53,30.41,Uganda,NULL,"Kibale National Park",NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Forest fragment neighboring Kibale National Park.;Acmemapper could not localize,used kibale national park",3,2,"2012-09-19 13:24:26"
+"Lake Saka",NULL,SL,NULL,0.7,30.2,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"30 km NW of Kibale National Park; Acmemapper 2.0;Lake Saka,uganda",2,2,"2020-01-08 18:24:05"
+Lamanai,NULL,SL,NULL,17.7667,-88.65,Belize,,"Orange Walk District",,NULL,NULL,"Lamanai Archaeological Reserve",NULL,NULL,NULL,,1,2,"2020-01-14 21:16:04"
+Lambomakandro,NULL,SL,NULL,-22.7,44.7,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Stated as "Lamboromakandro" in the SW in-text, but source says it is actually "Lambomakandro"
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.494.1741&rep=rep1&type=pdf
+This aligns w the original source text saying it's in the district of Tulear. ",1,2,"2019-12-11 19:19:48"
+Lampung,NULL,P,"05° 00' 00" S; 105° 00' 00" E",-5,105,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"Lampung Province; Geonames: Lampung ADM1",2,3,"2011-07-24 19:51:07"
+Lassance,NULL,P,NULL,-17.9101,-44.7086,Brazil,"Minas Gerais",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Chagas discovered T. minasense in a tamarin from Lassance, Brazil",1,2,"2020-12-09 19:10:07"
+"LB field site",NULL,SL,NULL,2,15.5,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-19 13:24:42"
+"Lekedi Park",NULL,SL,NULL,-1.79716,13.0188,Gabon,NULL,NULL,Bakoumba,NULL,NULL,NULL,NULL,NULL,NULL,"Coordinates from Google Maps: Parc de la Lekedi",1,3,"2019-12-11 19:24:05"
+Leopoldville,NULL,SL,NULL,-4.32,15.3,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,1,NULL,NULL,NULL,Acmemapper2.0;Leopoldville,2,2,"2019-12-03 18:58:52"
+Lesio-Louna,NULL,O,NULL,-3.2757,15.4775,"Republic of the Congo",NULL,NULL,NULL,NULL,NULL,"Lésio-Louna and South-West Léfini Gorilla Reserves",NULL,NULL,NULL,"Google maps: Lesio-Louna Wildlife Reserve",3,3,"2020-01-15 20:20:20"
+Leticia,NULL,SL,NULL,-4.21528,-69.9406,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Geonames: Leticia",3,3,"2020-01-08 18:24:55"
+"LH field site",NULL,SL,NULL,5.4,9.4,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-19 13:24:45"
+LIBERIA,NULL,N,"06° 30' 00" N; 009° 30' 00" W",6.5,-9.5,Liberia,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Liberia PCLI",2,3,"2011-07-24 19:52:58"
+Lingunda-Boyela,NULL,SL,NULL,0.5813,20.81,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Figure 1 and Google Maps approximation",3,2,"2020-01-08 18:32:04"
+"LK field site",NULL,SL,NULL,1,7.2,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:02:05"
+"LM field site",NULL,SL,NULL,2.7,12.5,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2012-09-19 13:24:54"
+Loango,NULL,SL,NULL,-2.154,9.58969,Gabon,NULL,NULL,NULL,NULL,NULL,"Loango National Park",NULL,NULL,NULL,"See Figure 1 "LO"
+Geonames: Loango National Park",2,2,"2019-12-05 18:17:43"
+Lokobe,NULL,SL,NULL,-13.42,48.3,Madagascar,NULL,"Nosy Be",NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper2.0;Lokobe,madagascar",2,2,"2012-09-19 13:25:03"
+Lokoue,NULL,SL,"0°54.38N, 15°10.55E",0.015,15,"Republic of the Congo",,,,Wetlands,Africa,"Odzala-Kokoua National Park",NULL,NULL,NULL,,1,2,"2020-01-15 20:20:12"
+Lomako,NULL,SL,"00° 50' 00" N; 020° 50' 00" E",0.83,20.83,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Lomako STM, used first of two values",2,2,"2019-12-03 19:00:02"
+Lope,NULL,SL,"00° 30' 00" S; 011° 40' 00" E",-0.5,11.66,Gabon,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames: Lope RES",2,2,"2011-07-24 19:53:59"
+Loreto,NULL,P,"05° 00' 00" S; 075° 00' 00" W",-5,-75,Peru,,,,NULL,SouthAmerica,0,0,0,NULL,"; Geonames:  Loreto ADM1
+",2,2,"2011-07-24 23:55:38"
+"Los Tuxtlas",NULL,SL,NULL,19.2,-96.1,Mexico,NULL,NULL,Veracruz,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"googlemaps;Los tuxtlas,vera cruz,mexico",2,2,"2012-09-19 13:25:17"
+Loskop,NULL,SL,"25° 26' 30" S; 29° 18' 39" E",-25.44,29.3,"South Africa",NULL,NULL,NULL,NULL,Africa,1,0,726,NULL,"Loskop Dam Nature Reserve in southeastern Transvaal; from source (Pettifer 1984); no data on altitude, rainfall a midpoint of range",2,2,"2011-07-24 19:56:09"
+Lossi,NULL,SL,NULL,0.2,14.1,Congo,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Amemapper2.0;Lossi,congo",2,2,"2011-07-24 19:56:19"
+"Lotti Forest",NULL,SL,NULL,4.029,32.521,"South Sudan",NULL,Equatoria,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"From https://ebird.org/hotspots?hs=L7785944&yr=all&m=",2,2,"2020-01-13 19:40:58"
+"LU field site",NULL,SL,NULL,-1.1,28.1,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-03 19:02:11"
+Lubutu,NULL,P,NULL,-0.73333,26.5833,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Lubutu, DR Congo",2,2,"2020-01-13 20:02:44"
+Lucknow,NULL,SL,"26° 51' 00" N; 080° 55' 00" E",26.85,80.92,India,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Lucknow PPLA",2,2,"2011-07-24 19:56:34"
+Mabira,NULL,SL,"00° 30' 00" N; 032° 55' 00" E",0.5,32.91,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""forest," Mengo District; Geonames: Mabira Forest Reserve FRST",2,2,"2011-07-24 19:56:46"
+Macuspana,NULL,SL,"N 17° 45' 41'' W 92° 35' 47''",17.76,-92.6,Mexico,Tabasco,,,NULL,SouthAmerica,,NULL,NULL,NULL,"Geonames: GeoNameID 3523791
+
+see also coordinates in Gonzaelz-Hernandez et al. 2014",2,2,"2020-01-13 21:09:27"
+MADAGASCAR,NULL,N,"20° 00' 00" S; 047° 00' 00" E",-20,47,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Madagascar",2,4,"2020-01-14 18:01:33"
+Magadi,NULL,SL,"01° 54' 00" S; 036° 17' 00" E",-1.9,36.28,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Magadi",2,2,"2011-07-24 19:57:55"
+Mahabo,NULL,SL,"S 20° 38' 9'' E 45° 9' 54''",-20.636,45.17,Madagascar,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Geonames: many hits in Madagascar corresponding to 2nd order admin. division. Entered coords for the division (GeoNameID: 8335340)",2,2,"2020-01-14 17:55:02"
+Mahale,NULL,SL,"6° 07' S; 29° 44' E",-6.11,29.73,Tanzania,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; not in Geonames, obtained information from http://weber.ucsd.edu/~jmoore/apesites/Mahale/Mahale.html",2,2,"2011-07-24 19:58:13"
+Mahambo,NULL,SL,NULL,-17.5,49.5,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: multiple hits in at least two locations,  Acmemapper 2.0 and Google maps;Mahambo,Madagascar",2,2,"2020-01-14 17:56:11"
+Mahasarakarm,NULL,P,"15° 00' 00" N; 100° 00' 00" E",16,103.1,Thailand,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; not in Geonames, Acmemapper 2.0 and googlemaps;Mahasarakham,Thailand,seems to have been misspelt",2,3,"2020-01-14 20:40:13"
+Mahole,NULL,SL,"04° 50' 00" N; 009° 38' 00" E",4.83,9.63,Cameroon,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  Mahole PPL, used first value, another town same name 1deg off N and E,Acmemapper could not parse",2,2,"2011-07-24 20:01:03"
+Mainaro,NULL,SL,NULL,0.45,30.4333,Uganda,NULL,"Kibale National Park",NULL,NULL,Africa,NULL,1394,1351,NULL,NULL,1,2,"2020-01-14 17:56:42"
+Maje,NULL,SL,"08° 40' 00" N; 078° 35' 00" W",8.66,-78.58,Panama,NULL,NULL,NULL,NULL,NorthAmerica,1,0,0,NULL,"tropical humid to dry transitional forest; Geonames:  Maje PPL, used one closest to island and river coordinates, but all close to one another",2,2,"2011-07-24 20:01:18"
+Majunga,NULL,SL,"15° 43' 00" S; 046° 19' 00" E",-15.71,46.31,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Majunga PPLA",2,2,"2011-07-24 20:01:30"
+Makira,NULL,SL,"15° 24' 28.00" S; 49° 21' 56.51" E",15.41,49.37,Madagascar,,,,NULL,NULL,,NULL,NULL,NULL,,1,2,"2020-01-14 17:57:11"
+Makona,NULL,SL,"01° 21' 00" N; 010° 21' 00" E",1.35,10.35,"Equatorial Guinea",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"most likely this is in Equatorial Guinea, based on results in Geonames; Geonames: Makona, found Makonanam, used 1 of 3 nearby PPL",3,2,"2011-07-24 20:01:50"
+"Malay Peninsula",NULL,P,"06° 00' 00" N; 102° 00' 00" E",6,102,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"map in reference; Geonames: Malay Peninsula PEN",2,2,"2011-07-24 20:01:55"
+MALAYSIA,NULL,N,"02° 30' 00" N; 112° 30' 00" E",2.5,112.5,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  Malaysia",2,4,"2011-07-24 20:02:21"
+Malebo,NULL,SL,NULL,-2.48454,16.5015,"Democratic Republic of Congo",,,,NULL,NULL,,NULL,NULL,NULL,"WWF field site, coordinates from Bastin et al. 2014",2,1,"2020-01-14 21:16:50"
+MALI,NULL,N,"17° 00' 00" N; 04° 00' 00" W",17,-4,Mali,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Mail, Republic of  PCLI",2,4,"2011-07-24 20:02:35"
+Mambele,NULL,SL,NULL,2.41626,15.4,Cameroon,,,Mambele,NULL,NULL,,NULL,NULL,NULL,,1,2,"2020-01-14 21:15:57"
+Manakara,NULL,SL,NULL,-22.13,48.01,Madagascar,NULL,NULL,NULL,NULL,Africa,0,NULL,NULL,NULL,"Acmemapper 2.0;Manakara,Madagascar",2,2,"2011-07-24 20:02:48"
+Mananara,NULL,SL,NULL,-16,49,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: multiple hits in at least two localities;Acmemapper 2.0;mananara,madagascar",2,2,"2020-01-14 18:01:12"
+Manaus,NULL,SL,"S 1° 30' 0'' W 46° 10' 58''",-1.5,-46.18,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Geonames: 3 hits in Northeast Brazil, 2 are in a major city, 1 is forest (GeoNameId: 3395682) and this was used",2,2,"2020-01-14 18:01:09"
+Mandena,NULL,SL,NULL,-24.948,46.995,Madagascar,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"12 km northeast of Tolagnaro/Fort Dauphin",2,2,"2012-06-14 21:49:10"
+"Manéra forest",NULL,O,NULL,7.24966,34.9682,Ethiopia,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"Was an experimental station beside Manera village in Ethiopia in the 1960s. The closest village aside from Manera was Boga.
+
+https://apps.who.int/iris/bitstream/handle/10665/76371/MHO_PA_30.64_eng.pdf?sequence=1&isAllowed=y has a map of the forest
+1.5 KM SOUTH OF GODERE",2,2,"2020-01-14 18:57:48"
+Manu,NULL,SL,NULL,-12.2667,-70.85,Peru,"Madre de Dios ",,,Rainforest,NULL,"Manu National Park",NULL,NULL,NULL,,1,3,"2020-01-14 21:14:37"
+"Manzano Forest",NULL,SL,"(2º38'S, 16º23E)",-2.63333,16.3833,"Democratic Republic of Congo",,,,NULL,Africa,,NULL,NULL,NULL,"Liu et. al lists the forest as "Manzana" but it is the exact same location as this from Narat et al. 2015. ",1,2,"2020-01-15 20:36:12"
+Mapai,NULL,P,NULL,-24.1328,32.6075,Mozambique,[Null],NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Mapai, Mozambique",2,2,"2020-01-13 20:56:49"
+"Marajó Island",NULL,P,NULL,-1,-49.5,Brazil,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Ilha de Marajó",2,2,"2020-01-14 19:18:01"
+Maranhao,NULL,P,"05° 00' 00" S; 045° 00' 00" W",-5,-45,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Maranhao",2,2,"2011-07-24 20:03:43"
+Mariarano,NULL,SL,,-15.4,46.7333,Madagascar,,,,NULL,NULL,,NULL,NULL,NULL,,,2,"2020-04-30 16:23:08"
+Maroantsetra,NULL,SL,"15° 26' 00" S; 049° 44' 00" E",-15.43,49.73,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Maroantsetra PPL",2,2,"2011-07-24 20:03:54"
+Marojejy,NULL,SL,"14° 27' 24.26" S; 49° 44' 15.81" E",14.45,49.73,Madagascar,,,,Rainforest,NULL,"Marojejy National Park",NULL,NULL,NULL,,1,3,"2020-01-14 19:19:11"
+"Marovato (Boriziny District)",NULL,SL,NULL,-15.7828,48.0858,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Chaubad et al. 1965: about 80 km west of Mandritsara (NW 4 degrees). I was able to find it on Google Maps this way",1,2,"2020-01-14 19:41:55"
+"Masai Mara",NULL,SL,"01° 25'00" S; 034° 55' 00" E",-1.41,34.91,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Masai Mara game reserve",2,2,"2011-07-24 20:04:10"
+Masoala,NULL,SL,NULL,-15.662,49.961,Madagascar,,,"Ambaniana Village and Tampolo Point",Rainforest,Africa,,700,350,23.9,,1,1,"2020-01-14 21:15:55"
+"Masoala National Park",NULL,SL,NULL,-15.64,50.1,Madagascar,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,NULL,1,3,"2020-01-14 19:42:53"
+Massangena,NULL,SL,"21° 32' 16" S; 032° 57' 23" E",-21.53,32.95,Mozambique,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Massangena PPL ",2,2,"2011-07-24 20:04:23"
+"Mata Santa Teresa",NULL,SL,NULL,-21.233,-47.916,Brazil,"São Paulo",,"Ribeirão Preto",NULL,NULL,"Mata Santa Teresa",NULL,NULL,NULL,,1,2,"2020-01-14 21:15:18"
+"Matias Barbosa ",NULL,SL,"21° 52' 11" S, 43° 19' 7" W",-21.868,-43.3177,Brazil,"Minas Gerais",,"Matias Barbosa ",NULL,SouthAmerica,,NULL,NULL,NULL,,1,2,"2020-01-14 19:45:53"
+"Mato Grosso",NULL,P,"21° 00' 00" S; 055° 00' 00" W",-21,-55,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Mato Grosso "Estado" ADM1;Acmemapper2.0 Mato Grosso,Brazil yielded -12,-56",2,3,"2011-07-24 20:05:09"
+"Mau Norak",NULL,SL,"00° 36' 00" S; 036° 00' 00" E",-0.6,36,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  Mau Norak PPL; matches info in Kuntz and Myers 1967a",2,2,"2011-07-24 20:05:32"
+"Mayotte (Maore)",NULL,O,NULL,-12.8252,45.1578,France,,,,NULL,IndianOcean,,NULL,NULL,NULL,"Main island Mayotte also known as "Maore"; Geonames: Mayotte",1,3,"2020-01-14 21:15:20"
+"MB field site",NULL,SL,NULL,3.1,15.3,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-05 18:12:14"
+Mbandaka,NULL,SL,"0° 1' 35.76'' N, 18° 17' 49.56'' E",0.0266,18.2971,"Democratic Republic of Congo",Équateur,,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-01-14 19:53:09"
+Mbanza,NULL,SL,NULL,0.6987,14.7029,"Republic of the Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"CDC publication clarifies this is a village in Republic of Congo, giving the exact coordinates of where this gorilla was found. https://www.ncbi.nlm.nih.gov/pubmed/15752448",1,1,"2020-01-15 20:20:15"
+Mbiru,NULL,SL,"00° 03' 00" N; 032° 35' 00" E",0.05,32.58,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Mengo District; Geonames: Mbiru Point PT, matches general values for other localities in this district",3,2,"2011-07-24 20:05:59"
+Mchichira,NULL,SL,"10° 56' 00" S; 039° 36' 00" E",-10.93,39.6,Tanzania,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Mchichira;probably an old name;Mchicha yielded similar coordinates in Acmemapper and googlemaps but Mchichira could not be localized",2,2,"2011-07-24 20:06:05"
+"ME field site",NULL,SL,NULL,3.2,16.1,"Central African Republic",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-05 18:12:02"
+Medellin,NULL,SL,NULL,6.27,-75.6,Colombia,,,,NULL,NULL,,1500,NULL,NULL,Urban,1,2,"2020-01-14 21:15:40"
+MEXICO,NULL,N,"23° 00' 00" N; 102° 00' 00" W",23,-102,Mexico,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames:  Mexico PCLI",2,4,"2011-07-24 20:06:34"
+"MF field site",NULL,SL,NULL,6.3,19.1,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-14 20:08:05"
+"MG field site",NULL,SL,NULL,4.8,13.2,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See figure 2",2,2,"2020-01-14 20:08:08"
+Mgahinga,NULL,SL,"01° 23' 00" S; 029° 38' 00" E",-1.38,29.63,Uganda,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames:  Mgahinga FRST",2,2,"2011-07-24 20:06:51"
+Mica,NULL,SL,"24° 09' 00" S; 030° 50' 00" E",-24.15,30.83,"South Africa",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"NE Transvaal; Geonames:  Mica PPL, most values cluster near to one another",2,2,"2011-07-24 20:07:02"
+Mikumi,NULL,SL,"07° 15' 00" S; 037° 05' 00" E",-7.25,37.08,Tanzania,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames: Mikumi National Park",2,2,"2011-07-24 20:07:07"
+"Minkouala village",NULL,SL,NULL,0.561467,12.5897,Gabon,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Google maps: Minkouala, Gabon",1,2,"2020-01-14 20:14:44"
+Miranda,NULL,SL,"20 º30' S and 56º15' W",20.5,56.25,Brazil,"Mato Grosso do Sul",,,NULL,NULL,,NULL,NULL,NULL,"Captured outside of a hotel (Batista et al. 2013)",1,1,"2020-09-15 01:02:07"
+Misahualli,NULL,SL,"1° 2'7.0" S, 77° 39'59.4" W",1.03528,77.6664,Ecuador,,,,Rainforest,SouthAmerica,,NULL,NULL,NULL,"Publication says it is 2 ha",1,1,"2020-01-14 20:17:34"
+Mityana,NULL,SL,"00° 25' 03" N; 032° 01' 22" E",0.41,32.01,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Mengo District; Geonames: Mitiyana PPL",2,2,"2011-07-24 20:07:22"
+Mkuzi,NULL,SL,"27° 39' S; 32° 09' E",-27.65,32.15,"South Africa",NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"game reserve; from primary ref",1,1,"2011-07-24 20:07:38"
+"MM field site",NULL,SL,NULL,2.3,10.8,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-05 18:11:58"
+Mole,NULL,SL,NULL,9.6,-1.7,Ghana,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Acmemapper2.0;mole,ghana",2,2,"2020-01-14 21:13:05"
+"Monkey River",NULL,SL,NULL,16.35,-88.483,Belize,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,3,"2020-01-14 20:19:31"
+"Montes Azules",NULL,O,NULL,16.8,-91.3,Mexico,Chiapas,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Acmemapper2.0;Montes Azules,chiapas,mexico",2,2,"2020-01-14 20:19:48"
+Morondava,NULL,SL,"20° 17' 00" S; 044° 17' 00" E",-20.28,44.28,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Morondava PPL, used the one with primary ID as Morondava",2,2,"2011-07-24 20:08:36"
+Mosiro,NULL,SL,"01° 29' 00" S; 036° 06' 00" E",-1.48,36.1,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Mosiro PPL, based also on Fig 1 Dracopoli et al. 1986",2,2,"2011-07-24 20:08:42"
+Moukalaba-Doudou,NULL,SL,NULL,-2.498,10.349,Gabon,NULL,NULL,NULL,NULL,Africa,"Moukalaba-Doudou National Park ",NULL,NULL,NULL,"Boutsiana, Mt. Doudou",1,3,"2020-01-14 20:32:04"
+"Mount Meru Game Reserve",NULL,SL,NULL,-3.25,36.75,Tanzania,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Mount Meru",2,3,"2020-01-13 20:53:33"
+MOZAMBIQUE,NULL,N,"18° 15'00" S; 035° 00' 00" E",-18.25,35,Mozambique,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Mozambique, republic of",2,2,"2011-07-24 20:08:47"
+"MP Field site",NULL,SL,NULL,5.4,12.8,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See figure 2",2,2,"2020-01-13 20:53:44"
+Mpala,NULL,SL,"0° 20' 00" N; 036° 53' 00" E",0.33,36.88,Kenya,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"in Laikipia region of Kenya; Geonames: Mpala FRM (used Mpala Farm, which is very similar to coordinates for Laikipia District ADMD)",2,2,"2011-07-24 20:08:59"
+Mpigi,NULL,SL,"00° 37' 00" N; 032° 42' 00" E",0.61,32.7,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""area," Mengo District; Geonames: Mpigi PPL",2,2,"2011-07-24 20:09:03"
+"MT field site",NULL,SL,NULL,3.7,12.5,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-13 20:53:52"
+"Mt. Assirik",NULL,SL,NULL,12.883,12.767,Senegal,"Niokolo-Koba National Park",NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,NULL,1,2,"2020-11-09 19:45:46"
+"Mtito Andei",NULL,SL,"02° 41' 00" S; 038° 10' 00" E",-2.68,38.16,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Mtito Andei PPL",2,2,"2011-07-24 20:09:14"
+"MU field site",NULL,SL,NULL,2.4,29.9,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-13 20:53:56"
+Mukono,NULL,SL,"00° 16' 00" N; 032° 27' 00" E",0.26,32.45,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""area," Mengo District; Geonames: Mukono PPL multiple records, but all fairly tight",2,2,"2011-07-24 20:09:24"
+Mukteswar,NULL,SL,"29° 29' 00" N; 079° 39' 00" E",29.48,79.65,India,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"near Himalayas; Geonames: Mukteswar PPL, only Muketswar in database and used to determine country (also matches spp info)",2,2,"2011-07-24 20:09:29"
+"Mundo Novo municipality",NULL,P,NULL,-23.9378,-54.2708,Brazil,"Mato Grosso do Sul",,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-01-14 21:15:00"
+Mwanza,NULL,SL,"02° 31'00" S; 032° 54' 00" E",-2.51,32.9,Tanzania,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Mwanza",2,2,"2011-07-24 20:09:34"
+Mysore,NULL,P,"13° 30' 00" N; 076° 00' 00" E",13.5,76,India,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Mysore ADM1 (State)",2,2,"2011-07-24 20:09:41"
+N'zida,NULL,P,NULL,5.24374,-5.00277,"Côte d'Ivoire",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"The map on this publication lists the approximate location https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_5/b_fdi_20-21/28792.pdf 
+The river on this map no longer exists
+Additionally, Google Maps has Grand-Lahou, which is the approximate location of N'dzida discussed in Hoogstraal and Theiler 1959. Listed originally as "N'dzida" but now known as "N'zida"",3,2,"2020-01-15 20:19:56"
+Nairobi,NULL,SL,"01° 17' 00" S; 036° 49' 00" E",-1.28,36.81,Kenya,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"most refs "Nairobi City Park"; Geonames: Nairobi PPLC",2,2,"2011-07-24 20:09:47"
+Naivasha,NULL,SL,"00° 43' 00" S; 036° 26' 00" E",-0.71,36.43,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Naivasha PPL, based also on Fig 1 Dracopoli et al.",2,2,"2011-07-24 20:09:54"
+Nakauka,NULL,SL,"00° 11' 18" N; 032° 26' 23" E",0.18,32.43,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Mengo District; Geonames: Nakauka PPL",2,2,"2011-07-24 20:10:00"
+"Nakorn Sawan",NULL,SL,"15° 41' 00" N; 100° 07' 00" E",15.68,100.11,Thailand,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Nakorn Sawan PPLA",2,2,"2011-07-24 20:10:18"
+Namanga,NULL,SL,"02° 33' 00" S; 036° 47' 00" E",-2.55,36.78,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"Rift Valley Province; Geonames:  Namanga PPL",2,2,"2011-07-24 20:10:28"
+Namib,NULL,P,"23° 00' 00" S; 015° 00' 00" E",-23,15,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"desert; Geonames: Namib Desert DSRT, covers three countries, used primary listing",2,3,"2011-07-24 20:10:58"
+Nantou,NULL,P,"23° 50' 00" N; 121° 00' 00" E",23.83,121,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"map in reference; Geonames: Nantou",2,2,"2011-07-24 20:11:04"
+Nanyuki,NULL,O,NULL,-0.07124,37.1459,Kenya,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Nanyuki Forest Station",1,3,"2020-01-14 20:37:00"
+Napo,NULL,SL,"03° 28' 00" S; 072° 45' 00" W",-3.46,-72.75,Peru,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; Geonames:  Napo STM, matches (roughly) info on Province in source (Loreto)",2,2,"2011-07-24 20:11:12"
+Narayanganj,NULL,P,NULL,23.6135,90.503,Bangladesh,NULL,NULL,Narayanganj,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Narayanganj",1,2,"2020-01-14 20:38:19"
+Narok,NULL,SL,"01° 05' 00" S; 035° 52' 00" E",-1.08,35.86,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Narok PPL",2,2,"2011-07-24 20:11:17"
+Natal,NULL,P,"29° 00' 00" S; 030° 00' 00" E",-29,30,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Natal ADM1, can't pinpoint closer than this",2,2,"2011-07-24 20:11:21"
+"ND field site",NULL,SL,NULL,3.7,15.3,"Central African Republic",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-05 18:12:54"
+NEPAL,NULL,N,NULL,28.39,84.12,Nepal,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,http://www.itouchmap.com/latlong.html,2,4,"2020-01-14 20:38:47"
+Newala,NULL,P,NULL,-10.873,39.2667,Tanzania,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,3,"2020-01-13 20:13:36"
+Ngogo,NULL,SL,NULL,0.45,30.425,Uganda,NULL,NULL,NULL,NULL,Africa,2,NULL,NULL,NULL,"from reference (Muehlenbein 2005)",1,1,"2011-07-24 20:11:34"
+"Ngorongoro ",NULL,O,NULL,-3.2089,35.4628,Tanzania,NULL,NULL,NULL,NULL,NULL,"Ngorongoro Conservation Area",NULL,NULL,NULL,"Geonames: Ngorongoro Conservation Area",1,3,"2020-01-14 21:20:51"
+Niamey,NULL,SL,"13° 40' 00" N; 001° 47' 00" E",13.66,1.78,Niger,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Naimey PPL",2,2,"2011-07-24 20:11:45"
+Niapu,NULL,SL,"02° 25' 00" N; 026° 28' 00" E",2.41,26.46,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Niapu PPL",2,2,"2019-12-03 18:59:35"
+NIGERIA,NULL,N,"10° 00' 00" N; 008° 00' 00" E",10,8,Nigeria,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Nigeria PCLI",2,4,"2011-07-24 20:12:10"
+Nikko,NULL,P,NULL,36.7,139.7,Japan,Tochigi,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Acmemapper2.0;Nikko,Tochigi,japan",2,2,"2020-01-17 20:11:39"
+"Nikolo Koba",NULL,SL,"13° 04' 00" N; 012° 43' 00" W",13.06,-12.71,Senegal,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"aka Assirik; Geonames: Niokholo Koba",2,2,"2011-07-24 20:12:39"
+"Nilgiri Hills",NULL,SL,"11° 25' 00" N; 076° 30' 00" E",11.41,76.5,India,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Nilgiri Hill HLLS",2,2,"2011-07-24 20:12:51"
+Njoro,NULL,P,NULL,-0.329,35.944,Kenya,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Njoro, Rift Valley, Kenya",2,2,"2020-01-13 20:09:26"
+"NK field site",NULL,SL,NULL,2.1,14.7,Cameroon,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-13 20:08:04"
+"Noel Kampff Mercado",NULL,SL,"13° 35.64' S; 60° 54.74' W",-13.6,-60.9,Bolivia,NULL,NULL,NULL,NULL,SouthAmerica,2,0,0,NULL,"; primary reference",1,1,"2011-07-24 20:13:00"
+"North Huetar ",NULL,SL,NULL,10.6442,-84.4316,"Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,3,"2020-01-14 21:26:36"
+"Northwest India",NULL,O,NULL,30.2556,74.957,India,,,,NULL,Eurasia,,NULL,NULL,NULL,"Debenheim et al. 2017",3,3,"2020-01-14 21:30:02"
+"Nosy Be",NULL,SL,"13° 20' 00" S; 048° 15' 00" E",-13.33,48.25,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"aka Nossi Be; Geonames: Nosy Be ISL",2,2,"2011-07-24 20:13:06"
+"Novo Horizonte",NULL,P,,-21.4681,-49.2208,Brazil,"Sao Paulo",,,NULL,NULL,,NULL,NULL,NULL,,1,2,"2020-05-29 22:18:29"
+"NT field site",NULL,SL,NULL,5.4,11.4,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-13 20:05:13"
+Nyeri,NULL,P,NULL,-0.42,36.95,Kenya,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,2,"2020-01-13 20:05:54"
+Nyungwe,NULL,SL,NULL,-2.5,29.3,Rwanda,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemappper2.0;Nyungwe,Rwanda",2,2,"2020-01-14 21:30:18"
+"Obiatuku forest",NULL,SL,NULL,-0.13836,25.5761,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Obiatuku",2,2,"2020-01-24 20:15:38"
+Odzala-Kokoua,NULL,SL,NULL,0.906,15.176,Congo,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Coordinates taken from reference",1,1,"2020-01-14 21:13:12"
+Ogooue-Ivindo,NULL,P,"00° 30' 00" N; 013° 00' 00" E",0.5,13,Gabon,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"near village, animal butchered; Geonames: Ogooue-Ivindo ADM1; also looked for name of town and health district but nothing certain; health district coordinates matched closely the province",2,2,"2011-07-24 20:13:41"
+Oicha,NULL,SL,"00° 42' 00" N; 029° 31' 00" E",0.7,29.51,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"aka Hoysha, Oysha, Hosha; Geonames: Oicha MSSN;Acmemapper2.0;oysha",2,2,"2019-12-03 18:59:39"
+Oka,NULL,SL,NULL,-3.6675,15.3819,"Republic of the Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Geonames: Oka, Republic of the Congo",1,2,"2020-01-15 20:13:37"
+Okavango,NULL,SL,"19° 30' 00" S; 023° 00' 00" E",-19.5,23,Botswana,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames:  Okavango Swamps MRSH",2,2,"2011-07-24 20:14:15"
+Omo,NULL,SL,"06° 00' 00" N; 035° 50' 00" E",6,35.83,Ethiopia,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Geonames:  Omo National Park PRK",2,2,"2011-07-24 20:14:27"
+"ON field site",NULL,SL,NULL,1.8,28.3,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-15 20:14:00"
+Onderstepoort,NULL,P,NULL,-25.6,28.1,"South Africa",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,";Acmemapper;onderstepoort,pretoria",2,2,"2020-01-15 20:14:08"
+"OP field site",NULL,SL,NULL,0.2,29.1,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2019-12-05 18:13:16"
+"Orange Walk",NULL,P,NULL,17.7667,-88.8,Belize,,"Orange Walk",,NULL,NULL,,NULL,NULL,NULL,,2,3,"2020-01-15 20:16:27"
+"Osa Conservation Area",NULL,O,NULL,8.5672,-83.5161,"Costa Rica",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Large area; Geonames: Osa Peninsula",2,3,"2020-01-15 20:18:38"
+"PA field site",NULL,SL,NULL,-0.7,26.7,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-15 20:18:43"
+Pahang,NULL,P,"03° 30' 00" N; 102° 45' 00" E",3.5,102.75,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Pahang State ADM1",2,3,"2011-07-24 20:15:08"
+Palenque,NULL,P,NULL,17.5,-91.98,Mexico,Chiapas,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,";Acmemapper 2.0;Palenque,mexico",2,2,"2020-01-17 20:12:34"
+PANAMA,NULL,N,"09° 00' 00" N; 080° 00' 00" W",9,-80,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames:  Panama PCLI",2,3,"2011-07-24 20:16:27"
+"Panama Canal Zone",NULL,SL,"09° 10' 00" N; 079° 51' 00" W",9.16,-79.85,Panama,NULL,NULL,NULL,NULL,NorthAmerica,1,0,0,NULL,"should obtain primary ref; Geonames:  Canal Zone Biological Area USGE",2,2,"2011-07-24 20:16:40"
+"Panama City",NULL,SL,"08° 58' 00" N; 079° 32' 00" W",8.96,-79.53,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames:  Panama City PPL",2,2,"2011-07-24 20:16:51"
+"Panama Province",NULL,P,"09° 11' 00" N; 079° 15' 00" W",9.18,-79.25,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames: Panama Province ADM1",2,3,"2011-07-24 20:17:01"
+Pantanal,NULL,O,NULL,-20.5386,56.715,Brazil,"Mato Grosso do Sul",Bodoquena,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-01-17 20:14:12"
+"Pantanos Centla",NULL,SL,NULL,18.1111,-92.5078,Mexico,Tabasco,NULL,NULL,NULL,NULL,"Reserva de la Biósfera Pantanos de Centla ",NULL,NULL,NULL,NULL,1,3,"2019-12-11 19:02:07"
+Pará,NULL,P,"04° 00' 00" S; 053° 00' 00" W",-4,-53,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames:  Para ADM1",2,3,"2020-01-21 18:09:52"
+Paracatu,NULL,SL,"17° 13' 00" S; 046° 52' 00" W",-17.21,-46.86,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Minas Gerais, Brazil; Geonames: Paracatu PPL, matches state ID in paper",2,2,"2011-07-24 20:17:18"
+PARAGUAY,NULL,N,"22° 59' 36" S; 057° 59' 47" W",-22.99,-57.99,Paraguay,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames:  Paraguay PCLI",2,3,"2011-07-24 20:17:56"
+Paraíba,NULL,O,NULL,-7.001,-34.924,Brazil,Paraíba,,"Santa Rita",NULL,NULL,"Reserva Particular do Patrimônio Natural Engenho Gargaú",NULL,NULL,NULL,,1,3,"2020-01-17 20:15:07"
+Paramaribo,NULL,SL,"05° 50' 00" N; 55° 10' 00" W",5.83,-55.16,Surinam,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Paramaribo PPLC",2,2,"2012-06-14 21:46:22"
+Parana,NULL,P,"24° 00' 00" S; 051° 00' 00" W",-24,-51,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Parana ADMD",2,2,"2011-07-24 20:19:23"
+"Parc Natl Volcans",NULL,SL,"1° 30' S; 29° 30' E",-1.5,29.5,Rwanda,NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; Acmemapper2.0;pac natl volcans",2,2,"2011-07-25 19:18:35"
+"Parco Nacional Defensores del",NULL,SL,"24° 33' 00" S; 056° 27' 00" W",-24.55,-56.45,Paraguay,NULL,NULL,NULL,NULL,SouthAmerica,2,0,0,NULL,"; Geonames: Colonia Defensores del Chaco PPL",2,2,"2011-07-24 20:20:12"
+"Parisi forest",NULL,SL,NULL,-0.062416,26.1207,"Democratic Republic of Congo",Tshopo,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"From map in Li et al. 2012",2,2,"2020-01-24 20:38:29"
+"Parque Estadual Carlos Botelho",NULL,SL,"24° 30' S; 47° 58' W",-24.5,-47.96,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,2,0,0,NULL,"; primary ref",1,1,"2011-07-24 20:20:33"
+Parys,NULL,SL,,-26.8809,27.482,"South Africa","Free State",,Parys,NULL,NULL,,NULL,NULL,NULL,"Golf estate",2,1,"2020-08-23 21:57:33"
+Passos,NULL,SL,"20° 43' 00" S; 046° 37' 00" W",-20.71,-46.61,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"western Minas Gerais, Brazil; Geonames:  Paracatu PPL, matched state ID in paper",2,2,"2011-07-24 20:20:51"
+"Pemba Island",NULL,P,NULL,-5.16667,39.8,Tanzania,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Pemba Islands",2,2,"2020-01-13 19:54:13"
+Perak,NULL,P,"05° 00' 00" N; 101° 00' 00" E",5,101,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"State of Perak; Geonames:  Perak Province ADM1",2,3,"2011-07-24 20:21:04"
+Perinet,NULL,SL,"18° 56' 00" S; 048° 25' 00" E",-18.93,48.41,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Perinet PPL, alternate for Andasibe",2,2,"2011-07-24 20:21:21"
+PERU,NULL,N,"10° 00'00" S; 076° 00' 00" W",-10,-76,Peru,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Peru, republic of",2,4,"2011-07-24 20:22:10"
+"Petit Saut",NULL,SL,"04° 55' 00" N; 053° 05' 00" W",4.91,-53.08,"French Guyana",NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"Petit Saut Hydroelectric Dam,  forest flooded; from de Thoisy et al. 2003",2,2,"2012-06-14 21:46:12"
+Petropolis,NULL,SL,"22° 30' 39" S; 43° 11' 04" W",-22.51,-43.18,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"in state of Rio de Janeiro; Geonames: Petropolis PPL, only one that came up for state of Rio de Janeiro",2,2,"2011-07-24 20:22:29"
+Phattalung,NULL,SL,"07° 37' 00" N; 100° 05' 00" E",7.61,100.08,Thailand,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"map in reference; Geonames: Changwat Phattalung PPLA, matches location in map in reference",2,2,"2011-07-24 20:22:34"
+PHILIPPINES,NULL,N,"13° 00' 00" N; 122° 00' 00" E",13,122,Philippines,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Philippines (PCL1)",2,4,"2011-07-24 20:22:47"
+Phnom-Penh,NULL,SL,"11° 33' 00" N; 104° 55' 00" E",11.55,104.91,Cambodia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Phnom Penh PPL",2,2,"2011-07-24 20:23:04"
+Pichucalco,NULL,SL,NULL,17.51,-93.1159,Mexico,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"See Figure 1 and got exact coordinates from Geonames: Pichucalco, Mexico",1,2,"2019-12-11 19:00:01"
+Pietermaritzburg,NULL,SL,NULL,-29.6,30.4,"South Africa",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,";Acmemapper 2.0;Pietermaritzburg",2,2,"2020-01-21 21:13:53"
+Pingtung,NULL,P,"22° 30' 00" N; 120° 40' 00" E",22.5,120.67,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"map in reference; ",2,2,"2011-07-24 20:23:21"
+"Plácido de Castro",NULL,P,NULL,-10.2943,-67.268,Brazil,Acre,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Plácido de Castro",1,2,"2020-01-17 20:20:23"
+"PO field site",NULL,SL,NULL,3.9,28.4,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-15 20:19:08"
+Pochitocal,NULL,P,NULL,17.6176,-92.7744,Mexico,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Pochitocal, Mexico",1,2,"2020-01-17 20:24:24"
+"Poco das Antas",NULL,SL,NULL,-29.45,-51.66,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,2,0,0,NULL,"Poco das Antas Biological Reserve; ",2,2,"2020-01-14 21:13:39"
+Polonnaruwa,NULL,SL,"07° 56' 00" N; 081° 00' 00" E",7.93,81,"Sri Lanka",NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:Polonnaruwa PPL",2,2,"2011-07-24 20:23:42"
+Ponthierville,NULL,SL,"00° 21' 00" S; 025° 29' 00" E",-0.35,25.48,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"aka Ubundu; Geonames: Ponthierville PPL",2,2,"2019-12-03 18:58:17"
+Poona,NULL,SL,"18° 32' 00" N; 073° 52' 00" E",18.53,73.86,India,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  Poona PPL",2,2,"2011-07-24 20:24:07"
+"Port Dickson",NULL,SL,"02° 31' 00" N; 101° 48' 00" E",2.51,101.8,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"in Negri Sembilan, unknown locality; Geonames: Port Dickson PPL, close to Negri Sembilan",2,2,"2011-07-24 20:24:12"
+"Porto Primavera Dam",NULL,O,NULL,-22.4753,-52.9583,Brazil,"Border of SÃ£o Paulo and Mato Grosso do Sul",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Engineer Sérgio Motta Dam, formerly known as the Porto Primavera Dam",1,2,"2020-01-17 20:36:44"
+"Porto Rico County",NULL,P,"22°46’20”S 53°16’01”W",22.7722,53.2669,Brazil,Parana,,,NULL,SouthAmerica,,NULL,NULL,NULL,,1,3,"2020-01-17 20:44:18"
+"Portuguese Guinea",NULL,N,NULL,12,-15,Guinea-Bissau,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Portuguese Guinea now known as Guinea-Bissau. Paper was written 1976",2,4,"2020-01-17 20:49:03"
+Potchefstroom,NULL,SL,"26° 40' 00" S; 027° 06' 00" E",-26.66,27.1,"South Africa",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Potchefstroomdam RSV, other entries, all within about 2degrees of one another",2,2,"2011-07-24 20:24:29"
+Potoru,NULL,SL,"7° 35' 40" N; 11° 22' 40" W",7.59,-11.36,"Sierra Leone",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; from primary ref, figure 1",2,2,"2011-07-24 20:24:34"
+"Presidente Epitaceo and Anaurilandia",checked,SL,"22°07' S, 52°30' W",-22.1166,-52.5,Brazil,,,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-05-27 22:24:19"
+"Primatology Center Forest (CDP)",NULL,SL,NULL,-1.46177,13.4253,Gabon,,,,NULL,Africa,"Primatology Center Forest ",NULL,NULL,NULL,"Approximate from Figure 1 (Boundenga et al. 2018)",2,2,"2020-01-17 20:53:52"
+"Puerto de Belén",NULL,SL,NULL,-3.76788,-73.2459,Peru,NULL,NULL,Iquitos,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Reference: Hoare 1972 citing Ayala 1964: 
+
+Ayala's description in Spanish: dichos monos fueron . En la selva inmediata a la margen derecha del Rio Amazonas, frente al puerto de Belen in Iquitos donde los conoce vulgarmente con el nombre de frailes
+
+Likely was more forested in 1960s",2,2,"2020-12-10 20:21:08"
+"Puerto Narino",NULL,SL,NULL,-3.8,-70.4,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: no records for Puerto Narino or Narino;Acmemapper 2.0;puerto narino,Amazonas,Brazil",2,2,"2020-01-14 21:13:30"
+Puttalam,NULL,SL,"08° 02' 00" N; 079° 49' 00" E",8.03,79.81,"Sri Lanka",NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"northwest coast of Sri Lanka (Ceylon); Geonames: Puttalam PPL",2,2,"2011-07-24 20:25:14"
+"Quebrada Blanco",NULL,SL,"4° 21' S; 73° 09' W",-4.35,-73.15,Peru,NULL,NULL,NULL,NULL,SouthAmerica,2,0,0,NULL,"biological station; from primary ref",2,2,"2011-07-24 20:25:28"
+Ranau,NULL,SL,"05° 58' 00" N; 116° 41' 00" E",5.96,116.68,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"Sabah, Malaysia; Geonames: Ranau PPL",2,2,"2011-07-24 20:25:41"
+Ranomafana,NULL,SL,"21° 16' S; 47° 20' 00" E",-21.26,47.33,Madagascar,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: too many entries, couldn't locate, used coordinates from Wright et al. 1997",2,2,"2019-12-11 19:00:40"
+Ratchaburi,NULL,SL,"13° 35' 00" N; 099° 32' 00" E",13.58,99.53,Thailand,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Ratchaburi Changwat ADM1",2,3,"2011-07-24 20:26:16"
+Rayong,NULL,SL,"12° 41' 00" N; 101° 17' 00" E",12.68,101.28,Thailand,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Rayong, Changwat PPL",2,2,"2011-07-24 20:26:28"
+"Red Hill",NULL,SL,NULL,-32.33,28.23,"South Africa","Western Cape",NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,NULL,1,1,"2020-01-17 20:55:15"
+"Reforma Agraria",NULL,SL,NULL,17.4,-91.7,Mexico,Chiapas,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,";Acmemapper 2.0;Reforma Agraria,hiapas",2,2,"2020-01-17 20:56:00"
+"Republic of the Congo",NULL,N,NULL,-4.1,24.7,"Republic of the Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper2.0;Democratic Republic of Congo",2,4,"2020-01-17 20:56:16"
+"Riachuelo River",NULL,SL,"27° 30' S; 58° 41' W",-27.5,-58.68,Argentina,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; primary ref",1,1,"2011-07-24 21:03:44"
+"Rift Valley",NULL,P,"00° 30' 00" N; 036° 00' 00" E",0.5,36,Kenya,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Rift Valley Province; Geonames: Rift Valley Province ADM1",2,2,"2011-07-24 21:03:50"
+"Rio Branco",NULL,P,NULL,-9.97472,-67.81,Brazil,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Rio Branco, Acre, Brazil",1,2,"2020-01-17 20:59:39"
+"Rio de Janeiro",NULL,SL,"22° 54' 00" S; 043° 14' 00" W",-22.9,-43.23,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; Geonames:  Rio de Janeiro PPLA",2,2,"2011-07-24 21:04:04"
+"Rio Grande do Sul",NULL,P,"30° 00' 00" S; 054° 00' 00" W",-30,-54,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Rio Grande do Sul "ESTADO" ADMD",2,2,"2011-07-24 21:04:25"
+"Rio Los Amigos EBLA",NULL,SL,NULL,-12.569,-70.099,Peru,,"Madre de Dios Department",,NULL,SouthAmerica,"Estacion Biologica Rio Los Amigos",NULL,NULL,NULL,,1,2,"2020-01-17 21:00:01"
+"Rio Mono",NULL,SL,"09° 16' 00" N; 078° 08' 00" W",9.26,-78.13,Panama,NULL,NULL,NULL,NULL,NorthAmerica,0,0,0,NULL,"; Geonames: Rio Monos STM, aka Mono River, matches map in primary reference",2,2,"2011-07-24 21:04:45"
+"River Kwango",NULL,SL,"04° 52' 00" S; 016° 59' 00" E",-4.86,16.98,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Kwango, used the region rather than river because seems to be inbetween two points for river coordinates",3,2,"2019-12-03 18:58:44"
+Riverside,NULL,SL,NULL,-23.7808,30.4323,"South Africa",,,,NULL,NULL,,NULL,NULL,NULL,"Google Maps: Riverside Wildlife Rehabilitation and Environmental Education Centre",1,2,"2020-01-17 21:08:15"
+"Riviera Maya",NULL,SL,NULL,20.5531,-87.1738,Mexico,"Quintana Roo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"From Solorzano-Garcia and Perez-Ponce de Leon
+",2,2,"2019-12-11 19:03:51"
+Roi-ed,NULL,SL,"16° 03' 00" N; 103° 40' 00" E",16.05,103.66,Thailand,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames:  Roi-ed PPLA",2,2,"2011-07-24 21:05:35"
+Rondo,NULL,SL,NULL,5.38173,-73.1968,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Geonames: Rondon, Colombia
+1952 map of Colombia in Library of Congress has Rondon, not Rondo. Likely what the 1964 explorers meant.",3,2,"2020-01-21 17:23:24"
+Rondonia,NULL,P,"11° 00' 00" S; 063° 00' 00" W",-11,-63,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Rondonia (Estado) ADM1",2,3,"2011-07-24 21:06:06"
+"Rondonia State, Brazil",NULL,O,NULL,-9.78,-65.27,Brazil,Rondonia,NULL,Abuna,NULL,NULL,NULL,NULL,NULL,NULL,"Madeira River",1,3,"2020-01-17 21:19:18"
+Roraima,NULL,P,"01° 00' 00" N; 061° 00' 00" W",1,-61,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Roraima (Estado) ADM1",2,3,"2011-07-24 21:06:19"
+"Ruaha ",NULL,SL,NULL,-7.5,35,Tanzania,,,,NULL,NULL,"Ruaha National Park",NULL,NULL,NULL,,1,2,"2020-01-17 21:20:05"
+Rubondo,NULL,SL,NULL,-2.3,31.83,Tanzania,NULL,NULL,NULL,NULL,NULL,"Rubondo Island National Park",NULL,NULL,NULL,"Island in Lake Victoria",1,2,"2020-01-17 21:21:05"
+"Rutoma fragment",NULL,SL,NULL,0.5,30.4,Uganda,NULL,"Kibale National Park",NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Forest fragment neighboring Kibale National Park.Acmemapper;Kibale national park;no hit when rutoma was added",2,2,"2020-01-17 21:21:12"
+Ruwenzori,NULL,SL,"00° 25' 00" N; 030° 00' 00" E",0.41,30,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""forest", Toro district; Geonames: Ruwenzori FRST",2,2,"2011-07-24 21:06:31"
+RWANDA,NULL,N,NULL,-1.9,29.9,Rwanda,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Rwanda",2,4,"2020-01-17 21:21:38"
+Sabah,NULL,P,"05° 30' 00" N; 117° 00' 00" E",5.5,117,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Sabah ADM1",2,3,"2011-07-24 21:07:01"
+"Sabangau Forest",NULL,O,"2° 19 00" S; 113° 54’ 00" E",-2.31667,113.9,Indonesia,"Central Kalimantan",,,NULL,Eurasia,,NULL,NULL,NULL,,1,3,"2020-01-21 17:08:50"
+Sakamoto,NULL,P,NULL,35,138.4,Japan,Shizuoka,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Sakamoto,shizuoka,Japan",2,2,"2020-01-21 17:09:03"
+Samburu,NULL,SL,"01° 15' 00" N; 037° 00' 00" E",1.25,37,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames Samburu ADMD, based on Fig 1 Dracopoli et al. 1986",2,2,"2011-07-24 21:07:25"
+Samuel,NULL,SL,"8° 10' 00" S; 62° 26' 00" W",-8.16,-62.43,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"State of Rondonia; from primary ref, Lourenco de Oliveira and Deane 1995",1,1,"2011-07-25 16:15:19"
+"San Cayetano",NULL,P,NULL,-40.5,-58.683,Argentina,Corrientes,NULL,"San Cayetano",NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,2,"2020-01-21 17:23:59"
+"San Juan",NULL,P,"06° 43' N; 74° 09' W",6.72,74.15,Colombia,"Santander Department",,,NULL,NULL,,NULL,3496,28,,1,2,"2020-01-21 17:24:22"
+"Sanaga River",NULL,SL,"6° N; 11° E",6,11,Cameroon,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; estimated based on map in reference",3,2,"2011-07-25 16:15:30"
+Sandveld,NULL,P,,-27.7108,25.7558,"South Africa","Free State",,Bloemof,NULL,NULL,"Sandveld Nature Reserve",NULL,NULL,NULL,,2,3,"2020-08-23 21:53:36"
+Sangaredi,NULL,NULL,,NULL,NULL,Guinea,,,Sangaredi,NULL,Africa,,NULL,NULL,NULL,,,,"2020-11-30 16:30:44"
+Sangeh,NULL,SL,NULL,-8.3,115.1,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"Geonames;Sangeh;used the only entry in indonesia and not having any prefix or suffix",2,2,"2020-01-14 21:13:07"
+"Sango Bay",NULL,SL,"00° 51' 00" S; 031° 42' 00" E",-0.85,31.7,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""Sango Bay Forests", Masaka District; Geonames: Sango Bay BAY",2,2,"2011-07-25 16:18:38"
+"Santa Catarina",NULL,P,"27° 00' 00" S; 050° 00' 00" W",-27,-50,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Santa Catarina "Estado" ADMD",2,2,"2011-07-25 16:19:05"
+"Santa Marta mountains",NULL,SL,NULL,18.3,-94.0833,Mexico,NULL,NULL,Veracruz,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,3,"2020-01-21 17:29:12"
+"Santa Rosa",NULL,SL,"10° 54' N; 85° 39' W",10.9,-85.65,"Costa Rica",NULL,NULL,NULL,NULL,NorthAmerica,2,0,0,NULL,"; primary ref",1,1,"2011-07-25 16:20:43"
+"Sao Paulo",NULL,P,"22° 00' 00" S;  049° 00' 00" W",-22,-49,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Sau Paulo (Estado) ADMD",2,2,"2011-07-25 16:20:56"
+Sarawak,NULL,P,"02° 30' 00" N; 113° 30' 00" E",2.5,113.5,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Sarawak ADM1",2,3,"2011-07-25 16:21:08"
+"SAUDI ARABIA",NULL,N,NULL,25,45,"Saudi Arabia",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Saudi Arabia",2,4,"2020-01-21 17:25:43"
+Scrutton,NULL,SL,"22° 21' S; 30° 23' E",-22.35,30.38,"South Africa",NULL,NULL,NULL,NULL,Africa,0,450,325,NULL,"Scrutton Private Nature Reserve; from source (Pettifer 1984); altitude and rainfall are midpoints of range",2,2,"2011-07-25 16:21:19"
+Sebangau,NULL,NULL,,NULL,NULL,Indonesia,Kalimantan,"Central Kalimantan",,NULL,NULL,,NULL,NULL,NULL,,,,"2020-10-28 19:25:26"
+Sebitoli,NULL,O,NULL,0.6484,30.3853,Uganda,,,,NULL,Africa,"Kibale National Park",NULL,NULL,NULL,,2,2,"2020-01-21 17:31:06"
+Selangor,NULL,P,"03° 10' 00" N; 101° 30' 00" E",3.17,101.5,Malaysia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"classed different from Kuala Selangor because author unclear, "Selangor Coast", possibly refering to the state; Geonames:  Selangor Negeri (state)",2,2,"2011-07-25 19:19:19"
+"Selous ",NULL,SL,NULL,-9,37.5,Tanzania,,,,NULL,NULL,"Selous Game Reserve",NULL,NULL,NULL,"Geonames: Selous Game Reserve",1,2,"2020-01-21 17:33:36"
+Semliki,NULL,SL,"00° 49' 00" N; 030° 04' 00" E",0.81,30.06,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,""forest," Toro District; Geonames: Semliki Forest FRST",2,2,"2011-07-25 16:23:33"
+SENEGAL,NULL,N,"14° 00' 00" N; 014° 00' 00" W",14,-14,Senegal,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Senegal PCLI",2,4,"2011-07-25 16:24:29"
+Sepilok,NULL,SL,"05° 52' 00" N; 117° 58' 00" E",5.86,117.96,Malaysia,NULL,NULL,NULL,NULL,Eurasia,2,0,0,NULL,"eastern Sabah; Geonames:  Sepilok PPL",2,2,"2011-07-25 16:24:43"
+"Serengeti National Park",NULL,O,NULL,-2.3333,34.8333,Tanzania,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Serengeti National Park",1,2,"2020-01-21 17:34:46"
+"Serra da Mesa",NULL,SL,NULL,-14.52,-49.03,Brazil,Goias,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,3,"2020-01-21 17:48:59"
+"Serra dos Carajas",NULL,SL,"6° S; 50° 18' W",-6,-50.3,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"primary forest; primary ref",2,2,"2011-07-25 16:24:49"
+"Sese Islands",NULL,SL,"00° 18' 47" S; 032° 19' 07" E",-0.31,32.31,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Lake Victoria; Geonames: Sese Islands ISLS",2,2,"2011-07-25 16:25:00"
+"Shai Hills",NULL,NULL,"5.891667, 0.060556",5.89167,0.060556,Ghana,"Greater Accra","Dangme West",Doryumu,NULL,Africa,"Shai Hills Reserve",NULL,NULL,NULL,,,,"2021-01-28 02:23:59"
+Shamwari,NULL,SL,,-33.478,26.0363,"South Africa","Eastern Cape",,,NULL,NULL,"Shamwari Game Reserve",NULL,NULL,NULL,,1,2,"2020-08-23 22:21:00"
+Shiga,NULL,P,NULL,35,135.9,Japan,Nagano,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Shiga",2,2,"2020-01-21 17:36:44"
+Shimoga,NULL,SL,NULL,13.9,75.1,India,"Mysore State",NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Shimoga,Mysore state india",2,2,"2020-01-21 17:37:13"
+Shimoni,NULL,SL,"04° 39' 00" S; 039° 23' 00" E",-4.65,39.38,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Shimoni",2,2,"2011-07-25 16:30:53"
+"Shivapuri Nagarjun",NULL,SL,,27.813,85.3859,Nepal,Kathmandu,,,NULL,NULL,"Shivapuri Nagarjun National Park",NULL,NULL,NULL,,1,2,"2020-05-27 02:16:07"
+Shodoshima,NULL,SL,NULL,34.5,134.2,Japan,Kagawa,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;shodoshima,kagawa",2,2,"2020-01-21 17:37:32"
+Sichuan,NULL,P,"31° 27' 24.4116'' N 102° 50' 34.8648'' E.",31.4568,102.843,China,,,,NULL,Eurasia,,NULL,NULL,NULL,,1,4,"2020-01-21 17:39:28"
+"SIERRA LEONE",NULL,N,"08° 30' 00" N; 011° 30' 00" W",8.5,-11.5,"Sierra Leone",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Sierra Leone PCLI",2,4,"2011-07-25 16:31:19"
+Simien,NULL,SL,"13° 21' 00" N; 038° 18' 00" E",13.35,38.3,Ethiopia,NULL,NULL,NULL,NULL,Africa,1,330,1400,NULL,"Simien Mountains National Park; Geonames:  Simien/Ethiopia RGN",2,2,"2011-07-25 16:31:24"
+Sine-Saloum,NULL,SL,NULL,14.45,-15,Senegal,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"central Senegal near the Gambian border
+Geonames: Réserve Sylvo-Pastorale du Sine-Saloum ca. 49 m",1,2,"2020-01-21 17:43:36"
+SINGAPORE,NULL,N,"01° 22' 00" N; 103° 48' 00" E",1.37,103.8,Singapore,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  Singapore PCLI",2,4,"2011-07-25 16:31:35"
+Sinnamary,NULL,SL,"05° 23' 00" N; 052° 57' 00" W",5.38,-52.95,"French Guiana",NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,""primary forest"; approx 40 km from Atlantic ocean, behind dam; Geonames: Sinnamary PPL",2,2,"2011-07-25 16:31:41"
+"Sinnamary region",NULL,O,NULL,5.38,-52.95,"French Guiana",NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Acmemapper2.0;sinnamary region",2,2,"2020-01-17 20:10:53"
+"Sítio Aguahy Private Reserve",NULL,SL,NULL,-2.65444,-44.1394,Brazil,Maranhão,,"São Jose de Ribamar",NULL,NULL,,NULL,NULL,NULL,,1,1,"2020-01-14 21:14:54"
+"Smitswinkel Bay",NULL,SL,"S 34° 15' 57'' E 18° 28' 15''",-34.26,18.47,"South Africa","Western Cape",NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"GeoNameID: 3361432",2,2,"2020-01-17 20:11:00"
+Sodore,NULL,SL,"08° 24' 00" N; 039° 23' 00" E",8.4,39.38,Ethiopia,NULL,NULL,NULL,NULL,Africa,0,1600,0,NULL,"r125 km to th east of Addis Ababa; aka Sodor Ye'Meznanya Bota, Soder, Sodore; Geonames: Sodor PPL",2,2,"2011-07-25 16:32:56"
+Soetdoring,NULL,SL,,-28.8424,26.0535,"South Africa","Free State",,,NULL,NULL,"Soetdoring Nature Reserve",NULL,NULL,NULL,,2,2,"2020-08-24 05:25:03"
+Songkhla,NULL,SL,"07° 08' 00" N; 100° 32' 00" E",7.13,100.53,Thailand,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Changwat Songkhla PPL, matches map in ref",2,2,"2011-07-25 16:33:06"
+Sonso,NULL,SL,"1° 43' 556'' N, 31° 32' 827'' E",1.871,31.7631,Uganda,,,,NULL,NULL,"Budongo Forest",NULL,NULL,NULL,,1,1,"2020-01-21 17:45:59"
+Sooretama,NULL,SL,NULL,-19.2,-40.1,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,Acmemapper2.0;sooretama,2,2,"2012-06-14 21:40:16"
+Sorocaba,NULL,SL,NULL,-23.5,-47.5,Brazil,"Sao Paulo",Sorocaba,,NULL,NULL,,NULL,NULL,NULL,,1,1,"2020-01-21 17:46:21"
+"SOUTH AFRICA",NULL,N,"30° 00' 00" S; 026° 00' 00" E",-30,26,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: South Africa, republic of",2,4,"2011-07-25 16:33:32"
+"SOUTH AMERICA",NULL,O,NULL,NULL,NULL,N/A,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; not relevant",NULL,NULL,"2020-01-21 17:46:33"
+"South West Province",NULL,P,"05° 25' 00" N; 009° 20' 00" E",5.42,9.33,Cameroon,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: South West Province ADM1",2,3,"2011-07-25 16:33:46"
+"SOUTHEAST ASIA",NULL,O,NULL,NULL,NULL,N/A,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; not relevant",4,4,"2020-01-21 17:47:40"
+"Southern Cameroon",NULL,O,NULL,4.5,9.3,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"ACMEMAPPER2.0;SOUTHERN CAMEROON",2,3,"2020-01-21 17:48:50"
+"Southern India",NULL,O,NULL,14.099,77.4,India,,,,NULL,NULL,,NULL,NULL,NULL,"Google maps",3,3,"2020-01-21 17:50:50"
+"Southern Madagascar",NULL,O,NULL,-23.7287,47.0582,Madagascar,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Hoogstraal and Theiler 1959 reporting on what is now known as Varecia vareigata. They live in the East, so narrowed the search to SE Madagascar.",4,3,"2020-01-21 17:56:27"
+"SRI LANKA",NULL,N,"07° 00' 00" N; 081° 00' 00" E",7,81,"Sri Lanka",NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  Sri Lanka PCLI",2,4,"2011-07-25 16:34:51"
+Stanleyville,NULL,SL,"00° 31' 00" N; 025° 12' 00" E",0.51,25.2,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Kisangani PPL, used value closest to locality in atlas",2,2,"2019-12-03 18:58:36"
+"Stann Creek",NULL,P,NULL,16.833,-88.4667,Belize,,"Stann Creek",,NULL,NULL,,NULL,NULL,NULL,,2,3,"2020-01-21 17:57:39"
+"Suaq Balimbing",NULL,NULL,,NULL,NULL,Indonesia,Sumatra,,,NULL,NULL,"Gunung Leuser",NULL,NULL,NULL,,,,"2020-10-28 19:14:21"
+Subukia,NULL,SL,"00° 00' 00" S; 036° 13' 00" E",0,36.21,Kenya,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Subukia AREA",2,2,"2011-07-25 16:35:40"
+"Sucre, Bolivia",NULL,SL,NULL,-21.61,-66.13,Bolivia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: multiple hits, some quite different
+",3,3,"2020-01-14 21:13:36"
+"Sucre, Brazil",NULL,SL,NULL,-25.3,-57.5,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: no records for Sucre in Brazil:Acmemapper 2.0;Sucre,Brazil",2,2,"2020-01-14 21:13:46"
+SUDAN,NULL,N,"15° 00'00" N; 030° 00' 00" E",15,30,Sudan,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Sudan, republic of the",2,4,"2011-07-25 16:36:37"
+"Suela Zimbili",NULL,NULL,,-29.2147,31.4254,"South Africa",KwaZulu-Natal,,Zinkwazi,NULL,NULL,"Harold Johnson Nature Reserve",NULL,NULL,NULL,,1,2,"2020-08-23 22:11:42"
+Sueve-Bolivar,NULL,P,NULL,10.9685,-74.7813,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Barranquilla according to https://collections.nmnh.si.edu/search/iz/ 
+Geonames: Barranquilla, Colombia",1,2,"2020-01-21 19:07:43"
+Suikerbosrand,NULL,SL,"26° 30' 30" S; 28° 15' E",-26.5,28.25,"South Africa",NULL,NULL,NULL,NULL,Africa,1,1728,645,NULL,"Suikerbosrand Nature Reserve; from source (Pettifer 1984); altitude and rainfall are averages across year",1,2,"2011-07-25 16:37:05"
+Sulawesi,NULL,P,"02° 00' 00" S; 121° 00' 00" E",-2,121,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  Sulawesi ISL",2,2,"2011-07-25 16:37:15"
+Sumatra,NULL,P,"00° 00' 00" S; 102° 00' 00" E",0,102,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Sumatra ISL",2,2,"2011-07-25 16:37:26"
+Surabaya,NULL,SL,NULL,-7.24,112.75,Indonesia,NULL,NULL,NULL,NULL,Eurasia,0,NULL,NULL,NULL,"Acmemapper 2.0;Surabaya,Indonesia",2,2,"2011-07-25 16:37:37"
+SURINAM,NULL,N,"04° 00' 00" N; 056° 00' 00" W",4,-56,Surinam,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Dutch Guyana; Geonames:  Surinam PCLI",2,4,"2012-06-14 21:38:19"
+"Suzuka Mountains",NULL,SL,"34° 45' 00" N; 136° 20' 00" E",34.75,136.33,Japan,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames:  Suzuka, code MTS (mountains)",2,2,"2011-07-25 16:38:37"
+"SW Madagascar",NULL,O,NULL,-23.2533,44.3666,Madagascar,,,,NULL,NULL,,NULL,NULL,NULL,"Arbitrary coordinates in the SW of Madagascar",3,3,"2020-01-21 19:09:48"
+Swoyambhu,NULL,SL,NULL,27.7,85.3,Nepal,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"Temple group; Acmemapper2.0;swoyambhu,nepal",2,2,"2020-01-14 21:13:09"
+Tabasco,NULL,P,,18,-92.6667,Mexico,Tabasco,,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2021-04-19 14:39:12"
+Tacheng,NULL,SL,"27° 36' N; 99° 18' E",27.6,99.3,China,Yunnan,Xeixi,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,1,"2020-01-21 19:15:19"
+"Tai National Park",NULL,SL,"05° 45' 00" N; 007° 05' 00" W",5.75,-7.08,"Côte d'Ivoire",NULL,NULL,NULL,NULL,Africa,"Tai National Park",0,0,NULL,"; Geonames: Tai (Park)",2,2,"2020-02-05 17:30:21"
+Taipei,NULL,P,"24° 50' 00" N; 121° 35' 00" E",24.83,121.58,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"map in reference; Geonames: Taipei Hsien",2,2,"2011-07-25 16:39:18"
+Taiping,NULL,SL,"04° 51' 00" N; 100° 44' 00" E",4.85,100.73,Malaysia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Taiping PPL",2,2,"2011-07-25 16:39:29"
+Taitong,NULL,P,"23° 58' 00" N; 121° 26' 00" E",23.97,121.43,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"map in reference; Geonames: Taitung Hsien",2,2,"2011-07-25 16:39:48"
+TAIWAN,NULL,N,"23° 30' N; 122° 20' E",23.5,122.33,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Rand McNally Atlas (couldn't bring up in Geonames)",2,2,"2011-07-25 16:39:55"
+Takagoyama,NULL,SL,NULL,35.6,140.1,Japan,Chiba,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Takagoyama,chiba",2,2,"2020-01-21 19:30:04"
+Takasaki-yama,NULL,SL,"33° 15' 00" N; 131° 32' 00" E",33.25,131.53,Japan,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"Oita Prefecture; Geonames: Takasaki-yama MT, matched up with info on Oita Prefecture from web, and Rand McNally",2,3,"2011-07-25 16:42:02"
+Tambu,NULL,SL,NULL,-0.048,119.88,Indonesia,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Figure 1 of Gotoh et al. 2001",1,1,"2020-01-21 20:03:44"
+"Tampobata Research Center",NULL,SL,NULL,-12.7,-69.2,Peru,"Madre de Dios",NULL,NULL,NULL,NULL,NULL,NULL,2400,28,"Acmemapper 2.0;Tambopata research centre",2,2,"2020-01-21 20:03:57"
+"Tana River",NULL,SL,"01° 52' 09" S; 040° 08' 47" E",-1.869,40.1464,Kenya,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Tana River, used "Tana River Primate National Reserve" RESN",2,2,"2011-07-25 16:42:21"
+"Tanah Intan",NULL,SL,"3° 20' S; 115° 02' E",-3.33,115.03,Indonesia,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"Banjar Regency, South Kalimantan, sometimes mentioned as rubber plantation; not in Geonames; taken from primary refs",1,2,"2011-07-25 16:42:35"
+"Tanjung Putting",NULL,SL,"03° 23' 00" S; 112° 33' 00" E",-3.38,112.55,Indonesia,NULL,NULL,NULL,NULL,Eurasia,2,0,0,NULL,"Southern Kalimantan, Indonesian-Borneo; not in Geonames, used nearby city of Kumai, matched up to Rand McNally map",2,2,"2011-07-25 16:42:55"
+Tanosy,NULL,SL,NULL,-21.4,44.2,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Tanosy;madagascar:Acmemapper 2.0",2,2,"2020-01-21 20:04:13"
+TANZANIA,NULL,N,"06° 00' 00" S; 035° 00' 00" E",-6,35,Tanzania,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Tanganyika, =same as Tanzania",2,4,"2011-07-25 16:43:21"
+Tapacura,NULL,SL,"07° 59' 00" S; 035° 05' 00" W",-7.98,-35.08,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"State of Pernambuco, NE Brazil; Geonames:  Tapacura STM",2,2,"2011-07-25 16:43:59"
+Tarabanan,NULL,SL,"10° 00' 13" N; 119° 00' 57" E",10,119,Philippines,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"Palawan, 73 km N Puerto Princessa, "Tarabanan Conce" concession?; Geonames: Tarabanan PPL",2,2,"2011-07-25 16:44:16"
+Tarangire,NULL,SL,NULL,-4,36,Tanzania,,,,NULL,NULL,"Tarangire National Park",NULL,NULL,NULL,"Geonames: Tarangire National Park, Tanzania",1,3,"2020-01-21 20:05:19"
+Tempisque,NULL,O,NULL,10.4,-85.333,"Costa Rica",NULL,NULL,NULL,NULL,NULL,"Tempisque Conservation Area",NULL,NULL,NULL,"Geonames: Valle de Tempisque (covers some of the large area)",2,3,"2020-01-21 20:08:30"
+Tete,NULL,P,"15° 30' 00" S; 33° 00' 00" E",-16.17,33.6,Mozambique,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Tete District; Geonames: Tete Province/District ADM1:Tete,mozambique;Acmemapper 2.0",2,2,"2011-07-25 16:44:21"
+THAILAND,NULL,N,"15° 00' 00" N; 100° 00' 00" E",15,100,Thailand,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames:  Thailand PCLI",2,4,"2011-07-25 16:44:32"
+Thika,NULL,SL,"01° 05' 00" S; 037° 05' 00" E",-1.08,37.08,Kenya,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Thika District ADMD",2,2,"2011-07-25 16:45:35"
+Tilarán,NULL,SL,NULL,10.4588,-84.975,"Costa Rica",Guanacaste,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Location name given by Zeledón et al. 1957 as referenced by Stuart et al. 1998",1,2,"2021-04-20 20:30:10"
+Tinde,NULL,SL,"03° 53' 00" S; 033° 12' 00" E",-3.88,33.2,Tanzania,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  Tinde PPL",2,2,"2011-07-25 16:45:46"
+Tiwai,NULL,SL,"7° 33' N; 11° 21' W",7.55,-11.35,"Sierra Leone",NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; from source",1,1,"2011-07-25 16:45:51"
+"TK field site",NULL,SL,NULL,6.8,9.9,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See figure 2",2,2,"2020-01-21 20:17:21"
+Tocantins,NULL,SL,"4 49' S; 49 49' W",-4.81,-49.81,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"75 km from Tocurui; information on locality taken from source, note that 75 km from Tucurui",2,2,"2011-07-25 16:46:01"
+"Tokai (JT troop)",NULL,O,NULL,-34.0536,18.3846,"South Africa","Western Cape",NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Geonames: Tokai State Forest",2,3,"2020-01-21 20:20:51"
+"Tokai (MT1 troop)",NULL,O,NULL,-34.0536,18.3846,"South Africa","Western Cape",NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Geonames: Tokai State Forest",2,3,"2020-01-21 20:21:24"
+Toledo,NULL,P,NULL,16.3333,-88.8667,Belize,,Toledo,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Toledo District, Belize",2,2,"2020-01-21 20:25:37"
+"Tome Island",NULL,SL,"01° 00' 00" N; 007° 00' 00" E",1,7,"Sao Tome",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"INTRODUCTION; Geonames: Sao Tome PCL1, paper suggests "island of Sao Tome", so probably not the locality in Angola",2,3,"2012-06-14 21:36:26"
+Torit,NULL,P,NULL,4.41177,32.5705,"South Sudan",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Torit, South Sudan",2,2,"2020-01-13 19:48:11"
+Tormento,NULL,SL,NULL,18.6526,-90.6467,Mexico,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Figure 1 in ROVIROSA-HERNA?NDEZ et al. 2013.",2,1,"2020-01-21 20:31:02"
+Tororo,NULL,SL,"00° 41' 42" N; 034° 11' 09" E",0.69,34.18,Uganda,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Tororo PPL",2,2,"2011-07-25 16:47:39"
+Toubakouta,NULL,SL,"13° 46' 00" N; 016° 28' 00" W",13.76,-16.46,Senegal,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  used first of 6 provided; all within 1°",2,2,"2011-07-25 16:48:18"
+Toubaunta,NULL,P,"13 N; 12 30' E",13,12.5,Senegal,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"SE Senegal; not in Geonames, estimated as SE Senegal in Rand McNally",3,2,"2011-07-25 16:48:56"
+Transvaal,NULL,P,"25° 00' 00" S; 029° 45' 00" E",-25,29.75,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  used average of values for Eastern Transvaal Province and Northern Transvaal Province, both ADM1",3,2,"2011-07-25 16:49:10"
+TRINIDAD,NULL,N,"11° 00' 00" N; 061° 00' 00" W",11,-61,Trinidad,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames:  Trinidad and Tobago PCLI",2,3,"2012-06-14 21:36:30"
+"Tsaobis Leopard Park",NULL,SL,NULL,-22.55,15.74,Namibia,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,NULL,1,1,"2020-01-21 20:32:40"
+Tshuapa-Lomami-Lualaba,NULL,O,NULL,-2.68437,25.213,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"From http://www.bonoboincongo.com/maps/",1,3,"2020-01-21 20:40:47"
+Tsimanampetsotsa,NULL,SL,"24° 05' 16.8" S; 43° 45' 14.9" E",-24.08,43.75,Madagascar,NULL,NULL,NULL,NULL,Africa,0,38,0,NULL,"Strict Natural Reserve; from primary ref, Dutton et al. 2003",1,1,"2011-07-25 16:53:01"
+Tsinjoarivo,NULL,SL,NULL,-15.7,47.1,Madagascar,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Tsinjoarivo forest,madagascar",1,2,"2020-01-13 21:41:00"
+"Tsinjoarivo fragment",NULL,SL,NULL,-19.688,47.774,Madagascar,,Ambatolampy,,NULL,NULL,,NULL,NULL,NULL,,1,2,"2020-01-14 21:15:03"
+Tsiombokibo,NULL,SL,NULL,-18.9,47.5,Madagascar,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper;Tsiombokibo,madagascar",2,2,"2020-01-21 20:41:05"
+Tuanan,NULL,NULL,,NULL,NULL,Indonesia,Kalimantan,"Central Kalimantan",,NULL,NULL,Mawas,NULL,NULL,NULL,,,,"2020-10-28 19:20:37"
+Tucurui,NULL,P,NULL,-3.7,-49.7,Brazil,Para,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,2,"2020-01-21 20:42:37"
+Tuinfontein,NULL,SL,"24° 45' S; 30° 10' E",-30.16,24.75,"South Africa",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"District of Petrusville, Northern Cape Province; from primary ref:switched the latitude and longitude co-ordinates as confirmation with Acme mapper(tuinfontein,district of petrusville ,sout Africa) suggests that in the co-ordinate values from the primary reference long co-ordinate was recorded as lat co-ordinate and vice versa ",2,2,"2011-07-25 16:54:12"
+"Tulear (Toliara)",NULL,SL,"23° 21' 00" S; 043° 40' 00" E",-23.35,43.66,Madagascar,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"aka Toliara; Geonames: Tulear PPLA, aka Toliara",2,2,"2020-01-21 20:42:04"
+Turabah,NULL,SL,"21° 13' 02" N; 041° 38' 08" E",21.21,41.63,"Saudi Arabia",NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; Geonames: Turabah PPL",2,2,"2011-07-25 16:54:34"
+Tweefontein,NULL,SL,"25° 05' S; 30° 47' E",-25.08,30.78,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Tweefontein Forest Reserve; from source",2,2,"2011-07-25 16:54:40"
+"UB field site",NULL,SL,NULL,3.4,22.2,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 20:42:55"
+"Udzungwa ",NULL,O,NULL,-7.75086,36.6957,Tanzania,,,,NULL,NULL,"Udzungwa National Park",NULL,NULL,NULL,"Geonames: Udzungwa Mountains National Park, Tanzania",1,3,"2020-01-21 20:44:17"
+Ugago,NULL,SL,NULL,-8.39,34.68,Tanzania,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,";Acmemapper 2.0;Ugago,Tanzania",2,2,"2020-01-14 21:13:17"
+"Ugalla-Tongwe Forest Reserve ",NULL,O,NULL,-6.16667,32,Tanzania,NULL,NULL,NULL,NULL,NULL,"Ugalla River Forest Reserve ",NULL,NULL,NULL,"Geonames: Ugalla River Forest Reserve ",1,2,"2020-01-21 20:46:57"
+UGANDA,NULL,N,"02° 00'00" N; 033° 00' 00" E",2,33,Uganda,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Uganda, republic of",2,4,"2012-06-14 21:30:13"
+Ulavi,NULL,SL,"14° 10' 00" N; 075° 02' 00" E",14.16,75.03,India,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"CN used Ulavi as locality based on maps 1-9; Geonames:  Sagar PPL, matched to approx coordinates map in Goverdhan et al. 1974",2,2,"2011-07-25 16:55:20"
+"Umfolosi Game Reserve",NULL,SL,NULL,-28.3049,31.741,"South Africa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Geonames: Umfolozi Game Reserve",1,2,"2020-01-13 19:45:32"
+Una,NULL,SL,,-15.3,-39.1,Brazil,Bahia,,Una,NULL,SouthAmerica,"Una Biological Reserve",NULL,NULL,NULL,"Acmemapper 2.0;Una,Bahia",2,2,"2020-01-22 01:47:44"
+Uniao,NULL,O,NULL,-22.53,-42,Brazil,"Rio de Janeiro","Rio das Ostras, Casimiro de Abreu",NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"Acmemapper 2.0;UniaoRio das ostras",2,2,"2020-01-21 20:49:50"
+UNKNOWN,NULL,O,NULL,NULL,NULL,N/A,NULL,NULL,NULL,NULL,NULL,0,0,0,NULL,"unstated locality; not relevant",-,NULL,"2020-01-14 21:13:25"
+"Upper Rock",NULL,O,NULL,36.1,-5.36,Gibraltar,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;upper rock,Gibraltar",2,2,"2020-01-21 20:51:23"
+Utinga,NULL,SL,"01° 27' 00" S; 048° 29' 00" W",-1.45,-48.48,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"in Para province, near Belem; Geonames:  Belem",2,2,"2011-07-25 16:56:00"
+"Uttar Pradesh",NULL,P,"28° 00' 00" N; 080° 00' 00" E",28,80,India,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,""most lived in proximity to man"; ",2,3,"2011-07-25 19:27:32"
+Utu,NULL,P,"01° 24' 00" S; 027° 49' 00" E",-1.4,27.82,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"Kivu Province of Congo Republic; Geonames: Utu STM, close to Kivu Province",2,2,"2019-12-03 18:59:06"
+Uxpanapa,NULL,SL,NULL,17.275,-94.4259,Mexico,Veracruz,NULL,NULL,NULL,SouthAmerica,NULL,NULL,NULL,NULL,"See Figure 1 and Geonames: Uxpanapa, Mexico",2,2,"2019-12-11 19:05:23"
+Valparai,NULL,SL,NULL,10.383,77.02,India,NULL,"Anamalai Hills",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"from Figure 3 in Hussain et al. 2013",1,1,"2020-01-21 20:52:06"
+"Van Long",NULL,SL,NULL,10.5,106.4,Vietnam,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Van Long,Vietnam",2,2,"2016-01-26 15:57:47"
+Venda,NULL,SL,"22° 58' 00" S; 030° 35' 00" E",-22.96,30.58,"South Africa",NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames: Vendaland, confirmed by almanac "NE Traansvaal"",2,2,"2011-07-25 16:56:59"
+VENEZUELA,NULL,N,"08° 00' 00" N; 066° 00' 00" W",8,-66,Venezuela,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames: Venezuela PCLI",2,4,"2011-07-25 16:57:12"
+Vicosa,NULL,SL,"20° 45' 14.00" S , 42° 52' 54.98" W",-20.7539,-42.8817,Brazil,"Minas Gerais",,,NULL,SouthAmerica,,NULL,NULL,NULL,,1,1,"2020-01-21 20:52:43"
+"Vila Coutinho",NULL,SL,"14° 34' 28" S; 034° 18' 22" E",-14.57,34.3,Zimbabwe,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Vila Coutinho PPL (Native)",2,2,"2011-07-25 16:57:34"
+"Vila Gianetti",NULL,SL,NULL,-20.75,-42.867,Brazil,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"Reference:  de Oliveira Tavela et al. 2013",1,2,"2020-01-21 20:54:57"
+Villaro,NULL,SL,NULL,4.15,-73.6417,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"Geonames: Villavo (Villavicencio)",3,2,"2020-01-21 21:01:18"
+Villavicencio,NULL,SL,"04° 09' 12" N; 073° 38' 06" W",4.15,-73.63,Colombia,NULL,NULL,NULL,NULL,SouthAmerica,1,0,0,NULL,"; Geonames: Villavicencio PPL, used first one, which is closest to Amazonian forest",2,2,"2019-12-03 19:03:45"
+Virunga,NULL,O,NULL,0.91667,29.1667,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,NULL,"Virguna National Park",NULL,NULL,NULL,"Geonames: Virunga National Park",1,3,"2020-01-21 21:05:38"
+"VM field site",NULL,SL,NULL,6.4,11.8,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 19:29:43"
+"Volcanoes National Park",NULL,O,NULL,-1.48,29.53,Rwanda,,,,NULL,NULL,,NULL,NULL,NULL,,1,3,"2020-01-14 21:14:57"
+"WA field site",NULL,SL,NULL,0.1,27,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 19:21:01"
+Wakinosawa,NULL,P,NULL,39.03,141.7,Japan,Aomori,Shimokita,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0;Wakinosawa,Japan",2,2,"2020-01-21 19:26:02"
+Walikale,NULL,SL,"1° 25' 46.92'' S, 28° 4' 27.12'' E",-1.4297,28.0742,"Democratic Republic of Congo","North Kivu",,,NULL,NULL,,NULL,NULL,NULL,,1,1,"2020-01-21 19:26:19"
+Wamba,NULL,SL,"00° 11' N; 22° 28' E",0.18,22.46,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,2,0,0,NULL,"; too many and varied entries on Geonames; used Jim Moore's site http://weber.ucsd.edu/~jmoore/apesites/Wamba/Wamba.html",2,2,"2019-12-03 18:59:45"
+Wanie-Rukula,NULL,SL,,0.19432,25.5291,"Democratic Republic of Congo",Tshopo,,,NULL,NULL,,NULL,NULL,NULL,"Geonames: Wanie-Rukula",1,2,"2020-01-24 20:11:40"
+Wayanad,NULL,P,NULL,11.7033,76.0839,India,Kerala,,,NULL,NULL,,NULL,NULL,NULL,"Google maps: Wayand, Kerala, India",2,3,"2020-01-21 19:28:47"
+"WB field site",NULL,SL,NULL,1.3,29.1,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 19:29:01"
+"WE field site",NULL,SL,NULL,4.5,11.8,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 19:29:05"
+"West and East Africa",NULL,O,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Too wide a region covering many countries",NULL,NULL,"2020-01-21 19:29:24"
+"Western Cape",NULL,P,"34° 00' 00" S; 020° 00' 00" E",-34,20,"South Africa",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames:  Western Cape Province (ADM1)",2,3,"2011-07-25 16:58:49"
+"Wildcliff Nature Reserve",NULL,SL,"33°57' S, 21°2'E",-33.95,21.0333,"South Africa",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,3,"2020-01-21 19:25:35"
+Winterskloof,NULL,P,NULL,-33.5,23.6,"South Africa",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper 2.0;winterskloof",2,2,"2020-01-21 19:21:48"
+"WK field site",NULL,SL,NULL,-1,29.1,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 19:21:23"
+"WL field site",NULL,SL,NULL,-2.1,24.8,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 19:21:20"
+Wollega,NULL,P,"09° 20' 00" N; 036° 06' 00" E",9.33,36.1,Ethiopia,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Nekemte (Wollega province name changed according to Ethiopian embassy web page); used LCTY (locality), probably reflecting the flux of borders in this chaotic region",2,2,"2011-07-25 16:59:22"
+"Wondo Genet",NULL,SL,"06° 36' 00" N; 038° 25' 00" E",6.6,38.41,Ethiopia,NULL,NULL,NULL,NULL,Africa,0,1800,0,NULL,"270 km to south of Addis Ababa; aka Wendo, Wando, Uondo; Geonames: Wendo",2,2,"2011-07-25 16:59:35"
+Wu-Lai,NULL,SL,"24° 52' 00" N; 121° 33' 00" E",24.86,121.55,Taiwan,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"; Geonames: Wu-Lai PPL",2,2,"2011-07-25 16:59:58"
+Xingu,NULL,P,"07° 30 00" S; 052° 12' 00" W",-7.5,-52.2,Brazil,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"this is a river system covering about 600 miles, just south of Altamira near Belem; used Geonames to idenfity longitude for Altimira, north of study area, and approximated latitude based on center of upper levels of Xingu River on a globe",3,2,"2011-07-25 17:00:17"
+Yakushima,NULL,SL,NULL,34.1,134.6,Japan,NULL,NULL,NULL,NULL,Eurasia,NULL,NULL,NULL,NULL,"Acmemapper 2.0.Yakushima",2,2,"2020-01-21 19:20:21"
+Yanayacu,NULL,P,"05° 00' 00" S; 075° 00' 00" W",-5,-75,Peru,NULL,NULL,NULL,NULL,SouthAmerica,0,0,0,NULL,"; Geonames:  Loreto ADM1, impossible to determine which Yanayacu referred to, so used province information",3,3,"2011-07-25 17:01:03"
+Yaounde,NULL,SL,"03° 52' 00" N; 011° 31' 00" E",3.86,11.51,Cameroon,NULL,NULL,NULL,NULL,Africa,1,0,0,NULL,"; Geonames:  Younde PPLC",2,3,"2011-07-25 17:01:30"
+"YB field site",NULL,SL,NULL,4.6,10.9,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 19:20:31"
+Yemba,NULL,SL,"05° 01' 00" S; 025° 27' 00" E",-5.01,25.45,"Democratic Republic of Congo",NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"aka Djima, Mayumbe region; Geonames: Yemba PPL",2,2,"2019-12-03 18:59:50"
+"Yunnan, China",NULL,P,"25° 00' 00" N; 102° 00' 00" E",25,102,China,NULL,NULL,NULL,NULL,Eurasia,0,0,0,NULL,"Yunnan Province; Geonames: Yunnan Province ADM1",2,3,"2011-07-25 17:02:02"
+"Yunnan, India",NULL,SL,"20° 00' 00" N; 77° E",20,77,India,NULL,NULL,NULL,NULL,Eurasia,1,0,0,NULL,"; not in Geonames, used India",2,4,"2011-07-25 17:02:15"
+"YW field site",NULL,SL,NULL,5.4,8.9,Cameroon,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"See Figure 1",2,2,"2020-01-21 19:20:34"
+ZAMBIA,NULL,N,NULL,-13.2,27.9,Zambia,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,"Acmemapper2.0;Zambia,zambia",2,4,"2020-01-14 21:32:16"
+Zanzibar,NULL,P,"06° 10' 00" S; 039° 20' 00" E",-6.167,39.33,Tanzania,NULL,NULL,NULL,NULL,Africa,0,0,0,NULL,"; Geonames: Zanzibar ISL",2,2,"2011-07-25 17:02:47"
+"Zanzibar and Pemba",NULL,O,NULL,-6.167,39.33,Tanzania,NULL,NULL,NULL,NULL,Africa,NULL,NULL,NULL,NULL,NULL,3,4,"2020-01-14 21:33:47"
+ZIMBABWE,NULL,N,"19° 00' 00" S; 029° 00' 00" E",-19,29,Zimbabwe,,,,NULL,Africa,0,0,0,NULL,"Rhodesia; Geonames: Zimbabwe
+",2,4,"2011-07-25 23:27:59"
+Zinkwazi,NULL,SL,,-29.2775,31.4399,"South Africa",KwaZulu-Natal,,,NULL,NULL,,NULL,NULL,NULL,"(Gaetano et al. 2014) Zinkwazi Lagoon Lodge",1,1,"2020-08-23 22:02:35"
