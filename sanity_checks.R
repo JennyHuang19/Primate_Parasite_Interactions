@@ -53,9 +53,10 @@ mean(obs_A2[obs_F2 == 1])  # 0.0312
 # Prevalence predicted by the model:
 
 # posterior probability of interaction by averaging across posterior samples:
-# pred_ours from 5a.
-mean(pred_ours) # 0.898
-mean(pred_ours[comb_F == 1]) # 0.887. posterior probability of interaction that were the focus of some study.
+# mean(pred_ours) # (Obs set to 0) 0.898
+# mean(pred_ours[comb_F == 1]) # (Obs set to 0) 0.887. posterior probability of interaction that were the focus of some study.
+mean(pred_ours) # (Obs set to 1/2) 0.167
+mean(pred_ours[comb_F == 1]) # (Obs set to 1/2) 0.110
 
 # we need pairs that were ever studied in the same study.
 # The combined network:

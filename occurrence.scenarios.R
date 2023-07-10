@@ -50,6 +50,11 @@ dimnames(obs_OP2.3) <- list(uni_parasites, uni_studies_lst)
 # A: HABITAT.
 # (may 28th: most primates belong to the forest)
 # sum(all_X2$habitat1 == "forest") # 93
+
+### June 1st 
+traits_and_studies$study_habitats <- NA
+# View(traits_and_studies)
+# ---
 for (ss in 1 : nS) {
   # this study
   wh_study <- uni_studies_lst[ss]
@@ -66,20 +71,30 @@ for (ss in 1 : nS) {
   # get the habitat of the study.
   wh_hab <- unique(unlist(these_habitats)) 
   
+  ### June 1st
+  traits_and_studies$study_habitats[traits_and_studies$Citation == wh_study] <- list(wh_hab)
+  # ---
   ## find all the primates Present in habitat:
   these_primates <- list()
   for (hbt in wh_hab){
     these_primates <- append(these_primates, all_X2$HostCorrectedName[all_X2$habitat1 %in% wh_hab]) # sum(all_X2$habitat_category %in% wh_hab) >= 1. all_X2$habitat_category %in% wh_hab (list of T/F -> one T/F if present)
     these_primates <- append(these_primates, all_X2$HostCorrectedName[all_X2$habitat2 %in% wh_hab])
     these_primates <- append(these_primates, all_X2$HostCorrectedName[all_X2$habitat3 %in% wh_hab])
+    
+    these_parasites <- append(these_parasites, traits_and_studies$ParasiteCorrectedName[traits_and_studies$study_habitats %in% wh_hab])
     }
   wh_primates <- which(uni_primates %in% these_primates)
 
   obs_OB2.1[wh_primates, ss] <- 0.25 # indicator for primate in habitat. 
   obs_OB2.2[wh_primates, ss] <- 0.35
   obs_OB2.3[wh_primates, ss] <- 0.20
+  
+  
 }
 # A2. REALM.
+### June 1st
+traits_and_studies$study_realm <- NA
+# ---
 for (ss in 1 : nS) {
   # this study
   wh_study <- uni_studies_lst[ss]
@@ -94,14 +109,22 @@ for (ss in 1 : nS) {
     }
   # get the realm of the study.
   wh_realm <- unique(unlist(these_realms))
+  ### June 1st - creating new study_realm column in traits_and_studies
+  # traits_and_studies$study_realm[traits_and_studies$Citation == wh_study] <- wh_realm
+  # ---
   ## find all the primates present in realm:
-  these_primates <- all_X2$HostCorrectedName[all_X2$realm %in% wh_realm]
+  these_primates <- all_X2$HostCorrectedName[all_X2$realm %in% list(wh_realm)]
   wh_primates <- which(uni_primates %in% these_primates)
+  
+  ## find all parasites
+  these_parasites <- traits_and_studies$ParasiteCorrectedName[traits_and_studies$study_realm == wh_realm]
+  wh_parasites <- which(uni_parasites %in% these_parasites)
 
   obs_OB2.1[wh_primates, ss] <- 0.5 # indicator for primate in realm 
   obs_OB2.2[wh_primates, ss] <- 0.65
   obs_OB2.3[wh_primates, ss] <- 0.5
 }
+
 # B. LOCATION.
 for (ss in 1 : nS) {
   # this study
@@ -143,7 +166,7 @@ for (ss in 1 : nS) {
 count_OP2 <- table(obs_OP2.1) # view proportions of every category.
 count_OP2
 # 0.25  0.85     1 
-# 32946   552   571
+# 32946   552   571 # 571 parasites studied. 552 additional parasites at locations.
 count_OP2.2 <- table(obs_OP2.2) # view proportions of every category.
 count_OP2.2
 # 0.25  0.85     1 
@@ -163,7 +186,8 @@ count_OB2.2
 count_OB2.3 <- table(obs_OB2.3) 
 count_OB2.3
 # 0   0.2   0.5  0.75     1 
-# 466 13709  5434   244   328 
+# 466 13709  5434   244   328
+
 ### save files..
 if (save_files) {
   save(obs_OB2.1, file = paste0(data_path, 'obs_OB2.1.dat'))
@@ -175,6 +199,34 @@ if (save_files) {
   save(obs_OB2.3, file = paste0(data_path, 'obs_OB2.3.dat'))
   save(obs_OP2.3, file = paste0(data_path, 'obs_OP2.3.dat'))
 }
+# ---
+
+# Bar plot
+# 0.25  0.85     1 
+# 32946   552   571
+ps <- data.frame(
+  group = c("None", "Location", "Study"),
+  value = c(32946, 552, 571)
+)
+
+# Create the bar plot
+ggplot(ps, aes(x = group, y = value)) +
+  geom_bar(stat = "identity", fill = "black") +
+  geom_text(aes(label=value), vjust=-0.3, size=6) +
+  theme_minimal() +
+  labs(x = "Occurrence", y = "Count", title = "Parasite Occurrences", size=8)
+
+mk <- data.frame(
+  group = c("None", "Habitat", "Realm", "Location", "Study"),
+  value = c(466, 13709, 5434, 244, 328)
+) 
+
+# Create the bar plot
+ggplot(mk, aes(x = group, y = value)) +
+  geom_bar(stat = "identity", fill = "black") +
+  geom_text(aes(label=value), vjust=-0.3, size=6) +
+  theme_minimal() +
+  labs(x = "Occurrence", y = "Count", title = "Primate Occurrences")
 # ---
 
 ### OLD CODE.
