@@ -1,0 +1,700 @@
+,parasite,parasite_type,transmission_type,life_cycle
+0,Deltaretrovirus sp.,Virus,Sexual_Vertical_CloseT,Direct
+1,Lentivirus Simian immunodeficiency virus,Virus,Sexual_Vertical_CloseT,Direct
+2,Orthopoxvirus monkeypox,Virus,CloseT,Direct
+3,Paracoroptes allenopitheci,Arthropod,CloseT,Direct
+4,Alouattamyia baeri,Arthropod,Nonclose,Direct
+5,Alphavirus Mayaro virus,Virus,Vector,Indirect
+6,Ascaris elongata,Helminth,Nonclose,Direct
+7,Cebidicola sp.,Arthropod,CloseT,Direct
+8,Flavivirus Yellow Fever,Virus,Vector,Indirect
+9,Mathevotaenia megastoma,Helminth,Intermediate,Indirect
+10,Plasmodium brasilianum,Protozoa,Vector,Indirect
+11,Pseudomonas sp.,Bacteria,,Direct_Indirect
+12,Trypanosoma minasense,Protozoa,Vector,Indirect
+13,Trypanosoma mycetae,Protozoa,Vector,Indirect
+14,Amblyomma sp.,Arthropod,Nonclose,Direct_Indirect
+15,Ancylostoma quadridentata,Helminth,Nonclose,Direct
+16,Ascaris lumbricoides,Helminth,Nonclose,Direct
+17,Balantidium aragaoi,Protozoa,CloseT_Nonclose,Direct
+18,Bertiella mucronata,Helminth,Intermediate,Indirect
+19,Cebalges gaudi,Arthropod,CloseT_Nonclose,
+20,Cebidicola semiarmatus,Arthropod,CloseT,Direct
+21,Chilomastix sp.,Protozoa,,Direct
+22,Dipetalonema gracile,Helminth,Vector,Indirect
+23,Entamoeba sp.,Protozoa,,Direct
+24,Flavivirus St. Louis encephalitis,Virus,Vector,Indirect
+25,Giardia intestinalis,Protozoa,Nonclose,Direct
+26,Longistriata dubia,Helminth,Nonclose,Direct
+27,Moniezia rugosa,Helminth,Intermediate,Indirect
+28,Mycoplasma sp.,Bacteria,,
+29,Orthobunyavirus Caraparu orthobunyavirus,Virus,Vector,Indirect
+30,Pediculus mjobergi,Arthropod,CloseT,Direct
+31,Plasmodium falciparum,Protozoa,Vector,Indirect
+32,Plasmodium vivax,Protozoa,Vector,Indirect
+33,Raillietina demerariensis,Helminth,Intermediate,Indirect
+34,Retortamonas intestinalis,Protozoa,CloseT_Nonclose,Direct
+35,Strongyloides sp.,Helminth,Nonclose,Direct_Indirect
+36,Toxoplasma gondii,Protozoa,Intermediate,Indirect
+37,Trichomonas sp.,Protozoa,,Direct
+38,Trypanosoma cruzi,Protozoa,Vector,Indirect
+39,Trypanoxyuris callithricis,Helminth,CloseT_Nonclose,Direct
+40,Trypanoxyuris minutus,Helminth,CloseT_Nonclose,Direct
+41,Amblyomma sculptum,Arthropod,Nonclose,Direct_Indirect
+42,Parabronema bonnei,Helminth,Vector,Indirect
+43,Plasmodium simium,Protozoa,Vector,Indirect
+44,Trichuris dispar,Helminth,Nonclose,Direct
+45,Trypanosoma hippicum,Protozoa,Vector,Indirect
+46,Trypanosoma venezuelense,Protozoa,Vector,Indirect
+47,Balantidium sp.,Protozoa,,Direct
+48,Blastocystis sp.,Protozoa,,Direct
+49,Capillaria sp.,Helminth,Nonclose_Intermediate,Direct_Indirect
+50,Chromobacterium violaceum,Bacteria,Nonclose,Direct
+51,Controrchis biliophilus,Helminth,Intermediate,Indirect
+52,Cyclospora sp.,Protozoa,,Direct
+53,Dermatobia hominis,Arthropod,Nonclose,Direct
+54,Entamoeba coli,Protozoa,CloseT_Nonclose,Direct
+55,Enterobius sp.,Helminth,CloseT_Nonclose,Direct
+56,Giardia sp.,Protozoa,Nonclose,Direct
+57,Iodamoeba sp.,Protozoa,,Direct
+58,Isospora arctopitheci,Protozoa,Nonclose,Direct
+59,Leishmania mexicana,Protozoa,Vector,Indirect
+60,Listrocarpus alouattae,Arthropod,Vertical_CloseT,Direct
+61,Mansonella marmosetae,Helminth,Vector,Indirect
+62,Prosthenorchis elegans,Helminth,Intermediate,Indirect
+63,Retortamonas sp.,Protozoa,,Direct
+64,Salmonella enterica,Bacteria,CloseT_Nonclose,Direct
+65,Alouattalges corbeti,Arthropod,CloseT,Direct
+66,Amblyomma cajennense,Arthropod,Nonclose,Direct_Indirect
+67,Blastocystis hominis,Protozoa,CloseT_Nonclose,Direct
+68,Cebidicola extrarius,Arthropod,CloseT,Direct
+69,Chilomastix mesnili,Protozoa,CloseT_Nonclose,Direct
+70,Cochliomyia hominivorax,Arthropod,Vector,Indirect
+71,Enteromonas sp.,Protozoa,Nonclose,Direct
+72,Filariopsis usper,Helminth,Intermediate,Indirect
+73,Iodamoeba butschlii,Protozoa,CloseT_Nonclose,Direct
+74,Mansonella sp.,Helminth,Vector,Indirect
+75,Orthobunyavirus Bunyamwera orthobunyavirus,Virus,Vector,Indirect
+76,Orthobunyavirus Simbu orthobunyavirus,Virus,Vector,Indirect
+77,Physaloptera dilatata,Helminth,Intermediate,Indirect
+78,Spirura sp.,Helminth,Intermediate,Indirect
+79,Trichostrongylus sp.,Helminth,Nonclose,Direct
+80,Trichuris trichiura,Helminth,Nonclose,Direct
+81,Trypanosoma lambrechti,Protozoa,Vector,Indirect
+82,Trypanoxyuris kemuimae,Helminth,CloseT_Nonclose,Direct
+83,Trypanoxyuris kotudoi,Helminth,CloseT_Nonclose,Direct
+84,Trypanoxyuris seunimiii,Helminth,CloseT_Nonclose,Direct
+85,Ascaris sp.,Helminth,Nonclose,Direct
+86,Isospora sp.,Protozoa,,Direct
+87,Parabronema sp.,Helminth,Vector,Indirect
+88,Raillietina sp.,Helminth,Intermediate,Indirect
+89,Trichostrongyloidea sp.,Helminth,Nonclose,Direct
+90,Trichuris sp.,Helminth,Nonclose,Direct
+91,Aototrema dorsogenitalis,Helminth,,
+92,Athesmia heterolecithodes,Helminth,Intermediate,Indirect
+93,Endolimax nana,Protozoa,CloseT_Nonclose,Direct
+94,Hymenolepis diminuta,Helminth,Intermediate,Indirect
+95,Phaneropsolus orbicularis,Helminth,Intermediate,Indirect
+96,Primasubulura jacchi,Helminth,CloseT,Direct
+97,Taenia sp.,Helminth,Intermediate,Indirect
+98,Tetragynopus aotophilus,Arthropod,CloseT,Direct
+99,Tetrapetalonema nicollei,Helminth,Vector,Indirect
+100,Trypanoxyuris microon,Helminth,CloseT_Nonclose,Direct
+101,Uncinaria sp.,Helminth,Nonclose,Direct
+102,Cyclophyllidea sp.,Helminth,Intermediate,Indirect
+103,Dipetalonema barbascalensis,Helminth,Vector,Indirect
+104,Hepatovirus Hepatitis A,Virus,CloseT_Nonclose,Direct
+105,Protospirura muricola,Helminth,Intermediate,Indirect
+106,Schistosoma mansoni,Helminth,Intermediate,Indirect
+107,Trypanosoma brucei,Protozoa,Vector,Indirect
+108,Trypanosoma congolese,Protozoa,Vector,Indirect
+109,Leptospira sp.,Bacteria,,Direct
+110,Trypanoxyuris atelophora,Helminth,CloseT_Nonclose,Direct
+111,Mansonella atelensis,Helminth,Vector,Indirect
+112,Necator americanus,Helminth,Nonclose,Direct
+113,Trypanoxyuris sp.,Helminth,CloseT_Nonclose,Direct
+114,Strongyloides fuelleborni,Helminth,Nonclose,Direct_Indirect
+115,Trypanoxyuris atelis,Helminth,CloseT_Nonclose,Direct
+116,Alphavirus Eastern equine encephalitis virus,Virus,Vector,Indirect
+117,Balantidium coli,Protozoa,CloseT_Nonclose,Direct
+118,Dipetalonema caudispina,Helminth,Vector,Indirect
+119,Dipetalonema yatesi,Helminth,Vector,Indirect
+120,Histoplasma capsulatum,Fungus,Nonclose,Indirect
+121,Leptospira interrogans,Bacteria,Nonclose,Direct
+122,Trypanosoma advieri,Protozoa,Vector,Indirect
+123,Trypanosoma lesourdi,Protozoa,Vector,Indirect
+124,Dipetalonema petteri,Helminth,Vector,Indirect
+125,Enterococcus sp.,Bacteria,Nonclose,Direct
+126,Haemaphysalis lemuris,Arthropod,Nonclose,Direct
+127,Lemurostrongylus sp.,Helminth,Nonclose,Direct
+128,Liponysella madagascariensis,Arthropod,CloseT_Nonclose,Direct
+129,Norovirus sp.,Virus,CloseT_Nonclose,Direct
+130,Pararhabdonema longistriata,Helminth,Nonclose,Direct
+131,Phtirpediculus avahidis,Arthropod,,
+132,Staphylococcus sp.,Bacteria,,Direct
+133,Trichophilopterus babakotophilus,Arthropod,CloseT,Direct
+134,Cebidicola armatus,Arthropod,CloseT,Direct
+135,Entamoeba hartmanni,Protozoa,CloseT_Nonclose,Direct
+136,Graphidiodes berlai,Helminth,Intermediate,Indirect
+137,Strongyloides cebus,Helminth,Nonclose,Direct_Indirect
+138,Trypanoxyuris brachytelesi,Helminth,CloseT_Nonclose,Direct
+139,Bunostomum sp.,Helminth,Nonclose,Direct
+140,Linguatula leptocephalus,Arthropod,CloseT_Nonclose_Intermediate,Indirect
+141,Trypanosoma devei,Protozoa,Vector,Indirect
+142,Trypanosoma rangeli,Protozoa,Vector,Indirect
+143,Trypanoxyuris callicebi,Helminth,CloseT_Nonclose,Direct
+144,Trypanoxyuris croizati,Helminth,CloseT_Nonclose,Direct
+145,Isospora endocallimici,Protozoa,Nonclose,Direct
+146,Platynosomum amazonensis,Helminth,Intermediate,Indirect
+147,Sparganum sp.,Helminth,Intermediate,Indirect
+148,Strigea sp.,Helminth,Intermediate,Indirect
+149,Trypanoxyuris goeldii,Helminth,CloseT_Nonclose,Direct
+150,Armillifer sp.,Arthropod,Nonclose_Intermediate,Indirect
+151,Athesmia foxi,Helminth,Intermediate,Indirect
+152,Filariopsis barretoi,Helminth,Intermediate,Indirect
+153,Fonsecalges johnjadini,Arthropod,CloseT,Direct
+154,Leipertrema foxi,Helminth,Intermediate,Indirect
+155,Molineus vexillarius,Helminth,Nonclose,Direct
+156,Oncicola spirula,Helminth,Intermediate,Indirect
+157,Sarcocystis elegans,Protozoa,Nonclose,Direct
+158,Trichospirura leptostoma,Helminth,Vector,Indirect
+159,Filariopsis cebuellaa,Helminth,Intermediate,Indirect
+160,Cebalgoides cebi,Arthropod,,
+161,Dipetalonema obtusa,Helminth,Vector,Indirect
+162,Hymenolepis sp.,Helminth,Intermediate,Indirect
+163,Isospora cebi,Protozoa,Nonclose,Direct
+164,Trypanoxyuris clementinae,Helminth,CloseT_Nonclose,Direct
+165,Filariopsis arator,Helminth,Intermediate,Indirect
+166,Leishmania shawi,Protozoa,Vector,Indirect
+167,Lyssavirus Rabies lyssavirus,Virus,CloseT,Direct
+168,Molineus torulosus,Helminth,Nonclose,Direct
+169,Trypanosoma diasi,Protozoa,Vector,Indirect
+170,Listrocarpus capuchinus,Arthropod,Vertical_CloseT,Direct
+171,Mansonella panamensis,Helminth,Vector,Indirect
+172,Mansonella parvum,Helminth,Vector,Indirect
+173,Oxyuroidea sp.,Helminth,CloseT_Nonclose,
+174,Physaloptera cebi,Helminth,Intermediate,Indirect
+175,Alphavirus Semliki forest virus,Virus,Vector,Indirect
+176,Deltaretrovirus Primate T-lymphotropic virus 3,Virus,Sexual_Vertical_CloseT,Direct
+177,Dientamoeba fragilis,Protozoa,CloseT_Nonclose,Direct
+178,Entamoeba histolytica,Protozoa,CloseT_Nonclose,Direct
+179,Ixodes rasus,Arthropod,Nonclose,Direct_Indirect
+180,Oesophagostomum sp.,Helminth,Nonclose,Direct
+181,Physaloptera sp.,Helminth,Intermediate,Indirect
+182,Plasmodium georgesi,Protozoa,Vector,Indirect
+183,Plasmodium gonderi,Protozoa,Vector,Indirect
+184,Plasmodium petersi,Protozoa,Vector,Indirect
+185,Staphylococcus aureus,Bacteria,Vertical_CloseT_Nonclose,Direct
+186,Babesia pitheci,Protozoa,Vector,Indirect
+187,Hepatocystis kochi,Protozoa,Vector,Indirect
+188,Anoplocephala sp.,Helminth,Intermediate,Indirect
+189,Ascaridia galli,Helminth,Nonclose,Direct
+190,Bertiella sp.,Helminth,Intermediate,Indirect
+191,Cercogylus africanus,Helminth,Intermediate,Indirect
+192,Deltaretrovirus Primate T-lymphotropic virus 1,Virus,Sexual_Vertical_CloseT,Direct
+193,Deltaretrovirus Primate T-lymphotropic virus 2,Virus,Sexual_Vertical_CloseT,Direct
+194,Dicrocoelium sp.,Helminth,Intermediate,Indirect
+195,Encephalitozoon hellem,Fungus,,Direct
+196,Heterakis sp.,Helminth,Intermediate,Indirect
+197,Pentatrichomonas hominis,Protozoa,Nonclose,Direct
+198,Streptopharagus sp.,Helminth,Intermediate,Indirect
+199,Toxascaris sp.,Helminth,Nonclose,Direct
+200,Toxocara sp.,Helminth,Vertical_Nonclose,Direct
+201,Anatrichosoma ixyos,Helminth,Nonclose,Direct
+202,Ancylostoma sp.,Helminth,Nonclose,Direct
+203,Armillifer armillatus,Arthropod,Nonclose_Intermediate,Indirect
+204,Brodenia serrata,Helminth,Intermediate,Indirect
+205,Cytomegalovirus sp.,Virus,Sexual_Vertical_CloseT,Direct
+206,Paragonimus africanus,Helminth,Intermediate,Indirect
+207,Strongyloides stercoralis,Helminth,Nonclose,Direct_Indirect
+208,Subulura sp.,Helminth,Intermediate,Indirect
+209,Ternidens sp.,Helminth,,
+210,Alphavirus Chikungunya virus,Virus,Vector,Indirect
+211,Amblyomma hebraeum,Arthropod,Nonclose,Direct_Indirect
+212,Anatrichosoma sp.,Helminth,Nonclose,Direct
+213,Arterivirus Drakensberg Mountain vervet virus,Virus,,
+214,Arterivirus Zambian Malbrouck 1,Virus,,
+215,Bertiella studeri,Helminth,Intermediate,Indirect
+216,Borrelia harveyi,Bacteria,Vector,Indirect
+217,Cardiovirus Cardiovirus A,Virus,CloseT_Nonclose,Direct
+218,Cercopithifilaria verveti,Helminth,Vector,Indirect
+219,Chlamydia sp.,Bacteria,,Direct_Indirect
+220,Cryptosporidium sp.,Protozoa,CloseT_Nonclose,Direct
+221,Cyclospora cercopitheci,Protozoa,CloseT_Nonclose,Direct
+222,Dirofilaria aethiops,Helminth,Vector,Indirect
+223,Enterobius bipapillatus,Helminth,CloseT_Nonclose,Direct
+224,Entopolypoides macaci,Protozoa,Vector,Indirect
+225,Fasciola sp.,Helminth,Intermediate,Indirect
+226,Hepatocystis cercopitheci,Protozoa,Vector,Indirect
+227,Hyostrongylus sp.,Helminth,Nonclose,Direct
+228,Loa loa,Helminth,Vector,Indirect
+229,Metastrongylus sp.,Helminth,Intermediate,Indirect
+230,Necator sp.,Helminth,Nonclose,Direct
+231,Oesophagostomum bifurcum,Helminth,Nonclose,Direct
+232,Orbivirus Orungo virus,Virus,Vector,Indirect
+233,Pegivirus simian vervet,Virus,Sexual_CloseT,
+234,Polyomavirus Simian agent virus 12,Virus,CloseT,Direct
+235,Primasubulura sp.,Helminth,CloseT,Direct
+236,Prosarcoptes pitheci,Arthropod,CloseT_Nonclose,Direct
+237,Psorergates cercopitheci,Arthropod,CloseT,Direct
+238,Rhipicephalus appendiculatus,Arthropod,Nonclose,Direct_Indirect
+239,Rhipicephalus sanguineus,Arthropod,Nonclose,Direct_Indirect
+240,Rickettsia conori,Bacteria,Vector,Indirect
+241,Schistosoma haematobium,Helminth,Intermediate,Indirect
+242,Schistosoma mattheei,Helminth,Intermediate,Indirect
+243,Setaria sp.,Helminth,Vector,Indirect
+244,Spirurida sp.,Helminth,Intermediate,Indirect
+245,Spumavirus Simian foamy virus,Virus,Sexual_Vertical_CloseT,Direct
+246,Streptopharagus pigmentatus,Helminth,Intermediate,Indirect
+247,Subulura distans,Helminth,Intermediate,Direct_Indirect
+248,Ternidens deminutus,Helminth,,
+249,Treponema pallidum,Bacteria,Sexual_CloseT,Direct
+250,,,,
+251,Arterivirus Simian hemorrhagic fever virus,Virus,CloseT_Nonclose,Direct
+252,Chitwoodspirura sp.,Helminth,Intermediate,Indirect
+253,Flavivirus Uganda S,Virus,Vector,Indirect
+254,Mesocestoides sp.,Helminth,Intermediate,Indirect
+255,Orthobunyavirus Bwamba orthobunyavirus,Virus,Vector,Indirect
+256,Trypanosoma primatum,Protozoa,Vector,Indirect
+257,Dirofilaria corynodes,Helminth,Vector,Indirect
+258,Hepatocystis bovillezi,Protozoa,Vector,Indirect
+259,Encephalitozoon intestinalis,Fungus,Vertical_Nonclose,Direct
+260,Haemaphysalis sp.,Arthropod,Nonclose,Direct_Indirect
+261,Ixodes sp.,Arthropod,Nonclose,Direct_Indirect
+262,Trypanosoma vivax,Protozoa,Vector,Indirect
+263,Entamoeba chattoni,Protozoa,CloseT_Nonclose,Direct
+264,Enterobius vermicularis,Helminth,CloseT_Nonclose,Direct
+265,Gongylonema sp.,Helminth,Intermediate,Indirect
+266,Physaloptera caucasia,Helminth,Intermediate,Indirect
+267,Trichomonas intestinalis,Protozoa,CloseT,Direct
+268,Trichostrongylus axei,Helminth,Nonclose,Direct
+269,Trypanosoma sp.,Protozoa,Vector,Indirect
+270,Paracoroptes gordoni,Arthropod,CloseT,Direct
+271,Psorergates sp.,Arthropod,CloseT,Direct
+272,Cheirogalalges evansi,Arthropod,CloseT,Direct
+273,Lemuricola contagiosus,Helminth,CloseT_Nonclose,Direct
+274,Trichuris lemuris,Helminth,Nonclose,Direct
+275,Lemuricola sp.,Helminth,Nonclose,Direct
+276,Metagonimus sp.,Helminth,Intermediate,Indirect
+277,Opisthorchis sp.,Helminth,Intermediate,Indirect
+278,Spirura diplocyphos,Helminth,Intermediate,Indirect
+279,Strongylida sp.,Helminth,Nonclose,Direct
+280,Subulura baeri,Helminth,Intermediate,Indirect
+281,Trypanoxyuris satanas,Helminth,CloseT_Nonclose,Direct
+282,Colobenterobius colobis,Helminth,CloseT_Nonclose,Direct
+283,Dicrocoelium colobusicola,Helminth,Intermediate,Indirect
+284,Entamoeba dispar,Protozoa,CloseT_Nonclose,Direct
+285,Lymphocryptovirus sp.,Virus,,
+286,Mastadenovirus Piliocolobus badius adenovirus 1,Virus,,
+287,Paracoroptes piliocolobus,Arthropod,CloseT,Direct
+288,Rhadinovirus sp.,Virus,,
+289,Tawila tawila,Helminth,,
+290,Colobenterobius guerezae,Helminth,CloseT_Nonclose,Direct
+291,Colobenterobius paraguerezae,Helminth,CloseT_Nonclose,Direct
+292,Cyclospora colobi,Protozoa,CloseT_Nonclose,Direct
+293,Filaria sp.,Helminth,Vector,Indirect
+294,Hepatocystis sp.,Protozoa,Vector,Indirect
+295,Ixodes schillingeri,Arthropod,Nonclose,Direct_Indirect
+296,Macracanthorhynchus hirudinaceus,Helminth,Intermediate,Indirect
+297,Oesophagostomum stephanostomum,Helminth,Nonclose,Direct
+298,Colobostrongylus strongi,Helminth,,
+299,Dirofilaria schoutedeni,Helminth,Vector,Indirect
+300,Mastadenovirus sp.,Virus,CloseT_Nonclose,Direct
+301,Ascaris petiti,Helminth,Nonclose,Direct
+302,Daubentonialges brygooi,Arthropod,CloseT,Direct
+303,Lemuricola daubentoniae,Helminth,CloseT_Nonclose,Direct
+304,Mastophorus muris,Helminth,Intermediate,Indirect
+305,Amblyomma variegatum,Arthropod,Nonclose,Direct_Indirect
+306,Galagalges congolensis,Arthropod,CloseT,Direct
+307,Galagocheles lawrencei,Arthropod,,
+308,Lemurnyssus galagoensis,Arthropod,,
+309,Lemurphthirus galagus,Arthropod,CloseT,Direct
+310,Lemurphthirus stigmosus,Arthropod,CloseT,Direct
+311,Primasubulura otolicini,Helminth,CloseT,Direct
+312,Notoedres galagoensis,Arthropod,CloseT,Direct
+313,Trypanosoma irangiense,Protozoa,Vector,Indirect
+314,Trypanosoma perodictici,Protozoa,Vector,Indirect
+315,Achromobacter denitrificans,Bacteria,CloseT_Nonclose,
+316,Anoplocephala gorillae,Helminth,Intermediate,Indirect
+317,Bacillus anthracis,Bacteria,Nonclose,Indirect
+318,Campylobacter jejuni,Bacteria,CloseT_Nonclose,Direct
+319,Capillaria hepatica,Helminth,Nonclose_Intermediate,Direct
+320,Chabertia sp.,Helminth,Nonclose,Direct
+321,Chitwoodspirura wehri,Helminth,Intermediate,Indirect
+322,Cryptosporidium parvum,Protozoa,CloseT_Nonclose,Direct
+323,Deltaretrovirus Primate T-lymphotropic virus 4,Virus,Sexual_Vertical_CloseT,Direct
+324,Ebolavirus Zaire ebolavirus,Virus,CloseT,Direct
+325,Enterobius lerouxi,Helminth,Nonclose,Direct
+326,Enterocytozoon bieneusi,Fungus,CloseT_Nonclose,Direct
+327,Enterovirus sp.,Virus,CloseT_Nonclose,Direct
+328,Gorillophilus thoracatus,Protozoa,,
+329,Haemonchus sp.,Helminth,Nonclose,Direct
+330,Hyostrongylus kigeziensis,Helminth,Nonclose,Direct
+331,Impalaia sp.,Helminth,Nonclose,Direct
+332,Klebsiella pneumoniae,Bacteria,CloseT_Nonclose,Direct_Indirect
+333,Mammomonogamus sp.,Helminth,Nonclose_Intermediate,Indirect
+334,Mansonella gorillae,Helminth,Vector,Indirect
+335,Mansonella leopoldi,Helminth,Vector,Indirect
+336,Mansonella lopeensis,Helminth,Vector,Indirect
+337,Mansonella perstans,Helminth,Vector,Indirect
+338,Mansonella streptocercum,Helminth,Vector,Indirect
+339,Mansonella vanhoofi,Helminth,Vector,Indirect
+340,Mastadenovirus Human mastadenovirus B,Virus,,
+341,Mastadenovirus Human mastadenovirus C,Virus,Nonclose,
+342,Mastadenovirus Human mastadenovirus F,Virus,CloseT_Nonclose,Direct
+343,Metapneumovirus Human metapneumovirus,Virus,CloseT_Nonclose,Direct
+344,Microfilaria binucleata,Helminth,Vector,Indirect
+345,Moniezia sp.,Helminth,Intermediate,Indirect
+346,Morbillivirus Measles virus,Virus,CloseT,Direct
+347,Murshidia devians,Helminth,,
+348,Mycoplasma pneumoniae,Bacteria,CloseT,Direct
+349,Onchocerca volvulus,Helminth,Vector,Indirect
+350,Orthopneumovirus Human respiratory syncytial virus,Virus,CloseT,Direct
+351,Ostertagia sp.,Helminth,Nonclose,Direct
+352,Pangorillalges gorillae,Arthropod,,
+353,Paralibyostrongylus hebrenicutus,Helminth,CloseT_Nonclose,Direct
+354,Paralibyostrongylus kalinae,Helminth,Nonclose,Direct
+355,Phthirus gorillae,Arthropod,CloseT,Direct
+356,Picobirnavirus sp.,Virus,Nonclose,Direct
+357,Picornaviridae sp.,Virus,,
+358,Plasmodium adleri,Protozoa,Vector,Indirect
+359,Plasmodium blacklocki,Protozoa,Vector,Indirect
+360,Plasmodium malariae,Protozoa,Vector,Indirect
+361,Plasmodium praefalciparum,Protozoa,Vector,Indirect
+362,Plasmodium reichenowi,Protozoa,Vector,Indirect
+363,Plasmodium schwetzi,Protozoa,Vector,Indirect
+364,Pneumonyssus sp.,Arthropod,CloseT,Direct
+365,Probstmayria gabonensis,Helminth,Nonclose,Direct
+366,Probstmayria goodallae,Helminth,Nonclose,Direct
+367,Probstmayria gorillae,Helminth,Nonclose,Direct
+368,Prototapirella gorillae,Protozoa,,
+369,Providencia sp.,Bacteria,,
+370,Rotavirus rotavirus A,Virus,CloseT_Nonclose,Direct
+371,Salmonella sp.,Bacteria,CloseT_Nonclose,Direct
+372,Sarcoptes scabiei,Arthropod,CloseT_Nonclose,Direct
+373,Schistosoma sp.,Helminth,Intermediate,Indirect
+374,Shigella boydii,Bacteria,Vector_CloseT_Nonclose,Direct
+375,Shigella flexerni,Bacteria,Vector_CloseT_Nonclose,Direct
+376,Shigella sonnei,Bacteria,Vector_CloseT_Nonclose,Direct
+377,Simplexvirus Human alphaherpesvirus 1,Virus,Sexual_Vertical_CloseT,Direct
+378,Simplexvirus Human alphaherpesvirus 2,Virus,Sexual_Vertical_CloseT,Direct
+379,Streptococcus pneumoniae,Bacteria,CloseT,Direct
+380,Trichostrongylus colubriformis,Helminth,Nonclose,Direct
+381,Tunga penetrans,Arthropod,Nonclose,Direct
+382,Lemuralges intermedius,Arthropod,CloseT,Direct
+383,Lemurostrongylus residuus,Helminth,Nonclose,Direct
+384,Plasmodium sp.,Protozoa,Vector,Indirect
+385,Protofilaria furcata,Helminth,Vector,Indirect
+386,Lemuricola bauchoti,Helminth,Nonclose,Direct
+387,Sandnema digitatum,Helminth,Vector,Indirect
+388,Dicrocoeliidae sp.,Helminth,Intermediate,
+389,Orthohepadnavirus Hepatitis B virus,Virus,Sexual_CloseT,Direct
+390,Plasmodium eylesi,Protozoa,Vector,Indirect
+391,Plasmodium hylobati,Protozoa,Vector,Indirect
+392,Plasmodium jefferyi,Protozoa,Vector,Indirect
+393,Plasmodium youngi,Protozoa,Vector,Indirect
+394,Oesophagostomum aculeatum,Helminth,Nonclose,Direct
+395,Bacillus sp.,Bacteria,,Indirect
+396,Callistoura blanci,Helminth,Nonclose,Direct
+397,Callistoura brygooi,Helminth,Nonclose,Direct
+398,Courduriella courduriera,Helminth,Intermediate,Indirect
+399,Escherichia coli,Bacteria,CloseT_Nonclose,Direct_Indirect
+400,Ixodes lemuris,Arthropod,CloseT_Nonclose,Direct
+401,Pantoea agglomerans,Bacteria,Nonclose,Direct
+402,Strongylus sp.,Helminth,Nonclose,Direct
+403,Acinetobacter lwoffii,Bacteria,Nonclose,Direct
+404,Citrobacter sp.,Bacteria,Vertical_Nonclose,Direct
+405,Enterobacter sp.,Bacteria,CloseT_Nonclose,Direct
+406,Lemuralges sp.,Arthropod,CloseT,Direct
+407,Listrophoroides sp.,Arthropod,CloseT,Direct
+408,Micrococcus sp.,Bacteria,Vertical_Nonclose,Direct_Indirect
+409,Pseudomonas aeruginosa,Bacteria,CloseT_Nonclose,Direct_Indirect
+410,Gaudalges caparti,Arthropod,CloseT,Direct
+411,Colobenterobius inglisi,Helminth,CloseT_Nonclose,Direct
+412,Enterobacter amnigenus,Bacteria,CloseT_Nonclose,Direct
+413,Gaudalges haymani,Arthropod,CloseT,Direct
+414,Hepatocystis foleyi,Protozoa,Vector,Indirect
+415,Lactobacillus sp.,Bacteria,Vertical,Direct
+416,Lemuricola baltazardi,Helminth,Nonclose,Direct
+417,Lemuricola lemuris,Helminth,CloseT_Nonclose,Direct
+418,Lemuricola vauceli,Helminth,CloseT_Nonclose,Direct
+419,Plasmodium girardi,Protozoa,Vector,Indirect
+420,Rotavirus sp.,Virus,CloseT_Nonclose,Direct
+421,Bacillus cereus,Bacteria,Nonclose,Indirect
+422,Callistoura sp.,Helminth,Nonclose,Direct
+423,Lemuricola nana,Helminth,Nonclose,Direct
+424,Psoroptes sp.,Arthropod,CloseT_Nonclose,Direct
+425,Streptococcus sp.,Bacteria,CloseT,Direct
+426,Thysanotaenia lemuris,Helminth,Intermediate,Indirect
+427,Toxoplasma sp.,Protozoa,Intermediate,Indirect
+428,Euschoengastia sp.,Arthropod,Nonclose,Direct
+429,Microtrombicula brennani,Arthropod,CloseT_Nonclose,Direct
+430,Oncicola sp.,Helminth,Intermediate,Indirect
+431,Oxyuridae sp.,Helminth,CloseT_Nonclose,
+432,Prosthenorchis sp.,Helminth,Intermediate,Indirect
+433,Rhyncoptes anastosi,Arthropod,CloseT,Direct
+434,Speleocola tamarina,Arthropod,CloseT_Nonclose,Direct
+435,Aetholaelaps trilyssa,Arthropod,CloseT,Direct
+436,Lemuricola inglisi,Helminth,Nonclose,Direct
+437,Makialges lepilemuri,Arthropod,CloseT,Direct
+438,Makialges lobatus,Arthropod,CloseT,Direct
+439,Ornithodoros sp.,Arthropod,Nonclose,Direct_Indirect
+440,Paulianfilaria pauliana,Helminth,Vector,Indirect
+441,Influenzavirus A Influenza A virus,Virus,CloseT,Direct
+442,Dirofilaria macacae,Helminth,Vector,Indirect
+443,Plasmodium inui,Protozoa,Vector,Indirect
+444,Enterobius macaci,Helminth,CloseT_Nonclose,Direct
+445,Hepatocystis taiwanensis,Protozoa,Vector,Indirect
+446,Macacanema formosana,Helminth,Vector,Indirect
+447,Paragonimus westermani,Helminth,Intermediate,Indirect
+448,Plasmodium cynomolgi,Protozoa,Vector,Indirect
+449,Taenia hydatigena,Helminth,Intermediate,Indirect
+450,Trypanosoma conorhini,Protozoa,Vector,Indirect
+451,Alaria sp.,Helminth,Vertical_Intermediate,Indirect
+452,Anatrichosoma cynamolgi,Helminth,Nonclose,Direct
+453,Ancylostoma duodenale,Helminth,Nonclose,Direct
+454,Boophilus annulatus,Arthropod,Nonclose,Direct
+455,Brugia malayi,Helminth,Vector,Indirect
+456,Clonorchis sp.,Helminth,Intermediate,Indirect
+457,Dirofilaria magnilarvatum,Helminth,Vector,Indirect
+458,Endolimax sp.,Protozoa,,Direct
+459,Globocephalus sp.,Helminth,Nonclose,Direct
+460,Hepatocystis semnopitheci,Protozoa,Vector,Indirect
+461,Human gammaherpesvirus 4,Virus,CloseT,Direct
+462,Nochtia nochti,Helminth,Nonclose,Direct
+463,Ornithodoros talaje,Arthropod,Nonclose,Direct_Indirect
+464,Orthobunyavirus Bakau orthobunyavirus,Virus,Vector,Indirect
+465,Plasmodium coatneyi,Protozoa,Vector,Indirect
+466,Plasmodium fieldi,Protozoa,Vector,Indirect
+467,Plasmodium knowlesi,Protozoa,Vector,Indirect
+468,Pneumocystis carinii,Fungus,CloseT,Direct
+469,Trypanosoma cyclops,Protozoa,Vector,Indirect
+470,Varicellovirus Cercopithecine alphaherpesvirus 9,Virus,CloseT,Direct
+471,Coxiella burnetti,Bacteria,Vector_CloseT_Nonclose,Direct_Indirect
+472,Gongylonema macrogubernaculum,Helminth,Intermediate,Indirect
+473,Gongylonema pulchrum,Helminth,Intermediate,Indirect
+474,Haemaphysalis longicornis,Arthropod,Nonclose,Direct
+475,Paragonimus pulmonalis,Helminth,Intermediate,Indirect
+476,Pedicinus eurygaster,Arthropod,CloseT,Direct
+477,Pedicinus obtusus,Arthropod,CloseT,Direct
+478,Cyclospora cayetanensis,Protozoa,Nonclose,Direct
+479,Cytomegalovirus Macacine betaherpesvirus 3,Virus,Sexual_Vertical_CloseT,Direct
+480,Enterovirus Enterovirus C,Virus,CloseT_Nonclose,Direct
+481,Flavivirus Japanese encephalitis,Virus,Vector,Indirect
+482,Polyomavirus Simian agent virus 40,Virus,Vertical_CloseT,Direct
+483,Reovirus sp.,Virus,CloseT,Direct
+484,Respirovirus Human parainfluenza virus 1,Virus,CloseT,Direct
+485,Respirovirus Human parainfluenza virus 3,Virus,CloseT,Direct
+486,Rubulavirus Human parainfluenza virus 2,Virus,CloseT,Direct
+487,Rubulavirus Parainfluenza virus 5,Virus,CloseT,Direct
+488,Schistosoma japonicum,Helminth,Vertical_Intermediate,Indirect
+489,Shigella sp.,Bacteria,Vector_CloseT,Direct
+490,Simplexvirus Cercopithecine herpesvirus 1,Virus,Sexual_CloseT,Direct
+491,Flavivirus Tick-borne encephalitis virus,Virus,Vector,Indirect
+492,Plasmodium fragile,Protozoa,Vector,Indirect
+493,Cotylophoron sp.,Helminth,Nonclose_Intermediate,Indirect
+494,Diphyllobothrium sp.,Helminth,Intermediate,Indirect
+495,Dipylidium caninum,Helminth,Intermediate,Indirect
+496,Babesia cellii,Protozoa,Vector,Indirect
+497,Flavivirus Dengue virus,Virus,Vector,Indirect
+498,Flavivirus West Nile Virus,Virus,Vector,Indirect
+499,Orthobunyavirus California encephalitis orthobunyavirus,Virus,Vector,Indirect
+500,Plasmodium simiovale,Protozoa,Vector,Indirect
+501,Vesiculovirus New Jersey vesiculovirus,Virus,Vector,Indirect
+502,Trichophyton simii,Fungus,CloseT,Direct
+503,Eutrombicula sp.,Arthropod,Nonclose,Direct
+504,Watsonius sp.,Helminth,Intermediate,Indirect
+505,Pneumonyssus africanus,Arthropod,CloseT,Direct
+506,Sarcoptes sp.,Arthropod,CloseT_Nonclose,Direct
+507,Haemaphysalis microcebi,Arthropod,Nonclose,Direct
+508,Haemaphysalis simplex,Arthropod,Nonclose,Direct
+509,Lemuricola microcebi,Helminth,CloseT_Nonclose,Direct
+510,Lemurpediculus madagascariensis,Arthropod,,
+511,Ophryocotyle buecki,Helminth,,
+512,Rictularia lemuri,Helminth,Intermediate,Indirect
+513,Schoutedenichia microcebi,Arthropod,,
+514,Trichosomoides sp.,Helminth,Nonclose,Direct
+515,Zonorchis microcebi,Helminth,,
+516,Dirofilaria immitis,Helminth,Vector,Indirect
+517,Eimeria sp.,Protozoa,Nonclose,Direct
+518,Hymenolepis nana,Helminth,Intermediate,Indirect
+519,Lemurpediculus verruculosus,Arthropod,CloseT,Direct
+520,Euparadistomum cercopitheci,Helminth,Intermediate,Indirect
+521,Meningonema peruzzii,Helminth,Vector,Indirect
+522,Paracoroptes miopithecus,Arthropod,CloseT,Direct
+523,Brugia pahangi,Helminth,Vector,Indirect
+524,Eimeria pachylepyron,Protozoa,Nonclose,Direct
+525,Lemuricola nycticebi,Helminth,CloseT_Nonclose,Direct
+526,Pterygodermatites nycticebi,Helminth,Intermediate,Indirect
+527,Spirura aurangabadensis,Helminth,Intermediate,Indirect
+528,Contracaecum rodhaini,Helminth,Intermediate,Indirect
+529,Galagocheles lemuricola,Arthropod,,
+530,Haemaphysalis leachi,Arthropod,Nonclose,Direct
+531,Rhipicephalus simus,Arthropod,Nonclose,Direct_Indirect
+532,Capillaria brochieri,Helminth,Nonclose_Intermediate,Indirect
+533,Enterobius anthropopitheci,Helminth,CloseT_Nonclose,Direct
+534,Mansonella rodhaini,Helminth,Vector,Indirect
+535,Mastadenovirus Human mastadenovirus E,Virus,,
+536,Pediculus schaeffi,Arthropod,CloseT,Direct
+537,Plasmodium gaboni,Protozoa,Vector,Indirect
+538,Plasmodium lomamiensis,Protozoa,Vector,Indirect
+539,Alphatorquevirus sp.,Virus,Sexual_Vertical_CloseT_Nonclose,Direct
+540,Betacoronavirus 1,Virus,Nonclose,Direct
+541,Clostridium perfringens,Bacteria,Nonclose,Direct
+542,Cooperia sp.,Helminth,Nonclose,Direct
+543,Dirofilaria sp.,Helminth,Vector,Indirect
+544,Ebolavirus Tai Forest ebolavirus,Virus,CloseT,Direct
+545,Entomophthora coronata,Fungus,Nonclose,Indirect
+546,Flavivirus Zika,Virus,Vector,Indirect
+547,Mastadenovirus Human mastadenovirus A,Virus,,
+548,Mastadenovirus Human mastadenovirus D,Virus,Sexual_CloseT,
+549,Mastadenovirus Simian adenovirus A,Virus,,
+550,Mycobacterium tuberculosis,Bacteria,CloseT_Nonclose,Direct
+551,Necator congolensis,Helminth,Nonclose,Direct
+552,Pangorillalges pani,Arthropod,,
+553,Pasteurella multocida,Bacteria,CloseT_Nonclose,Direct
+554,Probstmayria gombensis,Helminth,CloseT_Nonclose,Direct
+555,Rhadinovirus Human gammaherpesvirus 8,Virus,CloseT,Direct
+556,Streptococcus pyogenes,Bacteria,CloseT,Direct
+557,Troglocorys cava,Protozoa,,
+558,Brodenia laciniata,Helminth,Intermediate,Indirect
+559,Cercopithifilaria eberhardi,Helminth,Vector,Indirect
+560,Cercopithifilaria kenyensis,Helminth,Vector,Indirect
+561,Cercopithifilaria narokensis,Helminth,Vector,Indirect
+562,Cyclospora papionis,Protozoa,CloseT_Nonclose,Direct
+563,Dipetalonema sp.,Helminth,Vector,Indirect
+564,Entamoeba polecki,Protozoa,CloseT_Nonclose,Direct
+565,Hepatocystis simiae,Protozoa,Vector,Indirect
+566,Molineus sp.,Helminth,Nonclose,Direct
+567,Mycobacterium bovis,Bacteria,CloseT_Nonclose,Direct_Indirect
+568,Nephridiacanthus sp.,Helminth,Intermediate,Indirect
+569,Oxyuris sp.,Helminth,CloseT_Nonclose,Direct
+570,Papiine betaherpesvirus sp.,Virus,,
+571,Pedicinus hamadryas,Arthropod,CloseT,Direct
+572,Pneumonyssus congoensis,Arthropod,CloseT,Direct
+573,Pneumonyssus dinolti,Arthropod,CloseT,Direct
+574,Pneumonyssus mossambicensis,Arthropod,CloseT,Direct
+575,Pneumonyssus santos-diasi,Arthropod,CloseT,Direct
+576,Rhipicephalus pravus,Arthropod,Nonclose,Direct_Indirect
+577,Rhipicephalus pulchellus,Arthropod,Nonclose,Direct_Indirect
+578,Simplexvirus Papiine alphaherpesvirus 2,Virus,,
+579,Streptopharagus armatus,Helminth,Intermediate,Indirect
+580,Streptopharagus baylisi,Helminth,Intermediate,Indirect
+581,Trombiculidae sp.,Arthropod,Nonclose,Indirect
+582,Acanthocephalus sp.,Helminth,Intermediate,Indirect
+583,Babesia equi,Protozoa,Vector,Indirect
+584,Babesia microti,Protozoa,Vector,Indirect
+585,Bacillus mycoides,Bacteria,Nonclose,Indirect
+586,Ctenocephalides canis,Arthropod,CloseT_Nonclose,Direct
+587,Enterobacter aerogenes,Bacteria,CloseT_Nonclose,Direct_Indirect
+588,Enterobius brevicauda,Helminth,CloseT_Nonclose,Direct
+589,Enterovirus Enterovirus B,Virus,CloseT_Nonclose,Direct
+590,Hyalomma truncatum,Arthropod,,Direct_Indirect
+591,Ixodes cavipalpus,Arthropod,Nonclose,Direct_Indirect
+592,Klebsiella sp.,Bacteria,,Direct_Indirect
+593,Mossuril hapavirus,Virus,CloseT,Direct
+594,Neisseria sp.,Bacteria,,Direct
+595,Pasteurella sp.,Bacteria,CloseT,Direct
+596,Physaloptera mordens,Helminth,Intermediate,Indirect
+597,Porocephalus sp.,Arthropod,Intermediate,Indirect
+598,Streptopharagus bifurcum,Helminth,Intermediate,Indirect
+599,Watsonius deschiensi,Helminth,Intermediate,Indirect
+600,Mastadenovirus Papio hamadryas adenovirus 1,Virus,,
+601,Physaloptera multipapillata,Helminth,Intermediate,Indirect
+602,Trichostrongylus subtilis,Helminth,Nonclose,Direct
+603,Ctenocephalides felis,Arthropod,CloseT_Nonclose,Direct
+604,Flavivirus Bouboui,Virus,Vector,Indirect
+605,Oesophagostomum maurum,Helminth,Nonclose,Direct
+606,Oesophagostomum pachycephalum,Helminth,Nonclose,Direct
+607,Protospirura sp.,Helminth,Intermediate,Indirect
+608,Treponema sp.,Bacteria,Sexual_CloseT,Direct
+609,Cercopithifilaria degraaffi,Helminth,Vector,Indirect
+610,Chlamydonema tumefaciens,Helminth,Intermediate,Indirect
+611,Isospora papionis,Protozoa,Nonclose,Direct
+612,Mansonella papionis,Helminth,Vector,Indirect
+613,Pneumonyssus vocalis,Arthropod,CloseT,Direct
+614,Rhinophaga elongata,Arthropod,CloseT,Direct
+615,Rhinophaga papionis,Arthropod,CloseT,Direct
+616,Rhipicephalus evertsi,Arthropod,Nonclose,Direct_Indirect
+617,Rhipicephalus gertrudae,Arthropod,Nonclose,Direct_Indirect
+618,Sarcocystis sp.,Protozoa,Nonclose,Direct
+619,Taenia crocutae,Helminth,Intermediate,Indirect
+620,Trichostrongylus falculatus,Helminth,Nonclose,Direct
+621,Babesia sp.,Protozoa,,Indirect
+622,Phaneropsolus perodictici,Helminth,Intermediate,Indirect
+623,Trypanoxyuris trypanuris,Helminth,CloseT_Nonclose,Direct
+624,Amblyomma longirostre,Arthropod,Nonclose,Direct_Indirect
+625,Alphavirus Sindbis virus,Virus,Vector,Indirect
+626,Enterobius buckleyi,Helminth,CloseT_Nonclose,Direct
+627,Flavivirus Tembusu,Virus,Vector,Indirect
+628,Leipertrema rewelli,Helminth,Intermediate,Indirect
+629,Lemuricola pongoi,Helminth,,
+630,Plasmodium pitheci,Protozoa,Vector,Indirect
+631,Rubulavirus Mumps virus,Virus,CloseT,Direct
+632,Trypanosoma evansi,Protozoa,Vector,Indirect
+633,Breinlia sp.,Helminth,Vector,Indirect
+634,Cardiofilaria darwisi,Helminth,Vector,Indirect
+635,Colobenterobius presbytis,Helminth,CloseT_Nonclose,Direct
+636,Gastrodiscoides sp.,Helminth,Intermediate,Indirect
+637,Parabertiella sp.,Helminth,Intermediate,Indirect
+638,Wuchereria bancrofti,Helminth,Vector,Indirect
+639,Wuchereria kalimantani,Helminth,Vector,Indirect
+640,Colobenterobius entellus,Helminth,CloseT_Nonclose,Direct
+641,Colobenterobius zakiri,Helminth,CloseT_Nonclose,Direct
+642,Colobenterobius longispiculum,Helminth,CloseT_Nonclose,Direct
+643,Colobenterobius pesteri,Helminth,CloseT_Nonclose,Direct
+644,Allobosca crassipes,Arthropod,,
+645,Gaudalges sp.,Arthropod,CloseT,Direct
+646,Lemuralges propithecus,Arthropod,CloseT,Direct
+647,Phtirpediculus propitheci,Arthropod,,
+648,Physocephalus sp.,Helminth,Intermediate,Indirect
+649,Babesia propitheci,Protozoa,Vector,Indirect
+650,Enterococcus faecalis,Bacteria,Nonclose,Direct
+651,Gaudalges propitheci,Arthropod,CloseT,Direct
+652,Lemuricola trichuroides,Helminth,CloseT_Nonclose,Direct
+653,Ogmocotyle sp.,Helminth,Intermediate,Indirect
+654,Enterobius callithricis,Helminth,Nonclose,Direct
+655,Hymenolepis cebidarum,Helminth,Intermediate,Indirect
+656,Mansonella mariae,Helminth,Vector,Indirect
+657,Molineus elegans,Helminth,Nonclose,Direct
+658,Neodiplostomum sp.,Helminth,Intermediate,Indirect
+659,Rictularia sp.,Helminth,Intermediate,Indirect
+660,Spirura guianensis,Helminth,Intermediate,Indirect
+661,Spirura marmosetae,Helminth,Intermediate,Indirect
+662,Trypanoxyuris oedipi,Helminth,CloseT_Nonclose,Direct
+663,Viannaia sp.,Helminth,,Direct
+664,Dipetalonema graciliformis,Helminth,Vector,Indirect
+665,Molineus midas,Helminth,Nonclose,Direct
+666,Rhopalopsyllus lugubris,Arthropod,CloseT,Direct
+667,Mansonella mystaxi,Helminth,Vector,Indirect
+668,Spirometra sp.,Helminth,Intermediate,Indirect
+669,Spirura delicata,Helminth,Intermediate,Indirect
+670,Hapaloxyuris tamarini,Helminth,Nonclose,Direct
+671,Mansonella tamarinae,Helminth,Vector,Indirect
+672,Neodiplostomum tamarini,Helminth,Intermediate,Indirect
+673,Platynosomum marmoseti,Helminth,Intermediate,Indirect
+674,Allodapa sp.,Helminth,Intermediate,Indirect
+675,Borrelia recurrentis,Bacteria,Vector,Indirect
+676,Flavivirus sp.,Virus,Vector,Indirect
+677,Leishmania braziliensis,Protozoa,Vector,Indirect
+678,Atriotaenia sp.,Helminth,Intermediate,Indirect
+679,Filaroides sp.,Helminth,Intermediate,Indirect
+680,Listrocarpus costaricensis,Arthropod,Vertical_CloseT,Direct
+681,Physaloptera multiuteri,Helminth,Intermediate,Indirect
+682,Trypanoxyuris sceleratus,Helminth,CloseT_Nonclose,Direct
+683,Filariopsis gordius,Helminth,Vector,Indirect
+684,Fonsecalges saimirii,Arthropod,CloseT,Direct
+685,Gongylonemoides saimirisi,Helminth,Intermediate,Indirect
+686,Isospora saimirae,Protozoa,Nonclose,Direct
+687,Mansonella colombiensis,Helminth,Vector,Indirect
+688,Mansonella peruviana,Helminth,Vector,Indirect
+689,Mansonella saimiri,Helminth,Vector,Indirect
+690,Microfilaria sp.,Helminth,Vector,Indirect
+691,Oochoristica megastoma,Helminth,Nonclose_Intermediate,Indirect
+692,Moniliformis tarsii,Helminth,Intermediate,Indirect
+693,Tarsubulura perarmata,Helminth,Nonclose_Intermediate,Indirect
+694,Taenia serialis,Helminth,Intermediate,Indirect
+695,Acinetobacter sp.,Bacteria,Nonclose,Direct
+696,Aeromonas hydrophila,Bacteria,Vector_Nonclose,Direct
+697,Escherichia vulneris,Bacteria,,
+698,Pseudomonas putida,Bacteria,Nonclose,Direct
