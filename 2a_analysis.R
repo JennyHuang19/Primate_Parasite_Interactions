@@ -14,6 +14,9 @@ source_path <- 'HelperScripts/'
 # ------ STEP 0: Some functions. --------- #
 # ------ STEP 0: Some libraries. --------- #
 setwd(wd_path)
+
+
+source(paste0(source_path, 'UpdOccur_function.R')) # (may 18th)
 source(paste0(source_path, 'UpdExtraVar_function.R'))
 source(paste0(source_path, 'UpdTraitCoef_function.R'))
 source(paste0(source_path, 'UpdLatFac_function.R'))
@@ -26,7 +29,8 @@ source(paste0(source_path, 'MCMC_function.R'))
 source(paste0(source_path, 'PredictInteractions_function.R'))
 source(paste0(source_path, 'GetPredLatFac_function.R'))
 source(paste0(source_path, 'GetPredWeights_function.R'))
-source(paste0(source_path, 'MCMC_function_trimResults.R'))
+source(paste0(source_path, 'MCMC_trim_new.R'))
+# source(paste0(source_path, 'MCMC_function_trimResults.R'))
 
 
 library(BayesLogit)
@@ -46,6 +50,8 @@ load(paste0(data_path, 'obs_F2.dat'))
 load(paste0(data_path, 'obs_OB2.dat'))
 load(paste0(data_path, 'obs_OP2.dat'))
 # load(paste0(data_path, 'birds_232.dat'))
+load(paste0(data_path, 'obs_OB2.2.dat'))
+load(paste0(data_path, 'obs_OP2.2.dat'))
 
 Cu <- Cu_phylo
 Cv <- Cv
@@ -65,9 +71,9 @@ nStudies <- dim(obs_A2)[3]
 bias_cor <- TRUE  # Performing bias correction.
 
 
-Nsims <- 1000
-burn <- 40000
-thin <- 40
+Nsims <- 500
+burn <- 10000
+thin <- 10 # 20 # 40
 
 use_H <- 10
 theta_inf <- 0.01
@@ -91,13 +97,12 @@ sampling <- NULL
 # --------------- STEP 2: MCMC. ----------------- #
 
 # We run 2 chains. We suggest that you run the following code in parallel instead.
-
 for (cc in 1 : 2) {  # Chain index:
   
   set.seed(cc)
   
   # Running the method:
-  mcmc <- MCMC_trimResults(obs_A = obs_A2, focus = obs_F2, occur_B = obs_OB2, occur_P = obs_OP2,
+  mcmc <- MCMC_trimResults(obs_A = obs_A2, focus = obs_F2, occur_B = obs_OB2.2, occur_P = obs_OP2.2,
                obs_X = obs_X2, obs_W = obs_W2, Cu = Cu, Cv = Cv,
                Nsims = Nsims, burn = burn, thin = thin,
                use_H = use_H, bias_cor = bias_cor,
@@ -109,28 +114,6 @@ for (cc in 1 : 2) {  # Chain index:
                prior_sigmasq = prior_sigmasq, start_values = start_values,
                sampling = sampling)
   
-  #### BUG1. # Resolved by adding a numeric column.
-  
-  #entries_X <- apply(obs_X2, 2, function(x) length(unique(x[!is.na(x)])))
-  #pB <- c(sum(entries_X > 2), sum(entries_X == 2))
-  
-  #entries_W <- apply(obs_W2, 2, function(x) length(unique(x[!is.na(x)])))
-  #pP <- c(sum(entries_W > 2), sum(entries_W == 2))
-  
-  # Reorder covariates error.
-  #entries_X[1 : pB[1]]
-  #entries_W[1 : pP[1]] #pP[1] = 0, so we are indexing [1:0].
-  ####
-  
-  ### Bug2. Error message if (class(mod_coef) == "numeric") { : the condition has length > 1
-  #this_beta <- matrix(rnorm(sum(pB) * (use_H + 1)), sum(pB), use_H + 1)
-  #mod_coef = this_beta[, - 1] 
-  #print(mod_coef)# print first appearance of mod_coef 
-  #print(class(mod_coef))
-  #if(class(mod_coef) == "numeric"){
-  #  print(TRUE)
-  #} # potential reason for error: class(mod_coef) outputs [1] "matrix" "array"
-  ####
   
   # Attaching the results:
   attach(mcmc)
@@ -139,18 +122,18 @@ for (cc in 1 : 2) {  # Chain index:
   # interaction indicators, the linear predictor of the interaction model,
   # and the probability we use when sampling the interaction indicators.
   # Studying MCMC() will clarify the three quantities.
-  # (5/8) all_pred <- abind::abind(pred_L = mcmc$Ls, probL = mcmc$mod_pL1s, pL1s = mcmc$pL1s, along = 2)
+  all_pred <- abind::abind(pred_L = mcmc$Ls, probL = mcmc$mod_pL1s, pL1s = mcmc$pL1s, along = 4)
   
   # Phylogenetic correlation parameter for bird and plant correlation matrices.
-  # (5/8) correlations <- cbind(U = rU, V = rV)
+  correlations <- cbind(U = rU, V = rV)
   
   # Combining the results we are interested in to a list and saving:
-  # (5/8) res <- list(all_pred = all_pred, correlations = correlations)
+  res <- list(all_pred = all_pred, correlations = correlations)
   ### trimmed.
-  res <- list(all_pred = mcmc$pL1s_mean)
+  # res <- list(all_pred = mcmc$pL1s_mean)
   ###
+  save(res, file = paste0(save_path, 'res.may29th_', cc, '.dat'))
   
-  save(res, file = paste0(save_path, 'res.may12.fixed.pi_', cc, '.dat'))
   
   rm(res)
   detach(mcmc)

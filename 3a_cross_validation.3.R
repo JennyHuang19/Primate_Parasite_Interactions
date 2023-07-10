@@ -48,11 +48,12 @@ load(paste0(data_path, 'obs_X2.dat'))
 load(paste0(data_path, 'obs_F2.dat'))
 # load(paste0(data_path, 'obs_OB2.dat'))
 # load(paste0(data_path, 'obs_OP2.dat'))
-load(paste0(data_path, 'obs_OB2.1.dat'))
-load(paste0(data_path, 'obs_OP2.1.dat'))
+# load(paste0(data_path, 'obs_OB2.1.dat'))
+# load(paste0(data_path, 'obs_OP2.1.dat'))
 # load(paste0(data_path, 'obs_OB2.2.dat'))
 # load(paste0(data_path, 'obs_OP2.2.dat'))
-
+load(paste0(data_path, 'obs_OB2.3.dat'))
+load(paste0(data_path, 'obs_OP2.3.dat'))
 Cu <- Cu_phylo
 
 # Restricting to the birds with species information:
@@ -150,7 +151,7 @@ for (rr in 1  : repetitions) {
   set.seed(rr)
   
   # Running the trimResults method:
-  mcmc <- MCMC_trimResults(obs_A = use_A, focus = use_F, occur_B = obs_OB2.1, occur_P = obs_OP2.1,
+  mcmc <- MCMC_trimResults(obs_A = use_A, focus = use_F, occur_B = obs_OB2.3, occur_P = obs_OP2.3,
                            obs_X = obs_X2, obs_W = obs_W2, Cu = Cu, Cv = Cv,
                            Nsims = Nsims, burn = burn, thin = thin,
                            use_H = use_H, bias_cor = bias_cor,
@@ -163,10 +164,14 @@ for (rr in 1  : repetitions) {
                            sampling = sampling)
   
   # Saving the predictions:
+  # (may 8th) pred <- apply(mcmc$Ls, c(2, 3), mean)
+  # pred <- mcmc$pL1s_mean # we took the mean. # trimmed
+  
+  # Saving the predictions:
   pred <- apply(mcmc$Ls, c(2, 3), mean)
-  save(pred, file = paste0(save_path, 'pred.may.28.ob1_', rr, '.dat'))
+  save(pred, file = paste0(save_path, 'pred.may.28.ob3_', rr, '.dat'))
   rm(pred)
   
-  save(cv_indices, file = paste0(save_path, 'cv_indices.may.28.ob1_', rr, '.dat'))
+  save(cv_indices, file = paste0(save_path, 'cv_indices.may.28.ob3_', rr, '.dat'))
   rm(cv_indices)
 }
